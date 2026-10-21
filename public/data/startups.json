@@ -2,6 +2,19 @@
  "meta": {
   "last_updated": "2026-10-21",
   "count": 299,
+  "round_order": [
+   "pre-seed",
+   "seed",
+   "Series A",
+   "Series B",
+   "Series C",
+   "Series D",
+   "Series E+",
+   "Series C+ (unspecified)",
+   "public",
+   "acquired",
+   "unknown"
+  ],
   "note": "'unknown' means we could not find a source for that field; nothing is guessed."
  },
  "companies": [
@@ -61,7 +74,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "aaru",
@@ -110,7 +125,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "acctual",
@@ -155,7 +172,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "actively-ai",
@@ -257,7 +276,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "adaptive",
@@ -347,7 +368,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "adaptive-security",
@@ -429,7 +452,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "agentio",
@@ -531,7 +556,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "agentsmyth",
@@ -584,7 +611,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "agno",
@@ -633,7 +662,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "ai-work",
@@ -686,7 +717,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "acquired",
+   "round_name": null
   },
   {
    "id": "air-inc",
@@ -735,7 +768,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "aleph",
@@ -837,7 +872,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "allium",
@@ -931,7 +968,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "alta",
@@ -982,7 +1021,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "ambrook",
@@ -1086,7 +1127,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "anterior",
@@ -1152,7 +1195,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "antimetal",
@@ -1238,7 +1283,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "antioch",
@@ -1287,7 +1334,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "applied-labs",
@@ -1353,7 +1402,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "april-tax",
@@ -1458,7 +1509,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "arcol",
@@ -1503,7 +1556,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "arena-ai",
@@ -1548,7 +1603,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "array",
@@ -1642,7 +1699,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "arya-health",
@@ -1695,7 +1754,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "copilot",
@@ -1744,7 +1805,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "astral",
@@ -1789,7 +1852,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "attention",
@@ -1838,7 +1903,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "auctor",
@@ -1936,7 +2003,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "august",
@@ -2038,7 +2107,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "aui",
@@ -2091,7 +2162,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "autonomous",
@@ -2176,7 +2249,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "pre-seed",
+   "round_name": "Pre-Seed"
   },
   {
    "id": "baba",
@@ -2278,7 +2353,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "basic-capital",
@@ -2382,7 +2459,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "basis",
@@ -2480,7 +2559,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "basis-research",
@@ -2574,7 +2655,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "baton",
@@ -2636,7 +2719,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "beehiiv",
@@ -2689,7 +2774,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "betterment",
@@ -2741,7 +2828,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series E+",
+   "round_name": "Series F"
   },
   {
    "id": "bevel-health",
@@ -2813,7 +2902,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "birches-health",
@@ -2866,7 +2957,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "blocpower",
@@ -2922,7 +3015,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "bluefish",
@@ -3024,7 +3119,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "board",
@@ -3073,7 +3170,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "brightwave",
@@ -3122,7 +3221,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "brigit",
@@ -3174,7 +3275,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "acquired",
+   "round_name": null
   },
   {
    "id": "cake-ai",
@@ -3232,7 +3335,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "camber",
@@ -3334,7 +3439,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "cambio",
@@ -3418,7 +3525,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "campus",
@@ -3516,7 +3625,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "carry",
@@ -3571,7 +3682,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "cartwheel",
@@ -3624,7 +3737,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "centari",
@@ -3714,7 +3829,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "charm",
@@ -3759,7 +3876,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "chronograph",
@@ -3857,7 +3976,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "cinder",
@@ -3943,7 +4064,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "circle",
@@ -3992,7 +4115,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "clair",
@@ -4084,7 +4209,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "clay-hq",
@@ -4186,7 +4313,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series D",
+   "round_name": "Series D"
   },
   {
    "id": "clay",
@@ -4235,7 +4364,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "cleancapital",
@@ -4288,7 +4419,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "unknown",
+   "round_name": null
   },
   {
    "id": "clear-street",
@@ -4386,7 +4519,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "cloaked",
@@ -4488,7 +4623,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "coast",
@@ -4590,7 +4727,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "codex",
@@ -4643,7 +4782,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "concurrence",
@@ -4745,7 +4886,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "conduit-health",
@@ -4847,7 +4990,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "confido",
@@ -4949,7 +5094,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "continua-ai",
@@ -5000,7 +5147,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "copilot-money",
@@ -5069,7 +5218,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "coplane",
@@ -5122,7 +5273,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "corridor-advisors",
@@ -5196,7 +5349,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "cosmos",
@@ -5245,7 +5400,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "credal",
@@ -5315,7 +5472,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "crosby",
@@ -5417,7 +5576,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "crux",
@@ -5521,7 +5682,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "dash0",
@@ -5623,7 +5786,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "datalane",
@@ -5676,7 +5841,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "daydream",
@@ -5731,7 +5898,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "daylight",
@@ -5807,7 +5976,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "unknown",
+   "round_name": null
   },
   {
    "id": "daylight-security",
@@ -5860,7 +6031,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "didero-ai",
@@ -5938,7 +6111,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "dirac",
@@ -5991,7 +6166,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "doji",
@@ -6059,7 +6236,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "doorstep",
@@ -6112,7 +6291,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "draftwise",
@@ -6161,7 +6342,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "dualentry",
@@ -6263,7 +6446,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "dupe",
@@ -6310,7 +6495,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "ease",
@@ -6363,7 +6550,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "echo",
@@ -6416,7 +6605,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "edra-ai",
@@ -6518,7 +6709,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "ekho",
@@ -6584,7 +6777,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "ellevest",
@@ -6636,7 +6831,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "ellipsis-labs",
@@ -6734,7 +6931,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "endex",
@@ -6836,7 +7035,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "eon",
@@ -6938,7 +7139,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "equals",
@@ -6987,7 +7190,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "espresso-ai",
@@ -7041,7 +7246,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "esusu",
@@ -7093,7 +7300,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "euclid",
@@ -7153,7 +7362,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "extend-ai",
@@ -7239,7 +7450,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "fabrichealth",
@@ -7288,7 +7501,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "fauna-robotics",
@@ -7343,7 +7558,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "acquired",
+   "round_name": null
   },
   {
    "id": "fern-sdk",
@@ -7396,7 +7613,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "fin-payments",
@@ -7486,7 +7705,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "finchlegal",
@@ -7560,7 +7781,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "firsthand",
@@ -7618,7 +7841,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "fleet-ai",
@@ -7667,7 +7892,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "flint-k12",
@@ -7722,7 +7949,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "flora",
@@ -7794,7 +8023,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "flower-computer-co",
@@ -7839,7 +8070,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "pre-seed",
+   "round_name": "Pre-Seed"
   },
   {
    "id": "footprint",
@@ -7937,7 +8170,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "fora",
@@ -8035,7 +8270,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series D",
+   "round_name": "Series D"
   },
   {
    "id": "fortuna-health",
@@ -8108,7 +8345,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "forus",
@@ -8210,7 +8449,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "fragment",
@@ -8259,7 +8500,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "freckle",
@@ -8304,7 +8547,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "pre-seed",
+   "round_name": "Pre-Seed"
   },
   {
    "id": "fun",
@@ -8406,7 +8651,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "garage",
@@ -8500,7 +8747,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "general-intuition",
@@ -8602,7 +8851,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "ghost-foundation",
@@ -8647,7 +8898,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "good-start-labs",
@@ -8700,7 +8953,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "goodword",
@@ -8755,7 +9010,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "gotham-greens",
@@ -8807,7 +9064,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series E+",
+   "round_name": "Series E"
   },
   {
    "id": "grafana-labs",
@@ -8905,7 +9164,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series D",
+   "round_name": "Series D"
   },
   {
    "id": "graphite",
@@ -8958,7 +9219,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "acquired",
+   "round_name": null
   },
   {
    "id": "graza",
@@ -9003,7 +9266,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "greenlite-permitting",
@@ -9099,7 +9364,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "grottoai",
@@ -9165,7 +9432,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "hanover-park",
@@ -9263,7 +9532,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "hebbia",
@@ -9365,7 +9636,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "henry-ai",
@@ -9418,7 +9691,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "hera",
@@ -9520,7 +9795,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "highstock",
@@ -9569,7 +9846,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "honeyhive",
@@ -9622,7 +9901,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "hugging-face",
@@ -9671,7 +9952,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series D",
+   "round_name": "Series D"
   },
   {
    "id": "hume-ai",
@@ -9747,7 +10030,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "imprint",
@@ -9849,7 +10134,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series D",
+   "round_name": "Series D"
   },
   {
    "id": "infinite-machine",
@@ -9905,7 +10192,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "inhouse",
@@ -9950,7 +10239,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "instalily-ai",
@@ -10052,7 +10343,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "itselectric",
@@ -10104,7 +10397,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "junction-healthcare",
@@ -10194,7 +10489,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "kaizen",
@@ -10298,7 +10595,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "keychain",
@@ -10347,7 +10646,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "kingdom-supercultures",
@@ -10409,7 +10710,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "landis",
@@ -10461,7 +10764,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "lavender",
@@ -10510,7 +10815,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "levels",
@@ -10555,7 +10862,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "linkup",
@@ -10649,7 +10958,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "linx-security",
@@ -10698,7 +11009,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "lithic",
@@ -10792,7 +11105,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "lore-bathing-club",
@@ -10837,7 +11152,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "unknown",
+   "round_name": null
   },
   {
    "id": "lunos",
@@ -10890,7 +11207,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "pre-seed",
+   "round_name": "Pre-Seed"
   },
   {
    "id": "m0",
@@ -10948,7 +11267,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "manifest-os",
@@ -11050,7 +11371,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "mantis-biotech",
@@ -11099,7 +11422,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "marble-health",
@@ -11197,7 +11522,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "mark43",
@@ -11248,7 +11575,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series E+",
+   "round_name": "Series E"
   },
   {
    "id": "maybern",
@@ -11346,7 +11675,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "mecka",
@@ -11448,7 +11779,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "melius",
@@ -11526,7 +11859,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "meow",
@@ -11571,7 +11906,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "mirage",
@@ -11675,7 +12012,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "miso",
@@ -11726,7 +12065,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "pre-seed",
+   "round_name": "Pre-Seed"
   },
   {
    "id": "modal",
@@ -11828,7 +12169,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series D",
+   "round_name": "Series D"
   },
   {
    "id": "model-ml",
@@ -11877,7 +12220,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "moment",
@@ -11979,7 +12324,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "monk-finance",
@@ -12081,7 +12428,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "monumental-labs",
@@ -12126,7 +12475,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "multiplier-ai",
@@ -12179,7 +12530,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "mura",
@@ -12232,7 +12585,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "mymind",
@@ -12279,7 +12634,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "narmi",
@@ -12330,7 +12687,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "navattic",
@@ -12379,7 +12738,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "nevis",
@@ -12481,7 +12842,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "ninedot-energy",
@@ -12533,7 +12896,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "unknown",
+   "round_name": null
   },
   {
    "id": "niteshift",
@@ -12582,7 +12947,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "noetica",
@@ -12631,7 +12998,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "noma-security",
@@ -12684,7 +13053,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "nomic-ai",
@@ -12770,7 +13141,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "norm-ai",
@@ -12868,7 +13241,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "normal",
@@ -12970,7 +13345,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "north-cloud",
@@ -13019,7 +13396,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "notch-cx",
@@ -13072,7 +13451,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "nourish",
@@ -13174,7 +13555,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "oboe",
@@ -13229,7 +13612,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "ocean-email",
@@ -13282,7 +13667,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "offdeal",
@@ -13356,7 +13743,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "onyx-security",
@@ -13409,7 +13798,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "opal-security",
@@ -13507,7 +13898,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "optura",
@@ -13556,7 +13949,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "ornn",
@@ -13609,7 +14004,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "oro",
@@ -13654,7 +14051,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "osmo-ai",
@@ -13756,7 +14155,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "outtake",
@@ -13858,7 +14259,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "overtone",
@@ -13903,7 +14306,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "pre-seed",
+   "round_name": "Pre-Seed"
   },
   {
    "id": "pacagen",
@@ -13952,7 +14357,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "pace",
@@ -14054,7 +14461,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "padel-haus",
@@ -14107,7 +14516,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "parable",
@@ -14160,7 +14571,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "partiful",
@@ -14246,7 +14659,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "payman",
@@ -14295,7 +14710,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "permitflow",
@@ -14399,7 +14816,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "phia",
@@ -14459,7 +14878,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "pindotcom",
@@ -14504,7 +14925,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "pinecone",
@@ -14578,7 +15001,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "pinwheel",
@@ -14642,7 +15067,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "plural",
@@ -14695,7 +15122,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "pogo",
@@ -14789,7 +15218,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "polimorphic",
@@ -14846,7 +15277,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "popcorn",
@@ -14895,7 +15328,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "posh",
@@ -14993,7 +15428,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "privy",
@@ -15038,7 +15475,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "profound",
@@ -15140,7 +15579,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series D",
+   "round_name": "Series D"
   },
   {
    "id": "propel",
@@ -15197,7 +15638,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "prosper-ai",
@@ -15295,7 +15738,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "radical-ai",
@@ -15348,7 +15793,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "rain-xyz",
@@ -15450,7 +15897,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "rally",
@@ -15503,7 +15952,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "reflection",
@@ -15605,7 +16056,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "revel",
@@ -15657,7 +16110,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "unknown",
+   "round_name": null
   },
   {
    "id": "rho",
@@ -15755,7 +16210,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "roam",
@@ -15804,7 +16261,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "rodeo-friends",
@@ -15851,7 +16310,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "rogo",
@@ -15953,7 +16414,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series D",
+   "round_name": "Series D"
   },
   {
    "id": "rove",
@@ -16002,7 +16465,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "pre-seed",
+   "round_name": "Pre-Seed"
   },
   {
    "id": "runlayer",
@@ -16104,7 +16569,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "runwayml",
@@ -16172,7 +16639,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series D",
+   "round_name": "Series D"
   },
   {
    "id": "rutter",
@@ -16221,7 +16690,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "sandbar",
@@ -16321,7 +16792,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "sandstone",
@@ -16415,7 +16888,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "sapien",
@@ -16513,7 +16988,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "savvy-wealth",
@@ -16615,7 +17092,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "sealed",
@@ -16667,7 +17146,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "sent",
@@ -16769,7 +17250,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "sequence",
@@ -16822,7 +17305,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "acquired",
+   "round_name": null
   },
   {
    "id": "series-so",
@@ -16869,7 +17354,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "pre-seed",
+   "round_name": "Pre-Seed"
   },
   {
    "id": "sesame",
@@ -16918,7 +17405,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "shaped",
@@ -16967,7 +17456,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "shopmy",
@@ -17069,7 +17560,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "shortcut",
@@ -17118,7 +17611,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "siena-ai",
@@ -17220,7 +17715,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "silna",
@@ -17318,7 +17815,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "simulate",
@@ -17363,7 +17862,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "slingshot-ai",
@@ -17435,7 +17936,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "sola-ai",
@@ -17513,7 +18016,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "sourmilk",
@@ -17558,7 +18063,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "spade",
@@ -17660,7 +18167,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "spruceid",
@@ -17732,7 +18241,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "spur",
@@ -17785,7 +18296,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "stainless",
@@ -17838,7 +18351,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "acquired",
+   "round_name": null
   },
   {
    "id": "starbridge",
@@ -17938,7 +18453,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "stash",
@@ -17991,7 +18508,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series E+",
+   "round_name": "Series H"
   },
   {
    "id": "stedi",
@@ -18093,7 +18612,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "strella",
@@ -18175,7 +18696,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "structify-ai",
@@ -18228,7 +18751,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "stuut",
@@ -18326,7 +18851,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "sunset",
@@ -18420,7 +18947,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "superblocks",
@@ -18473,7 +19002,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "superhi",
@@ -18518,7 +19049,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "supper",
@@ -18571,7 +19104,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "tabs",
@@ -18673,7 +19208,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "taktile",
@@ -18775,7 +19312,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "tavily",
@@ -18828,7 +19367,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "acquired",
+   "round_name": null
   },
   {
    "id": "taxwire",
@@ -18881,7 +19422,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "tennr",
@@ -18979,7 +19522,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "tensorzero",
@@ -19028,7 +19573,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "textql",
@@ -19081,7 +19628,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "the-general-intelligence-company",
@@ -19134,7 +19683,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "the-sentience-company",
@@ -19183,7 +19734,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "theo",
@@ -19236,7 +19789,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "thread-ai",
@@ -19338,7 +19893,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "timescale",
@@ -19436,7 +19993,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "tollbit",
@@ -19490,7 +20049,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "torq",
@@ -19592,7 +20153,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series D",
+   "round_name": "Series D"
   },
   {
    "id": "trullion",
@@ -19641,7 +20204,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "turnkey",
@@ -19715,7 +20280,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "unit",
@@ -19769,7 +20336,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "valon-ai",
@@ -19871,7 +20440,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series D",
+   "round_name": "Series D"
   },
   {
    "id": "valthos",
@@ -19957,7 +20528,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "vantage",
@@ -20027,7 +20600,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "vega",
@@ -20080,7 +20655,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "vellum-ai",
@@ -20131,7 +20708,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "veris-ai",
@@ -20184,7 +20763,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "verse",
@@ -20278,7 +20859,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "via",
@@ -20331,7 +20914,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "public",
+   "round_name": null
   },
   {
    "id": "viam",
@@ -20413,7 +20998,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series C",
+   "round_name": "Series C"
   },
   {
    "id": "vibe",
@@ -20466,7 +21053,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "acquired",
+   "round_name": null
   },
   {
    "id": "voiceops",
@@ -20515,7 +21104,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "voltpost",
@@ -20567,7 +21158,9 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "warp",
@@ -20633,7 +21226,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "warp-hr",
@@ -20735,7 +21330,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "whop",
@@ -20788,7 +21385,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series D",
+   "round_name": "Series D"
   },
   {
    "id": "wingspan",
@@ -20842,7 +21441,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "withcoverage",
@@ -20944,7 +21545,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "wrapbook",
@@ -21042,7 +21645,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "yuzu",
@@ -21095,7 +21700,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "zenlytic",
@@ -21144,7 +21751,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "zo-computer",
@@ -21195,7 +21804,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-21"
+   "last_verified": "2026-10-21",
+   "round": "seed",
+   "round_name": "Seed"
   }
  ]
 }

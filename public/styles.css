@@ -144,3 +144,7 @@ section h2{font:600 19px var(--serif);margin:26px 0 10px}
 .table td.cn{min-width:260px;width:42%}
 .table td.cn small{display:block;margin-top:2px}
 @media (max-width:560px){.table td.cn{min-width:0;width:auto}}
+.roundbar{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:16px;padding:10px 12px;background:var(--card);border:1px solid var(--line);border-radius:12px}
+.roundbar .rb-title{font:11px var(--mono);text-transform:uppercase;letter-spacing:.07em;color:var(--muted);margin-right:4px}
+.roundbar .chip{text-decoration:none}
+.roundbar .chip.zero{opacity:.45}

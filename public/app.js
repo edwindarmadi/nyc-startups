@@ -3,6 +3,20 @@
 const FOCUS = {climate:'Climate & energy', fair_finance:'Fair finance & access', civic:'Civic & gov tech', ai_everyday:'AI for everyday people'};
 const STAGES = ['pre-seed','seed','Series A','Series B','Series C+','public','acquired','unknown'];
 const STAGE_RANK = Object.fromEntries(STAGES.map((s,i)=>[s,i]));
+const ROUNDS = ['pre-seed','seed','Series A','Series B','Series C','Series D','Series E+','Series C+ (unspecified)','public','acquired','unknown'];
+const ROUND_LABEL = {'pre-seed':'Pre-seed','seed':'Seed','public':'Public','acquired':'Acquired','unknown':'Unknown'};
+const rl = r => ROUND_LABEL[r] || r;
+const ROUND_RANK = Object.fromEntries(ROUNDS.map((s,i)=>[s,i]));
+// round chip bar; items: array with .round; sel: selected array; hrefFor(newSel) -> hash
+function roundBar(items, sel, hrefFor, title) {
+  const cnt = r => items.filter(x => x.round === r).length;
+  const opts = ROUNDS.filter(r => r !== 'Series C+ (unspecified)' || cnt(r) > 0);
+  const toggle = r => sel.includes(r) ? sel.filter(x => x !== r) : [...sel, r];
+  return `<div class="roundbar" role="group" aria-label="${esc(title)}"><span class="rb-title">${esc(title)}</span>
+    <a class="chip ${sel.length ? '' : 'on'}" href="${hrefFor([])}">All rounds<span class="n">${items.length}</span></a>
+    ${opts.map(r => `<a class="chip ${sel.includes(r) ? 'on' : ''} ${cnt(r) ? '' : 'zero'}" data-round="${esc(r)}" href="${hrefFor(toggle(r))}">${esc(rl(r))}<span class="n">${cnt(r)}</span></a>`).join('')}
+  </div>`;
+}
 let DB = null, NEWS = null, BY_ID = {};
 const $app = document.getElementById('app');
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -10,7 +24,7 @@ const host = u => { try { return new URL(u).hostname.replace(/^www\./,''); } cat
 const fmtDate = d => { if (!d || d === 'unknown') return 'unknown'; const p = d.split('-'); const dt = new Date(Date.UTC(+p[0], (+p[1]||1)-1, +p[2]||1)); return dt.toLocaleDateString('en-US', {month:'short', day: p[2] ? 'numeric' : undefined, year:'numeric', timeZone:'UTC'}); };
 const isUnknown = v => !v || v === 'unknown';
 const logo = (c, big) => { const h = host(c.website); const ini = esc((c.name||'?').trim()[0]); return h ? `<span class="logo"><img loading="lazy" alt="" src="https://www.google.com/s2/favicons?domain=${encodeURIComponent(h)}&sz=${big?128:64}" onerror="this.parentNode.textContent='${ini}'"></span>` : `<span class="logo">${ini}</span>`; };
-const stageTag = s => `<span class="tag ${s==='unknown'?'unknown':'stage'}">${esc(s==='unknown'?'stage unknown':s)}</span>`;
+const stageTag = s => `<span class="tag ${s==='unknown'?'unknown':'stage'}">${esc(s==='unknown'?'round unknown':rl(s))}</span>`;
 const focusTags = f => (f||[]).map(t => `<span class="tag f-${t}">${esc(FOCUS[t])}</span>`).join('');
 
 async function load() {
@@ -31,19 +45,24 @@ function setTab(t) { document.querySelectorAll('#tabs a').forEach(a => a.classLi
 function renderNews(q) {
   setTab('news');
   const type = q.get('type') || 'all';
-  const items = NEWS.filter(n => type === 'all' || n.type === type);
+  const rsel = q.getAll('round');
+  const byType = NEWS.filter(n => type === 'all' || n.type === type);
+  const items = byType.filter(n => !rsel.length || rsel.includes(n.round));
+  const newsHash = (t, rs) => { const p = new URLSearchParams(); if (t !== 'all') p.set('type', t); rs.forEach(r => p.append('round', r)); const x = p.toString(); return '#/' + (x ? '?' + x : ''); };
   const types = ['all', ...new Set(NEWS.map(n=>n.type))];
   const counts = t => t==='all' ? NEWS.length : NEWS.filter(n=>n.type===t).length;
-  let html = `<div class="hero"><h1>What's happening in NYC startups</h1><p>Funding rounds, launches and acquisitions from New York City companies — every item links to its source. Click any story for the company's stage, links and open roles.</p>
-  <div class="feedfilters">${types.map(t=>`<a class="chip ${t===type?'on':''}" href="#/${t==='all'?'':'?type='+t}" style="text-decoration:none">${esc(t==='all'?'All news':t[0].toUpperCase()+t.slice(1))}<span class="n">${counts(t)}</span></a>`).join('')}</div></div>
+  let html = `<div class="hero"><h1>What's happening in NYC startups</h1><p>Funding rounds, launches and acquisitions from New York City companies — every item links to its source. Click any story for the company's round, links and open roles.</p>
+  <div class="feedfilters">${types.map(t=>`<a class="chip ${t===type?'on':''}" href="${newsHash(t, rsel)}" style="text-decoration:none">${esc(t==='all'?'All news':t[0].toUpperCase()+t.slice(1))}<span class="n">${counts(t)}</span></a>`).join('')}</div>
+  ${roundBar(byType, rsel, rs => newsHash(type, rs), 'Round')}</div>
   <div class="newsgrid"><div class="feed">`;
   let lastMonth = '';
   for (const n of items.slice(0, 200)) {
     const c = BY_ID[n.startup_id]; if (!c) continue;
     const m = n.date ? fmtDate(n.date.slice(0,7)) : 'Undated';
     if (m !== lastMonth) { html += `<div class="day">${esc(m)}</div>`; lastMonth = m; }
-    html += `<a class="item" href="#/c/${esc(c.id)}">${logo(c)}<div><h3>${esc(n.headline)}</h3><p>${esc(fmtDate(n.date))} · ${esc(n.summary || c.description)}</p></div><span class="kind ${esc(n.type)}">${esc(n.type)}</span></a>`;
+    html += `<a class="item" href="#/c/${esc(c.id)}">${logo(c)}<div><h3>${esc(n.headline)}</h3><p>${esc(fmtDate(n.date))} · ${esc(n.summary || c.description)}</p></div><span class="kind ${esc(n.type)}">${esc(n.type==='funding' && n.round && n.round!=='unknown' ? rl(n.round) : n.type)}</span></a>`;
   }
+  if (!items.length) html += `<div class="empty">No news for this round yet. <a href="${newsHash(type, [])}">Show all rounds</a></div>`;
   if (items.length > 200) html += `<p class="count">Showing the latest 200 of ${items.length}.</p>`;
   html += `</div><aside class="side">${sidePanels()}</aside></div>`;
   $app.innerHTML = html;
@@ -51,22 +70,22 @@ function renderNews(q) {
 function sidePanels() {
   const cs = DB.companies;
   const f = Object.keys(FOCUS).map(k => `<li><a href="#/companies?focus=${k}">${esc(FOCUS[k])}</a><span>${cs.filter(c=>c.focus.includes(k)).length}</span></li>`).join('');
-  const st = STAGES.map(s => `<li><a href="#/companies?stage=${encodeURIComponent(s)}">${esc(s)}</a><span>${cs.filter(c=>c.stage===s).length}</span></li>`).join('');
+  const st = ROUNDS.filter(r => r !== 'Series C+ (unspecified)' || cs.some(c=>c.round===r)).map(s => `<li><a href="#/companies?round=${encodeURIComponent(s)}">${esc(rl(s))}</a><span>${cs.filter(c=>c.round===s).length}</span></li>`).join('');
   const hiring = cs.filter(c=>c.hiring).length;
   return `<div class="panel"><h4>Focus areas</h4><ul>${f}</ul></div>
   <div class="panel"><h4>Hiring now</h4><p style="margin:0 0 10px;color:var(--muted);font-size:14px">${hiring} companies have open roles listed.</p><a class="btn" href="#/companies?hiring=1">Browse hiring companies →</a></div>
-  <div class="panel"><h4>By stage</h4><ul>${st}</ul></div>`;
+  <div class="panel"><h4>By round</h4><ul>${st}</ul></div>`;
 }
 
 /* ---------- DIRECTORY ---------- */
 function getState(q) {
-  return { s: q.get('s') || '', sector: q.getAll('sector'), stage: q.getAll('stage'), focus: q.getAll('focus'),
+  return { s: q.get('s') || '', sector: q.getAll('sector'), round: [...q.getAll('round'), ...q.getAll('stage').flatMap(x => x === 'Series C+' ? ['Series C','Series D','Series E+','Series C+ (unspecified)'] : [x])], focus: q.getAll('focus'),
     hiring: q.get('hiring') === '1', careers: q.get('careers') === '1', sort: q.get('sort') || 'recent', view: q.get('view') || 'cards' };
 }
 function stateToHash(st) {
   const p = new URLSearchParams();
   if (st.s) p.set('s', st.s);
-  st.sector.forEach(v=>p.append('sector', v)); st.stage.forEach(v=>p.append('stage', v)); st.focus.forEach(v=>p.append('focus', v));
+  st.sector.forEach(v=>p.append('sector', v)); st.round.forEach(v=>p.append('round', v)); st.focus.forEach(v=>p.append('focus', v));
   if (st.hiring) p.set('hiring','1'); if (st.careers) p.set('careers','1');
   if (st.sort !== 'recent') p.set('sort', st.sort); if (st.view !== 'cards') p.set('view', st.view);
   const s = p.toString(); return '#/companies' + (s ? '?' + s : '');
@@ -76,7 +95,7 @@ function filterList(st) {
   let list = DB.companies.filter(c =>
     words.every(w => c._q.includes(w)) &&
     (!st.sector.length || c.sectors.some(x => st.sector.includes(x))) &&
-    (!st.stage.length || st.stage.includes(c.stage)) &&
+    (!st.round.length || st.round.includes(c.round)) &&
     (!st.focus.length || st.focus.every(f => c.focus.includes(f))) &&
     (!st.hiring || c.hiring) && (!st.careers || !!c.careers_url));
   const d = c => isUnknown(c.last_round.date) ? '' : c.last_round.date;
@@ -85,27 +104,26 @@ function filterList(st) {
     oldest: (a,b) => (d(a)||'9').localeCompare(d(b)||'9') || a.name.localeCompare(b.name),
     name: (a,b) => a.name.localeCompare(b.name),
     'name-desc': (a,b) => b.name.localeCompare(a.name),
-    stage: (a,b) => STAGE_RANK[a.stage]-STAGE_RANK[b.stage] || a.name.localeCompare(b.name),
-    'stage-desc': (a,b) => (a.stage==='unknown')-(b.stage==='unknown') || STAGE_RANK[b.stage]-STAGE_RANK[a.stage] || a.name.localeCompare(b.name),
+    stage: (a,b) => ROUND_RANK[a.round]-ROUND_RANK[b.round] || a.name.localeCompare(b.name),
+    'stage-desc': (a,b) => (a.round==='unknown')-(b.round==='unknown') || ROUND_RANK[b.round]-ROUND_RANK[a.round] || a.name.localeCompare(b.name),
   };
   return list.sort(sorters[st.sort] || sorters.recent);
 }
 let currentState = null;
 function renderDir(q, keepFocus) {
   const st = getState(q); currentState = st;
-  setTab(st.hiring && !st.s && !st.sector.length && !st.stage.length && !st.focus.length ? 'hiring' : 'companies');
+  setTab(st.hiring && !st.s && !st.sector.length && !st.round.length && !st.focus.length ? 'hiring' : 'companies');
   const all = DB.companies;
   const sectors = [...new Set(all.flatMap(c=>c.sectors))].sort((a,b)=> all.filter(c=>c.sectors.includes(b)).length - all.filter(c=>c.sectors.includes(a)).length);
   const chip = (group, val, label, n) => `<button class="chip ${st[group].includes(val)?'on':''}" data-g="${group}" data-v="${esc(val)}">${esc(label)}<span class="n">${n}</span></button>`;
-  const head = st.hiring ? `<h1>Who's hiring in NYC</h1><p>Companies with open roles listed. Careers links go straight to each company's job board.</p>` : `<h1>Browse NYC startups</h1><p>Search by name or what they do, then narrow by sector, stage, focus area or hiring status. Click a card for sources and details.</p>`;
-  $app.innerHTML = `<div class="hero">${head}</div>
+  const head = st.hiring ? `<h1>Who's hiring in NYC</h1><p>Companies with open roles listed. Careers links go straight to each company's job board.</p>` : `<h1>Browse NYC startups</h1><p>Search by name or what they do, then narrow by funding round, sector, focus area or hiring status. Click a card for sources and details.</p>`;
+  $app.innerHTML = `<div class="hero">${head}<div id="rbar"></div></div>
   <div class="dir">
     <aside class="filters" id="filters">
       <div class="fgroup"><h5>Focus areas</h5><div class="chips">${Object.keys(FOCUS).map(k=>chip('focus',k,FOCUS[k],all.filter(c=>c.focus.includes(k)).length)).join('')}</div></div>
       <div class="fgroup"><h5>Jobs</h5>
         <label class="toggle"><input type="checkbox" id="hiring" ${st.hiring?'checked':''}> Hiring now (roles listed)</label>
         <label class="toggle"><input type="checkbox" id="careers" ${st.careers?'checked':''}> Has careers link</label></div>
-      <div class="fgroup"><h5>Stage</h5><div class="chips">${STAGES.map(s=>chip('stage',s,s,all.filter(c=>c.stage===s).length)).join('')}</div></div>
       <div class="fgroup"><h5>Sector</h5><div class="chips">${sectors.map(s=>chip('sector',s,s,all.filter(c=>c.sectors.includes(s)).length)).join('')}</div></div>
       <button class="btn ghost" id="clear">Clear all filters</button>
     </aside>
@@ -143,13 +161,23 @@ function renderDir(q, keepFocus) {
 }
 function renderResults(st) {
   const list = filterList(st);
+  const base = filterList({...st, round: []});
+  const rb = document.getElementById('rbar');
+  if (rb) {
+    rb.innerHTML = roundBar(base, st.round, rs => stateToHash({...st, round: rs}), 'Funding round');
+    rb.querySelectorAll('a.chip').forEach(a => a.addEventListener('click', e => {
+      e.preventDefault(); const r = a.dataset.round;
+      if (!r) currentState.round = []; else { const i = currentState.round.indexOf(r); if (i >= 0) currentState.round.splice(i, 1); else currentState.round.push(r); }
+      history.replaceState(null, '', stateToHash(currentState)); renderResults(currentState);
+    }));
+  }
   const el = document.getElementById('results');
   let html = `<p class="count">${list.length} of ${DB.companies.length} companies</p>`;
   if (!list.length) { el.innerHTML = html + `<div class="empty">No companies match. Try removing a filter.</div>`; return; }
   if (st.view === 'list') {
-    html += `<table class="table"><thead><tr><th>Company</th><th class="hide-s">Sector</th><th>Stage</th><th class="hide-s">Last round</th><th class="hide-s">Headcount</th><th>Links</th></tr></thead><tbody>` +
+    html += `<table class="table"><thead><tr><th>Company</th><th class="hide-s">Sector</th><th>Round</th><th class="hide-s">Last round</th><th class="hide-s">Headcount</th><th>Links</th></tr></thead><tbody>` +
       list.map(c => `<tr><td class="cn"><a class="nm" href="#/c/${esc(c.id)}">${esc(c.name)}</a><br><small style="color:var(--muted)">${esc(c.description)}</small></td>
-      <td class="hide-s">${esc(c.sectors.join(', '))}</td><td>${stageTag(c.stage)}</td>
+      <td class="hide-s">${esc(c.sectors.join(', '))}</td><td>${stageTag(c.round)}${c.round_name && c.round_name !== c.round && c.round==='Series E+' ? `<br><small style="color:var(--muted)">${esc(c.round_name)}</small>` : ''}</td>
       <td class="hide-s">${esc(c.last_round.amount)}<br><small style="color:var(--muted)">${esc(fmtDate(c.last_round.date))}</small></td>
       <td class="hide-s">${esc(c.headcount)}</td>
       <td class="src">${c.careers_url?`<a href="${esc(c.careers_url)}" target="_blank" rel="noopener">careers</a>`:''}${c.sources.map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener nofollow">${esc(s.label.split(' ')[0].toLowerCase())}</a>`).join('')}</td></tr>`).join('') + `</tbody></table>`;
@@ -157,7 +185,7 @@ function renderResults(st) {
     html += `<div class="grid">` + list.map(c => `<a class="card" href="#/c/${esc(c.id)}">
       <div class="head">${logo(c)}<div><h3>${esc(c.name)}</h3><div class="sub">${esc(c.sectors.join(' · '))}${isUnknown(c.last_round.date)?'':' · raised '+esc(fmtDate(c.last_round.date))}</div></div></div>
       <p>${esc(c.description)}</p>
-      <div class="meta">${stageTag(c.stage)}${c.hiring?'<span class="tag hiring">hiring</span>':''}${focusTags(c.focus)}</div></a>`).join('') + `</div>`;
+      <div class="meta">${stageTag(c.round)}${c.hiring?'<span class="tag hiring">hiring</span>':''}${focusTags(c.focus)}</div></a>`).join('') + `</div>`;
   }
   el.innerHTML = html;
 }
@@ -174,12 +202,12 @@ function renderCompany(id) {
   const lrSrc = lr.source ? `source: <a href="${esc(lr.source)}" target="_blank" rel="noopener nofollow">${esc(host(lr.source))}</a>` : '';
   $app.innerHTML = `<a class="back" href="javascript:history.length>1?history.back():location.assign('#/companies')">← Back</a>
   <div class="dhead">${logo(c, true)}<div><h1>${esc(c.name)}</h1><p>${esc(c.description)}</p>
-    <div class="meta" style="display:flex;gap:6px;flex-wrap:wrap;margin-top:10px">${stageTag(c.stage)}${c.sectors.map(s=>`<a class="tag" href="#/companies?sector=${encodeURIComponent(s)}" style="text-decoration:none">${esc(s)}</a>`).join('')}${c.hiring?'<span class="tag hiring">hiring</span>':''}${focusTags(c.focus)}</div>
+    <div class="meta" style="display:flex;gap:6px;flex-wrap:wrap;margin-top:10px"><a href="#/companies?round=${encodeURIComponent(c.round)}" style="text-decoration:none">${stageTag(c.round)}</a>${c.sectors.map(s=>`<a class="tag" href="#/companies?sector=${encodeURIComponent(s)}" style="text-decoration:none">${esc(s)}</a>`).join('')}${c.hiring?'<span class="tag hiring">hiring</span>':''}${focusTags(c.focus)}</div>
     <div class="actions">${c.careers_url?`<a class="btn" href="${esc(c.careers_url)}" target="_blank" rel="noopener">View open roles ↗</a>`:''}${c.website?`<a class="btn ghost" href="${esc(c.website)}" target="_blank" rel="noopener">${esc(host(c.website))} ↗</a>`:''}</div>
   </div></div>
   <div class="dgrid"><div>
     <div class="facts">
-      ${fact('Stage', c.stage === 'unknown' ? 'unknown' : c.stage + (c.stage_detail && !c.stage_detail.startsWith(c.stage) && c.stage!=='acquired' ? ` (${c.stage_detail})` : ''), c.acquired_by ? `acquired by ${esc(c.acquired_by)}` : (c.stage==='unknown' && c.stage_detail ? `listed as “${esc(c.stage_detail)}” on startups.gallery` : ''))}
+      ${fact('Round', c.round === 'unknown' ? 'unknown' : (c.round_name || rl(c.round)), c.acquired_by ? `acquired by ${esc(c.acquired_by)}` : (c.stage==='unknown' && c.stage_detail ? `listed as “${esc(c.stage_detail)}” on startups.gallery` : ''))}
       ${fact('Last round', isUnknown(lr.amount) ? 'unknown' : lr.amount + (/^(\$[\d.,]+[KMB]?|undisclosed)$/i.test(lr.amount) && lr.stage && !isUnknown(lr.stage) ? ' ' + lr.stage : ''), lrSrc)}
       ${fact('Round date', fmtDate(lr.date))}
       ${fact('Headcount', c.headcount, c.headcount_source && !isUnknown(c.headcount) ? 'per ' + esc(c.headcount_source) : '')}
@@ -201,13 +229,13 @@ function similar(c) {
   const sim = DB.companies.filter(x => x.id !== c.id && (x.focus.some(f=>c.focus.includes(f)) || x.sectors.some(s=>c.sectors.includes(s)))).slice(0, 200)
     .sort((a,b)=> (b.focus.filter(f=>c.focus.includes(f)).length - a.focus.filter(f=>c.focus.includes(f)).length) || ((b.last_round.date||'').localeCompare(a.last_round.date||''))).slice(0, 6);
   if (!sim.length) return '';
-  return `<div class="panel"><h4>Similar companies</h4><ul>${sim.map(x=>`<li><a href="#/c/${esc(x.id)}">${esc(x.name)}</a><span class="tag ${x.stage==='unknown'?'unknown':''}">${esc(x.stage)}</span></li>`).join('')}</ul></div>`;
+  return `<div class="panel"><h4>Similar companies</h4><ul>${sim.map(x=>`<li><a href="#/c/${esc(x.id)}">${esc(x.name)}</a><span class="tag ${x.round==='unknown'?'unknown':''}">${esc(rl(x.round))}</span></li>`).join('')}</ul></div>`;
 }
 
 /* ---------- ABOUT ---------- */
 function renderAbout() {
   setTab('about');
-  const cs = DB.companies, known = cs.filter(c=>c.stage!=='unknown').length;
+  const cs = DB.companies, known = cs.filter(c=>c.round!=='unknown').length;
   $app.innerHTML = `<div class="hero"><h1>About this index</h1></div><div class="prose">
   <p>A directory of startups headquartered or primarily based in New York City (all five boroughs), built for browsing who's building what — and who's hiring.</p>
   <h2>Rules</h2><ul>
@@ -215,7 +243,7 @@ function renderAbout() {
   <li><b>Every company links to at least one source</b>: its startups.gallery profile, website, LinkedIn page and/or a funding announcement.</li>
   <li><b>NYC only.</b> HQ is checked against the LinkedIn company page where available (otherwise startups.gallery's location or a press source). Companies whose HQ is elsewhere are excluded.</li>
   <li><b>News items</b> are real funding announcements, launches or acquisitions, each with its source link.</li></ul>
-  <h2>Coverage</h2><p>${cs.length} companies · ${known} with a known stage · ${cs.length-known} unknown · ${NEWS.length} news items.</p>
+  <h2>Coverage</h2><p>${cs.length} companies · ${known} with a known round · ${cs.length-known} unknown · ${NEWS.length} news items.</p>
   <p>Focus areas: ${Object.keys(FOCUS).map(k=>`${esc(FOCUS[k])} (${cs.filter(c=>c.focus.includes(k)).length})`).join(' · ')}.</p>
   <h2>Data</h2><p>Raw data: <a href="/data/startups.json">startups.json</a> · <a href="/data/news.json">news.json</a>. Last updated ${esc(fmtDate(DB.meta.last_updated))}.</p></div>`;
 }

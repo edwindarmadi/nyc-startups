@@ -29,6 +29,11 @@ Live site: see README.md. Everything is static: `public/` is served as-is by Ver
   (incl. NY State towns like Mount Kisco) the build drops it automatically. If there's no LinkedIn data, a manual entry
   needs `hq_hint` + `hq_hint_url` (a press source saying "Brooklyn-based" etc.), otherwise it's dropped.
 - Stage enum: `pre-seed, seed, Series A, Series B, Series C+, public, acquired, unknown`.
+- `round` (what the site filters on, URL param `round=`) is derived in `build_data.py` (`round_of`) from the sourced round name:
+  `pre-seed, seed, Series A, Series B, Series C, Series D, Series E+ (E/F/G/H…), Series C+ (unspecified), public, acquired, unknown`.
+  A letter is assigned only if the source names it (`round_name` keeps the exact name, e.g. "Series H"). A late-stage round with no
+  letter goes to `Series C+ (unspecified)`; "Venture"/debt/undisclosed-type rounds go to `unknown`. News items get `round` the same way
+  from their headline. Shareable URLs: `#/companies?round=Series%20A&round=seed&focus=climate`, `#/?round=Series%20B`.
 
 ## Full refresh (recurring run)
 

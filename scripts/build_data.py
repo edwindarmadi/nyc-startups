@@ -44,6 +44,23 @@ def stage_enum(raw):
     if 'public' in r or 'ipo' in r: return 'public'
     return 'unknown'
 
+ROUND_ORDER = ['pre-seed', 'seed', 'Series A', 'Series B', 'Series C', 'Series D', 'Series E+', 'Series C+ (unspecified)', 'public', 'acquired', 'unknown']
+def round_of(text, stage):
+    """Fine-grained round bucket. Only uses a series letter when the sourced round name contains one."""
+    if stage in ('acquired', 'public'): return stage, None
+    t = text or ''
+    m = re.search(r'\bSeries ([A-Z])\b', t)
+    if m:
+        L = m.group(1); name = f'Series {L}'
+        if L in 'AB': return name, name
+        if L in 'CD': return name, name
+        return 'Series E+', name
+    if re.search(r'pre-?seed', t, re.I): return 'pre-seed', 'Pre-Seed'
+    if re.search(r'\bseed\b', t, re.I): return 'seed', 'Seed'
+    if stage == 'Series C+': return 'Series C+ (unspecified)', None
+    if stage in ('pre-seed', 'seed', 'Series A', 'Series B'): return stage, None
+    return 'unknown', None
+
 def one_liner(about, tagline):
     if about:
         first = re.split(r'(?<=[.!?])\s+', about.strip())[0]
@@ -164,6 +181,16 @@ def main():
         o = overrides.get(c['id'])
         if o: c.update(o)
         c['sources'] = [x for i, x in enumerate(c['sources']) if x['url'] and x['url'] not in [y['url'] for y in c['sources'][:i]]]
+    for c in companies:
+        lr = c['last_round']
+        src_text = ' '.join(str(x) for x in (c.get('stage_detail'), lr.get('stage') if lr.get('stage') not in (None, 'unknown', c['stage']) else None, lr.get('amount')) if x)
+        c['round'], c['round_name'] = round_of(src_text, c['stage'])
+    rmap = {c['id']: c['round'] for c in companies}
+    for n in news:
+        if n['type'] == 'acquisition': n['round'] = 'acquired'
+        elif n['type'] == 'other' and 'IPO' in n['headline']: n['round'] = 'public'
+        elif n['type'] == 'funding': n['round'] = round_of(n['headline'], None)[0]
+        else: n['round'] = 'unknown'
     # drop URLs that scripts/check-links found dead (404/410/DNS) on the last run
     dead = set((load('data/link-report.json', {}) or {}).get('dead', {}).keys())
     if dead:
@@ -182,7 +209,7 @@ def main():
     seen = set(); news = [n for n in news if not (n['id'] in seen or seen.add(n['id']))]
     news.sort(key=lambda n: n['date'] or '', reverse=True)
     companies.sort(key=lambda c: c['name'].lower())
-    meta = {'last_updated': TODAY, 'count': len(companies),
+    meta = {'last_updated': TODAY, 'count': len(companies), 'round_order': ROUND_ORDER,
             'note': "'unknown' means we could not find a source for that field; nothing is guessed."}
     json.dump({'meta': meta, 'companies': companies}, open(os.path.join(ROOT, 'data/startups.json'), 'w'), indent=1, ensure_ascii=False)
     json.dump({'meta': {'last_updated': TODAY, 'count': len(news)}, 'items': news}, open(os.path.join(ROOT, 'data/news.json'), 'w'), indent=1, ensure_ascii=False)
