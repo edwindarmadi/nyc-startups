@@ -1,0 +1,275 @@
+#!/usr/bin/env python3
+"""Fetch current open roles for every company in data/startups.json from public ATS JSON feeds.
+
+Detection order per company: data/manual/ats.json override -> careers_url -> startups.gallery page job links
+-> the company's careers page HTML (cached in raw/careers/, refetched with --refetch-careers).
+Feeds: Ashby, Greenhouse, Lever, Workable, Gem, Rippling, SmartRecruiters (all public, no auth).
+Companies with no detectable feed are recorded as 'no_feed' (we never scrape free-form pages or invent jobs).
+Every run rebuilds data/jobs.json from scratch, so roles no longer listed drop out; first_seen is kept across runs.
+
+Usage: scripts/fetch-jobs [--refetch-careers] [--only id1,id2] [--workers 12]
+Writes data/jobs.json (full), data/jobs-coverage.json and public/data/jobs.json (compact copy the site loads).
+"""
+import json, os, re, sys, glob, html, argparse, datetime, collections, urllib.request, urllib.error, concurrent.futures as cf
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36'
+NOW = datetime.datetime.now().astimezone()
+
+PAT = {
+ 'ashby': [r'jobs\.ashbyhq\.com/([A-Za-z0-9._%-]+)', r'organizationHostedJobsPageName["\']?\s*[:=]\s*["\']([^"\']+)', r'api\.ashbyhq\.com/posting-api/job-board/([A-Za-z0-9._%-]+)'],
+ 'greenhouse': [r'(?:boards|job-boards)(?:\.eu)?\.greenhouse\.io/(?!embed)([A-Za-z0-9_-]+)', r'greenhouse\.io/embed/job_board(?:/js)?\?for=([A-Za-z0-9_-]+)', r'boards-api\.greenhouse\.io/v1/boards/([A-Za-z0-9_-]+)'],
+ 'lever': [r'jobs\.lever\.co/([A-Za-z0-9._-]+)', r'api\.lever\.co/v0/postings/([A-Za-z0-9._-]+)'],
+ 'workable': [r'apply\.workable\.com/(?!api|j/)([A-Za-z0-9_-]+)'],
+ 'gem': [r'jobs\.gem\.com/([A-Za-z0-9_-]+)'],
+ 'rippling': [r'ats\.rippling\.com/(?!api)([A-Za-z0-9_-]+)'],
+ 'smartrecruiters': [r'(?:jobs|careers)\.smartrecruiters\.com/([A-Za-z0-9_-]+)'],
+}
+BAD_SLUGS = {'embed', 'jobs', 'v1', 'api', 'job_board', 'company', 'j', 'pear-vc', 'ycombinator'}
+
+def get(url, timeout=25):
+    req = urllib.request.Request(url, headers={'User-Agent': UA, 'Accept': 'application/json'})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read().decode('utf-8', 'replace')
+
+def detect(c, refetch):
+    texts = [c.get('careers_url') or '']
+    f = os.path.join(ROOT, 'raw/co', c['id'] + '.html')
+    if os.path.exists(f): texts.append(open(f, errors='ignore').read())
+    def scan(ts):
+        cnt = collections.Counter()
+        for t in ts:
+            for ats, ps in PAT.items():
+                for p in ps:
+                    for m in re.findall(p, t):
+                        if m.lower() not in BAD_SLUGS: cnt[(ats, m)] += 1
+        return [list(k) for k, _ in cnt.most_common(4)]
+    found = scan(texts)
+    if found: return found
+    os.makedirs(os.path.join(ROOT, 'raw/careers'), exist_ok=True)
+    urls = []
+    if c.get('careers_url') and 'linkedin.com' not in c['careers_url']: urls.append(c['careers_url'].strip())
+    if c.get('website'): w = c['website'].rstrip('/'); urls += [w + '/careers', w + '/jobs']
+    ts = []
+    for i, u in enumerate(urls[:3]):
+        p = os.path.join(ROOT, 'raw/careers', f"{c['id']}__{i}.html")
+        if refetch or not os.path.exists(p):
+            try: open(p, 'w').write(get(u, 20))
+            except Exception: open(p, 'w').write('')
+        ts.append(open(p, errors='ignore').read())
+    return scan(ts)
+
+def iso(v):
+    if v in (None, ''): return None
+    if isinstance(v, (int, float)): return datetime.datetime.fromtimestamp(v / 1000, datetime.timezone.utc).date().isoformat()
+    return str(v)[:10]
+
+def clean(s): return re.sub(r'\s+', ' ', html.unescape(str(s or ''))).strip()
+
+def fetch(ats, slug):
+    out = []
+    if ats == 'ashby':
+        d = json.loads(get(f'https://api.ashbyhq.com/posting-api/job-board/{slug}?includeCompensation=true'))
+        for j in d['jobs']:
+            if j.get('isListed') is False: continue
+            locs = [j.get('location')] + [x.get('location') for x in j.get('secondaryLocations') or []]
+            out.append(dict(ext_id=j['id'], title=j['title'], locations=locs, workplace=j.get('workplaceType'), remote=j.get('isRemote'),
+                department=j.get('department'), team=j.get('team'), employment_type=j.get('employmentType'), posted=iso(j.get('publishedAt')),
+                url=j.get('jobUrl'), apply_url=j.get('applyUrl') or j.get('jobUrl'),
+                compensation=(j.get('compensation') or {}).get('scrapeableCompensationSalarySummary')))
+    elif ats == 'greenhouse':
+        d = json.loads(get(f'https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true'))
+        for j in d['jobs']:
+            md = {m.get('name', '').lower(): m.get('value') for m in j.get('metadata') or []}
+            et = next((v for k, v in md.items() if 'employment' in k or k == 'job type'), None)
+            wp = next((v for k, v in md.items() if 'remote' in k or 'workplace' in k or 'location type' in k), None)
+            locs = [(j.get('location') or {}).get('name')] + [o.get('name') for o in j.get('offices') or []]
+            out.append(dict(ext_id=str(j['id']), title=j['title'], locations=locs, workplace=wp if isinstance(wp, str) else None, remote=None,
+                department=', '.join(x['name'] for x in j.get('departments') or []) or None, team=None,
+                employment_type=et if isinstance(et, str) else None, posted=iso(j.get('first_published') or j.get('updated_at')),
+                updated=iso(j.get('updated_at')), url=j.get('absolute_url'), apply_url=j.get('absolute_url')))
+    elif ats == 'lever':
+        d = json.loads(get(f'https://api.lever.co/v0/postings/{slug}?mode=json'))
+        if not isinstance(d, list): raise ValueError('lever: not a list')
+        for j in d:
+            cat = j.get('categories') or {}
+            out.append(dict(ext_id=j['id'], title=j['text'], locations=cat.get('allLocations') or [cat.get('location')], workplace=j.get('workplaceType'),
+                remote=None, department=cat.get('department'), team=cat.get('team'), employment_type=cat.get('commitment'),
+                posted=iso(j.get('createdAt')), url=j.get('hostedUrl'), apply_url=j.get('applyUrl') or j.get('hostedUrl')))
+    elif ats == 'workable':
+        d = json.loads(get(f'https://apply.workable.com/api/v1/widget/accounts/{slug}'))
+        for j in d.get('jobs', []):
+            locs = [', '.join(x for x in (l.get('city'), l.get('region'), l.get('country')) if x) for l in j.get('locations') or []] or \
+                   [', '.join(x for x in (j.get('city'), j.get('state'), j.get('country')) if x)]
+            out.append(dict(ext_id=j.get('shortcode'), title=j['title'], locations=locs, workplace='Remote' if j.get('telecommuting') else None,
+                remote=j.get('telecommuting'), department=j.get('department'), team=None, employment_type=j.get('employment_type'),
+                posted=iso(j.get('published_on') or j.get('created_at')), url=j.get('url') or j.get('shortlink'), apply_url=j.get('application_url') or j.get('url')))
+    elif ats == 'gem':
+        d = json.loads(get(f'https://api.gem.com/job_board/v0/{slug}/job_posts/'))
+        if not isinstance(d, list): raise ValueError('gem: not a list')
+        for j in d:
+            locs = [(j.get('location') or {}).get('name')] + [o.get('name') for o in j.get('offices') or []]
+            out.append(dict(ext_id=j['id'], title=j['title'], locations=locs, workplace=j.get('location_type'), remote=None,
+                department=', '.join(x['name'] for x in j.get('departments') or []) or None, team=None, employment_type=j.get('employment_type'),
+                posted=iso(j.get('first_published_at') or j.get('created_at')), url=j.get('absolute_url'), apply_url=j.get('absolute_url')))
+    elif ats == 'rippling':
+        items, page = [], 0
+        while True:
+            d = json.loads(get(f'https://ats.rippling.com/api/v2/board/{slug}/jobs?page={page}&pageSize=100'))
+            items += d.get('items', [])
+            if page + 1 >= (d.get('totalPages') or 1): break
+            page += 1
+        for j in items:
+            ls = j.get('locations') or []
+            wps = {l.get('workplaceType') for l in ls if l.get('workplaceType')}
+            out.append(dict(ext_id=j['id'], title=j['name'], locations=[l.get('name') for l in ls], workplace=next(iter(wps)) if len(wps) == 1 else None,
+                remote=None, department=(j.get('department') or {}).get('name'), team=None, employment_type=None, posted=None,
+                url=j.get('url'), apply_url=j.get('url')))
+    elif ats == 'smartrecruiters':
+        d = json.loads(get(f'https://api.smartrecruiters.com/v1/companies/{slug}/postings?limit=100'))
+        for j in d.get('content', []):
+            l = j.get('location') or {}
+            out.append(dict(ext_id=j['id'], title=j['name'], locations=[l.get('fullLocation') or ', '.join(x for x in (l.get('city'), l.get('region'), l.get('country')) if x)],
+                workplace='Remote' if l.get('remote') else ('Hybrid' if l.get('hybrid') else None), remote=l.get('remote'),
+                department=(j.get('department') or {}).get('label') or (j.get('function') or {}).get('label'), team=None,
+                employment_type=(j.get('typeOfEmployment') or {}).get('label'), posted=iso(j.get('releasedDate')),
+                url=f"https://jobs.smartrecruiters.com/{slug}/{j['id']}", apply_url=f"https://jobs.smartrecruiters.com/{slug}/{j['id']}"))
+    else:
+        raise ValueError('unknown ats ' + ats)
+    for j in out:
+        j['title'] = clean(j['title'])
+        j['locations'] = list(dict.fromkeys(clean(x) for x in j['locations'] if x and clean(x)))
+        for k in ('department', 'team', 'employment_type', 'workplace'):
+            if j.get(k) is not None: j[k] = clean(j[k]) or None
+    return [j for j in out if j['title'] and j.get('apply_url')]
+
+# ---------- classification (all derived from the listing's own fields; nothing invented) ----------
+NYC = re.compile(r'\b(new york|nyc|brooklyn|manhattan|queens|bronx|staten island|long island city)\b', re.I)
+REMOTEISH = re.compile(r'^\s*(remote|hybrid|anywhere|global|worldwide)\b', re.I)
+def location_classes(j):
+    locs = j['locations']; wp = (j.get('workplace') or '').lower().replace('_', '').replace('-', '').replace(' ', '')
+    cls = set()
+    if any(NYC.search(l) for l in locs): cls.add('NYC')
+    if j.get('remote') or 'remote' in wp or any(re.search(r'\bremote\b', l, re.I) for l in locs): cls.add('Remote')
+    if 'hybrid' in wp or any(re.search(r'\bhybrid\b', l, re.I) for l in locs): cls.add('Hybrid')
+    if any(not NYC.search(l) and not REMOTEISH.search(l) for l in locs) or not cls: cls.add('Other')
+    return sorted(cls)
+
+def work_style(j):
+    wp = (j.get('workplace') or '').lower().replace('_', '').replace('-', '').replace(' ', '')
+    if 'remote' in wp: return 'Remote'
+    if 'hybrid' in wp: return 'Hybrid'
+    if 'onsite' in wp or 'inoffice' in wp or 'office' in wp: return 'Onsite'
+    if j.get('remote') is True: return 'Remote'
+    return None
+
+DEPT_RULES = [
+ ('Compliance/Risk/Legal', r'\b(compliance|aml|kyc|bsa|sanctions?|financial crimes?|fincrime|fraud|risk|legal|counsel|attorney|lawyer|paralegal|regulatory|trust\s*&\s*safety|trust and safety|underwrit\w*)\b'),
+ ('Data/Analytics', r'\b(data|analytics?|analyst|business intelligence|bi|insights?|statistic\w*|quantitative|quant)\b'),
+ ('Design', r'\b(design\w*|ux|ui|illustrat\w*|creative director|art director)\b'),
+ ('Product', r'\b(product manager|product management|product lead|head of product|vp,? (of )?product|director,? (of )?product|product owner|product operations|group product|technical product|principal product|product director|chief product)\b'),
+ ('Finance', r'\b(finance|financial|accounting|accountant|controller|tax|fp&a|treasury|payroll|bookkeep\w*|billing|cfo)\b'),
+ ('Marketing', r'\b(marketing|marketer|content|copywriter|communications|comms|pr|public relations|social media|community|brand|seo|lifecycle|demand gen\w*|events?|creator)\b'),
+ ('Sales', r'\b(sales|accounts?|account lead|channel|country manager|account executive|ae|business development|bdr|sdr|partnerships?|partner manager|account manager|account director|revenue|gtm|go-to-market|solutions? (engineer|consultant|architect)|forward deployed strategist|commercial|deployment strategist)\b'),
+ ('Engineering', r'\b(engineer\w*|developer|sre|devops|software|swe|machine learning|ml|ai research\w*|research scientist|researcher|scientist|infrastructure|architect|security|tech lead|cto|programmer|firmware|hardware|robotics|mechanical|electrical|qa|technician)\b'),
+ ('Ops', r'\b(operations?|ops|customer success|customer support|support|customer experience|cx|people|recruit\w*|talent|hr|human resources|office|chief of staff|program manager|project manager|implementation|onboarding|executive assistant|administrative|admin|strategy|bizops|logistics|supply chain|procurement|clinical|care|nurse|coordinator|specialist|associate|generalist|field|founding|intern|manufacturing|quality|packer|warehouse|technician)\b'),
+]
+def department_group(j):
+    t = j['title']
+    if re.search(r'\bdesign engineer', t, re.I): return 'Engineering'
+    if re.search(r'\bdata (engineer|platform|infrastructure)', t, re.I): return 'Data/Analytics'
+    if re.search(r'\b(ml|machine learning|ai|research) (data )?scientist', t, re.I): return 'Engineering'
+    for g, p in DEPT_RULES:
+        if re.search(p, t, re.I): return g
+    dep = ' '.join(x for x in (j.get('department'), j.get('team')) if x)
+    for g, p in DEPT_RULES:
+        if dep and re.search(p, dep, re.I): return g
+    return 'Other'
+
+NOT_MGR = r'(account|product|customer success|success|community|partner|partnerships|territory|case|office|project|program|social media|content|brand|channel|relationship|portfolio|care|client|implementation|onboarding|marketing|lifecycle|growth|event|events|campaign|payroll|technical account|solutions|operations|ops|sales|engagement|deployment|practice|creator|influencer)\s+manager'
+def seniority(t):
+    tl = t.lower()
+    if re.search(r'\b(intern|internship|co-?op|new grad|graduate|entry[- ]level|junior|jr\.?|apprentice|fellow(ship)?|early career)\b', tl): return 'Intern/Entry'
+    if re.search(r'\b(head|director|vp|svp|evp|vice president|chief|cto|cfo|coo|ceo|lead|principal|general manager|managing)\b', tl): return 'Lead/Manager+'
+    if re.search(r'\b(senior|engineering|sr\.?)\s+manager\b', tl) or re.search(r'\bmanager,\s', tl) or re.search(r'\bmanager of\b', tl) or (re.search(r'\bmanager\b', tl) and not re.search(NOT_MGR, tl)): return 'Lead/Manager+'
+    if re.search(r'\b(senior|sr\.?|staff|iii|iv)\b', tl): return 'Senior'
+    return 'Mid'
+
+FIT = re.compile(r'\banalyst\b|\banalytics\b|\bdata analy|\bbusiness intelligence\b|\b(compliance|aml|anti-money laundering|kyc|know your customer|bsa|bank secrecy|sanctions|financial crimes?|fincrime|fraud|transaction monitoring)\b|\brisk (analyst|operations|associate|specialist|manager|lead|management)\b|\b(business|bizops|strategy (and|&) )operations\b', re.I)
+def fits_edwin(j):
+    t = j['title']
+    if re.search(r'\b(software|backend|front-?end|full[- ]?stack|ml|machine learning|infrastructure|platform|security) engineer', t, re.I) and not re.search(r'analytics engineer|compliance', t, re.I): return False
+    if re.search(r'\b(support|it|security|information security) analyst\b|analyst relations', t, re.I): return False
+    if re.search(r'\b(counsel|attorney|lawyer|sales|account executive)\b', t, re.I) and not re.search(r'analyst|analytics', t, re.I): return False
+    return bool(FIT.search(t))
+
+PUBLIC_KEYS = ('id', 'company_id', 'title', 'locations', 'work_style', 'department', 'team', 'employment_type',
+               'posted', 'apply_url', 'url', 'compensation', 'source', 'location_classes', 'department_group',
+               'seniority', 'fits_edwin')
+
+def write_public(meta, jobs):
+    """Compact copy for the site (public/data/jobs.json)."""
+    out = []
+    for j in jobs:
+        o = {k: j.get(k) for k in PUBLIC_KEYS if j.get(k) not in (None, '', [])}
+        out.append(o)
+    pd = os.path.join(ROOT, 'public', 'data'); os.makedirs(pd, exist_ok=True)
+    json.dump({'meta': meta, 'jobs': out}, open(os.path.join(pd, 'jobs.json'), 'w'), separators=(',', ':'), ensure_ascii=False)
+
+def main():
+    ap = argparse.ArgumentParser(); ap.add_argument('--refetch-careers', action='store_true'); ap.add_argument('--only'); ap.add_argument('--workers', type=int, default=12)
+    a = ap.parse_args()
+    db = json.load(open(os.path.join(ROOT, 'data/startups.json')))['companies']
+    mp = os.path.join(ROOT, 'data/manual/ats.json')
+    manual = {k: v for k, v in (json.load(open(mp)) if os.path.exists(mp) else {}).items() if not k.startswith('_')}
+    prev_path = os.path.join(ROOT, 'data/jobs.json')
+    prev = {j['id']: j for j in json.load(open(prev_path))['jobs']} if os.path.exists(prev_path) else {}
+    cp = os.path.join(ROOT, 'data/jobs-coverage.json')
+    prev_cov = json.load(open(cp)) if os.path.exists(cp) else {}
+    only = set(a.only.split(',')) if a.only else None
+    companies = [c for c in db if not only or c['id'] in only]
+
+    def work(c):
+        cid = c['id']
+        cands = ([manual[cid]] if manual[cid] else []) if cid in manual else detect(c, a.refetch_careers)
+        pc = prev_cov.get(cid) or {}
+        if cid not in manual and pc.get('status') == 'api' and [pc['ats'], pc['slug']] not in [list(x) for x in cands]:
+            cands = list(cands) + [(pc['ats'], pc['slug'])]   # keep last run's working feed (e.g. fresh clone without raw/)
+        errors = []
+        for ats, slug in cands:
+            try:
+                return cid, {'status': 'api', 'ats': ats, 'slug': slug, 'jobs': None}, fetch(ats, slug)
+            except Exception as e:
+                errors.append(f'{ats}/{slug}: {str(e)[:120]}')
+        return cid, {'status': 'no_feed' if not cands else 'feed_error', 'candidates': cands, 'errors': errors}, []
+
+    coverage, all_jobs = {}, []
+    with cf.ThreadPoolExecutor(a.workers) as ex:
+        for cid, cov, jobs in ex.map(work, companies):
+            if cov['status'] == 'api': cov['jobs'] = len(jobs)
+            coverage[cid] = cov
+            for j in jobs:
+                jid = f"{cid}:{cov['ats']}:{j['ext_id']}"
+                j.update(id=jid, company_id=cid, source=f"{cov['ats']} api", location_classes=location_classes(j), work_style=work_style(j),
+                         department_group=department_group(j), seniority=seniority(j['title']), fits_edwin=fits_edwin(j),
+                         first_seen=(prev.get(jid) or {}).get('first_seen') or NOW.date().isoformat())
+                all_jobs.append(j)
+    cov_path = os.path.join(ROOT, 'data/jobs-coverage.json')
+    if only:  # partial run keeps other companies' jobs
+        all_jobs += [j for j in prev.values() if j['company_id'] not in only]
+        old = json.load(open(cov_path)) if os.path.exists(cov_path) else {}
+        old.update(coverage); coverage = old
+    seen = set(); all_jobs = [j for j in all_jobs if not (j['id'] in seen or seen.add(j['id']))]
+    all_jobs.sort(key=lambda j: (j.get('posted') or j['first_seen']), reverse=True)
+    dropped = sorted(set(prev) - seen)
+    meta = {'fetched_at': NOW.isoformat(timespec='seconds'), 'count': len(all_jobs), 'companies_with_jobs': len({j['company_id'] for j in all_jobs}),
+            'dropped_since_last_run': len(dropped), 'note': "Fetched from each company's public ATS job feed. Roles no longer listed are removed on every run."}
+    json.dump({'meta': meta, 'jobs': all_jobs}, open(prev_path, 'w'), indent=1, ensure_ascii=False)
+    json.dump(coverage, open(cov_path, 'w'), indent=1)
+    write_public(meta, all_jobs)
+    st = collections.Counter(v['status'] for v in coverage.values())
+    print(f"{len(all_jobs)} jobs at {meta['companies_with_jobs']} companies; coverage {dict(st)}; "
+          f"ATS {dict(collections.Counter(v.get('ats') for v in coverage.values() if v['status']=='api'))}; dropped since last run {len(dropped)}")
+    print('departments', dict(collections.Counter(j['department_group'] for j in all_jobs).most_common()))
+    print('fits_edwin', sum(j['fits_edwin'] for j in all_jobs))
+
+if __name__ == '__main__': main()
