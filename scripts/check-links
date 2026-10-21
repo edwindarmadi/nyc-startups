@@ -1,0 +1,73 @@
+#!/usr/bin/env python3
+"""Dead-link check for every website / careers / source / news URL.
+Usage: scripts/check-links [--workers 16] [--timeout 20] [--only-dead]
+Writes data/link-report.json. Exit code 1 if any URL is dead (404/410, DNS/connection failure)."""
+import json, os, sys, argparse, concurrent.futures as cf, urllib.request, urllib.error, ssl, socket, datetime
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36'
+BLOCKED = {401, 403, 405, 406, 429, 999}   # bot walls / rate limits: not proof a page is dead
+
+def collect():
+    db = json.load(open(os.path.join(ROOT, 'data/startups.json')))
+    news = json.load(open(os.path.join(ROOT, 'data/news.json')))
+    urls = {}
+    def add(u, where):
+        if u and u.startswith('http'): urls.setdefault(u, []).append(where)
+    for c in db['companies']:
+        add(c.get('website'), f"{c['id']}:website")
+        add(c.get('careers_url'), f"{c['id']}:careers_url")
+        for s in c.get('sources', []): add(s.get('url'), f"{c['id']}:source:{s.get('label')}")
+        add((c.get('last_round') or {}).get('source'), f"{c['id']}:last_round.source")
+        add((c.get('hq') or {}).get('source'), f"{c['id']}:hq.source")
+    for n in news['items']: add(n.get('source_url'), f"news:{n['id']}")
+    return urls
+
+def check(url, timeout):
+    ctx = ssl.create_default_context()
+    last = None
+    for method in ('HEAD', 'GET'):
+        req = urllib.request.Request(url, method=method, headers={'User-Agent': UA, 'Accept': 'text/html,*/*'})
+        try:
+            with urllib.request.urlopen(req, timeout=timeout, context=ctx) as r:
+                return {'status': r.status, 'final_url': r.geturl(), 'state': 'ok'}
+        except urllib.error.HTTPError as e:
+            last = {'status': e.code, 'final_url': url}
+            if method == 'HEAD' and e.code in (400, 403, 404, 405, 429, 500, 501, 999): continue  # retry with GET
+        except (urllib.error.URLError, socket.timeout, ConnectionError, ssl.SSLError) as e:
+            last = {'status': None, 'error': str(getattr(e, 'reason', e))[:200], 'final_url': url}
+            if method == 'HEAD': continue
+        break
+    st = last.get('status')
+    if st in (404, 410): last['state'] = 'dead'
+    elif st in BLOCKED: last['state'] = 'blocked'
+    elif st is None:
+        err = last.get('error', '').lower()
+        last['state'] = 'dead' if any(k in err for k in ('name or service not known', 'nodename nor servname', 'no address', 'getaddrinfo', 'connection refused')) else 'error'
+    elif st >= 500: last['state'] = 'error'
+    else: last['state'] = 'ok'
+    return last
+
+def main():
+    ap = argparse.ArgumentParser(); ap.add_argument('--workers', type=int, default=16); ap.add_argument('--timeout', type=int, default=20); ap.add_argument('--only-dead', action='store_true')
+    a = ap.parse_args()
+    urls = collect()
+    res = {}
+    with cf.ThreadPoolExecutor(a.workers) as ex:
+        futs = {ex.submit(check, u, a.timeout): u for u in urls}
+        for f in cf.as_completed(futs):
+            u = futs[f]; r = f.result(); r['used_by'] = urls[u]; res[u] = r
+    summary = {}
+    for r in res.values(): summary[r['state']] = summary.get(r['state'], 0) + 1
+    report = {'checked_at': datetime.datetime.now().isoformat(timespec='seconds'), 'total': len(res), 'summary': summary,
+              'dead': {u: r for u, r in res.items() if r['state'] == 'dead'},
+              'errors': {u: r for u, r in res.items() if r['state'] == 'error'},
+              'blocked': {u: r for u, r in res.items() if r['state'] == 'blocked'}}
+    json.dump(report, open(os.path.join(ROOT, 'data/link-report.json'), 'w'), indent=1)
+    print(f"Checked {len(res)} URLs: {summary}")
+    for kind in (['dead'] if a.only_dead else ['dead', 'errors']):
+        for u, r in sorted(report[kind].items()):
+            print(f"[{kind.upper()}] {r.get('status') or r.get('error')}  {u}  <- {', '.join(r['used_by'][:3])}")
+    print("Full report: data/link-report.json  (403/429/999 = bot-blocked, not dead; recheck manually)")
+    sys.exit(1 if report['dead'] else 0)
+
+if __name__ == '__main__': main()

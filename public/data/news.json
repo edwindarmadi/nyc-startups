@@ -1,0 +1,1916 @@
+{
+ "meta": {
+  "last_updated": "2026-10-21",
+  "count": 212
+ },
+ "items": [
+  {
+   "id": "whop-funding-2026-10-21",
+   "date": "2026-10-21",
+   "startup_id": "whop",
+   "type": "funding",
+   "headline": "Whop raised $200M Series D",
+   "summary": "Whop is building a platform to service the internet economy.",
+   "source_url": "https://www.marketwatch.com/story/whop-raises-200m-in-series-d-round-at-5-1b-valuation-aeefb0b6?mod=markets"
+  },
+  {
+   "id": "baba-funding-2026-10-20",
+   "date": "2026-10-20",
+   "startup_id": "baba",
+   "type": "funding",
+   "headline": "Baba raised $40M Series A",
+   "summary": "Baba is a care partner to patients and their families.",
+   "source_url": "https://x.com/BabaHQ/status/2112588423290642505"
+  },
+  {
+   "id": "north-cloud-funding-2026-10-15",
+   "date": "2026-10-15",
+   "startup_id": "north-cloud",
+   "type": "funding",
+   "headline": "North raised $60M Series B",
+   "summary": "North.cloud is the infrastructure spend intelligence and automation platform for modern businesses.",
+   "source_url": "https://www.prnewswire.com/news-releases/northcloud-raises-60m-series-b-to-unify-spend-intelligence-and-enable-full-automation-across-cloud-ai-and-data-302909322.html"
+  },
+  {
+   "id": "fragment-funding-2026-10-14",
+   "date": "2026-10-14",
+   "startup_id": "fragment",
+   "type": "funding",
+   "headline": "Fragment raised $12M Series A",
+   "summary": "Fragment is a ledger API for building financial products.",
+   "source_url": "https://x.com/neckelthomas/status/2110368313561805276?s=20"
+  },
+  {
+   "id": "modal-funding-2026-10-14",
+   "date": "2026-10-14",
+   "startup_id": "modal",
+   "type": "funding",
+   "headline": "Modal raised $750M Series D",
+   "summary": "Customers rely on Modal for instant GPU access, sub-second container starts, and native storage, so it's simple to serve low-latency inference, fine-tune models, and access production-ready sandboxes at scale.",
+   "source_url": "https://x.com/modal/status/2110379972502139213"
+  },
+  {
+   "id": "mecka-funding-2026-10-08",
+   "date": "2026-10-08",
+   "startup_id": "mecka",
+   "type": "funding",
+   "headline": "Mecka raised $60M Series B",
+   "summary": "Mecka AI is building the data infrastructure layer for robotics and embodied AI.",
+   "source_url": "https://www.mecka.ai/news/series-b"
+  },
+  {
+   "id": "stuut-funding-2026-10-07",
+   "date": "2026-10-07",
+   "startup_id": "stuut",
+   "type": "funding",
+   "headline": "Stuut raised $52.5M Series B",
+   "summary": "Stuut is the AI coworker that automates the full order-to-cash journey for the world’s leading enterprises.",
+   "source_url": "https://www.stuut.ai/blog/why-we-raised-series-b"
+  },
+  {
+   "id": "melius-funding-2026-10-06",
+   "date": "2026-10-06",
+   "startup_id": "melius",
+   "type": "funding",
+   "headline": "Melius raised $20M Series A",
+   "summary": "The creative harness for agents.",
+   "source_url": "https://app.dealroom.co/news/feed/melius-raises-25m-for-ai-agents-lab-handling-creative-production-busywork?__cf_chl_tk=ilwaL31Ak4vWFnauWGIuJTKJB4HQw43b.SYuo4H6NFQ-1791311275-1.0.1.1-d_i7JzjpQoMQPsE7JH2ebzzj8vThyW7B5Y73QI5vvE8"
+  },
+  {
+   "id": "siena-ai-funding-2026-10-06",
+   "date": "2026-10-06",
+   "startup_id": "siena-ai",
+   "type": "funding",
+   "headline": "Siena AI raised $17M Series A",
+   "summary": "Empowering brands with empathic AI agents that automate customer interactions, drive revenue, and turn conversations into actionable insights.",
+   "source_url": "https://www.siena.cx/blog/siena-raises-17m-series-a"
+  },
+  {
+   "id": "valon-ai-funding-2026-10-05",
+   "date": "2026-10-05",
+   "startup_id": "valon-ai",
+   "type": "funding",
+   "headline": "Valon raised $150M Series D",
+   "summary": "Valon is the AI-native operating system for mortgage servicing.",
+   "source_url": "https://www.valon.ai/blog/series-d-deploying-valonos-and-ai-to-the-mortgage-industry"
+  },
+  {
+   "id": "confido-funding-2026-09-22",
+   "date": "2026-09-22",
+   "startup_id": "confido",
+   "type": "funding",
+   "headline": "Confido raised $55M Series B",
+   "summary": "Confido is the AI infrastructure powering modern CPG — the platform that 200+ brands like OLIPOP, Simple Mills, Dr.",
+   "source_url": "https://www.businesswire.com/news/home/20260922033622/en/Confido-Raises-%2455M-Series-B-to-Take-AI-Powered-Automation-Across-the-Entire-Consumer-Brand-Back-Office"
+  },
+  {
+   "id": "corridor-advisors-funding-2026-09-21",
+   "date": "2026-09-21",
+   "startup_id": "corridor-advisors",
+   "type": "funding",
+   "headline": "Corridor raised $25M Seed",
+   "summary": "Corridor is the first AI-native employee benefits brokerage.",
+   "source_url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/"
+  },
+  {
+   "id": "footprint-funding-2026-09-16",
+   "date": "2026-09-16",
+   "startup_id": "footprint",
+   "type": "funding",
+   "headline": "Footprint raised $25M Series B",
+   "summary": "The agentic platform that learns your compliance program and runs it end-to-end.",
+   "source_url": "https://onefootprint.com/learn/series-b"
+  },
+  {
+   "id": "profound-funding-2026-09-15",
+   "date": "2026-09-15",
+   "startup_id": "profound",
+   "type": "funding",
+   "headline": "Profound raised $180M Series D",
+   "summary": "Hundreds of millions of consumers are now using AI Search like ChatGPT or Perplexity to discover brands and products.",
+   "source_url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
+  },
+  {
+   "id": "highstock-funding-2026-09-10",
+   "date": "2026-09-10",
+   "startup_id": "highstock",
+   "type": "funding",
+   "headline": "Highstock raised $30M Series A",
+   "summary": "Highstock is a B2B marketplace connecting brands with surplus inventory to high quality bulk buyers.",
+   "source_url": "https://wwd.com/beauty-industry-news/beauty-features/highstock-b2b-marketplace-surplus-inventory-raises-30m-a16z-1239204407/"
+  },
+  {
+   "id": "clay-hq-funding-2026-09-09",
+   "date": "2026-09-09",
+   "startup_id": "clay-hq",
+   "type": "funding",
+   "headline": "Clay raised $115M Series D",
+   "summary": "We are building a complete GTM development environment where teams can turn any growth idea into reality.",
+   "source_url": "https://x.com/clay/status/2097668628359401675?s=20"
+  },
+  {
+   "id": "savvy-wealth-funding-2026-09-09",
+   "date": "2026-09-09",
+   "startup_id": "savvy-wealth",
+   "type": "funding",
+   "headline": "Savvy Wealth raised $100M Series C",
+   "summary": "Savvy is a registered investment advisor (RIA), and we partner with experienced financial advisors who want to grow without running the back office themselves.",
+   "source_url": "https://www.savvywealth.com/series-c"
+  },
+  {
+   "id": "antioch-funding-2026-09-08",
+   "date": "2026-09-08",
+   "startup_id": "antioch",
+   "type": "funding",
+   "headline": "Antioch raised $32M Series A",
+   "summary": "Antioch is the simulation platform for robotics and autonomy.",
+   "source_url": "https://antioch.com/blog/series-a"
+  },
+  {
+   "id": "forus-funding-2026-09-08",
+   "date": "2026-09-08",
+   "startup_id": "forus",
+   "type": "funding",
+   "headline": "Forus raised $160M Series C",
+   "summary": "Forus (fka Tandem) accelerates medicine for the people who need it, prescribe it, and create it.",
+   "source_url": "https://www.businesswire.com/news/home/20260908463918/en/Forus-Raises-%24150M-at-a-%243B-Valuation-as-Its-AI-Network-Becomes-How-Medicine-Reaches-Patients"
+  },
+  {
+   "id": "sapien-funding-2026-09-08",
+   "date": "2026-09-08",
+   "startup_id": "sapien",
+   "type": "funding",
+   "headline": "Sapien raised Undisclosed Series A",
+   "summary": "Sapien is the AI-native platform for financial and operational analysis, enabling 8-figure impacts from mid-markets to the Fortune 500.",
+   "source_url": "https://binance.com/en/square/post/364463017755909"
+  },
+  {
+   "id": "tavily-acq-2026-08-21",
+   "date": "2026-08-21",
+   "startup_id": "tavily",
+   "type": "acquisition",
+   "headline": "Tavily acquired by Nebius",
+   "summary": "Connect your agent to the web.",
+   "source_url": "https://startups.gallery/companies/tavily"
+  },
+  {
+   "id": "multiplier-ai-funding-2026-08-10",
+   "date": "2026-08-10",
+   "startup_id": "multiplier-ai",
+   "type": "funding",
+   "headline": "Multiplier raised $6M Seed",
+   "summary": "Agent harnesses for asset managers.",
+   "source_url": "https://www.multiplier.ai/blog/announcing-our-6m-seed"
+  },
+  {
+   "id": "ambrook-funding-2026-08-04",
+   "date": "2026-08-04",
+   "startup_id": "ambrook",
+   "type": "funding",
+   "headline": "Ambrook raised $30M Series B",
+   "summary": "Ambrook's mission is to build a more prosperous and resilient future for America's family-run businesses.",
+   "source_url": "https://www.upstartsmedia.com/p/ambrook-raises-30m-series-b-real-economy"
+  },
+  {
+   "id": "henry-ai-funding-2026-07-29",
+   "date": "2026-07-29",
+   "startup_id": "henry-ai",
+   "type": "funding",
+   "headline": "Henry raised $16.5M Series A",
+   "summary": "Henry is the context engine for commercial real estate.",
+   "source_url": "https://www.upstartsmedia.com/p/startup-henry-ai-real-estate-series-a"
+  },
+  {
+   "id": "onyx-security-funding-2026-07-29",
+   "date": "2026-07-29",
+   "startup_id": "onyx-security",
+   "type": "funding",
+   "headline": "Onyx Security raised $113M Series B",
+   "summary": "Onyx Security accelerates enterprise AI adoption, securely.",
+   "source_url": "https://www.onyx.security/blog/onyx-113m-series-b-keeping-humans-in-control-as-ai-becomes-smarter"
+  },
+  {
+   "id": "sent-funding-2026-07-28",
+   "date": "2026-07-28",
+   "startup_id": "sent",
+   "type": "funding",
+   "headline": "Sent raised $12M Series A",
+   "summary": "Sent is an infrastructure for sending A2P messages across SMS, WhatsApp, and RCS through a single unified API.",
+   "source_url": "https://www.sent.dm/en/company/series-a"
+  },
+  {
+   "id": "fora-funding-2026-07-16",
+   "date": "2026-07-16",
+   "startup_id": "fora",
+   "type": "funding",
+   "headline": "Fora raised $60M Series D",
+   "summary": "Fora is the modern travel agency, powering a new generation of travel entrepreneurs.",
+   "source_url": "https://finance.yahoo.com/small-business/articles/fora-raises-60m-1-billion-132000749.html"
+  },
+  {
+   "id": "instalily-ai-funding-2026-07-14",
+   "date": "2026-07-14",
+   "startup_id": "instalily-ai",
+   "type": "funding",
+   "headline": "InstaLILY AI raised $60M Series B",
+   "summary": "InstaLILY built Lily, the first AI Forward Deployed Engineer, to do that work.",
+   "source_url": "https://www.instalily.ai/"
+  },
+  {
+   "id": "norm-ai-funding-2026-07-07",
+   "date": "2026-07-07",
+   "startup_id": "norm-ai",
+   "type": "funding",
+   "headline": "Norm AI raised $120M Series C",
+   "summary": "Norm Ai, the Legal Infrastructure for AI agents, has a client base with a combined $30 trillion in assets under management.",
+   "source_url": "https://www.norm.ai/resources/norm-ai-raises-20-million-at-a-1-2-billion-valuation"
+  },
+  {
+   "id": "ai-work-acq-2026-07-01",
+   "date": "2026-07-01",
+   "startup_id": "ai-work",
+   "type": "acquisition",
+   "headline": "ai.work acquired by ServiceNow",
+   "summary": "Autonomous AI workforce.",
+   "source_url": "https://startups.gallery/companies/ai-work"
+  },
+  {
+   "id": "taxwire-funding-2026-06-30",
+   "date": "2026-06-30",
+   "startup_id": "taxwire",
+   "type": "funding",
+   "headline": "Taxwire raised $25M Series A",
+   "summary": "Global sales tax compliance solved.",
+   "source_url": "https://www.finsmes.com/2026/06/taxwire-raises-25m-in-seed-and-series-a-funding.html"
+  },
+  {
+   "id": "ornn-funding-2026-06-26",
+   "date": "2026-06-26",
+   "startup_id": "ornn",
+   "type": "funding",
+   "headline": "Ornn raised $33M Seed",
+   "summary": "We believe intelligence shouldn't be bottlenecked by infrastructure.",
+   "source_url": "https://www.kucoin.com/news/flash/ornn-secures-33m-seed-funding-to-build-gpu-compute-trading-market"
+  },
+  {
+   "id": "vibe-acq-2026-06-26",
+   "date": "2026-06-26",
+   "startup_id": "vibe",
+   "type": "acquisition",
+   "headline": "Vibe acquired by Walmart",
+   "summary": "Streaming & connected TV ad platform.",
+   "source_url": "https://startups.gallery/companies/vibe"
+  },
+  {
+   "id": "general-intuition-funding-2026-06-25",
+   "date": "2026-06-25",
+   "startup_id": "general-intuition",
+   "type": "funding",
+   "headline": "General Intuition raised $320M Series A",
+   "summary": "General Intuition is the frontier lab for acting in space and time.",
+   "source_url": "https://www.linkedin.com/posts/pimdw_today-were-announcing-our-320m-series-a-ugcPost-7475942377254305792-_KTO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc"
+  },
+  {
+   "id": "hera-funding-2026-06-25",
+   "date": "2026-06-25",
+   "startup_id": "hera",
+   "type": "funding",
+   "headline": "Hera raised $27M Series A",
+   "summary": "Hera is creating a new profession in healthcare to fill that last mile gap: the Hero, a dedicated care manager for your family.",
+   "source_url": "https://www.linkedin.com/posts/hellohera_today-were-announcing-our-27m-series-a-activity-7475951390687907840-cWkf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc"
+  },
+  {
+   "id": "warp-hr-funding-2026-06-25",
+   "date": "2026-06-25",
+   "startup_id": "warp-hr",
+   "type": "funding",
+   "headline": "Warp (HR) raised $60M Series B",
+   "summary": "Warp is the AI-native employee management platform that runs itself.",
+   "source_url": "https://www.linkedin.com/posts/zeen_im-excited-to-announce-that-runpod-has-raised-ugcPost-7475582558475321344-M-d3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc"
+  },
+  {
+   "id": "attention-funding-2026-06-24",
+   "date": "2026-06-24",
+   "startup_id": "attention",
+   "type": "funding",
+   "headline": "Attention raised $30M Series B",
+   "summary": "Attention is the most powerful sales intelligence platform helping businesses unlock their full potential.",
+   "source_url": "https://www.prnewswire.com/news-releases/attention-raises-30m-series-b-to-build-the-ai-system-that-runs-revenue-teams--not-just-records-them-302808821.html"
+  },
+  {
+   "id": "runlayer-funding-2026-06-24",
+   "date": "2026-06-24",
+   "startup_id": "runlayer",
+   "type": "funding",
+   "headline": "Runlayer raised $30M Series A",
+   "summary": "Runlayer is one platform for MCPs, Skills, and Agents.",
+   "source_url": "https://x.com/berman66/status/2069787264654156194?s=20"
+  },
+  {
+   "id": "taktile-funding-2026-06-24",
+   "date": "2026-06-24",
+   "startup_id": "taktile",
+   "type": "funding",
+   "headline": "Taktile raised $110M Series C",
+   "summary": "Taktile empowers financial institutions to quickly unlock AI-driven efficiencies across the customer lifecycle, reducing manual work while optimizing decisions and enabling seamless end-user experiences.",
+   "source_url": "https://taktile.com/series-c-announcement"
+  },
+  {
+   "id": "prosper-ai-funding-2026-06-22",
+   "date": "2026-06-22",
+   "startup_id": "prosper-ai",
+   "type": "funding",
+   "headline": "Prosper AI raised $30M Series A",
+   "summary": "Prosper's AI Agents handle calls to payors and patients with human-like expertise while cutting costs by over 50%.",
+   "source_url": "https://www.fiercehealthcare.com/ai-and-machine-learning/prosper-ai-lands-30m-backed-andreessen-horowitz-build-ai-workforce"
+  },
+  {
+   "id": "niteshift-funding-2026-06-10",
+   "date": "2026-06-10",
+   "startup_id": "niteshift",
+   "type": "funding",
+   "headline": "Niteshift raised $7M Seed",
+   "summary": "Niteshift is the full-stack cloud platform for AI coding agents, enabling teams to run, test and verify software autonomously in real-world development environments.",
+   "source_url": "https://startups.gallery/companies/niteshift"
+  },
+  {
+   "id": "sandstone-funding-2026-06-09",
+   "date": "2026-06-09",
+   "startup_id": "sandstone",
+   "type": "funding",
+   "headline": "Sandstone raised $30M Series A",
+   "summary": "Sandstone is the Legal Relationship Management system that coordinates a delightful day-to-day for legal departments.",
+   "source_url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/"
+  },
+  {
+   "id": "opal-security-funding-2026-06-05",
+   "date": "2026-06-05",
+   "startup_id": "opal-security",
+   "type": "funding",
+   "headline": "Opal Security raised $23M Venture",
+   "summary": "The best security and engineering teams use Opal to manage access for everyone and everything in the modern enterprise — from employees and contractors to service accounts and AI agents.",
+   "source_url": "https://www.finsmes.com/2026/06/opal-security-raises-23m-in-new-funding.html"
+  },
+  {
+   "id": "board-funding-2026-06-02",
+   "date": "2026-06-02",
+   "startup_id": "board",
+   "type": "funding",
+   "headline": "Board raised $20M Series A",
+   "summary": "Board is a tabletop gaming console that blends the magic of video games with the feel of board games for a totally new way to play.",
+   "source_url": "https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/?utm_source=dlvr.it&utm_medium=twitter"
+  },
+  {
+   "id": "pace-funding-2026-05-27",
+   "date": "2026-05-27",
+   "startup_id": "pace",
+   "type": "funding",
+   "headline": "Pace raised $46M Series B",
+   "summary": "Pace is the agentic workforce for insurance.",
+   "source_url": "https://www.businesswire.com/news/home/20260527047143/en/Pace-Raises-%2446-Million-Series-B-to-Build-the-Next-Century-of-Insurance"
+  },
+  {
+   "id": "moment-funding-2026-05-19",
+   "date": "2026-05-19",
+   "startup_id": "moment",
+   "type": "funding",
+   "headline": "Moment raised $78M Series C",
+   "summary": "Moment is the AI operating system for investment management, built for the world's largest wealth firms and fintechs.",
+   "source_url": "https://moment.com/series-c"
+  },
+  {
+   "id": "nourish-funding-2026-05-19",
+   "date": "2026-05-19",
+   "startup_id": "nourish",
+   "type": "funding",
+   "headline": "Nourish raised $100M Series C",
+   "summary": "Nourish is addressing the root cause of the chronic disease crisis through AI-powered, insurance-covered virtual nutrition care.",
+   "source_url": "https://www.finsmes.com/2026/05/nourish-raises-100m-series-c-funding.html"
+  },
+  {
+   "id": "ocean-email-funding-2026-05-19",
+   "date": "2026-05-19",
+   "startup_id": "ocean-email",
+   "type": "funding",
+   "headline": "Ocean raised $20M Series A",
+   "summary": "Ocean is the first Agentic Email Security platform built for a world of targeted, novel email attacks.",
+   "source_url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/"
+  },
+  {
+   "id": "stainless-acq-2026-05-18",
+   "date": "2026-05-18",
+   "startup_id": "stainless",
+   "type": "acquisition",
+   "headline": "Stainless acquired by Anthropic",
+   "summary": "Quality fittings for your REST API.",
+   "source_url": "https://startups.gallery/companies/stainless"
+  },
+  {
+   "id": "optura-funding-2026-05-14",
+   "date": "2026-05-14",
+   "startup_id": "optura",
+   "type": "funding",
+   "headline": "Optura raised $17.5M Series A",
+   "summary": "Optura is an AI orchestration company committed to transforming healthcare by unlocking the full potential of artificial intelligence.",
+   "source_url": "https://www.finsmes.com/2026/05/optura-raises-17-5m-in-series-a-funding.html"
+  },
+  {
+   "id": "vellum-ai-funding-2026-05-07",
+   "date": "2026-05-07",
+   "startup_id": "vellum-ai",
+   "type": "funding",
+   "headline": "Vellum raised $25M Series A",
+   "summary": "Vellum is building the platform where anyone can describe a goal in plain language and generate reliable, working agents in seconds (think \"Lovable for agents\" and \"Devin for everyone else\").",
+   "source_url": "https://www.businesswire.com/news/home/20250710009580/en/Vellum-Raises-%2420M-Series-A-to-Bring-Rigor-Speed-and-Reliability-to-Enterprise-AI-Development"
+  },
+  {
+   "id": "fun-funding-2026-05-01",
+   "date": "2026-05-01",
+   "startup_id": "fun",
+   "type": "funding",
+   "headline": "Fun raised $72M Series A",
+   "summary": "Global payments for modern fintechs.",
+   "source_url": "https://fun.xyz/news/series-a"
+  },
+  {
+   "id": "actively-ai-funding-2026-04-29",
+   "date": "2026-04-29",
+   "startup_id": "actively-ai",
+   "type": "funding",
+   "headline": "Actively raised $45M Series B",
+   "summary": "Actively transforms revenue teams from human-led execution to Intelligence-Led Revenue — a new way of running revenue where AI agents do the work humans cannot sustain at scale.",
+   "source_url": "https://www.linkedin.com/posts/actively-ai_we-just-raised-a-45m-series-b-because-the-activity-7454884706635894784-tK8W?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc"
+  },
+  {
+   "id": "rogo-funding-2026-04-29",
+   "date": "2026-04-29",
+   "startup_id": "rogo",
+   "type": "funding",
+   "headline": "Rogo raised $160M Series D",
+   "summary": "Rogo is the AI operating system for finance.",
+   "source_url": "https://www.finsmes.com/2026/04/rogo-raises-160m-in-series-d-funding.html"
+  },
+  {
+   "id": "manifest-os-funding-2026-04-28",
+   "date": "2026-04-28",
+   "startup_id": "manifest-os",
+   "type": "funding",
+   "headline": "Manifest OS raised $60M Series A",
+   "summary": "Manifest OS powers AI-native law firms built to redefine how legal services are delivered.",
+   "source_url": "https://manifestos.com/series-a"
+  },
+  {
+   "id": "monk-finance-funding-2026-04-21",
+   "date": "2026-04-21",
+   "startup_id": "monk-finance",
+   "type": "funding",
+   "headline": "Monk raised $25M Series A",
+   "summary": "Monk is an AI-native accounts receivable platform that turns contracts into cash.",
+   "source_url": "https://www.prnewswire.com/news-releases/monk-raises-25m-series-a-to-automate-accounts-receivable-with-ai-302748872.html"
+  },
+  {
+   "id": "textql-funding-2026-04-20",
+   "date": "2026-04-20",
+   "startup_id": "textql",
+   "type": "funding",
+   "headline": "TextQL raised $17M Venture",
+   "summary": "TextQL is redefining the way the world's most important industries build software and make critical, real-world decisions.",
+   "source_url": "https://textql.com/blog/textql-raises-17m-blackstone"
+  },
+  {
+   "id": "auctor-funding-2026-04-15",
+   "date": "2026-04-15",
+   "startup_id": "auctor",
+   "type": "funding",
+   "headline": "Auctor raised $20M Series A",
+   "summary": "Auctor is building the AI layer for professional services and software implementation.",
+   "source_url": "https://www.linkedin.com/posts/weihongsun_im-excited-to-share-that-auctor-has-raised-activity-7450211398351155200-_dJn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc"
+  },
+  {
+   "id": "bluefish-funding-2026-04-14",
+   "date": "2026-04-14",
+   "startup_id": "bluefish",
+   "type": "funding",
+   "headline": "Bluefish raised $43M Series B",
+   "summary": "Brand monitoring for the age of AI.",
+   "source_url": "https://www.finsmes.com/2026/04/bluefish-raises-43m-in-series-b-funding.html"
+  },
+  {
+   "id": "yuzu-funding-2026-04-07",
+   "date": "2026-04-07",
+   "startup_id": "yuzu",
+   "type": "funding",
+   "headline": "Yuzu raised $35M Series A",
+   "summary": "We're on a mission to simplify health plan administration from the ground up, starting with claims processing as a third-party administrator (TPA) for Plan Designers who create employer health insurance plans.",
+   "source_url": "https://www.finsmes.com/2026/04/yuzu-health-raises-35m-in-series-a-funding.html"
+  },
+  {
+   "id": "crosby-funding-2026-03-31",
+   "date": "2026-03-31",
+   "startup_id": "crosby",
+   "type": "funding",
+   "headline": "Crosby raised $60M Series B",
+   "summary": "Crosby is the hybrid AI law firm that helps businesses execute faster.",
+   "source_url": "https://www.tamradar.com/funding-rounds/crosby-series-b-60m"
+  },
+  {
+   "id": "fauna-robotics-acq-2026-03-25",
+   "date": "2026-03-25",
+   "startup_id": "fauna-robotics",
+   "type": "acquisition",
+   "headline": "Fauna Robotics acquired by Amazon",
+   "summary": "Robots for everyone.",
+   "source_url": "https://startups.gallery/companies/fauna-robotics"
+  },
+  {
+   "id": "normal-funding-2026-03-25",
+   "date": "2026-03-25",
+   "startup_id": "normal",
+   "type": "funding",
+   "headline": "Normal raised $50M Series B",
+   "summary": "At Normal, we're rewriting AI foundations to advance the frontier of reasoning and reliability in the physical world.",
+   "source_url": "https://siliconangle.com/2026/03/25/normal-computing-raises-50m-tackle-soaring-energy-demands-ai-chips/"
+  },
+  {
+   "id": "notch-cx-funding-2026-03-25",
+   "date": "2026-03-25",
+   "startup_id": "notch-cx",
+   "type": "funding",
+   "headline": "Notch raised $30M Series A",
+   "summary": "Notch builds AI agents for organizations operating in complex and regulated environments.",
+   "source_url": "https://www.finsmes.com/2026/03/notch-raises-30m-in-series-a-funding.html"
+  },
+  {
+   "id": "spade-funding-2026-03-24",
+   "date": "2026-03-24",
+   "startup_id": "spade",
+   "type": "funding",
+   "headline": "Spade raised $40M Series B",
+   "summary": "Spade is the only transaction data enrichment solution backed by real data.",
+   "source_url": "https://www.businesswire.com/news/home/20260324472369/en/Spade-Announces-%2440m-Series-B-Raise-to-Build-The-Data-and-AI-Platform-for-Modern-Finance"
+  },
+  {
+   "id": "stedi-funding-2026-03-24",
+   "date": "2026-03-24",
+   "startup_id": "stedi",
+   "type": "funding",
+   "headline": "Stedi raised $50M Series C",
+   "summary": "Stedi is the only programmable healthcare clearinghouse.",
+   "source_url": "https://www.stedi.com/blog/series-c"
+  },
+  {
+   "id": "dash0-funding-2026-03-23",
+   "date": "2026-03-23",
+   "startup_id": "dash0",
+   "type": "funding",
+   "headline": "Dash0 raised $110M Series B",
+   "summary": "Dash0 is the first AI-native observability platform, powered by Agent0 and built on the SIFT framework, a five-step pipeline for making telemetry data usable and actionable.",
+   "source_url": "https://siliconangle.com/2026/03/23/dash0-raises-110m-1b-valuation-change-cloud-observability-ai-agents/"
+  },
+  {
+   "id": "cloaked-funding-2026-03-19",
+   "date": "2026-03-19",
+   "startup_id": "cloaked",
+   "type": "funding",
+   "headline": "Cloaked raised $375M Series B",
+   "summary": "Cloaked is a privacy startup dedicated to rebuilding consumer trust in how personal data is used.",
+   "source_url": "https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/"
+  },
+  {
+   "id": "posh-funding-2026-03-19",
+   "date": "2026-03-19",
+   "startup_id": "posh",
+   "type": "funding",
+   "headline": "Posh raised $37M Series B",
+   "summary": "Posh is the events platform for the next generation of tastemakers.",
+   "source_url": "https://www.linkedin.com/posts/avanteprice_im-excited-to-announce-poshs-37m-series-activity-7440389153164427265-6MHh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc"
+  },
+  {
+   "id": "edra-ai-funding-2026-03-18",
+   "date": "2026-03-18",
+   "startup_id": "edra-ai",
+   "type": "funding",
+   "headline": "Edra raised $30M Series A",
+   "summary": "AI models are intelligent but generic.",
+   "source_url": "https://x.com/EugenAlpeza/status/2034274325969166675"
+  },
+  {
+   "id": "conduit-health-funding-2026-03-17",
+   "date": "2026-03-17",
+   "startup_id": "conduit-health",
+   "type": "funding",
+   "headline": "Conduit Health raised $17M Series A",
+   "summary": "Conduit Health makes it effortless for homebound patients to access medical supplies covered by their insurance—eliminating weeks of headaches with a vertically integrated digital front door.",
+   "source_url": "https://www.finsmes.com/2026/03/conduit-health-raises-17m-in-series-a-funding.html"
+  },
+  {
+   "id": "concurrence-funding-2026-03-10",
+   "date": "2026-03-10",
+   "startup_id": "concurrence",
+   "type": "funding",
+   "headline": "Concurrence raised $11M Series A",
+   "summary": "Concurrence (formerly known as Amigo) is the data and AI company creating empirical convergence on what works in healthcare.",
+   "source_url": "https://www.finsmes.com/2026/03/amigo-ai-raises-11m-in-series-a-funding.html"
+  },
+  {
+   "id": "sandbar-funding-2026-03-10",
+   "date": "2026-03-10",
+   "startup_id": "sandbar",
+   "type": "funding",
+   "headline": "Sandbar raised $23M Series A",
+   "summary": "Sandbar is an interface company in New York City.",
+   "source_url": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/"
+  },
+  {
+   "id": "linkup-funding-2026-03-03",
+   "date": "2026-03-03",
+   "startup_id": "linkup",
+   "type": "funding",
+   "headline": "Linkup raised $10M Seed",
+   "summary": "At Linkup, we get your AI off airplane mode and connect it to the internet with our state-of-the-art web search API.",
+   "source_url": "https://www.linkup.so/blog/linkup-raises-10m-seed-to-build-web-search-for-ai"
+  },
+  {
+   "id": "rodeo-friends-funding-2026-03-03",
+   "date": "2026-03-03",
+   "startup_id": "rodeo-friends",
+   "type": "funding",
+   "headline": "Rodeo raised $8.5M Seed",
+   "summary": "Rodeo is an app that wrangles your social life - helping you turn digital inspiration (screenshots, videos, social posts, websites, and more) into real plans with the people you love.",
+   "source_url": "https://startups.gallery/companies/rodeo-friends"
+  },
+  {
+   "id": "ease-funding-2026-03-02",
+   "date": "2026-03-02",
+   "startup_id": "ease",
+   "type": "funding",
+   "headline": "Ease raised $41M Series A",
+   "summary": "Ease Health is an AI-native CRM, EHR, and RCM platform built specifically for behavioral health providers.",
+   "source_url": "https://x.com/zachcohen25/status/2028517307077497037"
+  },
+  {
+   "id": "basis-funding-2026-02-24",
+   "date": "2026-02-24",
+   "startup_id": "basis",
+   "type": "funding",
+   "headline": "Basis raised $100M Series B",
+   "summary": "AI agents built specifically for accountants.",
+   "source_url": "https://www.getbasis.ai/blogs/basis-raises-100m-series-b-led-by-accel-and-google-ventures"
+  },
+  {
+   "id": "grottoai-funding-2026-02-19",
+   "date": "2026-02-19",
+   "startup_id": "grottoai",
+   "type": "funding",
+   "headline": "GrottoAI raised $10M Seed",
+   "summary": "Grotto is the AI platform that supercharges multifamily apartment teams during the moments that matter most.",
+   "source_url": "https://finance.yahoo.com/news/grotto-ai-raises-10m-seed-140000876.html"
+  },
+  {
+   "id": "anterior-funding-2026-02-12",
+   "date": "2026-02-12",
+   "startup_id": "anterior",
+   "type": "funding",
+   "headline": "Anterior raised $40M Series B",
+   "summary": "Anterior is the clinical AI platform built specifically for payers.",
+   "source_url": "https://startups.gallery/companies/anterior"
+  },
+  {
+   "id": "didero-ai-funding-2026-02-12",
+   "date": "2026-02-12",
+   "startup_id": "didero-ai",
+   "type": "funding",
+   "headline": "Didero raised $30M Series A",
+   "summary": "Didero is putting supply chains on autopilot, starting with direct goods procurement for physical supply chains.",
+   "source_url": "https://blog.didero.ai/blog/series-a-announcement"
+  },
+  {
+   "id": "vega-funding-2026-02-10",
+   "date": "2026-02-10",
+   "startup_id": "vega",
+   "type": "funding",
+   "headline": "Vega raised $125M Series B",
+   "summary": "AI-native security analytics.",
+   "source_url": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/"
+  },
+  {
+   "id": "ninedot-energy-funding-2026-02-09",
+   "date": "2026-02-09",
+   "startup_id": "ninedot-energy",
+   "type": "funding",
+   "headline": "NineDot Energy raised $431M debt financing (Natixis)",
+   "summary": "Develops and operates community-scale battery energy storage projects across New York City.",
+   "source_url": "https://www.businesswire.com/news/home/20260209595778/en/NineDot-Energy-Completes-%24431-Million-Financing-With-Natixis-Corporate-Investment-Banking-For-28-Battery-Energy-Storage-Projects-In-New-York-City"
+  },
+  {
+   "id": "osmo-ai-funding-2026-02-04",
+   "date": "2026-02-04",
+   "startup_id": "osmo-ai",
+   "type": "funding",
+   "headline": "Osmo raised $70M Series B",
+   "summary": "Osmo is a digital olfaction company, on a mission to give computers a sense of smell to improve the health and wellbeing of human life.",
+   "source_url": "https://www.finsmes.com/2026/02/osmo-raises-70m-in-series-b-funding.html"
+  },
+  {
+   "id": "mantis-biotech-funding-2026-01-29",
+   "date": "2026-01-29",
+   "startup_id": "mantis-biotech",
+   "type": "funding",
+   "headline": "Mantis Biotech raised $6.3M Seed",
+   "summary": "We are building a unified biomedical device testing and regulatory platform that connects every stage of product development from CAD design through simulation, bench testing, and verification to FDA Q-Submissions.",
+   "source_url": "https://www.linkedin.com/posts/mantis-biotech_mantis-is-excited-to-announce-the-conclusion-activity-7422805769076785152-8coU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc"
+  },
+  {
+   "id": "outtake-funding-2026-01-28",
+   "date": "2026-01-28",
+   "startup_id": "outtake",
+   "type": "funding",
+   "headline": "Outtake raised $40M Series B",
+   "summary": "The internet went agentic.",
+   "source_url": "https://www.finsmes.com/2026/01/outtake-raises-40m-in-series-b-funding.html"
+  },
+  {
+   "id": "flora-funding-2026-01-27",
+   "date": "2026-01-27",
+   "startup_id": "flora",
+   "type": "funding",
+   "headline": "FLORA raised $42M Series A",
+   "summary": "FLORA is an applied AI HCI company building the world’s most powerful creative tools.",
+   "source_url": "https://techcrunch.com/2026/01/27/node-based-design-tool-flora-raises-42m-from-redpoint-ventures/"
+  },
+  {
+   "id": "phia-funding-2026-01-27",
+   "date": "2026-01-27",
+   "startup_id": "phia",
+   "type": "funding",
+   "headline": "Phia raised $35M Series A",
+   "summary": "Phia is building the AI alignment layer between consumers and brands.",
+   "source_url": "https://www.streetinsider.com/Globe+Newswire/Phia+Raises+%2435M+Series+A+to+Build+the+AI+Alignment+Layer+for+Commerce/25898163.html"
+  },
+  {
+   "id": "cambio-funding-2026-01-26",
+   "date": "2026-01-26",
+   "startup_id": "cambio",
+   "type": "funding",
+   "headline": "Cambio raised $18M Series A",
+   "summary": "Cambio is a software platform for world-class real estate decarbonization.",
+   "source_url": "https://proptechconnect.com/cambio-announced-its-public-launch-and-18-million-in-series-a-funding/"
+  },
+  {
+   "id": "cosmos-funding-2026-01-20",
+   "date": "2026-01-20",
+   "startup_id": "cosmos",
+   "type": "funding",
+   "headline": "Cosmos raised $15M Series A",
+   "summary": "Cosmos is a creative platform that serves as a discovery engine for visual thinkers and makers.",
+   "source_url": "https://www.linkedin.com/posts/andymccune_today-marks-a-new-era-for-cosmos-were-activity-7419431049291538432-UNbW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc"
+  },
+  {
+   "id": "withcoverage-funding-2026-01-13",
+   "date": "2026-01-13",
+   "startup_id": "withcoverage",
+   "type": "funding",
+   "headline": "WithCoverage raised $42M Series B",
+   "summary": "WithCoverage provides ambitious businesses with a Modern Risk Management Solution.",
+   "source_url": "https://www.withcoverage.com/announcement"
+  },
+  {
+   "id": "torq-funding-2026-01-12",
+   "date": "2026-01-12",
+   "startup_id": "torq",
+   "type": "funding",
+   "headline": "Torq raised $140M Series D",
+   "summary": "Torq is a no-code automation platform for security and operations teams.",
+   "source_url": "https://www.finsmes.com/2026/01/torq-raises-140m-series-d-funding.html#google_vignette"
+  },
+  {
+   "id": "rain-xyz-funding-2026-01-09",
+   "date": "2026-01-09",
+   "startup_id": "rain-xyz",
+   "type": "funding",
+   "headline": "Rain raised $250M Series C",
+   "summary": "Rain develops and operates cutting edge digital asset authorization and settlement infrastructure in concert with its innovative payment card solutions.",
+   "source_url": "https://www.finsmes.com/2026/01/rain-raises-250m-in-series-c-funding.html"
+  },
+  {
+   "id": "autonomous-funding-2026-01-07",
+   "date": "2026-01-07",
+   "startup_id": "autonomous",
+   "type": "funding",
+   "headline": "Autonomous raised $15M Pre-Seed",
+   "summary": "ATG (Autonomous Technologies Group) is an AI lab deploying frontier reasoning systems within financial markets.",
+   "source_url": "https://www.businessinsider.com/atg-autonomous-technologies-y-combinator-15-million-ai-money-manager-2026-1"
+  },
+  {
+   "id": "graphite-acq-2025-12-19",
+   "date": "2025-12-19",
+   "startup_id": "graphite",
+   "type": "acquisition",
+   "headline": "Graphite acquired by Cursor",
+   "summary": "The developer productivity platform.",
+   "source_url": "https://startups.gallery/companies/graphite"
+  },
+  {
+   "id": "imprint-funding-2025-12-18",
+   "date": "2025-12-18",
+   "startup_id": "imprint",
+   "type": "funding",
+   "headline": "Imprint raised $150M Series D",
+   "summary": "Imprint is reimagining co-branded credit cards & financial products to be smarter, more rewarding, and truly brand-first.",
+   "source_url": "https://www.finsmes.com/2025/12/imprint-raises-150m-in-series-d-funding.html"
+  },
+  {
+   "id": "datalane-funding-2025-12-17",
+   "date": "2025-12-17",
+   "startup_id": "datalane",
+   "type": "funding",
+   "headline": "Datalane raised $22.5M Series A",
+   "summary": "DataLane delivers AI-powered market intelligence for revenue teams selling into the local economy.",
+   "source_url": "https://www.finsmes.com/2025/12/datalane-raises-22-5m-in-series-a-funding.html"
+  },
+  {
+   "id": "echo-funding-2025-12-16",
+   "date": "2025-12-16",
+   "startup_id": "echo",
+   "type": "funding",
+   "headline": "Echo raised $35M Series A",
+   "summary": "echo delivers secure cloud-native infrastructure through enterprise-grade clean container base images that integrate seamlessly into existing workflows.",
+   "source_url": "https://venturebeat.com/security/echo-raises-usd35m-to-secure-the-enterprise-clouds-base-layer-container"
+  },
+  {
+   "id": "sequence-funding-2025-12-16",
+   "date": "2025-12-16",
+   "startup_id": "sequence",
+   "type": "funding",
+   "headline": "Sequence raised $20M Series A",
+   "summary": "Acquired by Intuit on October 15, 2026.",
+   "source_url": "https://sequence-marketing-git-series-a-announcement-sequence-marketing.vercel.app/blog/sequence-announces-series-a"
+  },
+  {
+   "id": "esusu-funding-2025-12-11",
+   "date": "2025-12-11",
+   "startup_id": "esusu",
+   "type": "funding",
+   "headline": "Esusu raised $50M Series C",
+   "summary": "Reports on-time rent payments to credit bureaus so renters can build credit, plus rent-installment and rental-data tools.",
+   "source_url": "https://www.cnbc.com/2025/12/11/esusu-funding-renters-credit-scores.html"
+  },
+  {
+   "id": "oboe-funding-2025-12-10",
+   "date": "2025-12-10",
+   "startup_id": "oboe",
+   "type": "funding",
+   "headline": "Oboe raised $16M Series A",
+   "summary": "Oboe is the world’s first generalized AI-powered learning platform.",
+   "source_url": "https://techcrunch.com/2025/12/10/oboe-raises-16-million-from-a16z-for-its-ai-powered-course-generation-platform/"
+  },
+  {
+   "id": "the-general-intelligence-company-funding-2025-12-08",
+   "date": "2025-12-08",
+   "startup_id": "the-general-intelligence-company",
+   "type": "funding",
+   "headline": "The General Intelligence Company raised $8.7M Seed",
+   "summary": "The General Intelligence Company of New York is an artificial intelligence company taking advantage of upcoming AI developments.",
+   "source_url": "https://x.com/ndrewpignanelli/status/1998082328715841925"
+  },
+  {
+   "id": "fin-payments-funding-2025-12-04",
+   "date": "2025-12-04",
+   "startup_id": "fin-payments",
+   "type": "funding",
+   "headline": "Fin raised $17M Series A",
+   "summary": "Powered by stablecoins, Fin enables users and businesses to move millions of dollars in seconds - whether to other Fin users, directly into bank accounts, or across crypto rails.",
+   "source_url": "https://www.finsmes.com/2025/12/fin-raises-17m-in-series-a-funding.html"
+  },
+  {
+   "id": "supper-funding-2025-12-03",
+   "date": "2025-12-03",
+   "startup_id": "supper",
+   "type": "funding",
+   "headline": "Supper raised $11M Seed",
+   "summary": "Supper is reinventing the company data stack from the ground up.",
+   "source_url": "https://www.finsmes.com/2025/12/supper-raises-11m-in-seed-funding.html"
+  },
+  {
+   "id": "permitflow-funding-2025-12-02",
+   "date": "2025-12-02",
+   "startup_id": "permitflow",
+   "type": "funding",
+   "headline": "PermitFlow raised $54M Series B",
+   "summary": "PermitFlow is construction's AI workforce.",
+   "source_url": "https://www.businesswire.com/news/home/20251202551013/en/PermitFlow-Raises-%2454-Million-to-Solve-Constructions-Biggest-Bottlenecks-With-AI"
+  },
+  {
+   "id": "nevis-funding-2025-12-01",
+   "date": "2025-12-01",
+   "startup_id": "nevis",
+   "type": "funding",
+   "headline": "Nevis raised $35M Series A",
+   "summary": "Nevis is a purpose-built AI platform that helps financial advisors and their teams automate administrative workflows end-to-end.",
+   "source_url": "https://www.neviswealth.com/news/nevis-raised-40m/"
+  },
+  {
+   "id": "coplane-funding-2025-11-24",
+   "date": "2025-11-24",
+   "startup_id": "coplane",
+   "type": "funding",
+   "headline": "CoPlane raised $14M Seed",
+   "summary": "CoPlane is the AI intelligence layer for the back office, making enterprise operations autonomous and self-motivated.",
+   "source_url": "https://coplane.com/perspectives/announcing-seed-fundraise"
+  },
+  {
+   "id": "model-ml-funding-2025-11-24",
+   "date": "2025-11-24",
+   "startup_id": "model-ml",
+   "type": "funding",
+   "headline": "Model ML raised $75M Series A",
+   "summary": "Building digital teammates for finance.",
+   "source_url": "https://finance.yahoo.com/news/cfos-ai-transforming-finance-only-120010404.html"
+  },
+  {
+   "id": "agentio-funding-2025-11-18",
+   "date": "2025-11-18",
+   "startup_id": "agentio",
+   "type": "funding",
+   "headline": "Agentio raised $40M Series B",
+   "summary": "Agentio enables marketers to buy creator led ads as easily and scalably as Meta or Google ads—automating sourcing, pricing, contracting, delivery, and measurement—so work that took months now happens in minutes.",
+   "source_url": "https://techcrunch.com/2025/11/18/agentio-secures-40-million-from-forerunner-as-it-scales-its-creator-marketplace-beyond-youtube/"
+  },
+  {
+   "id": "flint-k12-funding-2025-11-06",
+   "date": "2025-11-06",
+   "startup_id": "flint-k12",
+   "type": "funding",
+   "headline": "Flint (K12) raised $15M Series A",
+   "summary": "Flint is the leading personalized learning platform built for schools, and proven to improve student outcomes and engagement.",
+   "source_url": "https://www.theolympian.com/press-releases/article312807882.html"
+  },
+  {
+   "id": "daylight-security-funding-2025-11-04",
+   "date": "2025-11-04",
+   "startup_id": "daylight-security",
+   "type": "funding",
+   "headline": "Daylight Security raised $33M Series A",
+   "summary": "Daylight Security is the leading provider of Managed Agentic Security Services, offering tailored MDR solutions that are delivered by Agentic AI and backed by elite human experts.",
+   "source_url": "https://techfundingnews.com/daylight-closes-33m-to-transform-cyber-security-with-autonomous-ai/"
+  },
+  {
+   "id": "parable-funding-2025-11-04",
+   "date": "2025-11-04",
+   "startup_id": "parable",
+   "type": "funding",
+   "headline": "Parable raised $16.5M Seed",
+   "summary": "Parable is building Enterprise Intelligence - the operational measurement infrastructure that gives organizations the same clarity on time that they have on money.",
+   "source_url": "https://www.forbes.com/sites/charliefink/2025/11/04/parable-raises-165-million-to-power-ai-transformation-with-real-data/"
+  },
+  {
+   "id": "aui-funding-2025-11-03",
+   "date": "2025-11-03",
+   "startup_id": "aui",
+   "type": "funding",
+   "headline": "AUI raised $20M Series A",
+   "summary": "AUI (Augmented Intelligence) is pioneering the next generation of conversational AI agents with Apollo.",
+   "source_url": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup"
+  },
+  {
+   "id": "bevel-health-funding-2025-10-30",
+   "date": "2025-10-30",
+   "startup_id": "bevel-health",
+   "type": "funding",
+   "headline": "Bevel Health raised $10M Series A",
+   "summary": "At Bevel, we’re on a mission to extend the universal health span.",
+   "source_url": "https://techcrunch.com/2025/10/30/bevel-raises-10m-series-a-from-general-catalyst-for-its-ai-health-companion/"
+  },
+  {
+   "id": "goodword-funding-2025-10-30",
+   "date": "2025-10-30",
+   "startup_id": "goodword",
+   "type": "funding",
+   "headline": "Goodword raised $4M Seed",
+   "summary": "For the connectors who know people are everything.",
+   "source_url": "https://www.linkedin.com/posts/caroline-dell_goodword-is-live-every-door-that-opened-activity-7389662616455131136-r20r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc"
+  },
+  {
+   "id": "kaizen-funding-2025-10-30",
+   "date": "2025-10-30",
+   "startup_id": "kaizen",
+   "type": "funding",
+   "headline": "Kaizen raised $21M Series A",
+   "summary": "Kaizen powers America’s application layer.",
+   "source_url": "https://www.axios.com/pro/enterprise-software-deals/2025/10/30/govtech-kaizen-commcere-21-million-series-a"
+  },
+  {
+   "id": "arya-health-funding-2025-10-29",
+   "date": "2025-10-29",
+   "startup_id": "arya-health",
+   "type": "funding",
+   "headline": "Arya Health raised $18.2M Series A",
+   "summary": "Arya Health builds AI-powered digital agents that eliminate the administrative burden in post-acute care — so caregivers and coordinators can focus on patients, not processes.",
+   "source_url": "https://www.axios.com/pro/health-tech-deals/2025/10/29/arya-health-raises-18m-for-ai-agents"
+  },
+  {
+   "id": "valthos-funding-2025-10-24",
+   "date": "2025-10-24",
+   "startup_id": "valthos",
+   "type": "funding",
+   "headline": "Valthos raised $30M Seed",
+   "summary": "We develop frontier AI systems that identify biological threats and design medical countermeasures in real time.",
+   "source_url": "https://www.geo.tv/amp/630288-openai-funds-biosecurity-startup-valthos-to-stop-ai-engineered-pandemics"
+  },
+  {
+   "id": "shopmy-funding-2025-10-22",
+   "date": "2025-10-22",
+   "startup_id": "shopmy",
+   "type": "funding",
+   "headline": "ShopMy raised $70M Venture",
+   "summary": "ShopMy is a premium, all-in-one, creator-centric ecosystem connecting top brands and influential creators.",
+   "source_url": "https://www.prnewswire.com/news-releases/shopmy-raises-70m-at-1-5-billion-valuation-to-scale-the-curated-commerce-infrastructure-for-premium-brands-tastemakers-and-shoppers-302590802.html"
+  },
+  {
+   "id": "starbridge-funding-2025-10-22",
+   "date": "2025-10-22",
+   "startup_id": "starbridge",
+   "type": "funding",
+   "headline": "Starbridge raised $42M Series A",
+   "summary": "Starbridge helps go-to-market teams win in the public sector.",
+   "source_url": "https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/"
+  },
+  {
+   "id": "daylight-funding-2025-10-16",
+   "date": "2025-10-16",
+   "startup_id": "daylight",
+   "type": "funding",
+   "headline": "Daylight raised $75M Venture",
+   "summary": "Daylight is the decentralized energy company, built for the people who power it.",
+   "source_url": "https://blog.godaylight.com/daylight-fundraise"
+  },
+  {
+   "id": "strella-funding-2025-10-16",
+   "date": "2025-10-16",
+   "startup_id": "strella",
+   "type": "funding",
+   "headline": "Strella raised $14M Series A",
+   "summary": "Strella is an end-to-end customer research platform that uses AI to deliver human insights 10x faster, so teams can make smarter decisions in hours, not weeks.",
+   "source_url": "https://www.strella.io/blog/series-a"
+  },
+  {
+   "id": "good-start-labs-funding-2025-10-15",
+   "date": "2025-10-15",
+   "startup_id": "good-start-labs",
+   "type": "funding",
+   "headline": "Good Start Labs raised $3.6M Seed",
+   "summary": "Good Start teaches AI models to play games in order to generate high-quality reinforcement learning data for frontier labs.",
+   "source_url": "https://every.to/on-every/our-new-incubation-raised-3-6-million-to-teach-ais-to-play-games"
+  },
+  {
+   "id": "finchlegal-funding-2025-10-14",
+   "date": "2025-10-14",
+   "startup_id": "finchlegal",
+   "type": "funding",
+   "headline": "Finch (Legal) raised $20M Series A",
+   "summary": "Finch is the first AI-powered pre-litigation team for personal injury.",
+   "source_url": "https://www.cooley.com/news/coverage/2025/2025-10-15-finch-raises-$20-million-series-a"
+  },
+  {
+   "id": "marble-health-funding-2025-10-14",
+   "date": "2025-10-14",
+   "startup_id": "marble-health",
+   "type": "funding",
+   "headline": "Marble Health raised $15.5M Series A",
+   "summary": "Marble Health strengthens the mental health of students and families by creating comprehensive support systems that connect schools, families, and therapists.",
+   "source_url": "https://www.prnewswire.com/news-releases/marble-raises-15-5m-series-a-to-scale-access-to-youth-mental-health-care-302583202.html"
+  },
+  {
+   "id": "reflection-funding-2025-10-10",
+   "date": "2025-10-10",
+   "startup_id": "reflection",
+   "type": "funding",
+   "headline": "Reflection raised $2B Series B",
+   "summary": "Frontier open intelligence accessible to all.",
+   "source_url": "https://www.reuters.com/business/nvidia-backed-reflection-ai-raises-2-billion-funding-boosts-valuation-8-billion-2025-10-09/"
+  },
+  {
+   "id": "dualentry-funding-2025-10-02",
+   "date": "2025-10-02",
+   "startup_id": "dualentry",
+   "type": "funding",
+   "headline": "DualEntry raised $90M Series A",
+   "summary": "DualEntry is the leading AI-native ERP, built by and for accountants.",
+   "source_url": "https://www.dualentry.com/funding-announcement"
+  },
+  {
+   "id": "lunos-funding-2025-09-30",
+   "date": "2025-09-30",
+   "startup_id": "lunos",
+   "type": "funding",
+   "headline": "Lunos raised $5M Pre-Seed",
+   "summary": "Lunos is building an agent-to-agent network for B2B payments.",
+   "source_url": "https://www.linkedin.com/posts/duncanbarrigan_today-im-proud-to-share-that-lunos-is-officially-activity-7378763298055401472-suit?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc"
+  },
+  {
+   "id": "vibe-funding-2025-09-30",
+   "date": "2025-09-30",
+   "startup_id": "vibe",
+   "type": "funding",
+   "headline": "Vibe raised $50M Series B",
+   "summary": "Vibe was acquired by Walmart on June 26, 2026.",
+   "source_url": "https://www.vibe.co/blog/whats-new/vibe-co-raises-50m-series-b-hits-410m-valuation-100m-arr-in-under-2-years"
+  },
+  {
+   "id": "doorstep-funding-2025-09-25",
+   "date": "2025-09-25",
+   "startup_id": "doorstep",
+   "type": "funding",
+   "headline": "Doorstep raised $8M Seed",
+   "summary": "Doorstep provides hyper-precise indoor tracking, giving delivery platforms real-time visibility into the most crucial step of last-mile operations—the drop-off.",
+   "source_url": "https://techcrunch.com/2025/09/25/doorstep-raises-8m-seed-to-help-find-missing-food-deliveries/"
+  },
+  {
+   "id": "centari-funding-2025-09-18",
+   "date": "2025-09-18",
+   "startup_id": "centari",
+   "type": "funding",
+   "headline": "Centari raised $8.4M Series A",
+   "summary": "Centari is the Deal Intelligence platform for law and finance.",
+   "source_url": "https://www.law.com/2025/09/18/contract-review-platform-centari-announces-14m-in-series-a-funding/"
+  },
+  {
+   "id": "aleph-funding-2025-09-17",
+   "date": "2025-09-17",
+   "startup_id": "aleph",
+   "type": "funding",
+   "headline": "Aleph raised $29M Series B",
+   "summary": "Aleph helps top finance teams work with their data in real time.",
+   "source_url": "https://www.linkedin.com/feed/update/urn:li:activity:7374094855846854656/?hsCtaAttrib=196141229349"
+  },
+  {
+   "id": "birches-health-funding-2025-09-16",
+   "date": "2025-09-16",
+   "startup_id": "birches-health",
+   "type": "funding",
+   "headline": "Birches Health raised $20M Series A",
+   "summary": "At Birches Health, we’re beating the online gambling epidemic with virtual therapy for gambling addiction from specialized clinicians.",
+   "source_url": "https://www.globenewswire.com/news-release/2025/09/16/3150865/0/en/Birches-Health-Announces-20M-Investment-From-AlleyCorp-General-Catalyst-and-Will-Ventures-to-Lead-Fight-Against-Gambling-Addiction.html"
+  },
+  {
+   "id": "tabs-funding-2025-09-16",
+   "date": "2025-09-16",
+   "startup_id": "tabs",
+   "type": "funding",
+   "headline": "Tabs raised $55M Series B",
+   "summary": "Tabs is an AI-native revenue platform for modern finance and accounting teams.",
+   "source_url": "https://www.businesswire.com/news/home/20250915745370/en/Tabs-Raises-%2455M-Series-B-Led-by-Lightspeed-to-Bring-AI-Agents-to-the-CFOs-Office"
+  },
+  {
+   "id": "greenlite-permitting-funding-2025-09-15",
+   "date": "2025-09-15",
+   "startup_id": "greenlite-permitting",
+   "type": "funding",
+   "headline": "GreenLite raised $49.5M Series B",
+   "summary": "GreenLite is transforming how America builds by streamlining the permitting process for developers, builders, and local governments.",
+   "source_url": "https://www.prnewswire.com/news-releases/greenlite-raises-49-5m-series-b-to-advance-the-privatization-of-construction-permitting-with-ai-powered-solutions-302555315.html"
+  },
+  {
+   "id": "via-other-2025-09-12",
+   "date": "2025-09-12",
+   "startup_id": "via",
+   "type": "other",
+   "headline": "Via goes public: $493M IPO (NYSE: VIA)",
+   "summary": "Software and operations for public transit agencies and cities: on-demand transit, paratransit, school transport and planning (owns Citymapper).",
+   "source_url": "https://www.reuters.com/technology/via-transportation-raises-493-million-us-ipo-valued-365-billion-2025-09-12/"
+  },
+  {
+   "id": "euclid-funding-2025-09-05",
+   "date": "2025-09-05",
+   "startup_id": "euclid",
+   "type": "funding",
+   "headline": "Euclid raised $20M Series A",
+   "summary": "At Euclid, we’re on a mission to accelerate the world’s transition to renewable energy so that we can decarbonize the planet as fast as possible.",
+   "source_url": "https://www.euclidpower.com/series-a"
+  },
+  {
+   "id": "m0-funding-2025-08-29",
+   "date": "2025-08-29",
+   "startup_id": "m0",
+   "type": "funding",
+   "headline": "M0 raised $40M Series B",
+   "summary": "At M0 we are building the digital money infrastructure of the future.",
+   "source_url": "https://www.finsmes.com/2025/08/m0-raises-40m-in-series-b-funding.html"
+  },
+  {
+   "id": "dirac-funding-2025-08-21",
+   "date": "2025-08-21",
+   "startup_id": "dirac",
+   "type": "funding",
+   "headline": "Dirac raised $10.7M Seed",
+   "summary": "Dirac's platform, BuildOS, automatically generates high quality work instructions for mechanical assemblies.",
+   "source_url": "https://www.businessinsider.com/siemens-dirac-partnership-ai-machinery-assembly-coatue-funding-2025-8"
+  },
+  {
+   "id": "keychain-funding-2025-08-19",
+   "date": "2025-08-19",
+   "startup_id": "keychain",
+   "type": "funding",
+   "headline": "Keychain raised $30M Series B",
+   "summary": "Keychain is building the world's first comprehensive platform for the $3 trillion consumer packaged goods industry.",
+   "source_url": "https://techcrunch.com/2025/08/19/cpg-startup-keychain-snags-30m-to-build-in-india-grow-in-the-u-s/"
+  },
+  {
+   "id": "tensorzero-funding-2025-08-19",
+   "date": "2025-08-19",
+   "startup_id": "tensorzero",
+   "type": "funding",
+   "headline": "TensorZero raised $7.3M Seed",
+   "summary": "TensorZero is an open-source framework for building production-grade LLM applications.",
+   "source_url": "https://www.finsmes.com/2025/08/tensorzero-raises-7-3m-in-seed-funding.html"
+  },
+  {
+   "id": "basic-capital-funding-2025-08-18",
+   "date": "2025-08-18",
+   "startup_id": "basic-capital",
+   "type": "funding",
+   "headline": "Basic Capital raised $25M Series A",
+   "summary": "Basic Capital is a fintech company disrupting America’s $1T retirement industry by building the mortgage for retirement, unlocking market ownership, and making wealth accessible to every American.",
+   "source_url": "https://x.com/getbasiccapital/status/1957468136510271531"
+  },
+  {
+   "id": "veris-ai-funding-2025-08-15",
+   "date": "2025-08-15",
+   "startup_id": "veris-ai",
+   "type": "funding",
+   "headline": "Veris AI raised $8.5M Seed",
+   "summary": "Veris AI builds high-fidelity simulation environments that let enterprise agents learn by doing.",
+   "source_url": "https://pulse2.com/veris-ai-8-5-million-raised-for-training-ai-agents/"
+  },
+  {
+   "id": "sola-ai-funding-2025-08-14",
+   "date": "2025-08-14",
+   "startup_id": "sola-ai",
+   "type": "funding",
+   "headline": "Sola raised $17M Series A",
+   "summary": "Sola is the AI-native platform redefining automation, enabling the enterprises of tomorrow to automate workflows with intelligent agents beyond the limits of traditional RPA.",
+   "source_url": "https://x.com/NeilDeshmukh/status/1956013918532325742"
+  },
+  {
+   "id": "continua-ai-funding-2025-08-12",
+   "date": "2025-08-12",
+   "startup_id": "continua-ai",
+   "type": "funding",
+   "headline": "Continua raised $8M Seed",
+   "summary": "Continua is pioneering Social AI, creating the first artificial intelligence designed to enhance group conversations and collaboration.",
+   "source_url": "https://techcrunch.com/2025/08/12/google-vet-raises-8m-for-continua-to-bring-ai-agents-to-group-chats/"
+  },
+  {
+   "id": "endex-funding-2025-08-06",
+   "date": "2025-08-06",
+   "startup_id": "endex",
+   "type": "funding",
+   "headline": "Endex raised $14M Seed",
+   "summary": "Endex is the first AI agent to operate natively inside Excel.",
+   "source_url": "https://x.com/TarunAmasa/status/1953130965355905140"
+  },
+  {
+   "id": "tavily-funding-2025-08-06",
+   "date": "2025-08-06",
+   "startup_id": "tavily",
+   "type": "funding",
+   "headline": "Tavily raised $20M Series A",
+   "summary": "Tavily was acquired by Nebius on August 21, 2026.",
+   "source_url": "https://techcrunch.com/2025/08/06/tavily-raises-25m-to-connect-ai-agents-to-the-web/"
+  },
+  {
+   "id": "august-funding-2025-08-05",
+   "date": "2025-08-05",
+   "startup_id": "august",
+   "type": "funding",
+   "headline": "August raised $7M Seed",
+   "summary": "We train August so it works like you do.",
+   "source_url": "https://www.businesswire.com/news/home/20250805452796/en/August-Raises-%247M-to-Deliver-Configurable-Legal-AI-to-Midsize-Firms"
+  },
+  {
+   "id": "noma-security-funding-2025-07-31",
+   "date": "2025-07-31",
+   "startup_id": "noma-security",
+   "type": "funding",
+   "headline": "Noma Security raised $100M Series B",
+   "summary": "Noma is building the first comprehensive AI Security and Governance Platform, helping organizations adopt AI and LLMs with confidence and control.",
+   "source_url": "https://www.prnewswire.com/news-releases/noma-security-raises-100m-to-drive-adoption-of-ai-agent-security-302518641.html"
+  },
+  {
+   "id": "offdeal-funding-2025-07-29",
+   "date": "2025-07-29",
+   "startup_id": "offdeal",
+   "type": "funding",
+   "headline": "OffDeal raised $12M Series A",
+   "summary": "OffDeal is an AI-native investment bank for small businesses.",
+   "source_url": "https://offdeal.io/news/offdeal-series-a-funding-radical-ventures-2025"
+  },
+  {
+   "id": "wingspan-funding-2025-07-29",
+   "date": "2025-07-29",
+   "startup_id": "wingspan",
+   "type": "funding",
+   "headline": "Wingspan raised $24M Series B",
+   "summary": "Wingspan is the first payroll platform purpose-built for contractor management.",
+   "source_url": "https://www.finsmes.com/2025/07/wingspan-raises-24m-in-series-b-funding.html"
+  },
+  {
+   "id": "april-tax-funding-2025-07-24",
+   "date": "2025-07-24",
+   "startup_id": "april-tax",
+   "type": "funding",
+   "headline": "april raised $38M Series B",
+   "summary": "april is the only embedded, year-round tax platform built to power smarter financial decisions.",
+   "source_url": "https://www.thesaasnews.com/news/april-raises-38-million-in-series-b"
+  },
+  {
+   "id": "fortuna-health-funding-2025-07-21",
+   "date": "2025-07-21",
+   "startup_id": "fortuna-health",
+   "type": "funding",
+   "headline": "Fortuna Health raised $18M Series A",
+   "summary": "At Fortuna Health, we’re rebuilding the consumer experience for Medicaid.",
+   "source_url": "https://www.finsmes.com/2025/07/fortuna-health-raises-18m-in-series-a-funding.html"
+  },
+  {
+   "id": "radical-ai-funding-2025-07-18",
+   "date": "2025-07-18",
+   "startup_id": "radical-ai",
+   "type": "funding",
+   "headline": "Radical AI raised $55M Seed",
+   "summary": "Radical AI is replacing an R&D process that currently takes 10+ years and $100 million to produce a single discovery.",
+   "source_url": "https://www.radical-ai.com/news/series-seed"
+  },
+  {
+   "id": "fauna-robotics-funding-2025-07-10",
+   "date": "2025-07-10",
+   "startup_id": "fauna-robotics",
+   "type": "funding",
+   "headline": "Fauna Robotics raised $30M Seed",
+   "summary": "Fauna Robotics was acquired by Amazon on March 25, 2026.",
+   "source_url": "https://www.linkedin.com/posts/fauna-robotics_weve-raised-30m-to-build-robots-that-thrive-activity-7315130268774748160-S8Xe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc"
+  },
+  {
+   "id": "padel-haus-funding-2025-07-09",
+   "date": "2025-07-09",
+   "startup_id": "padel-haus",
+   "type": "funding",
+   "headline": "Padel Haus raised $7M Series B",
+   "summary": "Padel Haus is a premium indoor padel tennis club with locations in NYC, Nashville, Atlanta, and Denver.",
+   "source_url": "https://athletechnews.com/padel-haus-closes-7m-series-b-to-triple-footprint/"
+  },
+  {
+   "id": "polimorphic-funding-2025-07-09",
+   "date": "2025-07-09",
+   "startup_id": "polimorphic",
+   "type": "funding",
+   "headline": "Polimorphic raised $18.6M Series A",
+   "summary": "AI front desk, case management and CRM software that helps local governments serve residents online in 75+ languages.",
+   "source_url": "https://www.businesswire.com/news/home/20250709269358/en/Polimorphic-Announces-%2418.6-Million-Series-A-Led-by-General-Catalyst-to-Drive-Government-Efficiency-with-AI"
+  },
+  {
+   "id": "ekho-funding-2025-07-08",
+   "date": "2025-07-08",
+   "startup_id": "ekho",
+   "type": "funding",
+   "headline": "Ekho raised $17.3M Series A",
+   "summary": "Ekho is the commerce infrastructure for titled vehicle dealerships, OEMs, and dealer groups.",
+   "source_url": "https://www.ekho.com/blog/ekho-raises-17-3m-from-activant-jpmorgan-payments-winnebago-and-yc/"
+  },
+  {
+   "id": "tennr-funding-2025-06-18",
+   "date": "2025-06-18",
+   "startup_id": "tennr",
+   "type": "funding",
+   "headline": "Tennr raised $101M Series C",
+   "summary": "Tennr takes healthcare providers from fax to first visit, faster.",
+   "source_url": "https://www.finsmes.com/2025/06/tennr-raises-101m-in-series-c-funding.html"
+  },
+  {
+   "id": "alta-funding-2025-06-16",
+   "date": "2025-06-16",
+   "startup_id": "alta",
+   "type": "funding",
+   "headline": "Alta raised $11M Seed",
+   "summary": "Alta is a personal style companion that simplifies the daily decision of what to wear, offering stress-free outfit suggestions based on your preferences and daily activities.",
+   "source_url": "https://techcrunch.com/2025/06/16/alta-raises-11m-to-bring-clueless-fashion-tech-to-life-with-all-star-investors/"
+  },
+  {
+   "id": "antimetal-funding-2025-06-12",
+   "date": "2025-06-12",
+   "startup_id": "antimetal",
+   "type": "funding",
+   "headline": "Antimetal raised $20M Series A",
+   "summary": "We believe the real challenge in software is no longer writing code—it’s maintaining it.",
+   "source_url": "https://x.com/mprkhrst/status/1933186363127390487"
+  },
+  {
+   "id": "ai-work-funding-2025-06-10",
+   "date": "2025-06-10",
+   "startup_id": "ai-work",
+   "type": "funding",
+   "headline": "ai.work raised $10M Seed",
+   "summary": "a.work was acquired by ServiceNow on July 1, 2026.",
+   "source_url": "https://www.ai.work/blog/seed-announcement"
+  },
+  {
+   "id": "turnkey-funding-2025-06-09",
+   "date": "2025-06-09",
+   "startup_id": "turnkey",
+   "type": "funding",
+   "headline": "Turnkey raised $30M Series B",
+   "summary": "Turnkey provides secure, scalable, and programmable crypto infrastructure for embedded wallets and onchain transaction automation.",
+   "source_url": "https://www.finsmes.com/2025/06/turnkey-raises-30m-in-series-b-funding.html"
+  },
+  {
+   "id": "thread-ai-funding-2025-06-05",
+   "date": "2025-06-05",
+   "startup_id": "thread-ai",
+   "type": "funding",
+   "headline": "Thread AI raised $20M Series A",
+   "summary": "Thread AI’s goal is to make infrastructure simple for enterprises and public sector agencies seeking to get the most from AI.",
+   "source_url": "https://fortune.com/2025/06/05/thread-ai-startup-palantir-infrastructure-series-a/"
+  },
+  {
+   "id": "agentsmyth-funding-2025-06-02",
+   "date": "2025-06-02",
+   "startup_id": "agentsmyth",
+   "type": "funding",
+   "headline": "AgentSmyth raised $8.7M Seed",
+   "summary": "AgentSmyth operates with precision: every move is deliberate, every outcome optimized.",
+   "source_url": "https://www.businesswire.com/news/home/20250602787210/en/AgentSmyth-Raises-%248.7M-Seed-Round-From-FinTech-Collective-Thomson-Reuters-and-Others-to-Scale-Autonomous-Agent-Platform-for-Trading-and-Investment"
+  },
+  {
+   "id": "rally-funding-2025-06-02",
+   "date": "2025-06-02",
+   "startup_id": "rally",
+   "type": "funding",
+   "headline": "Rally raised $11M Series A",
+   "summary": "Rally is a User Research CRM that makes it easy for teams to do research with their users.",
+   "source_url": "https://www.rallyuxr.com/post/rally-raises-11m-to-supercharge-the-future-of-user-research"
+  },
+  {
+   "id": "superblocks-funding-2025-05-27",
+   "date": "2025-05-27",
+   "startup_id": "superblocks",
+   "type": "funding",
+   "headline": "Superblocks raised $23M Series A",
+   "summary": "Superblocks is the only internal app generation platform powering mission critical operations at global enterprises like Instacart, Credit Karma, and Carrier.",
+   "source_url": "https://siliconangle.com/2025/05/27/exclusive-superblocks-raises-23m-rein-wild-west-vibe-coding/"
+  },
+  {
+   "id": "mura-funding-2025-05-20",
+   "date": "2025-05-20",
+   "startup_id": "mura",
+   "type": "funding",
+   "headline": "Mura raised $6M Seed",
+   "summary": "We help commercial field service companies grow – with your current systems.",
+   "source_url": "https://www.businesswire.com/news/home/20250520307500/en/Mura-Emerges-From-Stealth-with-%246-Million-in-Seed-Funding-to-Automate-Commercial-Field-Service-Operations-with-AI"
+  },
+  {
+   "id": "cartwheel-funding-2025-05-15",
+   "date": "2025-05-15",
+   "startup_id": "cartwheel",
+   "type": "funding",
+   "headline": "Cartwheel raised $10M Seed",
+   "summary": "Cartwheel is a powerful new way to animate characters for games, films, ads, or social.",
+   "source_url": "https://www.forbes.com/sites/charliefink/2025/05/15/ai-startup-cartwheel-led-by-openai-and-google-veterans-raises-10-million-to-simplify-3d-animation/"
+  },
+  {
+   "id": "doji-funding-2025-05-15",
+   "date": "2025-05-15",
+   "startup_id": "doji",
+   "type": "funding",
+   "headline": "Doji raised $14M Seed",
+   "summary": "We created Doji because as fashion lovers we were missing a place for exploration, creativity and authenticity when shopping.",
+   "source_url": "https://techcrunch.com/2025/05/15/doji-raises-14m-to-make-virtual-try-ons-fun-through-ai-avatars/"
+  },
+  {
+   "id": "stash-funding-2025-05-12",
+   "date": "2025-05-12",
+   "startup_id": "stash",
+   "type": "funding",
+   "headline": "Stash raised $146M Series H",
+   "summary": "Subscription investing and banking app for everyday savers, with an AI 'Money Coach' for financial guidance.",
+   "source_url": "https://www.prnewswire.com/news-releases/with-4-3b-under-management-stash-secures-146m-series-h-to-lead-the-next-era-of-ai-driven-financial-guidance-302451796.html"
+  },
+  {
+   "id": "structify-ai-funding-2025-04-30",
+   "date": "2025-04-30",
+   "startup_id": "structify-ai",
+   "type": "funding",
+   "headline": "Structify raised $4M Seed",
+   "summary": "We handle turning messy and disparate sources into clean datasets, so you can focus on getting the insights you need.",
+   "source_url": "https://www.finsmes.com/2025/04/structify-raises-4-1m-in-seed-funding.html"
+  },
+  {
+   "id": "theo-funding-2025-04-24",
+   "date": "2025-04-24",
+   "startup_id": "theo",
+   "type": "funding",
+   "headline": "Theo raised $20M Seed",
+   "summary": "Theo is decentralized trading infrastructure delivering superior order execution, seamless access to on- and offchain markets, and liquid counterparties.",
+   "source_url": "https://www.finsmes.com/2025/04/theo-raises-20m-in-funding.html"
+  },
+  {
+   "id": "spur-funding-2025-04-17",
+   "date": "2025-04-17",
+   "startup_id": "spur",
+   "type": "funding",
+   "headline": "Spur raised $4.5M Seed",
+   "summary": "Never write another test.",
+   "source_url": "https://www.businessinsider.com/yale-alumni-spur-funding-ai-agent-startup-2025-4"
+  },
+  {
+   "id": "crux-funding-2025-04-16",
+   "date": "2025-04-16",
+   "startup_id": "crux",
+   "type": "funding",
+   "headline": "Crux raised $50M Series B",
+   "summary": "Crux is the capital platform for the clean economy.",
+   "source_url": "https://www.finsmes.com/2025/04/crux-raises-50m-in-series-b-funding.html"
+  },
+  {
+   "id": "oro-funding-2025-04-16",
+   "date": "2025-04-16",
+   "startup_id": "oro",
+   "type": "funding",
+   "headline": "ORO raised $6M Seed",
+   "summary": "ORO is a human intelligence protocol unlocking high-quality private data for frontier AI.",
+   "source_url": "https://startups.gallery/companies/oro"
+  },
+  {
+   "id": "fern-sdk-funding-2025-04-10",
+   "date": "2025-04-10",
+   "startup_id": "fern-sdk",
+   "type": "funding",
+   "headline": "Fern raised $9M Series A",
+   "summary": "Instant docs and SDKs for your API.",
+   "source_url": "https://buildwithfern.com/post/series-a"
+  },
+  {
+   "id": "honeyhive-funding-2025-04-08",
+   "date": "2025-04-08",
+   "startup_id": "honeyhive",
+   "type": "funding",
+   "headline": "HoneyHive raised $7.4M Seed",
+   "summary": "HoneyHive is the leading AI observability and evaluation platform, trusted by next-gen AI startups to Fortune 100 enterprises.",
+   "source_url": "https://www.honeyhive.ai/post/honeyhive-raises-7-4m"
+  },
+  {
+   "id": "codex-funding-2025-04-04",
+   "date": "2025-04-04",
+   "startup_id": "codex",
+   "type": "funding",
+   "headline": "Codex raised $16M Seed",
+   "summary": "Codex FX is a stablecoin-powered FX platform for businesses moving between fiat and stablecoins.",
+   "source_url": "https://fortune.com/crypto/2025/04/04/codex-seed-round-dragonfly-coinbase-circle-15-8-million/?haonan"
+  },
+  {
+   "id": "runwayml-funding-2025-04-03",
+   "date": "2025-04-03",
+   "startup_id": "runwayml",
+   "type": "funding",
+   "headline": "Runway raised $308M Series D",
+   "summary": "We are building AI to simulate the world through merging art and science.",
+   "source_url": "https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-308m/"
+  },
+  {
+   "id": "plural-funding-2025-03-26",
+   "date": "2025-03-26",
+   "startup_id": "plural",
+   "type": "funding",
+   "headline": "Plural raised $6M Seed",
+   "summary": "Plural is designed for DevOps and platform engineering teams to automate and streamline the lifecycle management of Kubernetes fleets.",
+   "source_url": "https://techcrunch.com/2025/03/25/plurals-platform-allows-enterprises-to-manage-their-kubernetes-clusters-in-one-place/"
+  },
+  {
+   "id": "silna-funding-2025-03-25",
+   "date": "2025-03-25",
+   "startup_id": "silna",
+   "type": "funding",
+   "headline": "Silna raised $27M Series A",
+   "summary": "Introducing the industry's first Care Readiness Platform.",
+   "source_url": "https://www.axios.com/pro/health-tech-deals/2025/03/25/silna-health-raises-27m-revenue-automation-rcm"
+  },
+  {
+   "id": "campus-funding-2025-03-20",
+   "date": "2025-03-20",
+   "startup_id": "campus",
+   "type": "funding",
+   "headline": "Campus raised $46M Series B",
+   "summary": "Campus is on a mission to maximize access to a world-class education.",
+   "source_url": "https://campus.edu/blog/press-release/general-catalyst-leads-46-million-investment-in-2-year-college-built-for-gen-z"
+  },
+  {
+   "id": "privy-funding-2025-03-19",
+   "date": "2025-03-19",
+   "startup_id": "privy",
+   "type": "funding",
+   "headline": "Privy raised $15M Venture",
+   "summary": "Easily onboard your users to web3 with a simple, robust library.",
+   "source_url": "https://startups.gallery/companies/privy"
+  },
+  {
+   "id": "graphite-funding-2025-03-18",
+   "date": "2025-03-18",
+   "startup_id": "graphite",
+   "type": "funding",
+   "headline": "Graphite raised $52M Series B",
+   "summary": "Graphite was acquired by Cursor on December 19, 2025.",
+   "source_url": "https://techcrunch.com/2025/03/18/anthropic-backed-ai-powered-code-review-platform-graphite-raises-cash/"
+  },
+  {
+   "id": "firsthand-funding-2025-03-07",
+   "date": "2025-03-07",
+   "startup_id": "firsthand",
+   "type": "funding",
+   "headline": "Firsthand raised $26M Series A",
+   "summary": "Firsthand has built the first AI-powered Brand Agent platform, transforming the way marketers and publishers engage consumers through their own AI agents, anywhere online.",
+   "source_url": "https://www.finsmes.com/2025/03/firsthand-raises-26m-in-series-a-funding.html"
+  },
+  {
+   "id": "viam-funding-2025-03-03",
+   "date": "2025-03-03",
+   "startup_id": "viam",
+   "type": "funding",
+   "headline": "Viam raised $30M Series C",
+   "summary": "Viam helps companies unlock the power of AI, data and automation in the physical world.",
+   "source_url": "https://www.viam.com/post/series-c"
+  },
+  {
+   "id": "camber-funding-2025-02-26",
+   "date": "2025-02-26",
+   "startup_id": "camber",
+   "type": "funding",
+   "headline": "Camber raised $30M Series B",
+   "summary": "Camber is on a mission to revolutionize the healthcare reimbursement system by reducing the significant administrative burden on healthcare clinics and families.",
+   "source_url": "https://www.axios.com/pro/health-tech-deals/2025/02/26/camber-raises-30m-medical-claims-automation-billing-rcm"
+  },
+  {
+   "id": "revel-funding-2025-02-10",
+   "date": "2025-02-10",
+   "startup_id": "revel",
+   "type": "funding",
+   "headline": "Revel raised Up to $60M debt (NY Green Bank)",
+   "summary": "Builds and operates public EV fast-charging hubs and an all-electric rideshare fleet in New York City.",
+   "source_url": "https://techcrunch.com/2025/02/10/revel-nabs-60m-in-new-york-state-funding-to-build-more-ev-chargers/"
+  },
+  {
+   "id": "brigit-acquisition-2025-01-31",
+   "date": "2025-01-31",
+   "startup_id": "brigit",
+   "type": "acquisition",
+   "headline": "Brigit acquired by Upbound Group",
+   "summary": "Financial-health app offering cash advances, credit building and budgeting tools; acquired by Upbound Group.",
+   "source_url": "https://investor.upbound.com/news-releases/news-release-details/upbound-group-closes-acquisition-brigit-leading-financial-health"
+  },
+  {
+   "id": "applied-labs-funding-2025-01-27",
+   "date": "2025-01-27",
+   "startup_id": "applied-labs",
+   "type": "funding",
+   "headline": "Applied Labs raised $4.2M Seed",
+   "summary": "At Applied Labs, we are building frontier AI agents and AI applications for growing businesses.",
+   "source_url": "https://www.forbes.com/sites/davidprosser/2025/01/27/applied-labs-raises-42-million-to-cut-through-the-ai-hype/"
+  },
+  {
+   "id": "baton-funding-2025-01-21",
+   "date": "2025-01-21",
+   "startup_id": "baton",
+   "type": "funding",
+   "headline": "Baton raised $10M Series A",
+   "summary": "Baton equips business owners and buyers with a modern, data‑driven marketplace to buy or sell, offering valuations grounded in real financials and allowing them to close deals 2x faster than the industry norm.",
+   "source_url": "https://fortune.com/2025/01/21/baton-zillow-private-equity-succession-real-estate-bakery-limprimerie/"
+  },
+  {
+   "id": "slingshot-ai-funding-2025-01-16",
+   "date": "2025-01-16",
+   "startup_id": "slingshot-ai",
+   "type": "funding",
+   "headline": "Slingshot AI raised $40M Series A",
+   "summary": "Slingshot AI is the team behind Ash, the first AI designed for therapy.",
+   "source_url": "https://a16z.com/announcement/investing-in-slingshot-ai/"
+  },
+  {
+   "id": "air-inc-funding-2025-01-09",
+   "date": "2025-01-09",
+   "startup_id": "air-inc",
+   "type": "funding",
+   "headline": "Air raised $35M Series B",
+   "summary": "Air is an agent for creative tasks.",
+   "source_url": "https://air.inc/"
+  },
+  {
+   "id": "stainless-funding-2024-12-10",
+   "date": "2024-12-10",
+   "startup_id": "stainless",
+   "type": "funding",
+   "headline": "Stainless raised $25M Series A",
+   "summary": "Stainless was acquired by Anthropic on May 18, 2026.",
+   "source_url": "https://fundraiseinsider.com/blog/stainless/"
+  },
+  {
+   "id": "eon-funding-2024-11-26",
+   "date": "2024-11-26",
+   "startup_id": "eon",
+   "type": "funding",
+   "headline": "Eon raised $70M Series C",
+   "summary": "Eon is a next-generation cloud backup platform that introduces the first backup autopilot for cloud infrastructure.",
+   "source_url": "https://www.prnewswire.com/il/news-releases/eons-valuation-reaches-1-4-billion-in-under-a-year-becoming-the-fastest-growing-company-in-cloud-infrastructure-302316568.html"
+  },
+  {
+   "id": "brightwave-funding-2024-10-29",
+   "date": "2024-10-29",
+   "startup_id": "brightwave",
+   "type": "funding",
+   "headline": "Brightwave raised $15M Series A",
+   "summary": "AI-powered financial assistant.",
+   "source_url": "https://www.businesswire.com/news/home/20241029778071/en/Brightwave-Secures-15M-Series-A-to-Scale-AI-Powered-Financial-Research-Platform"
+  },
+  {
+   "id": "tollbit-funding-2024-10-22",
+   "date": "2024-10-22",
+   "startup_id": "tollbit",
+   "type": "funding",
+   "headline": "Tollbit raised $24M Series A",
+   "summary": "AI will browse and consume more content than humans ever will.",
+   "source_url": "https://tollbit.com/blog/series-a/"
+  },
+  {
+   "id": "coast-funding-2024-07-18",
+   "date": "2024-07-18",
+   "startup_id": "coast",
+   "type": "funding",
+   "headline": "Coast raised $40M Series B",
+   "summary": "Coast is a Visa fleet fuel and gas card plus expense management solution that helps fleets control and track employee spending on fuel and other expenses.",
+   "source_url": "https://coastpay.com/blog/announcing-coast-series-b-funding/"
+  },
+  {
+   "id": "carry-funding-2024-07-17",
+   "date": "2024-07-17",
+   "startup_id": "carry",
+   "type": "funding",
+   "headline": "Carry raised $10M Series A",
+   "summary": "Carry is everything you need to build wealth as an entrepreneur, freelancer, consultant or independent business owner.",
+   "source_url": "https://carry.com/learn/series-a-funding-announcement"
+  },
+  {
+   "id": "itselectric-funding-2024-07-16",
+   "date": "2024-07-16",
+   "startup_id": "itselectric",
+   "type": "funding",
+   "headline": "itselectric raised $6.5M Seed",
+   "summary": "Curbside Level-2 EV chargers that draw spare power from adjacent buildings, installed at no cost to cities or property owners.",
+   "source_url": "https://www.prnewswire.com/news-releases/itselectric-announces-6-5m-seed-to-accelerate-deployment-of-curbside-ev-charging-in-cities-across-the-us-302197767.html"
+  },
+  {
+   "id": "adaptive-funding-2024-07-15",
+   "date": "2024-07-15",
+   "startup_id": "adaptive",
+   "type": "funding",
+   "headline": "Adaptive raised $19M Series A",
+   "summary": "Adaptive is a fintech platform that automates finance for builders and remodelers.",
+   "source_url": "https://techcrunch.com/2024/07/15/adaptive-builds-automation-tools-to-speed-up-construction-payments/"
+  },
+  {
+   "id": "mirage-funding-2024-07-09",
+   "date": "2024-07-09",
+   "startup_id": "mirage",
+   "type": "funding",
+   "headline": "Mirage raised $100M Series C",
+   "summary": "Mirage (fka Captions) is the leading AI short-form video company.",
+   "source_url": "https://www.captions.ai/blog-post/captions-announces-series-c-to-invest-100m-in-ai-video-research-in-new-york"
+  },
+  {
+   "id": "hebbia-funding-2024-07-08",
+   "date": "2024-07-08",
+   "startup_id": "hebbia",
+   "type": "funding",
+   "headline": "Hebbia raised $130M Series B",
+   "summary": "Hebbia is a generative AI company backed by Andreessen Horowitz, Peter Thiel, and Index Ventures.",
+   "source_url": "https://www.hebbia.ai/blog/hebbia-raises-usd130m-series-b"
+  },
+  {
+   "id": "daydream-funding-2024-06-20",
+   "date": "2024-06-20",
+   "startup_id": "daydream",
+   "type": "funding",
+   "headline": "Daydream raised $50M Seed",
+   "summary": "Daydream is a new AI-powered search and discovery platform poised to change the way people shop online.",
+   "source_url": "https://techcrunch.com/2024/06/20/former-stitch-fix-coo-julie-bornstein-secures-50m-to-build-a-new-age-e-commerce-search-engine/"
+  },
+  {
+   "id": "beehiiv-funding-2024-04-30",
+   "date": "2024-04-30",
+   "startup_id": "beehiiv",
+   "type": "funding",
+   "headline": "Beehiiv raised $33M Series B",
+   "summary": "Beehiiv is the publishing and newsletter platform built by creators for creators.",
+   "source_url": "https://techcrunch.com/2024/04/30/beehiiv-newsletters/"
+  },
+  {
+   "id": "hume-ai-funding-2024-03-25",
+   "date": "2024-03-25",
+   "startup_id": "hume-ai",
+   "type": "funding",
+   "headline": "Hume AI raised $50M Series B",
+   "summary": "Hume AI is a Series B startup dedicated to building artificial intelligence that is directly optimized for human well-being.",
+   "source_url": "https://www.hume.ai/blog/series-b-evi-announcement"
+  },
+  {
+   "id": "sealed-funding-2024-03-14",
+   "date": "2024-03-14",
+   "startup_id": "sealed",
+   "type": "funding",
+   "headline": "Sealed raised $30M Series B extension",
+   "summary": "Software (Sealed Pro) that helps contractors handle rebates for home electrification and weatherization projects.",
+   "source_url": "https://www.alleywatch.com/2024/03/sealed-residential-home-energy-electrification-weatherization-rebate-platform-contractors-lauren-salz/"
+  },
+  {
+   "id": "voltpost-funding-2023-07-24",
+   "date": "2023-07-24",
+   "startup_id": "voltpost",
+   "type": "funding",
+   "headline": "Voltpost raised $3.6M Seed",
+   "summary": "Retrofits existing lampposts into modular curbside EV charging stations, with an app for reservations and payment.",
+   "source_url": "https://techcrunch.com/2023/07/24/ev-charging-voltpost-3-6m-seed-round/"
+  },
+  {
+   "id": "blocpower-funding-2023-03-01",
+   "date": "2023-03-01",
+   "startup_id": "blocpower",
+   "type": "funding",
+   "headline": "BlocPower raised $150M ($24M+ Series B equity + $130M debt)",
+   "summary": "Electrifies and decarbonizes buildings in low-income and underserved communities, with financing, BlocMaps software, and green-jobs training.",
+   "source_url": "https://www.prnewswire.com/news-releases/blocpower-announces-150-million-financing-is-honored-by-vice-president-harris-unveils-corporate-rebrand-301758688.html"
+  },
+  {
+   "id": "landis-funding-2022-10-18",
+   "date": "2022-10-18",
+   "startup_id": "landis",
+   "type": "funding",
+   "headline": "Landis raised $40M Series B",
+   "summary": "Rent-to-own platform: buys a home you choose, rents it to you while you build credit and savings, then sells it to you at a preset price.",
+   "source_url": "https://techcrunch.com/2022/10/18/landis-grabs-40m-to-turn-renters-into-homeowners/"
+  },
+  {
+   "id": "gotham-greens-funding-2022-09-12",
+   "date": "2022-09-12",
+   "startup_id": "gotham-greens",
+   "type": "funding",
+   "headline": "Gotham Greens raised $310M Series E",
+   "summary": "Grows produce in climate-controlled urban greenhouses and sells salads, herbs and sauces to grocers nationwide.",
+   "source_url": "https://www.globenewswire.com/news-release/2022/09/12/2513846/0/en/Gotham-Greens-Raises-310-Million-in-Fresh-Funding-To-Accelerate-National-Greenhouse-Expansion.html"
+  },
+  {
+   "id": "mark43-funding-2021-07-12",
+   "date": "2021-07-12",
+   "startup_id": "mark43",
+   "type": "funding",
+   "headline": "Mark43 raised $101M Series E",
+   "summary": "Cloud-native records management, dispatch and analytics software for police and public-safety agencies.",
+   "source_url": "https://mark43.com/press/mark43-announces-101m-in-series-e-funding-led-by-the-spruce-house-partnership-and-tiger-global-management/"
+  }
+ ]
+}
