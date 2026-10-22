@@ -505,7 +505,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "dualentry",
-  "jobs": 79
+  "jobs": 77
  },
  "dupe": {
   "status": "no_feed",
@@ -726,11 +726,23 @@
   "candidates": [],
   "errors": []
  },
+ "govdash": {
+  "status": "api",
+  "ats": "ashby",
+  "slug": "govdash",
+  "jobs": 3
+ },
+ "govwell": {
+  "status": "api",
+  "ats": "ashby",
+  "slug": "GovWell",
+  "jobs": 13
+ },
  "grafana-labs": {
   "status": "api",
   "ats": "greenhouse",
   "slug": "grafanalabs",
-  "jobs": 145
+  "jobs": 143
  },
  "graphite": {
   "status": "api",
@@ -1005,7 +1017,7 @@
   "status": "api",
   "ats": "gem",
   "slug": "narmi",
-  "jobs": 13
+  "jobs": 12
  },
  "navattic": {
   "status": "api",
@@ -1056,7 +1068,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "NormalComputing",
-  "jobs": 28
+  "jobs": 37
  },
  "north-cloud": {
   "status": "api",
@@ -1073,7 +1085,12 @@
   "status": "api",
   "ats": "greenhouse",
   "slug": "usenourish",
-  "jobs": 82
+  "jobs": 83
+ },
+ "novele": {
+  "status": "no_feed",
+  "candidates": [],
+  "errors": []
  },
  "oboe": {
   "status": "no_feed",
@@ -1169,6 +1186,11 @@
   "slug": "partiful",
   "jobs": 9
  },
+ "pathways": {
+  "status": "no_feed",
+  "candidates": [],
+  "errors": []
+ },
  "payman": {
   "status": "no_feed",
   "candidates": [],
@@ -1195,7 +1217,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "pinecone",
-  "jobs": 7
+  "jobs": 8
  },
  "pinwheel": {
   "status": "api",
@@ -1230,6 +1252,11 @@
   "ats": "ashby",
   "slug": "posh",
   "jobs": 11
+ },
+ "prism-data": {
+  "status": "no_feed",
+  "candidates": [],
+  "errors": []
  },
  "privy": {
   "status": "no_feed",
@@ -1302,7 +1329,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "rogo",
-  "jobs": 96
+  "jobs": 97
  },
  "rove": {
   "status": "no_feed",
@@ -1349,7 +1376,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "savvy",
-  "jobs": 28
+  "jobs": 29
  },
  "sealed": {
   "status": "api",
@@ -1418,6 +1445,11 @@
   "ats": "ashby",
   "slug": "SlingshotAI",
   "jobs": 4
+ },
+ "snag": {
+  "status": "no_feed",
+  "candidates": [],
+  "errors": []
  },
  "sola-ai": {
   "status": "api",
@@ -1595,7 +1627,7 @@
   "status": "api",
   "ats": "greenhouse",
   "slug": "torq",
-  "jobs": 24
+  "jobs": 22
  },
  "trullion": {
   "status": "no_feed",

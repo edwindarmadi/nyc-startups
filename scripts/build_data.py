@@ -181,6 +181,19 @@ def main():
         o = overrides.get(c['id'])
         if o: c.update(o)
         c['sources'] = [x for i, x in enumerate(c['sources']) if x['url'] and x['url'] not in [y['url'] for y in c['sources'][:i]]]
+    # data/manual/url_fixes.json: {old_url: replacement_url or null} for links found dead (applied everywhere)
+    fixes = load('data/manual/url_fixes.json', {}) or {}
+    if fixes:
+        fx = lambda u: fixes.get(u, u) if u else u
+        for c in companies:
+            c['sources'] = [dict(x, url=fx(x['url'])) for x in c['sources'] if fx(x['url'])]
+            c['careers_url'] = fx(c.get('careers_url'))
+            if c['last_round'].get('source') in fixes:
+                c['last_round']['source'] = fixes[c['last_round']['source']] or (f"https://startups.gallery/companies/{c['id']}" if c['origin'] == 'startups.gallery' else None)
+            if c.get('hq') and c['hq'].get('source') in fixes and fixes[c['hq']['source']]: c['hq']['source'] = fixes[c['hq']['source']]
+        for n in news:
+            if n.get('source_url') in fixes:
+                n['source_url'] = fixes[n['source_url']] or (f"https://startups.gallery/companies/{n['startup_id']}")
     for c in companies:
         lr = c['last_round']
         src_text = ' '.join(str(x) for x in (c.get('stage_detail'), lr.get('stage') if lr.get('stage') not in (None, 'unknown', c['stage']) else None, lr.get('amount')) if x)

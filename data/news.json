@@ -1,7 +1,7 @@
 {
  "meta": {
-  "last_updated": "2026-10-21",
-  "count": 212
+  "last_updated": "2026-10-22",
+  "count": 219
  },
  "items": [
   {
@@ -25,6 +25,26 @@
    "round": "Series A"
   },
   {
+   "id": "prism-data-funding-2026-10-19",
+   "date": "2026-10-19",
+   "startup_id": "prism-data",
+   "type": "funding",
+   "headline": "Prism Data raised $20M Series A",
+   "summary": "Cash-flow underwriting and credit analytics: scores consumers and small businesses from bank-transaction data to expand fair access to credit.",
+   "source_url": "https://www.prismdata.com/blog/prism-data-raises-20-million-in-funding-amid-rapid-adoption-of-its-cash-flow-underwriting-technology/",
+   "round": "Series A"
+  },
+  {
+   "id": "prism-data-launch-2026-10-19",
+   "date": "2026-10-19",
+   "startup_id": "prism-data",
+   "type": "launch",
+   "headline": "Prism Data launches REFRACT, an AI transaction-categorization engine",
+   "summary": "Trained on 30B+ bank transactions; underpins Prism's next-generation CashScore cash-flow underwriting models. Announced alongside its $20M Series A.",
+   "source_url": "https://www.fintechfutures.com/venture-capital-funding/prism-data-lands-20m-series-a-funding",
+   "round": "unknown"
+  },
+  {
    "id": "north-cloud-funding-2026-10-15",
    "date": "2026-10-15",
    "startup_id": "north-cloud",
@@ -33,6 +53,16 @@
    "summary": "North.cloud is the infrastructure spend intelligence and automation platform for modern businesses.",
    "source_url": "https://www.prnewswire.com/news-releases/northcloud-raises-60m-series-b-to-unify-spend-intelligence-and-enable-full-automation-across-cloud-ai-and-data-302909322.html",
    "round": "Series B"
+  },
+  {
+   "id": "pathways-funding-2026-10-15",
+   "date": "2026-10-15",
+   "startup_id": "pathways",
+   "type": "funding",
+   "headline": "Pathways raised $6M Seed",
+   "summary": "AI agents that turn manufacturers' operational data into verified Environmental Product Declarations to decarbonize building materials.",
+   "source_url": "https://concreteproducts.com/index.php/2026/10/15/titan-group-heidelberg-materials-back-epd-tech-developer-pathways/",
+   "round": "seed"
   },
   {
    "id": "fragment-funding-2026-10-14",
@@ -105,6 +135,16 @@
    "round": "Series D"
   },
   {
+   "id": "novele-funding-2026-10-05",
+   "date": "2026-10-05",
+   "startup_id": "novele",
+   "type": "funding",
+   "headline": "Novele raised $17M Series A",
+   "summary": "AI energy management plus distributed battery storage that turns commercial buildings into grid assets.",
+   "source_url": "https://www.esgtoday.com/novele-raises-17-million-to-turn-buildings-into-distributed-energy-assets/",
+   "round": "Series A"
+  },
+  {
    "id": "confido-funding-2026-09-22",
    "date": "2026-09-22",
    "startup_id": "confido",
@@ -113,6 +153,16 @@
    "summary": "Confido is the AI infrastructure powering modern CPG — the platform that 200+ brands like OLIPOP, Simple Mills, Dr.",
    "source_url": "https://www.businesswire.com/news/home/20260922033622/en/Confido-Raises-%2455M-Series-B-to-Take-AI-Powered-Automation-Across-the-Entire-Consumer-Brand-Back-Office",
    "round": "Series B"
+  },
+  {
+   "id": "snag-funding-2026-09-22",
+   "date": "2026-09-22",
+   "startup_id": "snag",
+   "type": "funding",
+   "headline": "snag raised $4M Seed",
+   "summary": "Verified marketplace for rooms, sublets and lease takeovers with ID checks, escrowed rent and AI-generated listings, aimed at affordable flexible housing for young renters.",
+   "source_url": "https://www.alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-22-2026/",
+   "round": "seed"
   },
   {
    "id": "corridor-advisors-funding-2026-09-21",
@@ -411,7 +461,7 @@
    "type": "funding",
    "headline": "Niteshift raised $7M Seed",
    "summary": "Niteshift is the full-stack cloud platform for AI coding agents, enabling teams to run, test and verify software autonomously in real-world development environments.",
-   "source_url": "https://startups.gallery/companies/niteshift",
+   "source_url": "https://www.newswire.com/news/niteshift-raises-7-million-seed-round-to-power-the-cloud-platform-for-ai-coding",
    "round": "seed"
   },
   {
@@ -502,6 +552,16 @@
    "headline": "Optura raised $17.5M Series A",
    "summary": "Optura is an AI orchestration company committed to transforming healthcare by unlocking the full potential of artificial intelligence.",
    "source_url": "https://www.finsmes.com/2026/05/optura-raises-17-5m-in-series-a-funding.html",
+   "round": "Series A"
+  },
+  {
+   "id": "govwell-funding-2026-05-14",
+   "date": "2026-05-14",
+   "startup_id": "govwell",
+   "type": "funding",
+   "headline": "GovWell raised $25M Series A",
+   "summary": "AI operating system for local government permitting, licensing, inspections and code enforcement.",
+   "source_url": "https://www.insightpartners.com/ideas/govwell-raises-25m-series-a-led-by-insight-partners-to-build-the-ai-operating-system-for-modern-government/",
    "round": "Series A"
   },
   {
@@ -751,7 +811,7 @@
    "type": "funding",
    "headline": "Rodeo raised $8.5M Seed",
    "summary": "Rodeo is an app that wrangles your social life - helping you turn digital inspiration (screenshots, videos, social posts, websites, and more) into real plans with the people you love.",
-   "source_url": "https://startups.gallery/companies/rodeo-friends",
+   "source_url": "https://www.forbes.com/sites/zoyahasan/2026/03/03/hinge-alums-raise-85-million-to-turn-social-media-scrolling-into-real-world-meetups/",
    "round": "seed"
   },
   {
@@ -791,7 +851,7 @@
    "type": "funding",
    "headline": "Anterior raised $40M Series B",
    "summary": "Anterior is the clinical AI platform built specifically for payers.",
-   "source_url": "https://startups.gallery/companies/anterior",
+   "source_url": "https://anterior.com/insights/announcements/anterior-raises-40m-series/",
    "round": "Series B"
   },
   {
@@ -893,6 +953,16 @@
    "summary": "Cosmos is a creative platform that serves as a discovery engine for visual thinkers and makers.",
    "source_url": "https://www.linkedin.com/posts/andymccune_today-marks-a-new-era-for-cosmos-were-activity-7419431049291538432-UNbW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc",
    "round": "Series A"
+  },
+  {
+   "id": "govdash-funding-2026-01-15",
+   "date": "2026-01-15",
+   "startup_id": "govdash",
+   "type": "funding",
+   "headline": "GovDash raised $30M Series B",
+   "summary": "AI platform that helps companies find, win and manage government contracts.",
+   "source_url": "https://www.axios.com/pro/fintech-deals/2026/01/15/govdash-30m-government-contracts",
+   "round": "Series B"
   },
   {
    "id": "withcoverage-funding-2026-01-13",
@@ -1751,7 +1821,7 @@
    "type": "funding",
    "headline": "ORO raised $6M Seed",
    "summary": "ORO is a human intelligence protocol unlocking high-quality private data for frontier AI.",
-   "source_url": "https://startups.gallery/companies/oro",
+   "source_url": "https://www.panews.io/articles/foxx9kun",
    "round": "seed"
   },
   {
@@ -1831,7 +1901,7 @@
    "type": "funding",
    "headline": "Privy raised $15M Venture",
    "summary": "Easily onboard your users to web3 with a simple, robust library.",
-   "source_url": "https://startups.gallery/companies/privy",
+   "source_url": "https://www.theblock.co/news/deals/2025-03-19-privy-raises-15-million-usd-round-led-by-ribbit-capital-investment-in-web3-wallet-infrastructure-heats-up-347110",
    "round": "unknown"
   },
   {

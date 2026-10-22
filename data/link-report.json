@@ -1,137 +1,12 @@
 {
- "checked_at": "2026-10-21T15:13:55",
- "total": 1286,
+ "checked_at": "2026-10-22T09:13:38",
+ "total": 1303,
  "summary": {
-  "ok": 1233,
-  "blocked": 36,
-  "dead": 14,
+  "ok": 1261,
+  "blocked": 39,
   "error": 3
  },
- "dead": {
-  "https://www.anterior.com/insights/anterior-raises-40m-series": {
-   "status": 404,
-   "final_url": "https://www.anterior.com/insights/anterior-raises-40m-series",
-   "state": "dead",
-   "used_by": [
-    "anterior:source:Funding announcement",
-    "anterior:last_round.source",
-    "news:anterior-funding-2026-02-12"
-   ]
-  },
-  "https://www.anterior.com/company#open-positions": {
-   "status": 404,
-   "final_url": "https://www.anterior.com/company#open-positions",
-   "state": "dead",
-   "used_by": [
-    "anterior:careers_url"
-   ]
-  },
-  "https://ed@flowercomputer.com": {
-   "status": null,
-   "error": "[Errno -2] Name or service not known",
-   "final_url": "https://ed@flowercomputer.com",
-   "state": "dead",
-   "used_by": [
-    "flower-computer-co:careers_url"
-   ]
-  },
-  "https://www.linkedin.com/company/garage-technologies": {
-   "status": 404,
-   "final_url": "https://www.linkedin.com/company/garage-technologies",
-   "state": "dead",
-   "used_by": [
-    "garage:source:LinkedIn"
-   ]
-  },
-  "https://www.morningstar.com/news/accesswire/1173904msn/niteshift-raises-7-million-seed-round-to-power-the-cloud-platform-for-ai-coding-agents": {
-   "status": 404,
-   "final_url": "https://www.morningstar.com/news/accesswire/1173904msn/niteshift-raises-7-million-seed-round-to-power-the-cloud-platform-for-ai-coding-agents",
-   "state": "dead",
-   "used_by": [
-    "niteshift:source:Funding announcement",
-    "niteshift:last_round.source",
-    "news:niteshift-funding-2026-06-10"
-   ]
-  },
-  "https://www.getoro.xyz/blog/oro-raises-6m-seed-led-by-a16z-crypto": {
-   "status": 404,
-   "final_url": "https://www.getoro.xyz/blog/oro-raises-6m-seed-led-by-a16z-crypto",
-   "state": "dead",
-   "used_by": [
-    "oro:source:Funding announcement",
-    "oro:last_round.source",
-    "news:oro-funding-2025-04-16"
-   ]
-  },
-  "https://www.linkedin.com/company/pindotcom": {
-   "status": 404,
-   "final_url": "https://www.linkedin.com/company/pindotcom",
-   "state": "dead",
-   "used_by": [
-    "pindotcom:source:LinkedIn"
-   ]
-  },
-  "https://privy.io/blog/announcing-our-fundraise-led-by-ribbit-capital": {
-   "status": 404,
-   "final_url": "https://privy.io/blog/announcing-our-fundraise-led-by-ribbit-capital",
-   "state": "dead",
-   "used_by": [
-    "privy:source:Funding announcement",
-    "privy:last_round.source",
-    "news:privy-funding-2025-03-19"
-   ]
-  },
-  "https://www.forbes.com/sites/zoyahasan/2026/03/03/hinge-alums-raise-85-million-to-turn-social-media-scrolli": {
-   "status": 404,
-   "final_url": "https://www.forbes.com/sites/zoyahasan/2026/03/03/hinge-alums-raise-85-million-to-turn-social-media-scrolli",
-   "state": "dead",
-   "used_by": [
-    "rodeo-friends:source:Funding announcement",
-    "rodeo-friends:last_round.source",
-    "news:rodeo-friends-funding-2026-03-03"
-   ]
-  },
-  "https://jobs.polymer.co/simulate": {
-   "status": 404,
-   "final_url": "https://jobs.polymer.co/simulate",
-   "state": "dead",
-   "used_by": [
-    "simulate:careers_url"
-   ]
-  },
-  "https://www.linkedin.com/company/stuut-ai": {
-   "status": 404,
-   "final_url": "https://www.linkedin.com/company/stuut-ai",
-   "state": "dead",
-   "used_by": [
-    "stuut:source:LinkedIn"
-   ]
-  },
-  "https://www.linkedin.com/company/vellum-ai": {
-   "status": 404,
-   "final_url": "https://www.linkedin.com/company/vellum-ai",
-   "state": "dead",
-   "used_by": [
-    "vellum-ai:source:LinkedIn"
-   ]
-  },
-  "https://www.linkedin.com/company/viamrobotics": {
-   "status": 404,
-   "final_url": "https://www.linkedin.com/company/viamrobotics",
-   "state": "dead",
-   "used_by": [
-    "viam:source:LinkedIn"
-   ]
-  },
-  "https://www.linkedin.com/company/wingspan-work": {
-   "status": 404,
-   "final_url": "https://www.linkedin.com/company/wingspan-work",
-   "state": "dead",
-   "used_by": [
-    "wingspan:source:LinkedIn"
-   ]
-  }
- },
+ "dead": {},
  "errors": {
   "https://careers.popcorn.space/apply": {
    "status": null,
@@ -223,16 +98,6 @@
     "news:brightwave-funding-2024-10-29"
    ]
   },
-  "https://investor.upbound.com/news-releases/news-release-details/upbound-group-closes-acquisition-brigit-leading-financial-health": {
-   "status": 403,
-   "final_url": "https://investor.upbound.com/news-releases/news-release-details/upbound-group-closes-acquisition-brigit-leading-financial-health",
-   "state": "blocked",
-   "used_by": [
-    "brigit:source:Funding / news source",
-    "brigit:last_round.source",
-    "news:brigit-acquisition-2025-01-31"
-   ]
-  },
   "https://www.axios.com/pro/health-tech-deals/2025/02/26/camber-raises-30m-medical-claims-automation-billing-rcm": {
    "status": 403,
    "final_url": "https://www.axios.com/pro/health-tech-deals/2025/02/26/camber-raises-30m-medical-claims-automation-billing-rcm",
@@ -241,6 +106,16 @@
     "camber:source:Funding announcement",
     "camber:last_round.source",
     "news:camber-funding-2025-02-26"
+   ]
+  },
+  "https://investor.upbound.com/news-releases/news-release-details/upbound-group-closes-acquisition-brigit-leading-financial-health": {
+   "status": 403,
+   "final_url": "https://investor.upbound.com/news-releases/news-release-details/upbound-group-closes-acquisition-brigit-leading-financial-health",
+   "state": "blocked",
+   "used_by": [
+    "brigit:source:Funding / news source",
+    "brigit:last_round.source",
+    "news:brigit-acquisition-2025-01-31"
    ]
   },
   "https://www.businesswire.com/news/home/20260922033622/en/Confido-Raises-%2455M-Series-B-to-Take-AI-Powered-Automation-Across-the-Entire-Consumer-Brand-Back-Office": {
@@ -253,12 +128,13 @@
     "news:confido-funding-2026-09-22"
    ]
   },
-  "https://www.linkedin.com/company/campusorg": {
-   "status": 999,
-   "final_url": "https://www.linkedin.com/company/campusorg",
+  "https://www.foratravel.com": {
+   "status": 429,
+   "final_url": "https://www.foratravel.com",
    "state": "blocked",
    "used_by": [
-    "campus:source:LinkedIn"
+    "fora:website",
+    "fora:source:Company website"
    ]
   },
   "https://www.foratravel.com/careers/jobs": {
@@ -267,15 +143,6 @@
    "state": "blocked",
    "used_by": [
     "fora:careers_url"
-   ]
-  },
-  "https://www.foratravel.com": {
-   "status": 429,
-   "final_url": "https://www.foratravel.com",
-   "state": "blocked",
-   "used_by": [
-    "fora:website",
-    "fora:source:Company website"
    ]
   },
   "https://www.businesswire.com/news/home/20260908463918/en/Forus-Raises-%24150M-at-a-%243B-Valuation-as-Its-AI-Network-Becomes-How-Medicine-Reaches-Patients": {
@@ -298,14 +165,14 @@
     "news:gotham-greens-funding-2022-09-12"
    ]
   },
-  "https://www.axios.com/pro/enterprise-software-deals/2025/10/30/govtech-kaizen-commcere-21-million-series-a": {
+  "https://www.axios.com/pro/fintech-deals/2026/01/15/govdash-30m-government-contracts": {
    "status": 403,
-   "final_url": "https://www.axios.com/pro/enterprise-software-deals/2025/10/30/govtech-kaizen-commcere-21-million-series-a",
+   "final_url": "https://www.axios.com/pro/fintech-deals/2026/01/15/govdash-30m-government-contracts",
    "state": "blocked",
    "used_by": [
-    "kaizen:source:Funding announcement",
-    "kaizen:last_round.source",
-    "news:kaizen-funding-2025-10-30"
+    "govdash:source:Funding / news source",
+    "govdash:last_round.source",
+    "news:govdash-funding-2026-01-15"
    ]
   },
   "https://www.keychain.com/": {
@@ -315,6 +182,16 @@
    "used_by": [
     "keychain:website",
     "keychain:source:Company website"
+   ]
+  },
+  "https://www.axios.com/pro/enterprise-software-deals/2025/10/30/govtech-kaizen-commcere-21-million-series-a": {
+   "status": 403,
+   "final_url": "https://www.axios.com/pro/enterprise-software-deals/2025/10/30/govtech-kaizen-commcere-21-million-series-a",
+   "state": "blocked",
+   "used_by": [
+    "kaizen:source:Funding announcement",
+    "kaizen:last_round.source",
+    "news:kaizen-funding-2025-10-30"
    ]
   },
   "https://app.dealroom.co/news/feed/melius-raises-25m-for-ai-agents-lab-handling-creative-production-busywork?__cf_chl_tk=ilwaL31Ak4vWFnauWGIuJTKJB4HQw43b.SYuo4H6NFQ-1791311275-1.0.1.1-d_i7JzjpQoMQPsE7JH2ebzzj8vThyW7B5Y73QI5vvE8": {
@@ -395,6 +272,14 @@
     "news:polimorphic-funding-2025-07-09"
    ]
   },
+  "https://pitchbook.com/profiles/company/489781-00": {
+   "status": 403,
+   "final_url": "https://pitchbook.com/profiles/company/489781-00",
+   "state": "blocked",
+   "used_by": [
+    "prism-data:source:HQ source"
+   ]
+  },
   "https://medium.com/@JoinPropel/propel-raises-50m-series-b-to-help-americans-with-low-income-make-it-through-the-month-every-3b7ea2ad3d54": {
    "status": 403,
    "final_url": "https://medium.com/@JoinPropel/propel-raises-50m-series-b-to-help-americans-with-low-income-make-it-through-the-month-every-3b7ea2ad3d54",
@@ -412,6 +297,15 @@
     "reflection:source:Funding announcement",
     "reflection:last_round.source",
     "news:reflection-funding-2025-10-10"
+   ]
+  },
+  "https://www.linkedin.com/company/sesamecare": {
+   "status": 429,
+   "final_url": "https://www.linkedin.com/company/sesamecare",
+   "state": "blocked",
+   "used_by": [
+    "sesame:source:LinkedIn",
+    "sesame:hq.source"
    ]
   },
   "https://www.axios.com/pro/health-tech-deals/2025/03/25/silna-health-raises-27m-revenue-automation-rcm": {
@@ -434,14 +328,6 @@
     "news:spade-funding-2026-03-24"
    ]
   },
-  "https://sunsethq.com/careers#open-roles": {
-   "status": 403,
-   "final_url": "https://sunsethq.com/careers#open-roles",
-   "state": "blocked",
-   "used_by": [
-    "sunset:careers_url"
-   ]
-  },
   "https://www.sunsethq.com/": {
    "status": 403,
    "final_url": "https://www.sunsethq.com/",
@@ -449,6 +335,14 @@
    "used_by": [
     "sunset:website",
     "sunset:source:Company website"
+   ]
+  },
+  "https://sunsethq.com/careers#open-roles": {
+   "status": 403,
+   "final_url": "https://sunsethq.com/careers#open-roles",
+   "state": "blocked",
+   "used_by": [
+    "sunset:careers_url"
    ]
   },
   "https://www.businesswire.com/news/home/20250915745370/en/Tabs-Raises-%2455M-Series-B-Led-by-Lightspeed-to-Bring-AI-Agents-to-the-CFOs-Office": {
@@ -505,6 +399,14 @@
    "state": "blocked",
    "used_by": [
     "zenlytic:careers_url"
+   ]
+  },
+  "https://www.fintechfutures.com/venture-capital-funding/prism-data-lands-20m-series-a-funding": {
+   "status": 403,
+   "final_url": "https://www.fintechfutures.com/venture-capital-funding/prism-data-lands-20m-series-a-funding",
+   "state": "blocked",
+   "used_by": [
+    "news:prism-data-launch-2026-10-19"
    ]
   }
  }

@@ -1,12 +1,696 @@
 {
  "meta": {
-  "fetched_at": "2026-10-21T18:40:59-04:00",
-  "count": 3215,
-  "companies_with_jobs": 179,
-  "dropped_since_last_run": 0,
+  "fetched_at": "2026-10-22T09:09:12-04:00",
+  "count": 3237,
+  "companies_with_jobs": 181,
+  "dropped_since_last_run": 20,
   "note": "Fetched from each company's public ATS job feed. Roles no longer listed are removed on every run."
  },
  "jobs": [
+  {
+   "ext_id": "5e5759df-44c0-4675-930c-27ad2fd9eb4d",
+   "title": "TPM Lead",
+   "locations": [
+    "Mountain View"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Engineering Strategy & Operations",
+   "team": "Program Management (TPM)",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/NormalComputing/5e5759df-44c0-4675-930c-27ad2fd9eb4d",
+   "apply_url": "https://jobs.ashbyhq.com/NormalComputing/5e5759df-44c0-4675-930c-27ad2fd9eb4d/application",
+   "compensation": null,
+   "id": "normal:ashby:5e5759df-44c0-4675-930c-27ad2fd9eb4d",
+   "company_id": "normal",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Engineering",
+   "seniority": "Lead/Manager+",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "9a8d2cf9-8b1a-468e-89d1-8aaa0319f5ae",
+   "title": "Memory Architect",
+   "locations": [
+    "Mountain View"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Silicon Engineering (SEG)",
+   "team": "Architecture & Performance Modelling",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/NormalComputing/9a8d2cf9-8b1a-468e-89d1-8aaa0319f5ae",
+   "apply_url": "https://jobs.ashbyhq.com/NormalComputing/9a8d2cf9-8b1a-468e-89d1-8aaa0319f5ae/application",
+   "compensation": null,
+   "id": "normal:ashby:9a8d2cf9-8b1a-468e-89d1-8aaa0319f5ae",
+   "company_id": "normal",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Engineering",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "4b75d4ea-84f7-4d04-83a2-4ab2dc42abc9",
+   "title": "Hardware Engineer, Performance Modeling",
+   "locations": [
+    "Mountain View"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Silicon Engineering (SEG)",
+   "team": "Architecture & Performance Modelling",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/NormalComputing/4b75d4ea-84f7-4d04-83a2-4ab2dc42abc9",
+   "apply_url": "https://jobs.ashbyhq.com/NormalComputing/4b75d4ea-84f7-4d04-83a2-4ab2dc42abc9/application",
+   "compensation": null,
+   "id": "normal:ashby:4b75d4ea-84f7-4d04-83a2-4ab2dc42abc9",
+   "company_id": "normal",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Engineering",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "6d8be870-65f7-4d0f-a2c0-2ee5db8b116b",
+   "title": "Head of Silicon Product Engineering",
+   "locations": [
+    "Mountain View"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Silicon Engineering (SEG)",
+   "team": "Silicon Product Engineering",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/NormalComputing/6d8be870-65f7-4d0f-a2c0-2ee5db8b116b",
+   "apply_url": "https://jobs.ashbyhq.com/NormalComputing/6d8be870-65f7-4d0f-a2c0-2ee5db8b116b/application",
+   "compensation": null,
+   "id": "normal:ashby:6d8be870-65f7-4d0f-a2c0-2ee5db8b116b",
+   "company_id": "normal",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Engineering",
+   "seniority": "Lead/Manager+",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "41b9c0fe-5483-4dba-a1a8-517d88c9a9ae",
+   "title": "Hardware Engineer, DFT",
+   "locations": [
+    "Mountain View"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Silicon Engineering (SEG)",
+   "team": "Silicon Chip / ASIC",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/NormalComputing/41b9c0fe-5483-4dba-a1a8-517d88c9a9ae",
+   "apply_url": "https://jobs.ashbyhq.com/NormalComputing/41b9c0fe-5483-4dba-a1a8-517d88c9a9ae/application",
+   "compensation": null,
+   "id": "normal:ashby:41b9c0fe-5483-4dba-a1a8-517d88c9a9ae",
+   "company_id": "normal",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Engineering",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "5d98fdb7-41f6-4de5-b756-11a223fec0cb",
+   "title": "Research Engineer, Algorithms",
+   "locations": [
+    "Mountain View"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Software",
+   "team": "AI / ML (RSI, Simulation, Algo Codesign)",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/NormalComputing/5d98fdb7-41f6-4de5-b756-11a223fec0cb",
+   "apply_url": "https://jobs.ashbyhq.com/NormalComputing/5d98fdb7-41f6-4de5-b756-11a223fec0cb/application",
+   "compensation": null,
+   "id": "normal:ashby:5d98fdb7-41f6-4de5-b756-11a223fec0cb",
+   "company_id": "normal",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Engineering",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "804fdbc0-7670-4ec7-b6d6-a059a78813d7",
+   "title": "Firmware Engineer",
+   "locations": [
+    "Mountain View"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Silicon Engineering (SEG)",
+   "team": "Silicon Chip / ASIC",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/NormalComputing/804fdbc0-7670-4ec7-b6d6-a059a78813d7",
+   "apply_url": "https://jobs.ashbyhq.com/NormalComputing/804fdbc0-7670-4ec7-b6d6-a059a78813d7/application",
+   "compensation": null,
+   "id": "normal:ashby:804fdbc0-7670-4ec7-b6d6-a059a78813d7",
+   "company_id": "normal",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Engineering",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "433256ca-a4d9-4339-9613-fb205442bebc",
+   "title": "Simulator & Debug Tools Lead",
+   "locations": [
+    "Mountain View"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Software",
+   "team": "AI / ML (RSI, Simulation, Algo Codesign)",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/NormalComputing/433256ca-a4d9-4339-9613-fb205442bebc",
+   "apply_url": "https://jobs.ashbyhq.com/NormalComputing/433256ca-a4d9-4339-9613-fb205442bebc/application",
+   "compensation": null,
+   "id": "normal:ashby:433256ca-a4d9-4339-9613-fb205442bebc",
+   "company_id": "normal",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Engineering",
+   "seniority": "Lead/Manager+",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "ca0beabb-b825-4285-a292-3b8d0db44338",
+   "title": "Compiler Frontend Engineer",
+   "locations": [
+    "Mountain View"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Software",
+   "team": "Compilers & Runtime",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/NormalComputing/ca0beabb-b825-4285-a292-3b8d0db44338",
+   "apply_url": "https://jobs.ashbyhq.com/NormalComputing/ca0beabb-b825-4285-a292-3b8d0db44338/application",
+   "compensation": null,
+   "id": "normal:ashby:ca0beabb-b825-4285-a292-3b8d0db44338",
+   "company_id": "normal",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Engineering",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "5274c553-920a-4c10-8b86-24c98f52ca1d",
+   "title": "Mechanical Engineer, Hardware Systems",
+   "locations": [
+    "Mountain View"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Hardware Systems & Production",
+   "team": "Systems",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/NormalComputing/5274c553-920a-4c10-8b86-24c98f52ca1d",
+   "apply_url": "https://jobs.ashbyhq.com/NormalComputing/5274c553-920a-4c10-8b86-24c98f52ca1d/application",
+   "compensation": null,
+   "id": "normal:ashby:5274c553-920a-4c10-8b86-24c98f52ca1d",
+   "company_id": "normal",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Engineering",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "edf2a2a5-64e2-45b8-9f2e-4f354af350b8",
+   "title": "Applied AI Engineer (Full-Stack)",
+   "locations": [
+    "New York City",
+    "US Remote"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "R&D",
+   "team": "R&D",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/pinecone/edf2a2a5-64e2-45b8-9f2e-4f354af350b8",
+   "apply_url": "https://jobs.ashbyhq.com/pinecone/edf2a2a5-64e2-45b8-9f2e-4f354af350b8/application",
+   "compensation": "$190K - $270K",
+   "id": "pinecone:ashby:edf2a2a5-64e2-45b8-9f2e-4f354af350b8",
+   "company_id": "pinecone",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "NYC",
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Engineering",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "5c444926-5f87-4478-8c5d-f91fbcd3607e",
+   "title": "Client Operations Associate",
+   "locations": [
+    "United States/Canada"
+   ],
+   "workplace": "Remote",
+   "remote": true,
+   "department": "B2B",
+   "team": "B2B",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/joinpogo/5c444926-5f87-4478-8c5d-f91fbcd3607e",
+   "apply_url": "https://jobs.ashbyhq.com/joinpogo/5c444926-5f87-4478-8c5d-f91fbcd3607e/application",
+   "compensation": null,
+   "id": "pogo:ashby:5c444926-5f87-4478-8c5d-f91fbcd3607e",
+   "company_id": "pogo",
+   "source": "ashby api",
+   "location_classes": [
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Remote",
+   "department_group": "Ops",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "1b9e9d3d-9ac2-4f7d-9295-fbf846a0e897",
+   "title": "Motion Designer & Video Editor",
+   "locations": [
+    "United States/Canada"
+   ],
+   "workplace": "Remote",
+   "remote": true,
+   "department": "Growth",
+   "team": "Growth",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/joinpogo/1b9e9d3d-9ac2-4f7d-9295-fbf846a0e897",
+   "apply_url": "https://jobs.ashbyhq.com/joinpogo/1b9e9d3d-9ac2-4f7d-9295-fbf846a0e897/application",
+   "compensation": "$110K - $130K",
+   "id": "pogo:ashby:1b9e9d3d-9ac2-4f7d-9295-fbf846a0e897",
+   "company_id": "pogo",
+   "source": "ashby api",
+   "location_classes": [
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Remote",
+   "department_group": "Design",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "cedcb4c9-8f8d-41ac-aef5-e71a65533211",
+   "title": "Commercial Counsel",
+   "locations": [
+    "United States/Canada"
+   ],
+   "workplace": "Remote",
+   "remote": true,
+   "department": "Operations",
+   "team": "Operations",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/joinpogo/cedcb4c9-8f8d-41ac-aef5-e71a65533211",
+   "apply_url": "https://jobs.ashbyhq.com/joinpogo/cedcb4c9-8f8d-41ac-aef5-e71a65533211/application",
+   "compensation": "$175K - $250K",
+   "id": "pogo:ashby:cedcb4c9-8f8d-41ac-aef5-e71a65533211",
+   "company_id": "pogo",
+   "source": "ashby api",
+   "location_classes": [
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Remote",
+   "department_group": "Compliance/Risk/Legal",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "36d0fecf-a506-404e-bbf8-b0e9ebf4dc25",
+   "title": "Talent Partner",
+   "locations": [
+    "United States/Canada"
+   ],
+   "workplace": "Remote",
+   "remote": true,
+   "department": "Operations",
+   "team": "Operations",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/joinpogo/36d0fecf-a506-404e-bbf8-b0e9ebf4dc25",
+   "apply_url": "https://jobs.ashbyhq.com/joinpogo/36d0fecf-a506-404e-bbf8-b0e9ebf4dc25/application",
+   "compensation": "$125K - $175K",
+   "id": "pogo:ashby:36d0fecf-a506-404e-bbf8-b0e9ebf4dc25",
+   "company_id": "pogo",
+   "source": "ashby api",
+   "location_classes": [
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Remote",
+   "department_group": "Ops",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "e02986f0-25f1-459f-a664-d0bb094e9d8c",
+   "title": "Engagement Manager",
+   "locations": [
+    "United States/Canada"
+   ],
+   "workplace": "Remote",
+   "remote": true,
+   "department": "B2B",
+   "team": "B2B",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/joinpogo/e02986f0-25f1-459f-a664-d0bb094e9d8c",
+   "apply_url": "https://jobs.ashbyhq.com/joinpogo/e02986f0-25f1-459f-a664-d0bb094e9d8c/application",
+   "compensation": null,
+   "id": "pogo:ashby:e02986f0-25f1-459f-a664-d0bb094e9d8c",
+   "company_id": "pogo",
+   "source": "ashby api",
+   "location_classes": [
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Remote",
+   "department_group": "Other",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "99be3319-3f86-4a28-8f91-41bf1b85d1f8",
+   "title": "Enterprise Account Executive",
+   "locations": [
+    "United States/Canada"
+   ],
+   "workplace": "Remote",
+   "remote": true,
+   "department": "B2B",
+   "team": "B2B",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/joinpogo/99be3319-3f86-4a28-8f91-41bf1b85d1f8",
+   "apply_url": "https://jobs.ashbyhq.com/joinpogo/99be3319-3f86-4a28-8f91-41bf1b85d1f8/application",
+   "compensation": "$250K - $300K",
+   "id": "pogo:ashby:99be3319-3f86-4a28-8f91-41bf1b85d1f8",
+   "company_id": "pogo",
+   "source": "ashby api",
+   "location_classes": [
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Remote",
+   "department_group": "Sales",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "2774fd71-5dd7-4a38-af28-041a997e86a7",
+   "title": "Product Designer (Future Openings)",
+   "locations": [
+    "United States/Canada"
+   ],
+   "workplace": "Remote",
+   "remote": true,
+   "department": "Design",
+   "team": "Design",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/joinpogo/2774fd71-5dd7-4a38-af28-041a997e86a7",
+   "apply_url": "https://jobs.ashbyhq.com/joinpogo/2774fd71-5dd7-4a38-af28-041a997e86a7/application",
+   "compensation": null,
+   "id": "pogo:ashby:2774fd71-5dd7-4a38-af28-041a997e86a7",
+   "company_id": "pogo",
+   "source": "ashby api",
+   "location_classes": [
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Remote",
+   "department_group": "Design",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "f59f501c-a1d9-4fdf-bbb5-e39a36255e43",
+   "title": "Full Stack Engineer",
+   "locations": [
+    "United States/Canada"
+   ],
+   "workplace": "Remote",
+   "remote": true,
+   "department": "Engineering",
+   "team": "Engineering",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/joinpogo/f59f501c-a1d9-4fdf-bbb5-e39a36255e43",
+   "apply_url": "https://jobs.ashbyhq.com/joinpogo/f59f501c-a1d9-4fdf-bbb5-e39a36255e43/application",
+   "compensation": null,
+   "id": "pogo:ashby:f59f501c-a1d9-4fdf-bbb5-e39a36255e43",
+   "company_id": "pogo",
+   "source": "ashby api",
+   "location_classes": [
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Remote",
+   "department_group": "Engineering",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "db1bb1e3-bef8-40c9-9941-3640e7739e8f",
+   "title": "Demand Gen Marketer (Future Openings)",
+   "locations": [
+    "United States/Canada"
+   ],
+   "workplace": "Remote",
+   "remote": true,
+   "department": "Growth",
+   "team": "Growth",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/joinpogo/db1bb1e3-bef8-40c9-9941-3640e7739e8f",
+   "apply_url": "https://jobs.ashbyhq.com/joinpogo/db1bb1e3-bef8-40c9-9941-3640e7739e8f/application",
+   "compensation": null,
+   "id": "pogo:ashby:db1bb1e3-bef8-40c9-9941-3640e7739e8f",
+   "company_id": "pogo",
+   "source": "ashby api",
+   "location_classes": [
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Remote",
+   "department_group": "Marketing",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "f1ce7a4b-ad61-48d7-afc7-0088da404b81",
+   "title": "GTM Engineer",
+   "locations": [
+    "United States/Canada"
+   ],
+   "workplace": "Remote",
+   "remote": true,
+   "department": "Growth",
+   "team": "Growth",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/joinpogo/f1ce7a4b-ad61-48d7-afc7-0088da404b81",
+   "apply_url": "https://jobs.ashbyhq.com/joinpogo/f1ce7a4b-ad61-48d7-afc7-0088da404b81/application",
+   "compensation": null,
+   "id": "pogo:ashby:f1ce7a4b-ad61-48d7-afc7-0088da404b81",
+   "company_id": "pogo",
+   "source": "ashby api",
+   "location_classes": [
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Remote",
+   "department_group": "Sales",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "de8e1dab-4c80-4611-9709-ec251e6077c4",
+   "title": "Don't See A Perfect Role? Apply Anyway!",
+   "locations": [
+    "United States/Canada"
+   ],
+   "workplace": "Remote",
+   "remote": true,
+   "department": "Other",
+   "team": "Other",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/joinpogo/de8e1dab-4c80-4611-9709-ec251e6077c4",
+   "apply_url": "https://jobs.ashbyhq.com/joinpogo/de8e1dab-4c80-4611-9709-ec251e6077c4/application",
+   "compensation": null,
+   "id": "pogo:ashby:de8e1dab-4c80-4611-9709-ec251e6077c4",
+   "company_id": "pogo",
+   "source": "ashby api",
+   "location_classes": [
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Remote",
+   "department_group": "Other",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "0a89e7ee-0e31-4dc1-9e51-062f8ab7ac7b",
+   "title": "Know Someone Great For Pogo? Refer Them!",
+   "locations": [
+    "United States/Canada"
+   ],
+   "workplace": "Remote",
+   "remote": true,
+   "department": "Other",
+   "team": "Other",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/joinpogo/0a89e7ee-0e31-4dc1-9e51-062f8ab7ac7b",
+   "apply_url": "https://jobs.ashbyhq.com/joinpogo/0a89e7ee-0e31-4dc1-9e51-062f8ab7ac7b/application",
+   "compensation": null,
+   "id": "pogo:ashby:0a89e7ee-0e31-4dc1-9e51-062f8ab7ac7b",
+   "company_id": "pogo",
+   "source": "ashby api",
+   "location_classes": [
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Remote",
+   "department_group": "Other",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
+   "ext_id": "647c8603-3ffb-4ab5-bc65-323a4f35b36f",
+   "title": "Enterprise Account Executive",
+   "locations": [
+    "Tokyo"
+   ],
+   "workplace": "OnSite",
+   "remote": false,
+   "department": "GTM",
+   "team": "GTM",
+   "employment_type": "FullTime",
+   "posted": "2026-10-22",
+   "url": "https://jobs.ashbyhq.com/rogo/647c8603-3ffb-4ab5-bc65-323a4f35b36f",
+   "apply_url": "https://jobs.ashbyhq.com/rogo/647c8603-3ffb-4ab5-bc65-323a4f35b36f/application",
+   "compensation": null,
+   "id": "rogo:ashby:647c8603-3ffb-4ab5-bc65-323a4f35b36f",
+   "company_id": "rogo",
+   "source": "ashby api",
+   "location_classes": [
+    "Other"
+   ],
+   "work_style": "Onsite",
+   "department_group": "Sales",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
   {
    "ext_id": "b6045045-66a7-4ffa-b80b-421179ea0e0d",
    "title": "Recruiting Coordinator",
@@ -297,35 +981,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "ext_id": "6229352004",
-   "title": "Senior Backend Software Engineer - Loki | NASA | Remote",
-   "locations": [
-    "Canada (Remote)",
-    "Americas"
-   ],
-   "workplace": null,
-   "remote": null,
-   "department": "R&D : Databases",
-   "team": null,
-   "employment_type": null,
-   "posted": "2026-10-21",
-   "updated": "2026-10-21",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6229352004",
-   "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6229352004",
-   "id": "grafana-labs:greenhouse:6229352004",
-   "company_id": "grafana-labs",
-   "source": "greenhouse api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": null,
-   "department_group": "Engineering",
-   "seniority": "Senior",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
    "ext_id": "6229350004",
    "title": "Senior Backend Software Engineer - Loki | NASA | Remote",
    "locations": [
@@ -342,6 +997,35 @@
    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6229350004",
    "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6229350004",
    "id": "grafana-labs:greenhouse:6229350004",
+   "company_id": "grafana-labs",
+   "source": "greenhouse api",
+   "location_classes": [
+    "Other",
+    "Remote"
+   ],
+   "work_style": null,
+   "department_group": "Engineering",
+   "seniority": "Senior",
+   "fits_edwin": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "ext_id": "6229352004",
+   "title": "Senior Backend Software Engineer - Loki | NASA | Remote",
+   "locations": [
+    "Canada (Remote)",
+    "Americas"
+   ],
+   "workplace": null,
+   "remote": null,
+   "department": "R&D : Databases",
+   "team": null,
+   "employment_type": null,
+   "posted": "2026-10-21",
+   "updated": "2026-10-21",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6229352004",
+   "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6229352004",
+   "id": "grafana-labs:greenhouse:6229352004",
    "company_id": "grafana-labs",
    "source": "greenhouse api",
    "location_classes": [
@@ -806,9 +1490,10 @@
   },
   {
    "ext_id": "00c56877-13a9-4024-a0cf-ba775ef45ca7",
-   "title": "Hardware Engineer, RTL Lead",
+   "title": "RTL Lead",
    "locations": [
-    "Mountain View"
+    "Mountain View",
+    "New York"
    ],
    "workplace": "Hybrid",
    "remote": true,
@@ -824,6 +1509,7 @@
    "source": "ashby api",
    "location_classes": [
     "Hybrid",
+    "NYC",
     "Other",
     "Remote"
    ],
@@ -844,7 +1530,7 @@
    "workplace": "Hybrid",
    "remote": true,
    "department": "Silicon Engineering (SEG)",
-   "team": "Silicon Engineering (SEG)",
+   "team": "Architecture & Performance Modelling",
    "employment_type": "FullTime",
    "posted": "2026-10-21",
    "url": "https://jobs.ashbyhq.com/NormalComputing/4a991e16-7097-461c-b048-8d9c97cb33c1",
@@ -1103,6 +1789,33 @@
    "first_seen": "2026-10-21"
   },
   {
+   "ext_id": "5124784008",
+   "title": "Behavioral Health Therapist (LCSW / LPC / LMFT)",
+   "locations": [
+    "Remote"
+   ],
+   "workplace": null,
+   "remote": null,
+   "department": "Clinical Care",
+   "team": null,
+   "employment_type": null,
+   "posted": "2026-10-21",
+   "updated": "2026-10-21",
+   "url": "https://job-boards.greenhouse.io/usenourish/jobs/5124784008",
+   "apply_url": "https://job-boards.greenhouse.io/usenourish/jobs/5124784008",
+   "id": "nourish:greenhouse:5124784008",
+   "company_id": "nourish",
+   "source": "greenhouse api",
+   "location_classes": [
+    "Remote"
+   ],
+   "work_style": null,
+   "department_group": "Ops",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
    "ext_id": "5460460008",
    "title": "Provider Partnerships Manager (Territory Sales)",
    "locations": [
@@ -1183,342 +1896,6 @@
    ],
    "work_style": "Hybrid",
    "department_group": "Engineering",
-   "seniority": "Mid",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "0d7c51e9-0871-4d33-8f20-f7eca4cbbc56",
-   "title": "Product Designer (Future Openings)",
-   "locations": [
-    "United States/Canada"
-   ],
-   "workplace": "Remote",
-   "remote": true,
-   "department": "Design",
-   "team": "Design",
-   "employment_type": "FullTime",
-   "posted": "2026-10-21",
-   "url": "https://jobs.ashbyhq.com/joinpogo/0d7c51e9-0871-4d33-8f20-f7eca4cbbc56",
-   "apply_url": "https://jobs.ashbyhq.com/joinpogo/0d7c51e9-0871-4d33-8f20-f7eca4cbbc56/application",
-   "compensation": null,
-   "id": "pogo:ashby:0d7c51e9-0871-4d33-8f20-f7eca4cbbc56",
-   "company_id": "pogo",
-   "source": "ashby api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": "Remote",
-   "department_group": "Design",
-   "seniority": "Mid",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "3f915b88-32c3-4045-a731-e185ce6c2eb9",
-   "title": "Full Stack Engineer",
-   "locations": [
-    "United States/Canada"
-   ],
-   "workplace": "Remote",
-   "remote": true,
-   "department": "Engineering",
-   "team": "Engineering",
-   "employment_type": "FullTime",
-   "posted": "2026-10-21",
-   "url": "https://jobs.ashbyhq.com/joinpogo/3f915b88-32c3-4045-a731-e185ce6c2eb9",
-   "apply_url": "https://jobs.ashbyhq.com/joinpogo/3f915b88-32c3-4045-a731-e185ce6c2eb9/application",
-   "compensation": null,
-   "id": "pogo:ashby:3f915b88-32c3-4045-a731-e185ce6c2eb9",
-   "company_id": "pogo",
-   "source": "ashby api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": "Remote",
-   "department_group": "Engineering",
-   "seniority": "Mid",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "28ac9a82-4ed0-4b59-a634-ff231b401af7",
-   "title": "Demand Gen Marketer (Future Openings)",
-   "locations": [
-    "United States/Canada"
-   ],
-   "workplace": "Remote",
-   "remote": true,
-   "department": "Growth",
-   "team": "Growth",
-   "employment_type": "FullTime",
-   "posted": "2026-10-21",
-   "url": "https://jobs.ashbyhq.com/joinpogo/28ac9a82-4ed0-4b59-a634-ff231b401af7",
-   "apply_url": "https://jobs.ashbyhq.com/joinpogo/28ac9a82-4ed0-4b59-a634-ff231b401af7/application",
-   "compensation": null,
-   "id": "pogo:ashby:28ac9a82-4ed0-4b59-a634-ff231b401af7",
-   "company_id": "pogo",
-   "source": "ashby api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": "Remote",
-   "department_group": "Marketing",
-   "seniority": "Mid",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "3ef551df-1502-4066-8141-0894249febbc",
-   "title": "GTM Engineer",
-   "locations": [
-    "United States/Canada"
-   ],
-   "workplace": "Remote",
-   "remote": true,
-   "department": "Growth",
-   "team": "Growth",
-   "employment_type": "FullTime",
-   "posted": "2026-10-21",
-   "url": "https://jobs.ashbyhq.com/joinpogo/3ef551df-1502-4066-8141-0894249febbc",
-   "apply_url": "https://jobs.ashbyhq.com/joinpogo/3ef551df-1502-4066-8141-0894249febbc/application",
-   "compensation": null,
-   "id": "pogo:ashby:3ef551df-1502-4066-8141-0894249febbc",
-   "company_id": "pogo",
-   "source": "ashby api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": "Remote",
-   "department_group": "Sales",
-   "seniority": "Mid",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "09b171b5-38f3-4b9b-8b4c-43d6fe322628",
-   "title": "Don't See A Perfect Role? Apply Anyway!",
-   "locations": [
-    "United States/Canada"
-   ],
-   "workplace": "Remote",
-   "remote": true,
-   "department": "Other",
-   "team": "Other",
-   "employment_type": "FullTime",
-   "posted": "2026-10-21",
-   "url": "https://jobs.ashbyhq.com/joinpogo/09b171b5-38f3-4b9b-8b4c-43d6fe322628",
-   "apply_url": "https://jobs.ashbyhq.com/joinpogo/09b171b5-38f3-4b9b-8b4c-43d6fe322628/application",
-   "compensation": null,
-   "id": "pogo:ashby:09b171b5-38f3-4b9b-8b4c-43d6fe322628",
-   "company_id": "pogo",
-   "source": "ashby api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": "Remote",
-   "department_group": "Other",
-   "seniority": "Mid",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "3b98e246-260e-433b-99d6-a6322d0d5086",
-   "title": "Know Someone Great For Pogo? Refer Them!",
-   "locations": [
-    "United States/Canada"
-   ],
-   "workplace": "Remote",
-   "remote": true,
-   "department": "Other",
-   "team": "Other",
-   "employment_type": "FullTime",
-   "posted": "2026-10-21",
-   "url": "https://jobs.ashbyhq.com/joinpogo/3b98e246-260e-433b-99d6-a6322d0d5086",
-   "apply_url": "https://jobs.ashbyhq.com/joinpogo/3b98e246-260e-433b-99d6-a6322d0d5086/application",
-   "compensation": null,
-   "id": "pogo:ashby:3b98e246-260e-433b-99d6-a6322d0d5086",
-   "company_id": "pogo",
-   "source": "ashby api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": "Remote",
-   "department_group": "Other",
-   "seniority": "Mid",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "fbf31778-5cc8-4614-b14e-ea81c7b24fbb",
-   "title": "Engagement Manager",
-   "locations": [
-    "United States/Canada"
-   ],
-   "workplace": "Remote",
-   "remote": true,
-   "department": "B2B",
-   "team": "B2B",
-   "employment_type": "FullTime",
-   "posted": "2026-10-21",
-   "url": "https://jobs.ashbyhq.com/joinpogo/fbf31778-5cc8-4614-b14e-ea81c7b24fbb",
-   "apply_url": "https://jobs.ashbyhq.com/joinpogo/fbf31778-5cc8-4614-b14e-ea81c7b24fbb/application",
-   "compensation": null,
-   "id": "pogo:ashby:fbf31778-5cc8-4614-b14e-ea81c7b24fbb",
-   "company_id": "pogo",
-   "source": "ashby api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": "Remote",
-   "department_group": "Other",
-   "seniority": "Mid",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "902e25ce-4c8c-423d-8618-fb123a1f9fb1",
-   "title": "Enterprise Account Executive",
-   "locations": [
-    "United States/Canada"
-   ],
-   "workplace": "Remote",
-   "remote": true,
-   "department": "B2B",
-   "team": "B2B",
-   "employment_type": "FullTime",
-   "posted": "2026-10-21",
-   "url": "https://jobs.ashbyhq.com/joinpogo/902e25ce-4c8c-423d-8618-fb123a1f9fb1",
-   "apply_url": "https://jobs.ashbyhq.com/joinpogo/902e25ce-4c8c-423d-8618-fb123a1f9fb1/application",
-   "compensation": "$250K - $300K",
-   "id": "pogo:ashby:902e25ce-4c8c-423d-8618-fb123a1f9fb1",
-   "company_id": "pogo",
-   "source": "ashby api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": "Remote",
-   "department_group": "Sales",
-   "seniority": "Mid",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "822c9e21-5f75-41c9-94a4-4f18910ee4fc",
-   "title": "Commercial Counsel",
-   "locations": [
-    "United States/Canada"
-   ],
-   "workplace": "Remote",
-   "remote": true,
-   "department": "Operations",
-   "team": "Operations",
-   "employment_type": "FullTime",
-   "posted": "2026-10-21",
-   "url": "https://jobs.ashbyhq.com/joinpogo/822c9e21-5f75-41c9-94a4-4f18910ee4fc",
-   "apply_url": "https://jobs.ashbyhq.com/joinpogo/822c9e21-5f75-41c9-94a4-4f18910ee4fc/application",
-   "compensation": "$175K - $250K",
-   "id": "pogo:ashby:822c9e21-5f75-41c9-94a4-4f18910ee4fc",
-   "company_id": "pogo",
-   "source": "ashby api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": "Remote",
-   "department_group": "Compliance/Risk/Legal",
-   "seniority": "Mid",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "4619a89c-2d61-4ac3-9317-84abe272fb4d",
-   "title": "Talent Partner",
-   "locations": [
-    "United States/Canada"
-   ],
-   "workplace": "Remote",
-   "remote": true,
-   "department": "Operations",
-   "team": "Operations",
-   "employment_type": "FullTime",
-   "posted": "2026-10-21",
-   "url": "https://jobs.ashbyhq.com/joinpogo/4619a89c-2d61-4ac3-9317-84abe272fb4d",
-   "apply_url": "https://jobs.ashbyhq.com/joinpogo/4619a89c-2d61-4ac3-9317-84abe272fb4d/application",
-   "compensation": "$125K - $175K",
-   "id": "pogo:ashby:4619a89c-2d61-4ac3-9317-84abe272fb4d",
-   "company_id": "pogo",
-   "source": "ashby api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": "Remote",
-   "department_group": "Ops",
-   "seniority": "Mid",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "01f75aeb-5930-43f0-b07f-c3da4ecd6c85",
-   "title": "Motion Designer & Video Editor",
-   "locations": [
-    "United States/Canada"
-   ],
-   "workplace": "Remote",
-   "remote": true,
-   "department": "Growth",
-   "team": "Growth",
-   "employment_type": "FullTime",
-   "posted": "2026-10-21",
-   "url": "https://jobs.ashbyhq.com/joinpogo/01f75aeb-5930-43f0-b07f-c3da4ecd6c85",
-   "apply_url": "https://jobs.ashbyhq.com/joinpogo/01f75aeb-5930-43f0-b07f-c3da4ecd6c85/application",
-   "compensation": "$110K - $130K",
-   "id": "pogo:ashby:01f75aeb-5930-43f0-b07f-c3da4ecd6c85",
-   "company_id": "pogo",
-   "source": "ashby api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": "Remote",
-   "department_group": "Design",
-   "seniority": "Mid",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "63ad9486-b3da-417d-bbc1-b99d15eaafb2",
-   "title": "Client Operations Associate",
-   "locations": [
-    "United States/Canada"
-   ],
-   "workplace": "Remote",
-   "remote": true,
-   "department": "B2B",
-   "team": "B2B",
-   "employment_type": "FullTime",
-   "posted": "2026-10-21",
-   "url": "https://jobs.ashbyhq.com/joinpogo/63ad9486-b3da-417d-bbc1-b99d15eaafb2",
-   "apply_url": "https://jobs.ashbyhq.com/joinpogo/63ad9486-b3da-417d-bbc1-b99d15eaafb2/application",
-   "compensation": null,
-   "id": "pogo:ashby:63ad9486-b3da-417d-bbc1-b99d15eaafb2",
-   "company_id": "pogo",
-   "source": "ashby api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": "Remote",
-   "department_group": "Ops",
    "seniority": "Mid",
    "fits_edwin": false,
    "first_seen": "2026-10-21"
@@ -2058,6 +2435,35 @@
    "seniority": "Mid",
    "fits_edwin": true,
    "first_seen": "2026-10-21"
+  },
+  {
+   "ext_id": "3003667b-0c14-48be-9537-6d262321e4f3",
+   "title": "Product Lead",
+   "locations": [
+    "NYC Office"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "R&D",
+   "team": "Product",
+   "employment_type": "FullTime",
+   "posted": "2026-10-21",
+   "url": "https://jobs.ashbyhq.com/savvy/3003667b-0c14-48be-9537-6d262321e4f3",
+   "apply_url": "https://jobs.ashbyhq.com/savvy/3003667b-0c14-48be-9537-6d262321e4f3/application",
+   "compensation": "$206K - $292K",
+   "id": "savvy-wealth:ashby:3003667b-0c14-48be-9537-6d262321e4f3",
+   "company_id": "savvy-wealth",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "NYC",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Product",
+   "seniority": "Lead/Manager+",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
   },
   {
    "ext_id": "f911878e-25a1-4bde-b0f3-7576437f6967",
@@ -3327,7 +3733,7 @@
    ],
    "workplace": "Hybrid",
    "remote": true,
-   "department": "Marketing / Comms",
+   "department": "Business & Supply Chain",
    "team": "Marketing / Comms",
    "employment_type": "FullTime",
    "posted": "2026-10-20",
@@ -3360,7 +3766,7 @@
    "workplace": "Hybrid",
    "remote": true,
    "department": "Silicon Engineering (SEG)",
-   "team": "Silicon Engineering (SEG)",
+   "team": "Physical Design & Foundry Enablement",
    "employment_type": "FullTime",
    "posted": "2026-10-20",
    "url": "https://jobs.ashbyhq.com/NormalComputing/a68c2b6a-d1d4-4c6b-ac93-c8f0a600994b",
@@ -3414,13 +3820,13 @@
   },
   {
    "ext_id": "82d956d8-b301-4eba-b777-7e506fea66a9",
-   "title": "Foundary Business Manager",
+   "title": "Foundry Sourcing & Supplier Manager",
    "locations": [
     "Mountain View"
    ],
    "workplace": "Hybrid",
    "remote": true,
-   "department": "Supply Chain & Manufacturing Ops",
+   "department": "Business & Supply Chain",
    "team": "Supply Chain & Manufacturing Ops",
    "employment_type": "FullTime",
    "posted": "2026-10-20",
@@ -3479,7 +3885,7 @@
    ],
    "workplace": "OnSite",
    "remote": false,
-   "department": "Marketing / Comms",
+   "department": "Business & Supply Chain",
    "team": "Marketing / Comms",
    "employment_type": "FullTime",
    "posted": "2026-10-20",
@@ -3529,35 +3935,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "ext_id": "5457532008",
-   "title": "Provider Partnerships Associate (Territory Sales)",
-   "locations": [
-    "New York",
-    "Remote"
-   ],
-   "workplace": null,
-   "remote": null,
-   "department": "Territory Manager",
-   "team": null,
-   "employment_type": null,
-   "posted": "2026-10-20",
-   "updated": "2026-10-20",
-   "url": "https://job-boards.greenhouse.io/usenourish/jobs/5457532008",
-   "apply_url": "https://job-boards.greenhouse.io/usenourish/jobs/5457532008",
-   "id": "nourish:greenhouse:5457532008",
-   "company_id": "nourish",
-   "source": "greenhouse api",
-   "location_classes": [
-    "NYC",
-    "Remote"
-   ],
-   "work_style": null,
-   "department_group": "Sales",
-   "seniority": "Mid",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
    "ext_id": "5458319008",
    "title": "Provider Partnerships Associate (Territory Sales)",
    "locations": [
@@ -3578,6 +3955,35 @@
    "source": "greenhouse api",
    "location_classes": [
     "Other",
+    "Remote"
+   ],
+   "work_style": null,
+   "department_group": "Sales",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "ext_id": "5457532008",
+   "title": "Provider Partnerships Associate (Territory Sales)",
+   "locations": [
+    "New York",
+    "Remote"
+   ],
+   "workplace": null,
+   "remote": null,
+   "department": "Territory Manager",
+   "team": null,
+   "employment_type": null,
+   "posted": "2026-10-20",
+   "updated": "2026-10-20",
+   "url": "https://job-boards.greenhouse.io/usenourish/jobs/5457532008",
+   "apply_url": "https://job-boards.greenhouse.io/usenourish/jobs/5457532008",
+   "id": "nourish:greenhouse:5457532008",
+   "company_id": "nourish",
+   "source": "greenhouse api",
+   "location_classes": [
+    "NYC",
     "Remote"
    ],
    "work_style": null,
@@ -3734,7 +4140,8 @@
    "ext_id": "f747bd73-73e1-4638-a67b-75951f1434bf",
    "title": "Area Vice President of Sales, East Coast",
    "locations": [
-    "Remote"
+    "Remote",
+    "Atlanta"
    ],
    "workplace": "Remote",
    "remote": true,
@@ -3749,6 +4156,7 @@
    "company_id": "stuut",
    "source": "ashby api",
    "location_classes": [
+    "Other",
     "Remote"
    ],
    "work_style": "Remote",
@@ -5089,7 +5497,7 @@
    ],
    "workplace": "OnSite",
    "remote": false,
-   "department": "People Operations",
+   "department": "Finance & Ops",
    "team": "People Operations",
    "employment_type": "FullTime",
    "posted": "2026-10-19",
@@ -5677,7 +6085,7 @@
    ],
    "workplace": "Hybrid",
    "remote": true,
-   "department": "Talent Acquisition",
+   "department": "Finance & Ops",
    "team": "Talent Acquisition",
    "employment_type": "FullTime",
    "posted": "2026-10-18",
@@ -5706,7 +6114,7 @@
    ],
    "workplace": "Hybrid",
    "remote": true,
-   "department": "Talent Acquisition",
+   "department": "Finance & Ops",
    "team": "Talent Acquisition",
    "employment_type": "FullTime",
    "posted": "2026-10-18",
@@ -5735,7 +6143,7 @@
    ],
    "workplace": "Hybrid",
    "remote": true,
-   "department": "Talent Acquisition",
+   "department": "Finance & Ops",
    "team": "Talent Acquisition",
    "employment_type": "FullTime",
    "posted": "2026-10-18",
@@ -5876,7 +6284,7 @@
    "workplace": "Hybrid",
    "remote": true,
    "department": "Silicon Engineering (SEG)",
-   "team": "Silicon Engineering (SEG)",
+   "team": "Architecture & Performance Modelling",
    "employment_type": "FullTime",
    "posted": "2026-10-17",
    "url": "https://jobs.ashbyhq.com/NormalComputing/308ca921-30d3-43bc-8217-8570c62480b2",
@@ -5909,7 +6317,7 @@
    "workplace": "Hybrid",
    "remote": true,
    "department": "Silicon Engineering (SEG)",
-   "team": "Silicon Engineering (SEG)",
+   "team": "Physical Design & Foundry Enablement",
    "employment_type": "FullTime",
    "posted": "2026-10-17",
    "url": "https://jobs.ashbyhq.com/NormalComputing/d6869bfd-d8f8-4a3e-88ac-d65e870b57cb",
@@ -6380,7 +6788,7 @@
   },
   {
    "ext_id": "4ab438bd-0929-4c05-956a-0b5143fea7ab",
-   "title": "Analog Design Engineer (custom DRAM circuits)",
+   "title": "Custom RAM Designer",
    "locations": [
     "Mountain View",
     "London",
@@ -6389,7 +6797,7 @@
    "workplace": "Hybrid",
    "remote": true,
    "department": "Silicon Engineering (SEG)",
-   "team": "Silicon Engineering (SEG)",
+   "team": "Architecture & Performance Modelling",
    "employment_type": "FullTime",
    "posted": "2026-10-16",
    "url": "https://jobs.ashbyhq.com/NormalComputing/4ab438bd-0929-4c05-956a-0b5143fea7ab",
@@ -6405,7 +6813,7 @@
     "Remote"
    ],
    "work_style": "Hybrid",
-   "department_group": "Engineering",
+   "department_group": "Design",
    "seniority": "Mid",
    "fits_edwin": false,
    "first_seen": "2026-10-21"
@@ -8535,7 +8943,7 @@
   },
   {
    "ext_id": "ce3e3ffa-5001-42b5-851d-d5dc46e5d463",
-   "title": "Hardware Engineer, FPGA",
+   "title": "FPGA Platform Lead",
    "locations": [
     "New York",
     "Mountain View"
@@ -8543,7 +8951,7 @@
    "workplace": "Hybrid",
    "remote": true,
    "department": "Silicon Engineering (SEG)",
-   "team": "Silicon Engineering (SEG)",
+   "team": "Silicon Chip / ASIC",
    "employment_type": "FullTime",
    "posted": "2026-10-14",
    "url": "https://jobs.ashbyhq.com/NormalComputing/ce3e3ffa-5001-42b5-851d-d5dc46e5d463",
@@ -8560,7 +8968,7 @@
    ],
    "work_style": "Hybrid",
    "department_group": "Engineering",
-   "seniority": "Mid",
+   "seniority": "Lead/Manager+",
    "fits_edwin": false,
    "first_seen": "2026-10-21"
   },
@@ -9564,7 +9972,7 @@
    ],
    "workplace": "Hybrid",
    "remote": true,
-   "department": "Platform/DevOps",
+   "department": "Engineering Strategy & Operations",
    "team": "Platform/DevOps",
    "employment_type": "FullTime",
    "posted": "2026-10-13",
@@ -11660,67 +12068,6 @@
    "work_style": null,
    "department_group": "Sales",
    "seniority": "Mid",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "6146091004",
-   "title": "Senior Product Designer, Knowledge Graph | NASA | Remote",
-   "locations": [
-    "United States (Remote)",
-    "Canada (Remote)",
-    "EMEA",
-    "USA (Remote)"
-   ],
-   "workplace": null,
-   "remote": null,
-   "department": "Product Design",
-   "team": null,
-   "employment_type": null,
-   "posted": "2026-10-09",
-   "updated": "2026-10-09",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6146091004",
-   "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6146091004",
-   "id": "grafana-labs:greenhouse:6146091004",
-   "company_id": "grafana-labs",
-   "source": "greenhouse api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": null,
-   "department_group": "Design",
-   "seniority": "Senior",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "6146092004",
-   "title": "Senior Product Designer, Knowledge Graph | NASA | Remote",
-   "locations": [
-    "Canada (Remote)",
-    "EMEA",
-    "USA (Remote)"
-   ],
-   "workplace": null,
-   "remote": null,
-   "department": "Product Design",
-   "team": null,
-   "employment_type": null,
-   "posted": "2026-10-09",
-   "updated": "2026-10-09",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6146092004",
-   "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6146092004",
-   "id": "grafana-labs:greenhouse:6146092004",
-   "company_id": "grafana-labs",
-   "source": "greenhouse api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": null,
-   "department_group": "Design",
-   "seniority": "Senior",
    "fits_edwin": false,
    "first_seen": "2026-10-21"
   },
@@ -15309,6 +15656,35 @@
    "seniority": "Mid",
    "fits_edwin": false,
    "first_seen": "2026-10-21"
+  },
+  {
+   "ext_id": "fcd29040-ef3b-454a-b4ef-25c4a8e27fa0",
+   "title": "Senior Product Marketing Manager",
+   "locations": [
+    "New York, NY"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Marketing & Business Development",
+   "team": "Marketing & Business Development",
+   "employment_type": "FullTime",
+   "posted": "2026-10-05",
+   "url": "https://jobs.ashbyhq.com/GovWell/fcd29040-ef3b-454a-b4ef-25c4a8e27fa0",
+   "apply_url": "https://jobs.ashbyhq.com/GovWell/fcd29040-ef3b-454a-b4ef-25c4a8e27fa0/application",
+   "compensation": "$165K - $185K",
+   "id": "govwell:ashby:fcd29040-ef3b-454a-b4ef-25c4a8e27fa0",
+   "company_id": "govwell",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "NYC",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Marketing",
+   "seniority": "Senior",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
   },
   {
    "ext_id": "038bddb3-c0dd-43e1-8863-17efdf9427db",
@@ -23266,6 +23642,35 @@
    "first_seen": "2026-10-21"
   },
   {
+   "ext_id": "325daa36-efe4-4f79-a398-7d50cc38626d",
+   "title": "Founding Product Designer",
+   "locations": [
+    "New York, NY"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Product & Engineering",
+   "team": "Product & Engineering",
+   "employment_type": "FullTime",
+   "posted": "2026-09-24",
+   "url": "https://jobs.ashbyhq.com/GovWell/325daa36-efe4-4f79-a398-7d50cc38626d",
+   "apply_url": "https://jobs.ashbyhq.com/GovWell/325daa36-efe4-4f79-a398-7d50cc38626d/application",
+   "compensation": "$180K - $200K",
+   "id": "govwell:ashby:325daa36-efe4-4f79-a398-7d50cc38626d",
+   "company_id": "govwell",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "NYC",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Design",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
    "ext_id": "6208010004",
    "title": "Senior Software Engineer - Session Replay | Canada | Remote",
    "locations": [
@@ -24458,33 +24863,6 @@
    "department_group": "Data/Analytics",
    "seniority": "Mid",
    "fits_edwin": true,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "am9icG9zdDqEb83eGtqvalQrJgYhUQ37",
-   "title": "Controller",
-   "locations": [
-    "New York, United States",
-    "New York, NY"
-   ],
-   "workplace": "in_office",
-   "remote": null,
-   "department": "Accounting & Finance",
-   "team": null,
-   "employment_type": "full_time",
-   "posted": "2026-09-23",
-   "url": "https://jobs.gem.com/narmi/am9icG9zdDqEb83eGtqvalQrJgYhUQ37",
-   "apply_url": "https://jobs.gem.com/narmi/am9icG9zdDqEb83eGtqvalQrJgYhUQ37",
-   "id": "narmi:gem:am9icG9zdDqEb83eGtqvalQrJgYhUQ37",
-   "company_id": "narmi",
-   "source": "gem api",
-   "location_classes": [
-    "NYC"
-   ],
-   "work_style": "Onsite",
-   "department_group": "Finance",
-   "seniority": "Mid",
-   "fits_edwin": false,
    "first_seen": "2026-10-21"
   },
   {
@@ -33527,6 +33905,33 @@
    "first_seen": "2026-10-21"
   },
   {
+   "ext_id": "47166897-71bd-4c0d-9cf0-1f1e94137eef",
+   "title": "Account Manager",
+   "locations": [
+    "Remote"
+   ],
+   "workplace": "Remote",
+   "remote": true,
+   "department": "Customer Success",
+   "team": "Customer Success",
+   "employment_type": "FullTime",
+   "posted": "2026-09-09",
+   "url": "https://jobs.ashbyhq.com/govdash/47166897-71bd-4c0d-9cf0-1f1e94137eef",
+   "apply_url": "https://jobs.ashbyhq.com/govdash/47166897-71bd-4c0d-9cf0-1f1e94137eef/application",
+   "compensation": "$80K - $100K",
+   "id": "govdash:ashby:47166897-71bd-4c0d-9cf0-1f1e94137eef",
+   "company_id": "govdash",
+   "source": "ashby api",
+   "location_classes": [
+    "Remote"
+   ],
+   "work_style": "Remote",
+   "department_group": "Sales",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
    "ext_id": "b48db81c-e19e-4fdd-a453-578a440320f9",
    "title": "Partner Marketing Manager",
    "locations": [
@@ -40712,7 +41117,7 @@
    ],
    "workplace": "Hybrid",
    "remote": true,
-   "department": "Talent Acquisition",
+   "department": "Finance & Ops",
    "team": "Talent Acquisition",
    "employment_type": "FullTime",
    "posted": "2026-08-24",
@@ -41021,8 +41426,8 @@
    ],
    "workplace": "OnSite",
    "remote": false,
-   "department": "Internships",
-   "team": "Internships",
+   "department": "Engineering Strategy & Operations",
+   "team": "Residency Program",
    "employment_type": "FullTime",
    "posted": "2026-08-22",
    "url": "https://jobs.ashbyhq.com/NormalComputing/5d57d8b1-612d-4ee0-941e-78a032a1ada2",
@@ -42258,8 +42663,8 @@
    ],
    "workplace": "OnSite",
    "remote": false,
-   "department": "Internships",
-   "team": "Internships",
+   "department": "Engineering Strategy & Operations",
+   "team": "Residency Program",
    "employment_type": "FullTime",
    "posted": "2026-08-19",
    "url": "https://jobs.ashbyhq.com/NormalComputing/975c754f-e5dd-4137-9e3e-63c81405d84f",
@@ -42689,6 +43094,35 @@
    "seniority": "Lead/Manager+",
    "fits_edwin": false,
    "first_seen": "2026-10-21"
+  },
+  {
+   "ext_id": "fa9ac301-0588-49a5-b2c2-e99cec0aeb81",
+   "title": "Senior Demand Generation Manager",
+   "locations": [
+    "New York, NY"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Marketing & Business Development",
+   "team": "Marketing & Business Development",
+   "employment_type": "FullTime",
+   "posted": "2026-08-18",
+   "url": "https://jobs.ashbyhq.com/GovWell/fa9ac301-0588-49a5-b2c2-e99cec0aeb81",
+   "apply_url": "https://jobs.ashbyhq.com/GovWell/fa9ac301-0588-49a5-b2c2-e99cec0aeb81/application",
+   "compensation": "$165K - $185K",
+   "id": "govwell:ashby:fa9ac301-0588-49a5-b2c2-e99cec0aeb81",
+   "company_id": "govwell",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "NYC",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Marketing",
+   "seniority": "Lead/Manager+",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
   },
   {
    "ext_id": "6131159004",
@@ -46366,6 +46800,33 @@
    "first_seen": "2026-10-21"
   },
   {
+   "ext_id": "743018f7-6752-4570-92ee-b1e80c1813ef",
+   "title": "Senior Software Engineer",
+   "locations": [
+    "New York, NY"
+   ],
+   "workplace": null,
+   "remote": null,
+   "department": "Product & Engineering",
+   "team": "Product & Engineering",
+   "employment_type": "FullTime",
+   "posted": "2026-08-10",
+   "url": "https://jobs.ashbyhq.com/GovWell/743018f7-6752-4570-92ee-b1e80c1813ef",
+   "apply_url": "https://jobs.ashbyhq.com/GovWell/743018f7-6752-4570-92ee-b1e80c1813ef/application",
+   "compensation": "$200K - $300K",
+   "id": "govwell:ashby:743018f7-6752-4570-92ee-b1e80c1813ef",
+   "company_id": "govwell",
+   "source": "ashby api",
+   "location_classes": [
+    "NYC"
+   ],
+   "work_style": null,
+   "department_group": "Engineering",
+   "seniority": "Senior",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
    "ext_id": "6104605004",
    "title": "Senior Solutions Engineer | Tokyo, Japan | Remote",
    "locations": [
@@ -46421,39 +46882,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "ext_id": "44eec898-0d9f-40ce-81c5-9b19e5afdf17",
-   "title": "Research Engineer, Domain Scaling",
-   "locations": [
-    "New York",
-    "London",
-    "Mountain View",
-    "Copenhagen"
-   ],
-   "workplace": "Hybrid",
-   "remote": true,
-   "department": "Software",
-   "team": "AI / ML (RSI, Simulation, Algo Codesign)",
-   "employment_type": "FullTime",
-   "posted": "2026-08-10",
-   "url": "https://jobs.ashbyhq.com/NormalComputing/44eec898-0d9f-40ce-81c5-9b19e5afdf17",
-   "apply_url": "https://jobs.ashbyhq.com/NormalComputing/44eec898-0d9f-40ce-81c5-9b19e5afdf17/application",
-   "compensation": "$200K - $400K",
-   "id": "normal:ashby:44eec898-0d9f-40ce-81c5-9b19e5afdf17",
-   "company_id": "normal",
-   "source": "ashby api",
-   "location_classes": [
-    "Hybrid",
-    "NYC",
-    "Other",
-    "Remote"
-   ],
-   "work_style": "Hybrid",
-   "department_group": "Engineering",
-   "seniority": "Mid",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
    "ext_id": "a3c71aa7-84fc-4c62-99c4-205ebffc7561",
    "title": "Hardware Engineer, RTL",
    "locations": [
@@ -46464,7 +46892,7 @@
    "workplace": "Hybrid",
    "remote": true,
    "department": "Silicon Engineering (SEG)",
-   "team": "Silicon Engineering (SEG)",
+   "team": "Silicon Chip / ASIC",
    "employment_type": "FullTime",
    "posted": "2026-08-10",
    "url": "https://jobs.ashbyhq.com/NormalComputing/a3c71aa7-84fc-4c62-99c4-205ebffc7561",
@@ -50171,6 +50599,33 @@
    "first_seen": "2026-10-21"
   },
   {
+   "ext_id": "aaedfff4-c080-4ecc-bd34-2e18d78ee41a",
+   "title": "Senior Software Engineer, Mobile",
+   "locations": [
+    "New York, NY"
+   ],
+   "workplace": null,
+   "remote": null,
+   "department": "Product & Engineering",
+   "team": "Product & Engineering",
+   "employment_type": "FullTime",
+   "posted": "2026-07-31",
+   "url": "https://jobs.ashbyhq.com/GovWell/aaedfff4-c080-4ecc-bd34-2e18d78ee41a",
+   "apply_url": "https://jobs.ashbyhq.com/GovWell/aaedfff4-c080-4ecc-bd34-2e18d78ee41a/application",
+   "compensation": "$200K - $300K",
+   "id": "govwell:ashby:aaedfff4-c080-4ecc-bd34-2e18d78ee41a",
+   "company_id": "govwell",
+   "source": "ashby api",
+   "location_classes": [
+    "NYC"
+   ],
+   "work_style": null,
+   "department_group": "Engineering",
+   "seniority": "Senior",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
    "ext_id": "6130872004",
    "title": "Senior FullStack Engineer - Grafana Cloud Observability| Canada | Remote",
    "locations": [
@@ -50681,6 +51136,33 @@
    "first_seen": "2026-10-21"
   },
   {
+   "ext_id": "4d5a429f-5d8c-42b4-a39a-6f1c7868b648",
+   "title": "Senior Software Engineer, Payments",
+   "locations": [
+    "New York, NY"
+   ],
+   "workplace": null,
+   "remote": null,
+   "department": "Product & Engineering",
+   "team": "Product & Engineering",
+   "employment_type": "FullTime",
+   "posted": "2026-07-30",
+   "url": "https://jobs.ashbyhq.com/GovWell/4d5a429f-5d8c-42b4-a39a-6f1c7868b648",
+   "apply_url": "https://jobs.ashbyhq.com/GovWell/4d5a429f-5d8c-42b4-a39a-6f1c7868b648/application",
+   "compensation": "$200K - $300K",
+   "id": "govwell:ashby:4d5a429f-5d8c-42b4-a39a-6f1c7868b648",
+   "company_id": "govwell",
+   "source": "ashby api",
+   "location_classes": [
+    "NYC"
+   ],
+   "work_style": null,
+   "department_group": "Engineering",
+   "seniority": "Senior",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
    "ext_id": "a5d0e0e2-8d15-491d-9169-64be23f62034",
    "title": "Revenue Operations",
    "locations": [
@@ -50996,6 +51478,33 @@
    "first_seen": "2026-10-21"
   },
   {
+   "ext_id": "3bee822e-1401-47dc-bd0c-35e3151eaef6",
+   "title": "Account Executive",
+   "locations": [
+    "New York, NY"
+   ],
+   "workplace": null,
+   "remote": null,
+   "department": "Sales",
+   "team": "Sales",
+   "employment_type": "FullTime",
+   "posted": "2026-07-29",
+   "url": "https://jobs.ashbyhq.com/GovWell/3bee822e-1401-47dc-bd0c-35e3151eaef6",
+   "apply_url": "https://jobs.ashbyhq.com/GovWell/3bee822e-1401-47dc-bd0c-35e3151eaef6/application",
+   "compensation": "$200K - $300K",
+   "id": "govwell:ashby:3bee822e-1401-47dc-bd0c-35e3151eaef6",
+   "company_id": "govwell",
+   "source": "ashby api",
+   "location_classes": [
+    "NYC"
+   ],
+   "work_style": null,
+   "department_group": "Sales",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
    "ext_id": "am9icG9zdDp2xef2OFDQQ4-TL8mx8kLl",
    "title": "Head of Design",
    "locations": [
@@ -51035,7 +51544,7 @@
    "workplace": "Hybrid",
    "remote": true,
    "department": "Silicon Engineering (SEG)",
-   "team": "Silicon Engineering (SEG)",
+   "team": "Silicon Chip / ASIC",
    "employment_type": "FullTime",
    "posted": "2026-07-29",
    "url": "https://jobs.ashbyhq.com/NormalComputing/341176b4-01da-48e7-b055-04b518368272",
@@ -53033,34 +53542,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "ext_id": "6123393004",
-   "title": "Regional Sales Director (Western Europe)",
-   "locations": [
-    "London, England, United Kingdom",
-    "EMEA"
-   ],
-   "workplace": null,
-   "remote": null,
-   "department": "Sales",
-   "team": null,
-   "employment_type": null,
-   "posted": "2026-07-23",
-   "updated": "2026-10-19",
-   "url": "https://job-boards.greenhouse.io/torq/jobs/6123393004",
-   "apply_url": "https://job-boards.greenhouse.io/torq/jobs/6123393004",
-   "id": "torq:greenhouse:6123393004",
-   "company_id": "torq",
-   "source": "greenhouse api",
-   "location_classes": [
-    "Other"
-   ],
-   "work_style": null,
-   "department_group": "Sales",
-   "seniority": "Lead/Manager+",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
    "ext_id": "6123431004",
    "title": "Regional Sales Manager, EMEA",
    "locations": [
@@ -53085,33 +53566,6 @@
    "work_style": null,
    "department_group": "Sales",
    "seniority": "Lead/Manager+",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "6123462004",
-   "title": "Senior Product Manager",
-   "locations": [
-    "Tel Aviv"
-   ],
-   "workplace": null,
-   "remote": null,
-   "department": "Product",
-   "team": null,
-   "employment_type": null,
-   "posted": "2026-07-23",
-   "updated": "2026-10-19",
-   "url": "https://job-boards.greenhouse.io/torq/jobs/6123462004",
-   "apply_url": "https://job-boards.greenhouse.io/torq/jobs/6123462004",
-   "id": "torq:greenhouse:6123462004",
-   "company_id": "torq",
-   "source": "greenhouse api",
-   "location_classes": [
-    "Other"
-   ],
-   "work_style": null,
-   "department_group": "Product",
-   "seniority": "Senior",
    "fits_edwin": false,
    "first_seen": "2026-10-21"
   },
@@ -53701,33 +54155,6 @@
     "Other"
    ],
    "work_style": null,
-   "department_group": "Engineering",
-   "seniority": "Senior",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
-   "ext_id": "0b315144-1912-482c-85aa-f3d5aa261255",
-   "title": "Senior QA Engineer",
-   "locations": [
-    "Remote (EU, LATAM, Canada)"
-   ],
-   "workplace": "Remote",
-   "remote": true,
-   "department": "Engineering",
-   "team": "Engineering",
-   "employment_type": "FullTime",
-   "posted": "2026-07-21",
-   "url": "https://jobs.ashbyhq.com/dualentry/0b315144-1912-482c-85aa-f3d5aa261255",
-   "apply_url": "https://jobs.ashbyhq.com/dualentry/0b315144-1912-482c-85aa-f3d5aa261255/application",
-   "compensation": "$75K - $140K",
-   "id": "dualentry:ashby:0b315144-1912-482c-85aa-f3d5aa261255",
-   "company_id": "dualentry",
-   "source": "ashby api",
-   "location_classes": [
-    "Remote"
-   ],
-   "work_style": "Remote",
    "department_group": "Engineering",
    "seniority": "Senior",
    "fits_edwin": false,
@@ -54622,33 +55049,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "ext_id": "7acbe603-8fbc-4249-942a-ee45eb273ea6",
-   "title": "Senior AI Engineer",
-   "locations": [
-    "Remote (EU, LATAM)"
-   ],
-   "workplace": null,
-   "remote": null,
-   "department": "Engineering",
-   "team": "Engineering",
-   "employment_type": "FullTime",
-   "posted": "2026-07-18",
-   "url": "https://jobs.ashbyhq.com/dualentry/7acbe603-8fbc-4249-942a-ee45eb273ea6",
-   "apply_url": "https://jobs.ashbyhq.com/dualentry/7acbe603-8fbc-4249-942a-ee45eb273ea6/application",
-   "compensation": "$140K - $200K",
-   "id": "dualentry:ashby:7acbe603-8fbc-4249-942a-ee45eb273ea6",
-   "company_id": "dualentry",
-   "source": "ashby api",
-   "location_classes": [
-    "Remote"
-   ],
-   "work_style": null,
-   "department_group": "Engineering",
-   "seniority": "Senior",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
    "ext_id": "16e7ad8f-4b99-4a2a-9b80-c86013379375",
    "title": "Implementation Manager/Director",
    "locations": [
@@ -55263,7 +55663,7 @@
   },
   {
    "ext_id": "d6d2797c-0201-4d7c-98cd-0317649dc78b",
-   "title": "Design Verification Engineer",
+   "title": "Hardware Engineer, Design Verification",
    "locations": [
     "New York",
     "London",
@@ -55272,7 +55672,7 @@
    "workplace": "Hybrid",
    "remote": true,
    "department": "Silicon Engineering (SEG)",
-   "team": "Silicon Engineering (SEG)",
+   "team": "Silicon Chip / ASIC",
    "employment_type": "FullTime",
    "posted": "2026-07-15",
    "url": "https://jobs.ashbyhq.com/NormalComputing/d6d2797c-0201-4d7c-98cd-0317649dc78b",
@@ -57725,6 +58125,33 @@
    "first_seen": "2026-10-21"
   },
   {
+   "ext_id": "81a23971-e007-44db-9812-6d6903ab7688",
+   "title": "Data Solutions Engineer",
+   "locations": [
+    "New York, NY"
+   ],
+   "workplace": null,
+   "remote": null,
+   "department": "Data Solutions",
+   "team": "Data Solutions",
+   "employment_type": "FullTime",
+   "posted": "2026-07-06",
+   "url": "https://jobs.ashbyhq.com/GovWell/81a23971-e007-44db-9812-6d6903ab7688",
+   "apply_url": "https://jobs.ashbyhq.com/GovWell/81a23971-e007-44db-9812-6d6903ab7688/application",
+   "compensation": "$130K - $240K",
+   "id": "govwell:ashby:81a23971-e007-44db-9812-6d6903ab7688",
+   "company_id": "govwell",
+   "source": "ashby api",
+   "location_classes": [
+    "NYC"
+   ],
+   "work_style": null,
+   "department_group": "Data/Analytics",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
    "ext_id": "06785f83-9f6a-464b-874a-eb59f45ebccc",
    "title": "Client Strategy, Enterprise",
    "locations": [
@@ -60140,35 +60567,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "ext_id": "6100725004",
-   "title": "Senior AI Engineer - Grafana AI/ML | USA | Remote",
-   "locations": [
-    "Canada (Remote)",
-    "USA (Remote)"
-   ],
-   "workplace": null,
-   "remote": null,
-   "department": "R&D: Artificial Intelligence (AI)",
-   "team": null,
-   "employment_type": null,
-   "posted": "2026-06-24",
-   "updated": "2026-10-21",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6100725004",
-   "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6100725004",
-   "id": "grafana-labs:greenhouse:6100725004",
-   "company_id": "grafana-labs",
-   "source": "greenhouse api",
-   "location_classes": [
-    "Other",
-    "Remote"
-   ],
-   "work_style": null,
-   "department_group": "Engineering",
-   "seniority": "Senior",
-   "fits_edwin": false,
-   "first_seen": "2026-10-21"
-  },
-  {
    "ext_id": "6100724004",
    "title": "Senior AI Engineer - Grafana AI/ML | USA | Remote",
    "locations": [
@@ -60186,6 +60584,35 @@
    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6100724004",
    "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6100724004",
    "id": "grafana-labs:greenhouse:6100724004",
+   "company_id": "grafana-labs",
+   "source": "greenhouse api",
+   "location_classes": [
+    "Other",
+    "Remote"
+   ],
+   "work_style": null,
+   "department_group": "Engineering",
+   "seniority": "Senior",
+   "fits_edwin": false,
+   "first_seen": "2026-10-21"
+  },
+  {
+   "ext_id": "6100725004",
+   "title": "Senior AI Engineer - Grafana AI/ML | USA | Remote",
+   "locations": [
+    "Canada (Remote)",
+    "USA (Remote)"
+   ],
+   "workplace": null,
+   "remote": null,
+   "department": "R&D: Artificial Intelligence (AI)",
+   "team": null,
+   "employment_type": null,
+   "posted": "2026-06-24",
+   "updated": "2026-10-21",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6100725004",
+   "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6100725004",
+   "id": "grafana-labs:greenhouse:6100725004",
    "company_id": "grafana-labs",
    "source": "greenhouse api",
    "location_classes": [
@@ -67527,6 +67954,33 @@
    "first_seen": "2026-10-21"
   },
   {
+   "ext_id": "5d6a3d2d-065b-48ae-942b-fbcfd83d4bdd",
+   "title": "Software Engineer",
+   "locations": [
+    "New York, NY"
+   ],
+   "workplace": null,
+   "remote": null,
+   "department": "Product & Engineering",
+   "team": "Product & Engineering",
+   "employment_type": "FullTime",
+   "posted": "2026-05-18",
+   "url": "https://jobs.ashbyhq.com/GovWell/5d6a3d2d-065b-48ae-942b-fbcfd83d4bdd",
+   "apply_url": "https://jobs.ashbyhq.com/GovWell/5d6a3d2d-065b-48ae-942b-fbcfd83d4bdd/application",
+   "compensation": "$160K - $225K",
+   "id": "govwell:ashby:5d6a3d2d-065b-48ae-942b-fbcfd83d4bdd",
+   "company_id": "govwell",
+   "source": "ashby api",
+   "location_classes": [
+    "NYC"
+   ],
+   "work_style": null,
+   "department_group": "Engineering",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
    "ext_id": "fb797d93-7647-4055-98e1-1d108ded36dd",
    "title": "Hera Hero",
    "locations": [
@@ -68867,6 +69321,33 @@
    "first_seen": "2026-10-21"
   },
   {
+   "ext_id": "76c30e6f-37f3-4c67-b2a4-05853ca957a9",
+   "title": "Business Development Manager",
+   "locations": [
+    "New York, NY"
+   ],
+   "workplace": null,
+   "remote": null,
+   "department": "Marketing & Business Development",
+   "team": "Marketing & Business Development",
+   "employment_type": "FullTime",
+   "posted": "2026-05-04",
+   "url": "https://jobs.ashbyhq.com/GovWell/76c30e6f-37f3-4c67-b2a4-05853ca957a9",
+   "apply_url": "https://jobs.ashbyhq.com/GovWell/76c30e6f-37f3-4c67-b2a4-05853ca957a9/application",
+   "compensation": "$75K - $95K",
+   "id": "govwell:ashby:76c30e6f-37f3-4c67-b2a4-05853ca957a9",
+   "company_id": "govwell",
+   "source": "ashby api",
+   "location_classes": [
+    "NYC"
+   ],
+   "work_style": null,
+   "department_group": "Sales",
+   "seniority": "Lead/Manager+",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
    "ext_id": "a12ea72b-85ed-4afe-8ccd-608c9f6f829c",
    "title": "Founding Partnerships",
    "locations": [
@@ -69566,6 +70047,33 @@
    "seniority": "Mid",
    "fits_edwin": false,
    "first_seen": "2026-10-21"
+  },
+  {
+   "ext_id": "47c365fb-09e8-40c2-9a7f-5a2ff687154a",
+   "title": "Deployment Strategist, New Business",
+   "locations": [
+    "New York, NY"
+   ],
+   "workplace": null,
+   "remote": null,
+   "department": "Deployment",
+   "team": "Deployment",
+   "employment_type": "FullTime",
+   "posted": "2026-04-27",
+   "url": "https://jobs.ashbyhq.com/GovWell/47c365fb-09e8-40c2-9a7f-5a2ff687154a",
+   "apply_url": "https://jobs.ashbyhq.com/GovWell/47c365fb-09e8-40c2-9a7f-5a2ff687154a/application",
+   "compensation": "$100K - $130K",
+   "id": "govwell:ashby:47c365fb-09e8-40c2-9a7f-5a2ff687154a",
+   "company_id": "govwell",
+   "source": "ashby api",
+   "location_classes": [
+    "NYC"
+   ],
+   "work_style": null,
+   "department_group": "Sales",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
   },
   {
    "ext_id": "5c6f6e86-fa24-4011-8928-5fb8244e39d7",
@@ -70757,6 +71265,35 @@
    "seniority": "Senior",
    "fits_edwin": false,
    "first_seen": "2026-10-21"
+  },
+  {
+   "ext_id": "e85c2f79-41a4-434a-af88-8b0b5391fae6",
+   "title": "Forward Deployed Software Engineer",
+   "locations": [
+    "New York, NY"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Product & Engineering",
+   "team": "Product & Engineering",
+   "employment_type": "FullTime",
+   "posted": "2026-04-15",
+   "url": "https://jobs.ashbyhq.com/GovWell/e85c2f79-41a4-434a-af88-8b0b5391fae6",
+   "apply_url": "https://jobs.ashbyhq.com/GovWell/e85c2f79-41a4-434a-af88-8b0b5391fae6/application",
+   "compensation": "$200K - $300K",
+   "id": "govwell:ashby:e85c2f79-41a4-434a-af88-8b0b5391fae6",
+   "company_id": "govwell",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "NYC",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Engineering",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
   },
   {
    "ext_id": "8b149691-2fb0-4474-b896-07ee4571c6fd",
@@ -73924,6 +74461,35 @@
    "first_seen": "2026-10-21"
   },
   {
+   "ext_id": "4f747a8e-d033-4d20-b266-fe53e2c474e4",
+   "title": "Sales Development Representative",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Sales",
+   "team": "Sales",
+   "employment_type": "FullTime",
+   "posted": "2026-03-18",
+   "url": "https://jobs.ashbyhq.com/govdash/4f747a8e-d033-4d20-b266-fe53e2c474e4",
+   "apply_url": "https://jobs.ashbyhq.com/govdash/4f747a8e-d033-4d20-b266-fe53e2c474e4/application",
+   "compensation": "$65K - $75K",
+   "id": "govdash:ashby:4f747a8e-d033-4d20-b266-fe53e2c474e4",
+   "company_id": "govdash",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "Other",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Sales",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
+  },
+  {
    "ext_id": "6296f647-14a7-4d63-aae6-337cc55c50ca",
    "title": "GTM Engineer",
    "locations": [
@@ -75879,6 +76445,35 @@
    "seniority": "Senior",
    "fits_edwin": false,
    "first_seen": "2026-10-21"
+  },
+  {
+   "ext_id": "7c4cff34-bd8d-41d7-a54b-8f9ee0d96ac3",
+   "title": "AI Product Engineer",
+   "locations": [
+    "New York, NY"
+   ],
+   "workplace": "Hybrid",
+   "remote": true,
+   "department": "Product & Engineering",
+   "team": "Product & Engineering",
+   "employment_type": "FullTime",
+   "posted": "2026-02-24",
+   "url": "https://jobs.ashbyhq.com/GovWell/7c4cff34-bd8d-41d7-a54b-8f9ee0d96ac3",
+   "apply_url": "https://jobs.ashbyhq.com/GovWell/7c4cff34-bd8d-41d7-a54b-8f9ee0d96ac3/application",
+   "compensation": "$200K - $300K",
+   "id": "govwell:ashby:7c4cff34-bd8d-41d7-a54b-8f9ee0d96ac3",
+   "company_id": "govwell",
+   "source": "ashby api",
+   "location_classes": [
+    "Hybrid",
+    "NYC",
+    "Remote"
+   ],
+   "work_style": "Hybrid",
+   "department_group": "Engineering",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
   },
   {
    "ext_id": "e22fd0c9-06f5-4b27-9157-f3d8bac5b80a",
@@ -89481,6 +90076,33 @@
    "seniority": "Mid",
    "fits_edwin": false,
    "first_seen": "2026-10-21"
+  },
+  {
+   "ext_id": "8f4f932f-dabd-47b9-ab53-d8b14bcf3faa",
+   "title": "Account Executive",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "workplace": null,
+   "remote": null,
+   "department": "Sales",
+   "team": "Sales",
+   "employment_type": "FullTime",
+   "posted": "2024-05-18",
+   "url": "https://jobs.ashbyhq.com/govdash/8f4f932f-dabd-47b9-ab53-d8b14bcf3faa",
+   "apply_url": "https://jobs.ashbyhq.com/govdash/8f4f932f-dabd-47b9-ab53-d8b14bcf3faa/application",
+   "compensation": null,
+   "id": "govdash:ashby:8f4f932f-dabd-47b9-ab53-d8b14bcf3faa",
+   "company_id": "govdash",
+   "source": "ashby api",
+   "location_classes": [
+    "Other"
+   ],
+   "work_style": null,
+   "department_group": "Sales",
+   "seniority": "Mid",
+   "fits_edwin": false,
+   "first_seen": "2026-10-22"
   },
   {
    "ext_id": "5154821004",
