@@ -1,0 +1,24 @@
+{
+ "fauna-robotics": {
+  "stage": "acquired",
+  "stage_detail": "Acquired by Amazon",
+  "acquired_by": "Amazon",
+  "last_round": {
+   "amount": "undisclosed",
+   "stage": "Acquired by Amazon",
+   "date": "2026-03-24",
+   "source": "https://www.faunarobotics.com/news/fauna-robotics-joins-amazon"
+  }
+ },
+ "fern-sdk": {
+  "stage": "acquired",
+  "stage_detail": "Acquired by Postman",
+  "acquired_by": "Postman",
+  "last_round": {
+   "amount": "undisclosed",
+   "stage": "Acquired by Postman",
+   "date": "2026-01-08",
+   "source": "https://blog.postman.com/postman-acquires-fern/"
+  }
+ }
+}

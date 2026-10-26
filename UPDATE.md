@@ -39,6 +39,10 @@ news lives at `#/news`, companies at `#/companies`.
   A letter is assigned only if the source names it (`round_name` keeps the exact name, e.g. "Series H"). A late-stage round with no
   letter goes to `Series C+ (unspecified)`; "Venture"/debt/undisclosed-type rounds go to `unknown`. News items get `round` the same way
   from their headline. Shareable URLs: `#/companies?round=Series%20A&round=seed&focus=climate`, `#/?round=Series%20B`.
+- startups.gallery's summary chip (e.g. "$40M Series B") can lag its dated round line ("Raised $35M Venture on Oct 22, 2026").
+  `last_round` uses the dated line (it matches the linked source/date); the company `stage` only changes if that line names a known stage.
+- Acquisitions the gallery hasn't caught: set `stage: acquired` + `acquired_by` + `last_round` in `overrides.json`, add an acquisition
+  item to `data/manual/news.json`, and null the job feed in `ats.json` if careers now point to the acquirer.
 
 ## Full refresh (recurring run)
 

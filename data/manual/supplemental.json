@@ -1,30 +1,681 @@
 [
- {"id":"blocpower","name":"BlocPower","website":"https://www.blocpower.io","description":"Electrifies and decarbonizes buildings in low-income and underserved communities, with financing, BlocMaps software, and green-jobs training.","sectors":["Climate","Energy"],"stage":"Series B","last_round":{"amount":"$150M ($24M+ Series B equity + $130M debt)","date":"2023-03-01","url":"https://www.prnewswire.com/news-releases/blocpower-announces-150-million-financing-is-honored-by-vice-president-harris-unveils-corporate-rebrand-301758688.html"},"hq_hint":"Brooklyn, NY (CNBC, Mar 2023: 'Brooklyn-based climate tech company')","hq_hint_url":"https://www.cnbc.com/2023/03/02/microsoft-kimbal-musk-invest-in-climate-tech-company-blocpower.html","focus":["climate"],"linkedin":"https://www.linkedin.com/company/blocpower"},
- {"id":"dandelion-energy","name":"Dandelion Energy","website":"https://dandelionenergy.com","description":"Residential geothermal heating and cooling: drills ground loops and installs geothermal heat pumps for homes and builders.","sectors":["Climate","Energy"],"stage":"Series C+","last_round":{"amount":"$40M Series C","date":"2024-09-24","url":"https://dandelionenergy.com/dandelion-energy-closes-40m-series-c-funding-round-to-expand-geothermal-offerings-nationwide"},"focus":["climate"],"linkedin":"https://www.linkedin.com/company/dandelion-geothermal"},
- {"id":"voltpost","name":"Voltpost","website":"https://www.voltpost.com","description":"Retrofits existing lampposts into modular curbside EV charging stations, with an app for reservations and payment.","sectors":["Climate","Transportation"],"stage":"seed","last_round":{"amount":"$3.6M Seed","date":"2023-07-24","url":"https://techcrunch.com/2023/07/24/ev-charging-voltpost-3-6m-seed-round/"},"hq_hint":"New York City (TechCrunch: 'a New York City–based startup')","hq_hint_url":"https://techcrunch.com/2023/07/24/ev-charging-voltpost-3-6m-seed-round/","focus":["climate"],"linkedin":"https://www.linkedin.com/company/voltpost"},
- {"id":"itselectric","name":"itselectric","website":"https://itselectric.us","description":"Curbside Level-2 EV chargers that draw spare power from adjacent buildings, installed at no cost to cities or property owners.","sectors":["Climate","Transportation"],"stage":"seed","last_round":{"amount":"$6.5M Seed","date":"2024-07-16","url":"https://www.prnewswire.com/news-releases/itselectric-announces-6-5m-seed-to-accelerate-deployment-of-curbside-ev-charging-in-cities-across-the-us-302197767.html"},"hq_hint":"Brooklyn, NY (press release: 'a Brooklyn-based electric vehicle curbside charging company')","hq_hint_url":"https://www.prnewswire.com/news-releases/itselectric-announces-6-5m-seed-to-accelerate-deployment-of-curbside-ev-charging-in-cities-across-the-us-302197767.html","focus":["climate"],"linkedin":"https://www.linkedin.com/company/itselectric"},
- {"id":"sealed","name":"Sealed","website":"https://www.sealed.com","description":"Software (Sealed Pro) that helps contractors handle rebates for home electrification and weatherization projects.","sectors":["Climate","Energy"],"stage":"Series B","last_round":{"amount":"$30M Series B extension","date":"2024-03-14","url":"https://www.alleywatch.com/2024/03/sealed-residential-home-energy-electrification-weatherization-rebate-platform-contractors-lauren-salz/"},"hq_hint":"New York (AlleyWatch NYC funding coverage)","hq_hint_url":"https://www.alleywatch.com/2024/03/sealed-residential-home-energy-electrification-weatherization-rebate-platform-contractors-lauren-salz/","focus":["climate"],"linkedin":"https://www.linkedin.com/company/sealed"},
- {"id":"revel","name":"Revel","website":"https://gorevel.com","description":"Builds and operates public EV fast-charging hubs and an all-electric rideshare fleet in New York City.","sectors":["Climate","Transportation"],"stage":"unknown","last_round":{"amount":"Up to $60M debt (NY Green Bank)","date":"2025-02-10","url":"https://techcrunch.com/2025/02/10/revel-nabs-60m-in-new-york-state-funding-to-build-more-ev-chargers/"},"focus":["climate"],"linkedin":"https://www.linkedin.com/company/reveltransit"},
- {"id":"gotham-greens","name":"Gotham Greens","website":"https://www.gothamgreens.com","description":"Grows produce in climate-controlled urban greenhouses and sells salads, herbs and sauces to grocers nationwide.","sectors":["Climate","Food"],"stage":"Series C+","last_round":{"amount":"$310M Series E","date":"2022-09-12","url":"https://www.globenewswire.com/news-release/2022/09/12/2513846/0/en/Gotham-Greens-Raises-310-Million-in-Fresh-Funding-To-Accelerate-National-Greenhouse-Expansion.html"},"focus":["climate"],"linkedin":"https://www.linkedin.com/company/gotham-greens-farms"},
- {"id":"arbor","name":"Arbor","website":"https://www.joinarbor.com","description":"Helps households save on home energy by automatically finding and switching them to cheaper or cleaner electricity plans.","sectors":["Climate","Energy","Consumer"],"stage":"seed","last_round":{"amount":"$9M Seed","date":"2023-09-07","url":"https://www.axios.com/pro/climate-deals/2023/09/07/first-round-capital-backs-energy-startup-arbor-in-9m-round"},"focus":["climate","fair_finance"],"linkedin":"https://www.linkedin.com/company/joinarbor"},
- {"id":"ninedot-energy","name":"NineDot Energy","website":"https://nine.energy","description":"Develops and operates community-scale battery energy storage projects across New York City.","sectors":["Climate","Energy"],"stage":"unknown","last_round":{"amount":"$431M debt financing (Natixis)","date":"2026-02-09","url":"https://www.businesswire.com/news/home/20260209595778/en/NineDot-Energy-Completes-%24431-Million-Financing-With-Natixis-Corporate-Investment-Banking-For-28-Battery-Energy-Storage-Projects-In-New-York-City"},"focus":["climate"],"linkedin":"https://www.linkedin.com/company/ninedotenergy"},
- {"id":"cleancapital","name":"CleanCapital","website":"https://cleancapital.com","description":"Invests in, acquires and operates distributed solar and energy-storage projects.","sectors":["Climate","Energy","Fintech"],"stage":"unknown","last_round":{"amount":"$300M HoldCo debt facility (Infranity)","date":null,"url":"https://cleancapital.com/resources/cleancapital-infranity-secure-300m-holdco-facility-to-accelerate-renewable-energy-growth/"},"focus":["climate"],"linkedin":"https://www.linkedin.com/company/cleancapital"},
- {"id":"esusu","name":"Esusu","website":"https://www.esusurent.com","description":"Reports on-time rent payments to credit bureaus so renters can build credit, plus rent-installment and rental-data tools.","sectors":["Fintech","Real Estate"],"stage":"Series C+","last_round":{"amount":"$50M Series C","date":"2025-12-11","url":"https://www.cnbc.com/2025/12/11/esusu-funding-renters-credit-scores.html"},"focus":["fair_finance"],"linkedin":"https://www.linkedin.com/company/esusu"},
- {"id":"propel","name":"Propel","website":"https://www.propel.app","description":"Free app for SNAP/EBT households to check benefit balances, track spending, find savings and manage money.","sectors":["Fintech","Consumer"],"stage":"Series B","last_round":{"amount":"$50M Series B","date":null,"url":"https://medium.com/@JoinPropel/propel-raises-50m-series-b-to-help-americans-with-low-income-make-it-through-the-month-every-3b7ea2ad3d54"},"hq_hint":"Brooklyn, NY (Technical.ly: 'Brooklyn food stamp startup')","hq_hint_url":"https://technical.ly/uncategorized/brooklyn-food-stamp-startup-raises-4-million-andreessen-horowitz-kevin-durant/","focus":["fair_finance","civic"],"linkedin":"https://www.linkedin.com/company/propel-inc"},
- {"id":"stash","name":"Stash","website":"https://www.stash.com","description":"Subscription investing and banking app for everyday savers, with an AI 'Money Coach' for financial guidance.","sectors":["Fintech","Consumer"],"stage":"Series C+","last_round":{"amount":"$146M Series H","date":"2025-05-12","url":"https://www.prnewswire.com/news-releases/with-4-3b-under-management-stash-secures-146m-series-h-to-lead-the-next-era-of-ai-driven-financial-guidance-302451796.html"},"focus":["fair_finance","ai_everyday"],"linkedin":"https://www.linkedin.com/company/stashinvest"},
- {"id":"betterment","name":"Betterment","website":"https://www.betterment.com","description":"Automated investing, retirement and cash accounts with low fees for individuals and advisors.","sectors":["Fintech","Consumer"],"stage":"Series C+","last_round":{"amount":"$60M Series F (+$100M credit facility)","date":null,"url":"https://www.prnewswire.com/news-releases/betterment-raises-160-million-in-growth-capital-301387762.html"},"focus":["fair_finance"],"linkedin":"https://www.linkedin.com/company/betterment"},
- {"id":"ellevest","name":"Ellevest","website":"https://www.ellevest.com","description":"Financial planning and wealth management built for women.","sectors":["Fintech","Consumer"],"stage":"Series B","last_round":{"amount":"$53M Series B","date":null,"url":"https://www.prnewswire.com/news-releases/ellevest-raises-53m-in-series-b-funding-round-backed-by-a-powerful-roster-of-women-investors-301518563.html"},"focus":["fair_finance"],"linkedin":"https://www.linkedin.com/company/ellevest"},
- {"id":"landis","name":"Landis","website":"https://www.landis.com","description":"Rent-to-own platform: buys a home you choose, rents it to you while you build credit and savings, then sells it to you at a preset price.","sectors":["Fintech","Real Estate"],"stage":"Series B","last_round":{"amount":"$40M Series B","date":"2022-10-18","url":"https://techcrunch.com/2022/10/18/landis-grabs-40m-to-turn-renters-into-homeowners/"},"focus":["fair_finance"],"linkedin":"https://www.linkedin.com/company/landishq"},
- {"id":"brigit","name":"Brigit","website":"https://www.hellobrigit.com","description":"Financial-health app offering cash advances, credit building and budgeting tools; acquired by Upbound Group.","sectors":["Fintech","Consumer"],"stage":"acquired","last_round":{"amount":"Acquired by Upbound Group","date":"2025-01-31","url":"https://investor.upbound.com/news-releases/news-release-details/upbound-group-closes-acquisition-brigit-leading-financial-health"},"focus":["fair_finance"],"linkedin":"https://www.linkedin.com/company/hellobrigit"},
- {"id":"unite-us","name":"Unite Us","website":"https://uniteus.com","description":"Social care network that connects health systems, governments and community organizations to coordinate services like food and housing.","sectors":["Healthcare","GovTech"],"stage":"Series C+","last_round":{"amount":"$150M Series C","date":"2021-03-16","url":"https://uniteus.com/press/unite-us-announces-it-has-raised-150m-to-scale-nationwide-social-care-infrastructure/"},"focus":["civic"],"linkedin":"https://www.linkedin.com/company/uniteus"},
- {"id":"mark43","name":"Mark43","website":"https://mark43.com","description":"Cloud-native records management, dispatch and analytics software for police and public-safety agencies.","sectors":["GovTech"],"stage":"Series C+","last_round":{"amount":"$101M Series E","date":"2021-07-12","url":"https://mark43.com/press/mark43-announces-101m-in-series-e-funding-led-by-the-spruce-house-partnership-and-tiger-global-management/"},"focus":["civic"],"linkedin":"https://www.linkedin.com/company/mark43"},
- {"id":"citizen","name":"Citizen","website":"https://citizen.com","description":"Real-time neighborhood safety alerts app.","sectors":["Consumer","GovTech"],"stage":"Series C+","last_round":{"amount":"$31.9M Series C-II","date":"2025-01-06","url":"https://alleywatch.com/2025/01/the-alleywatch-startup-daily-funding-report-1-7-2025/"},"focus":["civic"],"linkedin":"https://www.linkedin.com/company/citizen-app"},
- {"id":"polimorphic","name":"Polimorphic","website":"https://www.polimorphic.com","description":"AI front desk, case management and CRM software that helps local governments serve residents online in 75+ languages.","sectors":["GovTech","AI"],"stage":"Series A","last_round":{"amount":"$18.6M Series A","date":"2025-07-09","url":"https://www.businesswire.com/news/home/20250709269358/en/Polimorphic-Announces-%2418.6-Million-Series-A-Led-by-General-Catalyst-to-Drive-Government-Efficiency-with-AI"},"hq_hint":"New York (press release dateline and 'New York-based startup')","hq_hint_url":"https://www.polimorphic.com/articles/ai-startup-polimorphic-raises-18-6-million-led-by-general-catalyst","focus":["civic","ai_everyday"],"linkedin":"https://www.linkedin.com/company/polimorphic"},
- {"id":"via","name":"Via","website":"https://ridewithvia.com","description":"Software and operations for public transit agencies and cities: on-demand transit, paratransit, school transport and planning (owns Citymapper).","sectors":["GovTech","Transportation"],"stage":"public","last_round":{"amount":"$493M IPO (NYSE: VIA)","date":"2025-09-12","url":"https://www.reuters.com/technology/via-transportation-raises-493-million-us-ipo-valued-365-billion-2025-09-12/"},"focus":["civic","climate"],"linkedin":"https://www.linkedin.com/company/ridewithvia"},
- {"id":"prism-data","name":"Prism Data","website":"https://www.prismdata.com/","description":"Cash-flow underwriting and credit analytics: scores consumers and small businesses from bank-transaction data to expand fair access to credit.","sectors":["Fintech"],"stage":"Series A","last_round":{"amount":"$20M Series A","date":"2026-10-19","url":"https://www.prismdata.com/blog/prism-data-raises-20-million-in-funding-amid-rapid-adoption-of-its-cash-flow-underwriting-technology/"},"hq_hint":"New York, NY (PitchBook: corporate office New York, NY 10003)","hq_hint_url":"https://pitchbook.com/profiles/company/489781-00","linkedin":"https://www.linkedin.com/company/prismdata","careers_url":"https://www.prismdata.com/careers/","focus":["fair_finance"]},
- {"id":"novele","name":"Novele","website":"https://www.novele.com/","description":"AI energy management plus distributed battery storage that turns commercial buildings into grid assets.","sectors":["Climate"],"stage":"Series A","last_round":{"amount":"$17M Series A","date":"2026-10-05","url":"https://www.esgtoday.com/novele-raises-17-million-to-turn-buildings-into-distributed-energy-assets/"},"hq_hint":"New York, NY (ESG Today: 'New York City-based Novele')","hq_hint_url":"https://www.esgtoday.com/novele-raises-17-million-to-turn-buildings-into-distributed-energy-assets/","linkedin":"https://www.linkedin.com/company/novele","careers_url":"https://www.novele.com/careers","focus":["climate"]},
- {"id":"pathways","name":"Pathways","website":"https://pathwaysai.co/","description":"AI agents that turn manufacturers' operational data into verified Environmental Product Declarations to decarbonize building materials.","sectors":["Climate"],"stage":"seed","last_round":{"amount":"$6M Seed","date":"2026-10-15","url":"https://concreteproducts.com/index.php/2026/10/15/titan-group-heidelberg-materials-back-epd-tech-developer-pathways/"},"hq_hint":"New York, NY (press release: 'Pathways, a New York-based AI platform')","hq_hint_url":"https://pathwaysai.co/news/seed-announcement","linkedin":"https://www.linkedin.com/company/pathways-ai","careers_url":null,"focus":["climate"]},
- {"id":"govwell","name":"GovWell","website":"https://govwell.com/","description":"AI operating system for local government permitting, licensing, inspections and code enforcement.","sectors":["GovTech"],"stage":"Series A","last_round":{"amount":"$25M Series A","date":"2026-05-14","url":"https://www.insightpartners.com/ideas/govwell-raises-25m-series-a-led-by-insight-partners-to-build-the-ai-operating-system-for-modern-government/"},"hq_hint":"New York, NY (Insight Partners release: 'GovWell is headquartered in New York City')","hq_hint_url":"https://www.insightpartners.com/ideas/govwell-raises-25m-series-a-led-by-insight-partners-to-build-the-ai-operating-system-for-modern-government/","linkedin":null,"careers_url":"https://jobs.ashbyhq.com/GovWell","focus":["civic"]},
- {"id":"govdash","name":"GovDash","website":"https://www.govdash.com/","description":"AI platform that helps companies find, win and manage government contracts.","sectors":["GovTech"],"stage":"Series B","last_round":{"amount":"$30M Series B","date":"2026-01-15","url":"https://www.axios.com/pro/fintech-deals/2026/01/15/govdash-30m-government-contracts"},"linkedin":"https://www.linkedin.com/company/govdash","careers_url":"https://jobs.ashbyhq.com/govdash","focus":["civic"]},
- {"id":"snag","name":"snag","website":"https://snagsublets.com/","description":"Verified marketplace for rooms, sublets and lease takeovers with ID checks, escrowed rent and AI-generated listings, aimed at affordable flexible housing for young renters.","sectors":["PropTech"],"stage":"seed","last_round":{"amount":"$4M Seed","date":"2026-09-22","url":"https://www.alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-22-2026/"},"hq_hint":"Brooklyn, NY (AlleyWatch: 'The Brooklyn-based marketplace')","hq_hint_url":"https://www.alleywatch.com/2026/10/snag-sublets-nyc-lease-takeover-marketplace-flexible-rentals-selin-sonmez/","linkedin":null,"careers_url":null,"focus":["ai_everyday"]}
+ {
+  "id": "blocpower",
+  "name": "BlocPower",
+  "website": "https://www.blocpower.io",
+  "description": "Electrifies and decarbonizes buildings in low-income and underserved communities, with financing, BlocMaps software, and green-jobs training.",
+  "sectors": [
+   "Climate",
+   "Energy"
+  ],
+  "stage": "Series B",
+  "last_round": {
+   "amount": "$150M ($24M+ Series B equity + $130M debt)",
+   "date": "2023-03-01",
+   "url": "https://www.prnewswire.com/news-releases/blocpower-announces-150-million-financing-is-honored-by-vice-president-harris-unveils-corporate-rebrand-301758688.html"
+  },
+  "hq_hint": "Brooklyn, NY (CNBC, Mar 2023: 'Brooklyn-based climate tech company')",
+  "hq_hint_url": "https://www.cnbc.com/2023/03/02/microsoft-kimbal-musk-invest-in-climate-tech-company-blocpower.html",
+  "focus": [
+   "climate"
+  ],
+  "linkedin": "https://www.linkedin.com/company/blocpower"
+ },
+ {
+  "id": "dandelion-energy",
+  "name": "Dandelion Energy",
+  "website": "https://dandelionenergy.com",
+  "description": "Residential geothermal heating and cooling: drills ground loops and installs geothermal heat pumps for homes and builders.",
+  "sectors": [
+   "Climate",
+   "Energy"
+  ],
+  "stage": "Series C+",
+  "last_round": {
+   "amount": "$40M Series C",
+   "date": "2024-09-24",
+   "url": "https://dandelionenergy.com/dandelion-energy-closes-40m-series-c-funding-round-to-expand-geothermal-offerings-nationwide"
+  },
+  "focus": [
+   "climate"
+  ],
+  "linkedin": "https://www.linkedin.com/company/dandelion-geothermal"
+ },
+ {
+  "id": "voltpost",
+  "name": "Voltpost",
+  "website": "https://www.voltpost.com",
+  "description": "Retrofits existing lampposts into modular curbside EV charging stations, with an app for reservations and payment.",
+  "sectors": [
+   "Climate",
+   "Transportation"
+  ],
+  "stage": "seed",
+  "last_round": {
+   "amount": "$3.6M Seed",
+   "date": "2023-07-24",
+   "url": "https://techcrunch.com/2023/07/24/ev-charging-voltpost-3-6m-seed-round/"
+  },
+  "hq_hint": "New York City (TechCrunch: 'a New York City–based startup')",
+  "hq_hint_url": "https://techcrunch.com/2023/07/24/ev-charging-voltpost-3-6m-seed-round/",
+  "focus": [
+   "climate"
+  ],
+  "linkedin": "https://www.linkedin.com/company/voltpost"
+ },
+ {
+  "id": "itselectric",
+  "name": "itselectric",
+  "website": "https://itselectric.us",
+  "description": "Curbside Level-2 EV chargers that draw spare power from adjacent buildings, installed at no cost to cities or property owners.",
+  "sectors": [
+   "Climate",
+   "Transportation"
+  ],
+  "stage": "seed",
+  "last_round": {
+   "amount": "$6.5M Seed",
+   "date": "2024-07-16",
+   "url": "https://www.prnewswire.com/news-releases/itselectric-announces-6-5m-seed-to-accelerate-deployment-of-curbside-ev-charging-in-cities-across-the-us-302197767.html"
+  },
+  "hq_hint": "Brooklyn, NY (press release: 'a Brooklyn-based electric vehicle curbside charging company')",
+  "hq_hint_url": "https://www.prnewswire.com/news-releases/itselectric-announces-6-5m-seed-to-accelerate-deployment-of-curbside-ev-charging-in-cities-across-the-us-302197767.html",
+  "focus": [
+   "climate"
+  ],
+  "linkedin": "https://www.linkedin.com/company/itselectric"
+ },
+ {
+  "id": "sealed",
+  "name": "Sealed",
+  "website": "https://www.sealed.com",
+  "description": "Software (Sealed Pro) that helps contractors handle rebates for home electrification and weatherization projects.",
+  "sectors": [
+   "Climate",
+   "Energy"
+  ],
+  "stage": "Series B",
+  "last_round": {
+   "amount": "$30M Series B extension",
+   "date": "2024-03-14",
+   "url": "https://www.alleywatch.com/2024/03/sealed-residential-home-energy-electrification-weatherization-rebate-platform-contractors-lauren-salz/"
+  },
+  "hq_hint": "New York (AlleyWatch NYC funding coverage)",
+  "hq_hint_url": "https://www.alleywatch.com/2024/03/sealed-residential-home-energy-electrification-weatherization-rebate-platform-contractors-lauren-salz/",
+  "focus": [
+   "climate"
+  ],
+  "linkedin": "https://www.linkedin.com/company/sealed"
+ },
+ {
+  "id": "revel",
+  "name": "Revel",
+  "website": "https://gorevel.com",
+  "description": "Builds and operates public EV fast-charging hubs and an all-electric rideshare fleet in New York City.",
+  "sectors": [
+   "Climate",
+   "Transportation"
+  ],
+  "stage": "unknown",
+  "last_round": {
+   "amount": "Up to $60M debt (NY Green Bank)",
+   "date": "2025-02-10",
+   "url": "https://techcrunch.com/2025/02/10/revel-nabs-60m-in-new-york-state-funding-to-build-more-ev-chargers/"
+  },
+  "focus": [
+   "climate"
+  ],
+  "linkedin": "https://www.linkedin.com/company/reveltransit"
+ },
+ {
+  "id": "gotham-greens",
+  "name": "Gotham Greens",
+  "website": "https://www.gothamgreens.com",
+  "description": "Grows produce in climate-controlled urban greenhouses and sells salads, herbs and sauces to grocers nationwide.",
+  "sectors": [
+   "Climate",
+   "Food"
+  ],
+  "stage": "Series C+",
+  "last_round": {
+   "amount": "$310M Series E",
+   "date": "2022-09-12",
+   "url": "https://www.globenewswire.com/news-release/2022/09/12/2513846/0/en/Gotham-Greens-Raises-310-Million-in-Fresh-Funding-To-Accelerate-National-Greenhouse-Expansion.html"
+  },
+  "focus": [
+   "climate"
+  ],
+  "linkedin": "https://www.linkedin.com/company/gotham-greens-farms"
+ },
+ {
+  "id": "arbor",
+  "name": "Arbor",
+  "website": "https://www.joinarbor.com",
+  "description": "Helps households save on home energy by automatically finding and switching them to cheaper or cleaner electricity plans.",
+  "sectors": [
+   "Climate",
+   "Energy",
+   "Consumer"
+  ],
+  "stage": "seed",
+  "last_round": {
+   "amount": "$9M Seed",
+   "date": "2023-09-07",
+   "url": "https://www.axios.com/pro/climate-deals/2023/09/07/first-round-capital-backs-energy-startup-arbor-in-9m-round"
+  },
+  "focus": [
+   "climate",
+   "fair_finance"
+  ],
+  "linkedin": "https://www.linkedin.com/company/joinarbor"
+ },
+ {
+  "id": "ninedot-energy",
+  "name": "NineDot Energy",
+  "website": "https://nine.energy",
+  "description": "Develops and operates community-scale battery energy storage projects across New York City.",
+  "sectors": [
+   "Climate",
+   "Energy"
+  ],
+  "stage": "unknown",
+  "last_round": {
+   "amount": "$431M debt financing (Natixis)",
+   "date": "2026-02-09",
+   "url": "https://www.businesswire.com/news/home/20260209595778/en/NineDot-Energy-Completes-%24431-Million-Financing-With-Natixis-Corporate-Investment-Banking-For-28-Battery-Energy-Storage-Projects-In-New-York-City"
+  },
+  "focus": [
+   "climate"
+  ],
+  "linkedin": "https://www.linkedin.com/company/ninedotenergy"
+ },
+ {
+  "id": "cleancapital",
+  "name": "CleanCapital",
+  "website": "https://cleancapital.com",
+  "description": "Invests in, acquires and operates distributed solar and energy-storage projects.",
+  "sectors": [
+   "Climate",
+   "Energy",
+   "Fintech"
+  ],
+  "stage": "unknown",
+  "last_round": {
+   "amount": "$300M HoldCo debt facility (Infranity)",
+   "date": null,
+   "url": "https://cleancapital.com/resources/cleancapital-infranity-secure-300m-holdco-facility-to-accelerate-renewable-energy-growth/"
+  },
+  "focus": [
+   "climate"
+  ],
+  "linkedin": "https://www.linkedin.com/company/cleancapital"
+ },
+ {
+  "id": "esusu",
+  "name": "Esusu",
+  "website": "https://www.esusurent.com",
+  "description": "Reports on-time rent payments to credit bureaus so renters can build credit, plus rent-installment and rental-data tools.",
+  "sectors": [
+   "Fintech",
+   "Real Estate"
+  ],
+  "stage": "Series C+",
+  "last_round": {
+   "amount": "$50M Series C",
+   "date": "2025-12-11",
+   "url": "https://www.cnbc.com/2025/12/11/esusu-funding-renters-credit-scores.html"
+  },
+  "focus": [
+   "fair_finance"
+  ],
+  "linkedin": "https://www.linkedin.com/company/esusu"
+ },
+ {
+  "id": "propel",
+  "name": "Propel",
+  "website": "https://www.propel.app",
+  "description": "Free app for SNAP/EBT households to check benefit balances, track spending, find savings and manage money.",
+  "sectors": [
+   "Fintech",
+   "Consumer"
+  ],
+  "stage": "Series B",
+  "last_round": {
+   "amount": "$50M Series B",
+   "date": null,
+   "url": "https://medium.com/@JoinPropel/propel-raises-50m-series-b-to-help-americans-with-low-income-make-it-through-the-month-every-3b7ea2ad3d54"
+  },
+  "hq_hint": "Brooklyn, NY (Technical.ly: 'Brooklyn food stamp startup')",
+  "hq_hint_url": "https://technical.ly/uncategorized/brooklyn-food-stamp-startup-raises-4-million-andreessen-horowitz-kevin-durant/",
+  "focus": [
+   "fair_finance",
+   "civic"
+  ],
+  "linkedin": "https://www.linkedin.com/company/propel-inc"
+ },
+ {
+  "id": "stash",
+  "name": "Stash",
+  "website": "https://www.stash.com",
+  "description": "Subscription investing and banking app for everyday savers, with an AI 'Money Coach' for financial guidance.",
+  "sectors": [
+   "Fintech",
+   "Consumer"
+  ],
+  "stage": "Series C+",
+  "last_round": {
+   "amount": "$146M Series H",
+   "date": "2025-05-12",
+   "url": "https://www.prnewswire.com/news-releases/with-4-3b-under-management-stash-secures-146m-series-h-to-lead-the-next-era-of-ai-driven-financial-guidance-302451796.html"
+  },
+  "focus": [
+   "fair_finance",
+   "ai_everyday"
+  ],
+  "linkedin": "https://www.linkedin.com/company/stashinvest"
+ },
+ {
+  "id": "betterment",
+  "name": "Betterment",
+  "website": "https://www.betterment.com",
+  "description": "Automated investing, retirement and cash accounts with low fees for individuals and advisors.",
+  "sectors": [
+   "Fintech",
+   "Consumer"
+  ],
+  "stage": "Series C+",
+  "last_round": {
+   "amount": "$60M Series F (+$100M credit facility)",
+   "date": null,
+   "url": "https://www.prnewswire.com/news-releases/betterment-raises-160-million-in-growth-capital-301387762.html"
+  },
+  "focus": [
+   "fair_finance"
+  ],
+  "linkedin": "https://www.linkedin.com/company/betterment"
+ },
+ {
+  "id": "ellevest",
+  "name": "Ellevest",
+  "website": "https://www.ellevest.com",
+  "description": "Financial planning and wealth management built for women.",
+  "sectors": [
+   "Fintech",
+   "Consumer"
+  ],
+  "stage": "Series B",
+  "last_round": {
+   "amount": "$53M Series B",
+   "date": null,
+   "url": "https://www.prnewswire.com/news-releases/ellevest-raises-53m-in-series-b-funding-round-backed-by-a-powerful-roster-of-women-investors-301518563.html"
+  },
+  "focus": [
+   "fair_finance"
+  ],
+  "linkedin": "https://www.linkedin.com/company/ellevest"
+ },
+ {
+  "id": "landis",
+  "name": "Landis",
+  "website": "https://www.landis.com",
+  "description": "Rent-to-own platform: buys a home you choose, rents it to you while you build credit and savings, then sells it to you at a preset price.",
+  "sectors": [
+   "Fintech",
+   "Real Estate"
+  ],
+  "stage": "Series B",
+  "last_round": {
+   "amount": "$40M Series B",
+   "date": "2022-10-18",
+   "url": "https://techcrunch.com/2022/10/18/landis-grabs-40m-to-turn-renters-into-homeowners/"
+  },
+  "focus": [
+   "fair_finance"
+  ],
+  "linkedin": "https://www.linkedin.com/company/landishq"
+ },
+ {
+  "id": "brigit",
+  "name": "Brigit",
+  "website": "https://www.hellobrigit.com",
+  "description": "Financial-health app offering cash advances, credit building and budgeting tools; acquired by Upbound Group.",
+  "sectors": [
+   "Fintech",
+   "Consumer"
+  ],
+  "stage": "acquired",
+  "last_round": {
+   "amount": "Acquired by Upbound Group",
+   "date": "2025-01-31",
+   "url": "https://investor.upbound.com/news-releases/news-release-details/upbound-group-closes-acquisition-brigit-leading-financial-health"
+  },
+  "focus": [
+   "fair_finance"
+  ],
+  "linkedin": "https://www.linkedin.com/company/hellobrigit"
+ },
+ {
+  "id": "unite-us",
+  "name": "Unite Us",
+  "website": "https://uniteus.com",
+  "description": "Social care network that connects health systems, governments and community organizations to coordinate services like food and housing.",
+  "sectors": [
+   "Healthcare",
+   "GovTech"
+  ],
+  "stage": "Series C+",
+  "last_round": {
+   "amount": "$150M Series C",
+   "date": "2021-03-16",
+   "url": "https://uniteus.com/press/unite-us-announces-it-has-raised-150m-to-scale-nationwide-social-care-infrastructure/"
+  },
+  "focus": [
+   "civic"
+  ],
+  "linkedin": "https://www.linkedin.com/company/uniteus"
+ },
+ {
+  "id": "mark43",
+  "name": "Mark43",
+  "website": "https://mark43.com",
+  "description": "Cloud-native records management, dispatch and analytics software for police and public-safety agencies.",
+  "sectors": [
+   "GovTech"
+  ],
+  "stage": "Series C+",
+  "last_round": {
+   "amount": "$101M Series E",
+   "date": "2021-07-12",
+   "url": "https://mark43.com/press/mark43-announces-101m-in-series-e-funding-led-by-the-spruce-house-partnership-and-tiger-global-management/"
+  },
+  "focus": [
+   "civic"
+  ],
+  "linkedin": "https://www.linkedin.com/company/mark43"
+ },
+ {
+  "id": "citizen",
+  "name": "Citizen",
+  "website": "https://citizen.com",
+  "description": "Real-time neighborhood safety alerts app.",
+  "sectors": [
+   "Consumer",
+   "GovTech"
+  ],
+  "stage": "Series C+",
+  "last_round": {
+   "amount": "$31.9M Series C-II",
+   "date": "2025-01-06",
+   "url": "https://alleywatch.com/2025/01/the-alleywatch-startup-daily-funding-report-1-7-2025/"
+  },
+  "focus": [
+   "civic"
+  ],
+  "linkedin": "https://www.linkedin.com/company/citizen-app"
+ },
+ {
+  "id": "polimorphic",
+  "name": "Polimorphic",
+  "website": "https://www.polimorphic.com",
+  "description": "AI front desk, case management and CRM software that helps local governments serve residents online in 75+ languages.",
+  "sectors": [
+   "GovTech",
+   "AI"
+  ],
+  "stage": "Series A",
+  "last_round": {
+   "amount": "$18.6M Series A",
+   "date": "2025-07-09",
+   "url": "https://www.businesswire.com/news/home/20250709269358/en/Polimorphic-Announces-%2418.6-Million-Series-A-Led-by-General-Catalyst-to-Drive-Government-Efficiency-with-AI"
+  },
+  "hq_hint": "New York (press release dateline and 'New York-based startup')",
+  "hq_hint_url": "https://www.polimorphic.com/articles/ai-startup-polimorphic-raises-18-6-million-led-by-general-catalyst",
+  "focus": [
+   "civic",
+   "ai_everyday"
+  ],
+  "linkedin": "https://www.linkedin.com/company/polimorphic"
+ },
+ {
+  "id": "via",
+  "name": "Via",
+  "website": "https://ridewithvia.com",
+  "description": "Software and operations for public transit agencies and cities: on-demand transit, paratransit, school transport and planning (owns Citymapper).",
+  "sectors": [
+   "GovTech",
+   "Transportation"
+  ],
+  "stage": "public",
+  "last_round": {
+   "amount": "$493M IPO (NYSE: VIA)",
+   "date": "2025-09-12",
+   "url": "https://www.reuters.com/technology/via-transportation-raises-493-million-us-ipo-valued-365-billion-2025-09-12/"
+  },
+  "focus": [
+   "civic",
+   "climate"
+  ],
+  "linkedin": "https://www.linkedin.com/company/ridewithvia"
+ },
+ {
+  "id": "prism-data",
+  "name": "Prism Data",
+  "website": "https://www.prismdata.com/",
+  "description": "Cash-flow underwriting and credit analytics: scores consumers and small businesses from bank-transaction data to expand fair access to credit.",
+  "sectors": [
+   "Fintech"
+  ],
+  "stage": "Series A",
+  "last_round": {
+   "amount": "$20M Series A",
+   "date": "2026-10-19",
+   "url": "https://www.prismdata.com/blog/prism-data-raises-20-million-in-funding-amid-rapid-adoption-of-its-cash-flow-underwriting-technology/"
+  },
+  "hq_hint": "New York, NY (PitchBook: corporate office New York, NY 10003)",
+  "hq_hint_url": "https://pitchbook.com/profiles/company/489781-00",
+  "linkedin": "https://www.linkedin.com/company/prismdata",
+  "careers_url": "https://www.prismdata.com/careers/",
+  "focus": [
+   "fair_finance"
+  ]
+ },
+ {
+  "id": "novele",
+  "name": "Novele",
+  "website": "https://www.novele.com/",
+  "description": "AI energy management plus distributed battery storage that turns commercial buildings into grid assets.",
+  "sectors": [
+   "Climate"
+  ],
+  "stage": "Series A",
+  "last_round": {
+   "amount": "$17M Series A",
+   "date": "2026-10-05",
+   "url": "https://www.esgtoday.com/novele-raises-17-million-to-turn-buildings-into-distributed-energy-assets/"
+  },
+  "hq_hint": "New York, NY (ESG Today: 'New York City-based Novele')",
+  "hq_hint_url": "https://www.esgtoday.com/novele-raises-17-million-to-turn-buildings-into-distributed-energy-assets/",
+  "linkedin": "https://www.linkedin.com/company/novele",
+  "careers_url": "https://www.novele.com/careers",
+  "focus": [
+   "climate"
+  ]
+ },
+ {
+  "id": "pathways",
+  "name": "Pathways",
+  "website": "https://pathwaysai.co/",
+  "description": "AI agents that turn manufacturers' operational data into verified Environmental Product Declarations to decarbonize building materials.",
+  "sectors": [
+   "Climate"
+  ],
+  "stage": "seed",
+  "last_round": {
+   "amount": "$6M Seed",
+   "date": "2026-10-15",
+   "url": "https://concreteproducts.com/index.php/2026/10/15/titan-group-heidelberg-materials-back-epd-tech-developer-pathways/"
+  },
+  "hq_hint": "New York, NY (press release: 'Pathways, a New York-based AI platform')",
+  "hq_hint_url": "https://pathwaysai.co/news/seed-announcement",
+  "linkedin": "https://www.linkedin.com/company/pathways-ai",
+  "careers_url": null,
+  "focus": [
+   "climate"
+  ]
+ },
+ {
+  "id": "govwell",
+  "name": "GovWell",
+  "website": "https://govwell.com/",
+  "description": "AI operating system for local government permitting, licensing, inspections and code enforcement.",
+  "sectors": [
+   "GovTech"
+  ],
+  "stage": "Series A",
+  "last_round": {
+   "amount": "$25M Series A",
+   "date": "2026-05-14",
+   "url": "https://www.insightpartners.com/ideas/govwell-raises-25m-series-a-led-by-insight-partners-to-build-the-ai-operating-system-for-modern-government/"
+  },
+  "hq_hint": "New York, NY (Insight Partners release: 'GovWell is headquartered in New York City')",
+  "hq_hint_url": "https://www.insightpartners.com/ideas/govwell-raises-25m-series-a-led-by-insight-partners-to-build-the-ai-operating-system-for-modern-government/",
+  "linkedin": null,
+  "careers_url": "https://jobs.ashbyhq.com/GovWell",
+  "focus": [
+   "civic"
+  ]
+ },
+ {
+  "id": "govdash",
+  "name": "GovDash",
+  "website": "https://www.govdash.com/",
+  "description": "AI platform that helps companies find, win and manage government contracts.",
+  "sectors": [
+   "GovTech"
+  ],
+  "stage": "Series B",
+  "last_round": {
+   "amount": "$30M Series B",
+   "date": "2026-01-15",
+   "url": "https://www.axios.com/pro/fintech-deals/2026/01/15/govdash-30m-government-contracts"
+  },
+  "linkedin": "https://www.linkedin.com/company/govdash",
+  "careers_url": "https://jobs.ashbyhq.com/govdash",
+  "focus": [
+   "civic"
+  ]
+ },
+ {
+  "id": "snag",
+  "name": "snag",
+  "website": "https://snagsublets.com/",
+  "description": "Verified marketplace for rooms, sublets and lease takeovers with ID checks, escrowed rent and AI-generated listings, aimed at affordable flexible housing for young renters.",
+  "sectors": [
+   "PropTech"
+  ],
+  "stage": "seed",
+  "last_round": {
+   "amount": "$4M Seed",
+   "date": "2026-09-22",
+   "url": "https://www.alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-22-2026/"
+  },
+  "hq_hint": "Brooklyn, NY (AlleyWatch: 'The Brooklyn-based marketplace')",
+  "hq_hint_url": "https://www.alleywatch.com/2026/10/snag-sublets-nyc-lease-takeover-marketplace-flexible-rentals-selin-sonmez/",
+  "linkedin": null,
+  "careers_url": null,
+  "focus": [
+   "ai_everyday"
+  ]
+ },
+ {
+  "id": "mural",
+  "name": "Mural",
+  "website": "https://www.muralpay.com",
+  "description": "Stablecoin-powered cross-border payments infrastructure and compliant system of record for moving money between the US and emerging markets.",
+  "sectors": [
+   "Fintech"
+  ],
+  "stage": "Series A",
+  "last_round": {
+   "amount": "$15M Series A",
+   "date": "2026-10-23",
+   "url": "https://www.alleywatch.com/2026/10/mural-stablecoin-cross-border-payments-fintech-infrastructure-sinclair-toffa/"
+  },
+  "hq_hint": "New York, NY (LinkedIn HQ: New York; AlleyWatch: New York-based)",
+  "hq_hint_url": "https://www.alleywatch.com/2026/10/mural-stablecoin-cross-border-payments-fintech-infrastructure-sinclair-toffa/",
+  "linkedin": "https://www.linkedin.com/company/muralpay",
+  "careers_url": "https://jobs.ashbyhq.com/careers.mural",
+  "focus": [
+   "fair_finance"
+  ]
+ },
+ {
+  "id": "coral",
+  "name": "Coral",
+  "website": "https://www.startcoral.com",
+  "description": "Climate fintech that lets HVAC contractors confirm heat-pump rebate eligibility in seconds and give homeowners the rebate as an instant upfront discount, paying contractors within 24 hours.",
+  "sectors": [
+   "Climate",
+   "Fintech"
+  ],
+  "stage": "seed",
+  "last_round": {
+   "amount": "$7.5M Seed",
+   "date": "2026-03-06",
+   "url": "https://www.startcoral.com/blog/coral-seed-funding-announcement"
+  },
+  "hq_hint": "New York, NY (LinkedIn HQ: New York, NY)",
+  "hq_hint_url": "https://www.linkedin.com/company/startcoral",
+  "linkedin": "https://www.linkedin.com/company/startcoral",
+  "careers_url": null,
+  "focus": [
+   "climate",
+   "fair_finance"
+  ]
+ },
+ {
+  "id": "pythag-tech",
+  "name": "Pythag Tech",
+  "website": "https://www.pythagtech.com",
+  "description": "Data and machine-learning platform that designs optimized, scalable production processes for cultivated meat, licensed to large food companies.",
+  "sectors": [
+   "Climate",
+   "AI",
+   "FoodTech"
+  ],
+  "stage": "seed",
+  "last_round": {
+   "amount": "$4.25M Seed",
+   "date": "2026-10-22",
+   "url": "https://www.finsmes.com/2026/10/pythag-tech-raises-4-25m-in-seed-funding.html"
+  },
+  "hq_hint": "New York, NY (FinSMEs: 'NYC-based Pythag Tech')",
+  "hq_hint_url": "https://www.finsmes.com/2026/10/pythag-tech-raises-4-25m-in-seed-funding.html",
+  "linkedin": "https://www.linkedin.com/company/pythag-tech",
+  "careers_url": null,
+  "focus": [
+   "climate"
+  ]
+ },
+ {
+  "id": "qualitate",
+  "name": "Qualitate",
+  "website": "https://www.qualitate.io",
+  "description": "AI-native primary-intelligence platform that autonomously runs long-form expert interviews and turns them into structured, queryable evidence for investors and businesses.",
+  "sectors": [
+   "AI",
+   "Fintech"
+  ],
+  "stage": "Series A",
+  "last_round": {
+   "amount": "$25M Series A",
+   "date": "2026-10-20",
+   "url": "https://www.qualitate.io/news/qualitate-announces-25m-series-a"
+  },
+  "hq_hint": "New York, NY (LinkedIn HQ: New York, NY; NYBJ: Financial District)",
+  "hq_hint_url": "https://www.bizjournals.com/newyork/news/2026/10/22/qualitate-raises-25m.html",
+  "linkedin": "https://www.linkedin.com/company/qualitate-io",
+  "careers_url": "https://jobs.ashbyhq.com/qualitate",
+  "focus": []
+ }
 ]

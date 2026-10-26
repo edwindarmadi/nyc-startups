@@ -1,13 +1,51 @@
 {
- "checked_at": "2026-10-22T09:13:38",
- "total": 1303,
+ "checked_at": "2026-10-26T09:15:32",
+ "total": 1321,
  "summary": {
-  "ok": 1261,
-  "blocked": 39,
-  "error": 3
+  "ok": 1262,
+  "blocked": 45,
+  "error": 14
  },
  "dead": {},
  "errors": {
+  "https://www.prnewswire.com/news-releases/betterment-raises-160-million-in-growth-capital-301387762.html": {
+   "status": 502,
+   "final_url": "https://www.prnewswire.com/news-releases/betterment-raises-160-million-in-growth-capital-301387762.html",
+   "state": "error",
+   "used_by": [
+    "betterment:source:Funding / news source",
+    "betterment:last_round.source"
+   ]
+  },
+  "https://www.prnewswire.com/news-releases/blocpower-announces-150-million-financing-is-honored-by-vice-president-harris-unveils-corporate-rebrand-301758688.html": {
+   "status": 502,
+   "final_url": "https://www.prnewswire.com/news-releases/blocpower-announces-150-million-financing-is-honored-by-vice-president-harris-unveils-corporate-rebrand-301758688.html",
+   "state": "error",
+   "used_by": [
+    "blocpower:source:Funding / news source",
+    "blocpower:last_round.source",
+    "news:blocpower-funding-2023-03-01"
+   ]
+  },
+  "https://www.prnewswire.com/news-releases/ellevest-raises-53m-in-series-b-funding-round-backed-by-a-powerful-roster-of-women-investors-301518563.html": {
+   "status": 502,
+   "final_url": "https://www.prnewswire.com/news-releases/ellevest-raises-53m-in-series-b-funding-round-backed-by-a-powerful-roster-of-women-investors-301518563.html",
+   "state": "error",
+   "used_by": [
+    "ellevest:source:Funding / news source",
+    "ellevest:last_round.source"
+   ]
+  },
+  "https://www.prnewswire.com/news-releases/greenlite-raises-49-5m-series-b-to-advance-the-privatization-of-construction-permitting-with-ai-powered-solutions-302555315.html": {
+   "status": 502,
+   "final_url": "https://www.prnewswire.com/news-releases/greenlite-raises-49-5m-series-b-to-advance-the-privatization-of-construction-permitting-with-ai-powered-solutions-302555315.html",
+   "state": "error",
+   "used_by": [
+    "greenlite-permitting:source:Funding announcement",
+    "greenlite-permitting:last_round.source",
+    "news:greenlite-permitting-funding-2025-09-15"
+   ]
+  },
   "https://careers.popcorn.space/apply": {
    "status": null,
    "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)",
@@ -15,6 +53,76 @@
    "state": "error",
    "used_by": [
     "popcorn:careers_url"
+   ]
+  },
+  "https://www.prnewswire.com/news-releases/itselectric-announces-6-5m-seed-to-accelerate-deployment-of-curbside-ev-charging-in-cities-across-the-us-302197767.html": {
+   "status": 502,
+   "final_url": "https://www.prnewswire.com/news-releases/itselectric-announces-6-5m-seed-to-accelerate-deployment-of-curbside-ev-charging-in-cities-across-the-us-302197767.html",
+   "state": "error",
+   "used_by": [
+    "itselectric:source:Funding / news source",
+    "itselectric:last_round.source",
+    "news:itselectric-funding-2024-07-16"
+   ]
+  },
+  "https://www.prnewswire.com/news-releases/marble-raises-15-5m-series-a-to-scale-access-to-youth-mental-health-care-302583202.html": {
+   "status": 502,
+   "final_url": "https://www.prnewswire.com/news-releases/marble-raises-15-5m-series-a-to-scale-access-to-youth-mental-health-care-302583202.html",
+   "state": "error",
+   "used_by": [
+    "marble-health:source:Funding announcement",
+    "marble-health:last_round.source",
+    "news:marble-health-funding-2025-10-14"
+   ]
+  },
+  "https://www.prnewswire.com/news-releases/monk-raises-25m-series-a-to-automate-accounts-receivable-with-ai-302748872.html": {
+   "status": 502,
+   "final_url": "https://www.prnewswire.com/news-releases/monk-raises-25m-series-a-to-automate-accounts-receivable-with-ai-302748872.html",
+   "state": "error",
+   "used_by": [
+    "monk-finance:source:Funding announcement",
+    "monk-finance:last_round.source",
+    "news:monk-finance-funding-2026-04-21"
+   ]
+  },
+  "https://www.prnewswire.com/news-releases/noma-security-raises-100m-to-drive-adoption-of-ai-agent-security-302518641.html": {
+   "status": 502,
+   "final_url": "https://www.prnewswire.com/news-releases/noma-security-raises-100m-to-drive-adoption-of-ai-agent-security-302518641.html",
+   "state": "error",
+   "used_by": [
+    "noma-security:source:Funding announcement",
+    "noma-security:last_round.source",
+    "news:noma-security-funding-2025-07-31"
+   ]
+  },
+  "https://www.prnewswire.com/news-releases/northcloud-raises-60m-series-b-to-unify-spend-intelligence-and-enable-full-automation-across-cloud-ai-and-data-302909322.html": {
+   "status": 502,
+   "final_url": "https://www.prnewswire.com/news-releases/northcloud-raises-60m-series-b-to-unify-spend-intelligence-and-enable-full-automation-across-cloud-ai-and-data-302909322.html",
+   "state": "error",
+   "used_by": [
+    "north-cloud:source:Funding announcement",
+    "north-cloud:last_round.source",
+    "news:north-cloud-funding-2026-10-15"
+   ]
+  },
+  "https://www.prnewswire.com/news-releases/shopmy-raises-70m-at-1-5-billion-valuation-to-scale-the-curated-commerce-infrastructure-for-premium-brands-tastemakers-and-shoppers-302590802.html": {
+   "status": 502,
+   "final_url": "https://www.prnewswire.com/news-releases/shopmy-raises-70m-at-1-5-billion-valuation-to-scale-the-curated-commerce-infrastructure-for-premium-brands-tastemakers-and-shoppers-302590802.html",
+   "state": "error",
+   "used_by": [
+    "shopmy:source:Funding announcement",
+    "shopmy:last_round.source",
+    "news:shopmy-funding-2025-10-22"
+   ]
+  },
+  "https://www.prnewswire.com/news-releases/with-4-3b-under-management-stash-secures-146m-series-h-to-lead-the-next-era-of-ai-driven-financial-guidance-302451796.html": {
+   "status": 502,
+   "final_url": "https://www.prnewswire.com/news-releases/with-4-3b-under-management-stash-secures-146m-series-h-to-lead-the-next-era-of-ai-driven-financial-guidance-302451796.html",
+   "state": "error",
+   "used_by": [
+    "stash:source:Funding / news source",
+    "stash:last_round.source",
+    "news:stash-funding-2025-05-12"
    ]
   },
   "https://www.theolympian.com/press-releases/article312807882.html": {
@@ -48,6 +156,16 @@
     "agentsmyth:source:Funding announcement",
     "agentsmyth:last_round.source",
     "news:agentsmyth-funding-2025-06-02"
+   ]
+  },
+  "https://www.forbes.com/sites/davidprosser/2025/01/27/applied-labs-raises-42-million-to-cut-through-the-ai-hype/": {
+   "status": 403,
+   "final_url": "https://www.forbes.com/sites/davidprosser/2025/01/27/applied-labs-raises-42-million-to-cut-through-the-ai-hype/",
+   "state": "blocked",
+   "used_by": [
+    "applied-labs:source:Funding announcement",
+    "applied-labs:last_round.source",
+    "news:applied-labs-funding-2025-01-27"
    ]
   },
   "https://wellfound.com/company/arya-health-ai": {
@@ -88,6 +206,15 @@
     "news:birches-health-funding-2025-09-16"
    ]
   },
+  "https://board.fun/": {
+   "status": 429,
+   "final_url": "https://board.fun/",
+   "state": "blocked",
+   "used_by": [
+    "board:website",
+    "board:source:Company website"
+   ]
+  },
   "https://www.businesswire.com/news/home/20241029778071/en/Brightwave-Secures-15M-Series-A-to-Scale-AI-Powered-Financial-Research-Platform": {
    "status": 403,
    "final_url": "https://www.businesswire.com/news/home/20241029778071/en/Brightwave-Secures-15M-Series-A-to-Scale-AI-Powered-Financial-Research-Platform",
@@ -116,6 +243,16 @@
     "brigit:source:Funding / news source",
     "brigit:last_round.source",
     "news:brigit-acquisition-2025-01-31"
+   ]
+  },
+  "https://www.forbes.com/sites/charliefink/2025/05/15/ai-startup-cartwheel-led-by-openai-and-google-veterans-raises-10-million-to-simplify-3d-animation/": {
+   "status": 403,
+   "final_url": "https://www.forbes.com/sites/charliefink/2025/05/15/ai-startup-cartwheel-led-by-openai-and-google-veterans-raises-10-million-to-simplify-3d-animation/",
+   "state": "blocked",
+   "used_by": [
+    "cartwheel:source:Funding announcement",
+    "cartwheel:last_round.source",
+    "news:cartwheel-funding-2025-05-15"
    ]
   },
   "https://www.businesswire.com/news/home/20260922033622/en/Confido-Raises-%2455M-Series-B-to-Take-AI-Powered-Automation-Across-the-Entire-Consumer-Brand-Back-Office": {
@@ -175,13 +312,13 @@
     "news:govdash-funding-2026-01-15"
    ]
   },
-  "https://www.keychain.com/": {
-   "status": 403,
-   "final_url": "https://www.keychain.com/",
+  "https://www.graza.co/": {
+   "status": 429,
+   "final_url": "https://www.graza.co/",
    "state": "blocked",
    "used_by": [
-    "keychain:website",
-    "keychain:source:Company website"
+    "graza:website",
+    "graza:source:Company website"
    ]
   },
   "https://www.axios.com/pro/enterprise-software-deals/2025/10/30/govtech-kaizen-commcere-21-million-series-a": {
@@ -192,6 +329,15 @@
     "kaizen:source:Funding announcement",
     "kaizen:last_round.source",
     "news:kaizen-funding-2025-10-30"
+   ]
+  },
+  "https://www.keychain.com/": {
+   "status": 403,
+   "final_url": "https://www.keychain.com/",
+   "state": "blocked",
+   "used_by": [
+    "keychain:website",
+    "keychain:source:Company website"
    ]
   },
   "https://app.dealroom.co/news/feed/melius-raises-25m-for-ai-agents-lab-handling-creative-production-busywork?__cf_chl_tk=ilwaL31Ak4vWFnauWGIuJTKJB4HQw43b.SYuo4H6NFQ-1791311275-1.0.1.1-d_i7JzjpQoMQPsE7JH2ebzzj8vThyW7B5Y73QI5vvE8": {
@@ -224,6 +370,14 @@
     "news:ninedot-energy-funding-2026-02-09"
    ]
   },
+  "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link": {
+   "status": 401,
+   "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link",
+   "state": "blocked",
+   "used_by": [
+    "pacagen:careers_url"
+   ]
+  },
   "https://www.businesswire.com/news/home/20260527047143/en/Pace-Raises-%2446-Million-Series-B-to-Build-the-Next-Century-of-Insurance": {
    "status": 403,
    "final_url": "https://www.businesswire.com/news/home/20260527047143/en/Pace-Raises-%2446-Million-Series-B-to-Build-the-Next-Century-of-Insurance",
@@ -234,12 +388,14 @@
     "news:pace-funding-2026-05-27"
    ]
   },
-  "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link": {
-   "status": 401,
-   "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link",
+  "https://www.forbes.com/sites/charliefink/2025/11/04/parable-raises-165-million-to-power-ai-transformation-with-real-data/": {
+   "status": 403,
+   "final_url": "https://www.forbes.com/sites/charliefink/2025/11/04/parable-raises-165-million-to-power-ai-transformation-with-real-data/",
    "state": "blocked",
    "used_by": [
-    "pacagen:careers_url"
+    "parable:source:Funding announcement",
+    "parable:last_round.source",
+    "news:parable-funding-2025-11-04"
    ]
   },
   "https://www.businesswire.com/news/home/20251202551013/en/PermitFlow-Raises-%2454-Million-to-Solve-Constructions-Biggest-Bottlenecks-With-AI": {
@@ -272,12 +428,23 @@
     "news:polimorphic-funding-2025-07-09"
    ]
   },
-  "https://pitchbook.com/profiles/company/489781-00": {
+  "https://posh.vip/": {
    "status": 403,
-   "final_url": "https://pitchbook.com/profiles/company/489781-00",
+   "final_url": "https://posh.vip/",
    "state": "blocked",
    "used_by": [
-    "prism-data:source:HQ source"
+    "posh:website",
+    "posh:source:Company website"
+   ]
+  },
+  "https://www.theblock.co/news/deals/2025-03-19-privy-raises-15-million-usd-round-led-by-ribbit-capital-investment-in-web3-wallet-infrastructure-heats-up-347110": {
+   "status": 403,
+   "final_url": "https://www.theblock.co/news/deals/2025-03-19-privy-raises-15-million-usd-round-led-by-ribbit-capital-investment-in-web3-wallet-infrastructure-heats-up-347110",
+   "state": "blocked",
+   "used_by": [
+    "privy:source:Funding announcement",
+    "privy:last_round.source",
+    "news:privy-funding-2025-03-19"
    ]
   },
   "https://medium.com/@JoinPropel/propel-raises-50m-series-b-to-help-americans-with-low-income-make-it-through-the-month-every-3b7ea2ad3d54": {
@@ -287,6 +454,14 @@
    "used_by": [
     "propel:source:Funding / news source",
     "propel:last_round.source"
+   ]
+  },
+  "https://www.bizjournals.com/newyork/news/2026/10/22/qualitate-raises-25m.html": {
+   "status": 403,
+   "final_url": "https://www.bizjournals.com/newyork/news/2026/10/22/qualitate-raises-25m.html",
+   "state": "blocked",
+   "used_by": [
+    "qualitate:source:HQ source"
    ]
   },
   "https://www.reuters.com/business/nvidia-backed-reflection-ai-raises-2-billion-funding-boosts-valuation-8-billion-2025-10-09/": {
@@ -299,13 +474,14 @@
     "news:reflection-funding-2025-10-10"
    ]
   },
-  "https://www.linkedin.com/company/sesamecare": {
-   "status": 429,
-   "final_url": "https://www.linkedin.com/company/sesamecare",
+  "https://www.forbes.com/sites/zoyahasan/2026/03/03/hinge-alums-raise-85-million-to-turn-social-media-scrolling-into-real-world-meetups/": {
+   "status": 403,
+   "final_url": "https://www.forbes.com/sites/zoyahasan/2026/03/03/hinge-alums-raise-85-million-to-turn-social-media-scrolling-into-real-world-meetups/",
    "state": "blocked",
    "used_by": [
-    "sesame:source:LinkedIn",
-    "sesame:hq.source"
+    "rodeo-friends:source:Funding announcement",
+    "rodeo-friends:last_round.source",
+    "news:rodeo-friends-funding-2026-03-03"
    ]
   },
   "https://www.axios.com/pro/health-tech-deals/2025/03/25/silna-health-raises-27m-revenue-automation-rcm": {
@@ -381,16 +557,6 @@
     "via:source:Funding / news source",
     "via:last_round.source",
     "news:via-other-2025-09-12"
-   ]
-  },
-  "https://www.marketwatch.com/story/whop-raises-200m-in-series-d-round-at-5-1b-valuation-aeefb0b6?mod=markets": {
-   "status": 401,
-   "final_url": "https://www.marketwatch.com/story/whop-raises-200m-in-series-d-round-at-5-1b-valuation-aeefb0b6?mod=markets",
-   "state": "blocked",
-   "used_by": [
-    "whop:source:Funding announcement",
-    "whop:last_round.source",
-    "news:whop-funding-2026-10-21"
    ]
   },
   "https://wellfound.com/company/zenlytic": {

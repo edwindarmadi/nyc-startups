@@ -1,9 +1,39 @@
 {
  "meta": {
-  "last_updated": "2026-10-22",
-  "count": 219
+  "last_updated": "2026-10-26",
+  "count": 227
  },
  "items": [
+  {
+   "id": "mural-funding-2026-10-23",
+   "date": "2026-10-23",
+   "startup_id": "mural",
+   "type": "funding",
+   "headline": "Mural raised $15M Series A",
+   "summary": "Stablecoin-powered cross-border payments infrastructure and compliant system of record for moving money between the US and emerging markets.",
+   "source_url": "https://www.alleywatch.com/2026/10/mural-stablecoin-cross-border-payments-fintech-infrastructure-sinclair-toffa/",
+   "round": "Series A"
+  },
+  {
+   "id": "coast-funding-2026-10-22",
+   "date": "2026-10-22",
+   "startup_id": "coast",
+   "type": "funding",
+   "headline": "Coast raised $35M Venture",
+   "summary": "Coast is re-imagining the trillion-dollar U.S.",
+   "source_url": "https://coastpay.com/blog/coast-raises-35m-to-build-the-financial-platform-for-the-physical-economy/",
+   "round": "unknown"
+  },
+  {
+   "id": "pythag-tech-funding-2026-10-22",
+   "date": "2026-10-22",
+   "startup_id": "pythag-tech",
+   "type": "funding",
+   "headline": "Pythag Tech raised $4.25M Seed",
+   "summary": "Data and machine-learning platform that designs optimized, scalable production processes for cultivated meat, licensed to large food companies.",
+   "source_url": "https://www.finsmes.com/2026/10/pythag-tech-raises-4-25m-in-seed-funding.html",
+   "round": "seed"
+  },
   {
    "id": "whop-funding-2026-10-21",
    "date": "2026-10-21",
@@ -25,6 +55,16 @@
    "round": "Series A"
   },
   {
+   "id": "qualitate-funding-2026-10-20",
+   "date": "2026-10-20",
+   "startup_id": "qualitate",
+   "type": "funding",
+   "headline": "Qualitate raised $25M Series A",
+   "summary": "AI-native primary-intelligence platform that autonomously runs long-form expert interviews and turns them into structured, queryable evidence for investors and businesses.",
+   "source_url": "https://www.qualitate.io/news/qualitate-announces-25m-series-a",
+   "round": "Series A"
+  },
+  {
    "id": "prism-data-funding-2026-10-19",
    "date": "2026-10-19",
    "startup_id": "prism-data",
@@ -43,6 +83,16 @@
    "summary": "Trained on 30B+ bank transactions; underpins Prism's next-generation CashScore cash-flow underwriting models. Announced alongside its $20M Series A.",
    "source_url": "https://www.fintechfutures.com/venture-capital-funding/prism-data-lands-20m-series-a-funding",
    "round": "unknown"
+  },
+  {
+   "id": "meow-funding-2026-10-15",
+   "date": "2026-10-15",
+   "startup_id": "meow",
+   "type": "funding",
+   "headline": "Meow raised $31.6M Series B",
+   "summary": "At Meow, we provide startups with business accounts, corporate cards, and the clean financial reporting they need to operate and raise capital.",
+   "source_url": "https://www.meow.com/blog/meow-series-b-announcement",
+   "round": "Series B"
   },
   {
    "id": "north-cloud-funding-2026-10-15",
@@ -725,6 +775,16 @@
    "round": "Series C"
   },
   {
+   "id": "fauna-robotics-acq-2026-03-24",
+   "date": "2026-03-24",
+   "startup_id": "fauna-robotics",
+   "type": "acquisition",
+   "headline": "Amazon acquires Fauna Robotics, maker of the Sprout humanoid robot",
+   "summary": "Fauna Robotics now operates as an Amazon company; its team joins Amazon in New York.",
+   "source_url": "https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html",
+   "round": "acquired"
+  },
+  {
    "id": "dash0-funding-2026-03-23",
    "date": "2026-03-23",
    "startup_id": "dash0",
@@ -793,6 +853,16 @@
    "summary": "Sandbar is an interface company in New York City.",
    "source_url": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/",
    "round": "Series A"
+  },
+  {
+   "id": "coral-funding-2026-03-06",
+   "date": "2026-03-06",
+   "startup_id": "coral",
+   "type": "funding",
+   "headline": "Coral raised $7.5M Seed",
+   "summary": "Climate fintech that lets HVAC contractors confirm heat-pump rebate eligibility in seconds and give homeowners the rebate as an instant upfront discount, paying contractors within 24 hours.",
+   "source_url": "https://www.startcoral.com/blog/coral-seed-funding-announcement",
+   "round": "seed"
   },
   {
    "id": "linkup-funding-2026-03-03",
@@ -993,6 +1063,16 @@
    "summary": "Rain develops and operates cutting edge digital asset authorization and settlement infrastructure in concert with its innovative payment card solutions.",
    "source_url": "https://www.finsmes.com/2026/01/rain-raises-250m-in-series-c-funding.html",
    "round": "Series C"
+  },
+  {
+   "id": "fern-sdk-acq-2026-01-08",
+   "date": "2026-01-08",
+   "startup_id": "fern-sdk",
+   "type": "acquisition",
+   "headline": "Postman acquires Fern",
+   "summary": "Postman acquired Fern, the API docs and SDK-generation company; Fern continues as a product and brand.",
+   "source_url": "https://blog.postman.com/postman-acquires-fern/",
+   "round": "acquired"
   },
   {
    "id": "autonomous-funding-2026-01-07",

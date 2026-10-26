@@ -139,6 +139,14 @@ def main():
         }
         companies.append(c)
         c['last_round']['source'] = g.get('round_url') or gurl
+        # The dated round line ("Raised $35M Venture on Oct 22, 2026") describes the round its source URL/date point to;
+        # the summary chip can lag behind it, so prefer the dated line for last_round when both exist.
+        rm = re.match(r'Raised (\$[\d.,]+[KMB]?|Undisclosed) (.+?) on ', g.get('round_text') or '')
+        if rm and rdate and not acq:
+            c['last_round']['amount'] = 'undisclosed' if rm.group(1) == 'Undisclosed' else rm.group(1)
+            c['last_round']['stage'] = rm.group(2)
+            if stage_enum(rm.group(2)) != 'unknown':
+                c['stage'] = stage_enum(rm.group(2)); c['stage_detail'] = rm.group(2)
         if g.get('round_text') and g.get('round_url'):
             news.append({'id': f'{cid}-funding-{rdate}', 'date': rdate, 'startup_id': cid, 'type': 'funding',
                          'headline': f"{clean_name} {g['round_text'][0].lower()+g['round_text'][1:].split(' on ')[0]}",

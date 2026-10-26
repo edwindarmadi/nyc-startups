@@ -1,5 +1,18 @@
 {
  "_comment": "Force a job feed per company id: [ats, slug] or null to skip. ats in ashby|greenhouse|lever|workable|gem|rippling|smartrecruiters",
  "radical-ai": null,
- "spur": ["ashby", "spur"]
+ "spur": [
+  "ashby",
+  "spur"
+ ],
+ "mural": [
+  "ashby",
+  "careers.mural"
+ ],
+ "qualitate": [
+  "ashby",
+  "qualitate"
+ ],
+ "fauna-robotics": null,
+ "fern-sdk": null
 }

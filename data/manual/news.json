@@ -7,5 +7,33 @@
   "headline": "Prism Data launches REFRACT, an AI transaction-categorization engine",
   "summary": "Trained on 30B+ bank transactions; underpins Prism's next-generation CashScore cash-flow underwriting models. Announced alongside its $20M Series A.",
   "source_url": "https://www.fintechfutures.com/venture-capital-funding/prism-data-lands-20m-series-a-funding"
+ },
+ {
+  "id": "coast-funding-2024-07-18",
+  "date": "2024-07-18",
+  "startup_id": "coast",
+  "type": "funding",
+  "headline": "Coast raised $40M Series B",
+  "summary": "Coast is a Visa fleet fuel and gas card plus expense management solution that helps fleets control and track employee spending on fuel and other expenses.",
+  "source_url": "https://coastpay.com/blog/announcing-coast-series-b-funding/",
+  "round": "Series B"
+ },
+ {
+  "id": "fauna-robotics-acq-2026-03-24",
+  "date": "2026-03-24",
+  "startup_id": "fauna-robotics",
+  "type": "acquisition",
+  "headline": "Amazon acquires Fauna Robotics, maker of the Sprout humanoid robot",
+  "summary": "Fauna Robotics now operates as an Amazon company; its team joins Amazon in New York.",
+  "source_url": "https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html"
+ },
+ {
+  "id": "fern-sdk-acq-2026-01-08",
+  "date": "2026-01-08",
+  "startup_id": "fern-sdk",
+  "type": "acquisition",
+  "headline": "Postman acquires Fern",
+  "summary": "Postman acquired Fern, the API docs and SDK-generation company; Fern continues as a product and brand.",
+  "source_url": "https://blog.postman.com/postman-acquires-fern/"
  }
 ]
