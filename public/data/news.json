@@ -1,9 +1,79 @@
 {
  "meta": {
-  "last_updated": "2026-10-26",
-  "count": 227
+  "last_updated": "2026-10-29",
+  "count": 236
  },
  "items": [
+  {
+   "id": "predicate-funding-2026-10-28",
+   "date": "2026-10-28",
+   "startup_id": "predicate",
+   "type": "funding",
+   "headline": "Predicate raised $8M Series A",
+   "summary": "Onchain compliance platform that embeds policy controls into digital assets to block sanctioned and high-risk activity.",
+   "source_url": "https://www.alleywatch.com/2026/10/the-new-york-startup-daily-funding-report-10-28-2026/",
+   "round": "Series A"
+  },
+  {
+   "id": "dalet-labs-launch-2026-10-28",
+   "date": "2026-10-28",
+   "startup_id": "dalet-labs",
+   "type": "launch",
+   "headline": "Dalet Labs emerges from stealth with a $7M pre-seed and launches AI shopping app Scene",
+   "summary": "Lightspeed-led pre-seed; Scene is an iPhone app with a personalized feed of AI-generated images linking to real products.",
+   "source_url": "https://www.businessinsider.com/dalet-labs-raises-preseed-millions-shopping-app-scene-pitch-deck-2026-10",
+   "round": "unknown"
+  },
+  {
+   "id": "hyphenate-funding-2026-10-27",
+   "date": "2026-10-27",
+   "startup_id": "hyphenate",
+   "type": "funding",
+   "headline": "Hyphenate raised $45M Series A",
+   "summary": "Autonomous finance platform whose AI agents run order-to-cash, treasury, reconciliation and accounting workflows for the office of the CFO.",
+   "source_url": "https://hyphenate.ai/press/hyphenate-series-a-fundraise",
+   "round": "Series A"
+  },
+  {
+   "id": "ultra-robotics-funding-2026-10-27",
+   "date": "2026-10-27",
+   "startup_id": "ultra-robotics",
+   "type": "funding",
+   "headline": "Ultra raised $50M Series A",
+   "summary": "Industrial AI robots for e-commerce warehouses, starting with order packing; leased robots-as-a-service.",
+   "source_url": "https://www.alleywatch.com/2026/10/ultra-robotics-warehouse-robots-as-a-service-order-packing-logistics-ecommerce-fufillment-automation-jon-miller-schwartz/",
+   "round": "Series A"
+  },
+  {
+   "id": "mostest-funding-2026-10-27",
+   "date": "2026-10-27",
+   "startup_id": "mostest",
+   "type": "funding",
+   "headline": "Mostest raised $4M Seed",
+   "summary": "AI-powered event booking platform connecting planners with hotels, restaurants and venues, plus concierge event planning.",
+   "source_url": "https://www.einpresswire.com/article/952431264/capital-q-ventures-portfolio-company-mostest-raises-oversubscribed-4m-seed-round-to-accelerate-ai-driven-event-booking",
+   "round": "seed"
+  },
+  {
+   "id": "nevis-funding-2026-10-26",
+   "date": "2026-10-26",
+   "startup_id": "nevis",
+   "type": "funding",
+   "headline": "Nevis raised $70M Series B",
+   "summary": "Nevis is a purpose-built AI platform that helps financial advisors and their teams automate administrative workflows end-to-end.",
+   "source_url": "https://www.finsmes.com/2026/10/nevis-raises-70m-in-series-b-funding.html",
+   "round": "Series B"
+  },
+  {
+   "id": "overwatch-data-funding-2026-10-26",
+   "date": "2026-10-26",
+   "startup_id": "overwatch-data",
+   "type": "funding",
+   "headline": "Overwatch Data raised $15M Series A",
+   "summary": "AI-native threat intelligence and risk operations: AI agents surface cybercrime and fraud signals for security, fraud and risk teams.",
+   "source_url": "https://fortune.com/2026/10/26/ai-giving-cybercrime-makeover-startup-raised-15-million-to-fight-back-overwatch/",
+   "round": "Series A"
+  },
   {
    "id": "mural-funding-2026-10-23",
    "date": "2026-10-23",
@@ -12,6 +82,16 @@
    "headline": "Mural raised $15M Series A",
    "summary": "Stablecoin-powered cross-border payments infrastructure and compliant system of record for moving money between the US and emerging markets.",
    "source_url": "https://www.alleywatch.com/2026/10/mural-stablecoin-cross-border-payments-fintech-infrastructure-sinclair-toffa/",
+   "round": "Series A"
+  },
+  {
+   "id": "alta-funding-2026-10-22",
+   "date": "2026-10-22",
+   "startup_id": "alta",
+   "type": "funding",
+   "headline": "Alta raised $20M Series A",
+   "summary": "Alta is a personal style companion that simplifies the daily decision of what to wear, offering stress-free outfit suggestions based on your preferences and daily activities.",
+   "source_url": "https://fortune.com/2026/10/22/alta-ai-fashion-app-series-a-20-million-forerunner-rent-the-runway/",
    "round": "Series A"
   },
   {
@@ -115,6 +195,16 @@
    "round": "seed"
   },
   {
+   "id": "carbonai-funding-2026-10-15",
+   "date": "2026-10-15",
+   "startup_id": "carbonai",
+   "type": "funding",
+   "headline": "CarbonAI raised $12M (total funding; round type not disclosed)",
+   "summary": "AI agents for commercial real estate lenders: underwriting, due diligence, investment memos and post-close loan surveillance with an audit trail to source documents.",
+   "source_url": "https://finance.yahoo.com/real-estate/articles/carbonai-raises-12m-bring-ai-130000246.html",
+   "round": "unknown"
+  },
+  {
    "id": "fragment-funding-2026-10-14",
    "date": "2026-10-14",
    "startup_id": "fragment",
@@ -155,6 +245,16 @@
    "round": "Series B"
   },
   {
+   "id": "iridium-credit-funding-2026-10-07",
+   "date": "2026-10-07",
+   "startup_id": "iridium-credit",
+   "type": "funding",
+   "headline": "Iridium Credit raised $3M (round type not disclosed)",
+   "summary": "Verification infrastructure for invoice finance: agents check every funded invoice against source documents, confirm with the debtor and follow it through collections to catch fraud.",
+   "source_url": "https://www.iridiumcredit.com/newsroom/iridium-credit-raises-3m/",
+   "round": "unknown"
+  },
+  {
    "id": "melius-funding-2026-10-06",
    "date": "2026-10-06",
    "startup_id": "melius",
@@ -175,6 +275,16 @@
    "round": "Series A"
   },
   {
+   "id": "beyond-reach-labs-funding-2026-10-06",
+   "date": "2026-10-06",
+   "startup_id": "beyond-reach-labs",
+   "type": "funding",
+   "headline": "Beyond Reach Labs raised $10M Seed",
+   "summary": "Builds Flarewing, a deployable solar array for satellites and orbital data centers, manufactured at Industry City in Brooklyn.",
+   "source_url": "https://www.alleywatch.com/2026/10/beyond-reach-labs-space-solar-power-deployable-solar-arrays-orbital-data-centers-flarewing-mitchell-fogelson/",
+   "round": "seed"
+  },
+  {
    "id": "valon-ai-funding-2026-10-05",
    "date": "2026-10-05",
    "startup_id": "valon-ai",
@@ -183,16 +293,6 @@
    "summary": "Valon is the AI-native operating system for mortgage servicing.",
    "source_url": "https://www.valon.ai/blog/series-d-deploying-valonos-and-ai-to-the-mortgage-industry",
    "round": "Series D"
-  },
-  {
-   "id": "novele-funding-2026-10-05",
-   "date": "2026-10-05",
-   "startup_id": "novele",
-   "type": "funding",
-   "headline": "Novele raised $17M Series A",
-   "summary": "AI energy management plus distributed battery storage that turns commercial buildings into grid assets.",
-   "source_url": "https://www.esgtoday.com/novele-raises-17-million-to-turn-buildings-into-distributed-energy-assets/",
-   "round": "Series A"
   },
   {
    "id": "confido-funding-2026-09-22",
@@ -593,6 +693,16 @@
    "summary": "Quality fittings for your REST API.",
    "source_url": "https://startups.gallery/companies/stainless",
    "round": "acquired"
+  },
+  {
+   "id": "crew-carbon-funding-2026-05-15",
+   "date": "2026-05-15",
+   "startup_id": "crew-carbon",
+   "type": "funding",
+   "headline": "CREW Carbon raised $25M Series A ($19M equity + $6M non-dilutive)",
+   "summary": "Helps wastewater utilities improve treatment performance and cut costs while permanently removing CO2 in the same process.",
+   "source_url": "https://apventures.com/news/ap-ventures-invests-in-wastewater-driven-carbon-removal-company-crew-carbon",
+   "round": "Series A"
   },
   {
    "id": "optura-funding-2026-05-14",
@@ -1195,16 +1305,6 @@
    "round": "Series B"
   },
   {
-   "id": "nevis-funding-2025-12-01",
-   "date": "2025-12-01",
-   "startup_id": "nevis",
-   "type": "funding",
-   "headline": "Nevis raised $35M Series A",
-   "summary": "Nevis is a purpose-built AI platform that helps financial advisors and their teams automate administrative workflows end-to-end.",
-   "source_url": "https://www.neviswealth.com/news/nevis-raised-40m/",
-   "round": "Series A"
-  },
-  {
    "id": "coplane-funding-2025-11-24",
    "date": "2025-11-24",
    "startup_id": "coplane",
@@ -1733,16 +1833,6 @@
    "summary": "Tennr takes healthcare providers from fax to first visit, faster.",
    "source_url": "https://www.finsmes.com/2025/06/tennr-raises-101m-in-series-c-funding.html",
    "round": "Series C"
-  },
-  {
-   "id": "alta-funding-2025-06-16",
-   "date": "2025-06-16",
-   "startup_id": "alta",
-   "type": "funding",
-   "headline": "Alta raised $11M Seed",
-   "summary": "Alta is a personal style companion that simplifies the daily decision of what to wear, offering stress-free outfit suggestions based on your preferences and daily activities.",
-   "source_url": "https://techcrunch.com/2025/06/16/alta-raises-11m-to-bring-clueless-fashion-tech-to-life-with-all-star-investors/",
-   "round": "seed"
   },
   {
    "id": "antimetal-funding-2025-06-12",

@@ -14,5 +14,26 @@
   "qualitate"
  ],
  "fauna-robotics": null,
- "fern-sdk": null
+ "fern-sdk": null,
+ "hyphenate": [
+  "ashby",
+  "hyphenate"
+ ],
+ "crew-carbon": [
+  "ashby",
+  "crewcarbon"
+ ],
+ "beyond-reach-labs": [
+  "ashby",
+  "beyondreachlabs"
+ ],
+ "overwatch-data": [
+  "greenhouse",
+  "overwatch"
+ ],
+ "ultra-robotics": [
+  "gem",
+  "ultra"
+ ],
+ "stainless": null
 }

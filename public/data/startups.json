@@ -1,7 +1,7 @@
 {
  "meta": {
-  "last_updated": "2026-10-26",
-  "count": 309,
+  "last_updated": "2026-10-29",
+  "count": 320,
   "round_order": [
    "pre-seed",
    "seed",
@@ -74,7 +74,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -125,7 +125,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -172,7 +172,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -243,16 +243,16 @@
      "meta": "New York, New York, United States · Apr 6, 2026"
     },
     {
-     "title": "Strategic Account Executive",
-     "meta": "San Francisco · Mar 26, 2026"
-    },
-    {
-     "title": "Enterprise Account Executive",
-     "meta": "San Francisco · Mar 26, 2026"
-    },
-    {
      "title": "Agent Engagement Manager",
      "meta": "New York City · Feb 25, 2026"
+    },
+    {
+     "title": "Strategic Account Executive - Revenue & GTM",
+     "meta": "Remote · Feb 5, 2026"
+    },
+    {
+     "title": "Chief of Staff to Co-Founder",
+     "meta": "New York City · Jan 12, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -276,7 +276,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -368,7 +368,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -452,7 +452,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -486,6 +486,14 @@
    "careers_url": "https://jobs.ashbyhq.com/agentio",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Head of Creator Media",
+     "meta": "New York, NY · Oct 27, 2026"
+    },
+    {
+     "title": "Creator in Residence, Content & Series",
+     "meta": "New York, NY · Oct 26, 2026"
+    },
     {
      "title": "Product Marketing Manager, Narrative",
      "meta": "New York, NY · Oct 20, 2026"
@@ -525,14 +533,6 @@
     {
      "title": "Client Growth Manager",
      "meta": "New York, NY · Aug 26, 2026"
-    },
-    {
-     "title": "Client Growth Director",
-     "meta": "New York, NY · Aug 26, 2026"
-    },
-    {
-     "title": "Senior Sales Director",
-     "meta": "New York, NY · Aug 25, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -556,7 +556,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -611,7 +611,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -662,7 +662,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -717,7 +717,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "acquired",
    "round_name": null
   },
@@ -768,7 +768,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -872,7 +872,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -899,7 +899,7 @@
    "headcount_source": "LinkedIn",
    "work_type": "Remote",
    "hq": {
-    "location": "New York, New York",
+    "location": "New York, NY",
     "source": "https://www.linkedin.com/company/alliumlabs",
     "source_type": "LinkedIn"
    },
@@ -968,7 +968,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -982,13 +982,13 @@
    "sectors": [
     "Design"
    ],
-   "stage": "seed",
-   "stage_detail": "Seed",
+   "stage": "Series A",
+   "stage_detail": "Series A",
    "last_round": {
-    "amount": "$11M",
-    "stage": "Seed",
-    "date": "2025-06-16",
-    "source": "https://techcrunch.com/2025/06/16/alta-raises-11m-to-bring-clueless-fashion-tech-to-life-with-all-star-investors/"
+    "amount": "$20M",
+    "stage": "Series A",
+    "date": "2026-10-22",
+    "source": "https://fortune.com/2026/10/22/alta-ai-fashion-app-series-a-20-million-forerunner-rent-the-runway/"
    },
    "acquired_by": null,
    "headcount": "11–50",
@@ -1017,13 +1017,13 @@
     },
     {
      "label": "Funding announcement",
-     "url": "https://techcrunch.com/2025/06/16/alta-raises-11m-to-bring-clueless-fashion-tech-to-life-with-all-star-investors/"
+     "url": "https://fortune.com/2026/10/22/alta-ai-fashion-app-series-a-20-million-forerunner-rent-the-runway/"
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
-   "round": "seed",
-   "round_name": "Seed"
+   "last_verified": "2026-10-29",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "ambrook",
@@ -1064,7 +1064,7 @@
      "meta": "New York, Denver, Remote, San Francisco · Oct 21, 2026"
     },
     {
-     "title": "Account Manager, CPA/CFP (Contract)",
+     "title": "Customer Solutions Manager (Contract)",
      "meta": "Remote, New York, Denver, San Francisco · Oct 15, 2026"
     },
     {
@@ -1088,20 +1088,20 @@
      "meta": "New York, Denver, Remote, San Francisco · Aug 27, 2026"
     },
     {
-     "title": "Software Engineer, Growth",
-     "meta": "New York, Denver, Remote, San Francisco · Aug 27, 2026"
-    },
-    {
-     "title": "Software Engineering Intern",
-     "meta": "New York · Aug 21, 2026"
-    },
-    {
      "title": "Product Manager, Fintech",
      "meta": "New York, Denver, Remote, San Francisco · Jul 30, 2026"
     },
     {
      "title": "Product Specialist (Sales)",
      "meta": "New York, Denver, Remote, San Francisco · Jul 30, 2026"
+    },
+    {
+     "title": "Software Engineer, Labs",
+     "meta": "San Francisco, New York, Denver, Remote · Apr 7, 2026"
+    },
+    {
+     "title": "Software Engineer, Product",
+     "meta": "New York, Denver, Remote, San Francisco · Feb 21, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -1127,7 +1127,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -1199,7 +1199,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -1287,7 +1287,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -1338,7 +1338,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -1406,7 +1406,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -1513,7 +1513,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -1560,7 +1560,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -1607,7 +1607,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -1641,6 +1641,10 @@
    "careers_url": "https://array.com/company/careers",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Accounts Payable (AP) Clerk",
+     "meta": "Remote - USA or Canada · Oct 27, 2026"
+    },
     {
      "title": "Digital Marketing Manager",
      "meta": "Remote - USA or Canada · Sep 29, 2026"
@@ -1684,10 +1688,6 @@
     {
      "title": "Account Executive, Partnerships",
      "meta": "Remote - USA or Canada · Mar 16, 2025"
-    },
-    {
-     "title": "Strategic Account Executive",
-     "meta": "Remote - USA or Canada · Mar 2, 2025"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -1703,7 +1703,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -1758,7 +1758,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -1809,7 +1809,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -1856,7 +1856,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -1907,7 +1907,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -2007,7 +2007,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -2111,7 +2111,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -2166,7 +2166,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -2253,7 +2253,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -2357,7 +2357,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -2392,28 +2392,16 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "Senior Controller",
+     "meta": "Remote, New York Office · Oct 28, 2026"
+    },
+    {
      "title": "Operations Associate (User Support)",
      "meta": "Remote · Aug 16, 2026"
     },
     {
      "title": "Forward Deployed Engineer",
      "meta": "New York Office · Jul 24, 2026"
-    },
-    {
-     "title": "Integration & Operations Technology Specialist",
-     "meta": "New York Office · Jul 18, 2026"
-    },
-    {
-     "title": "Senior Operations Associate (Onboardings)",
-     "meta": "New York Office · Jul 7, 2026"
-    },
-    {
-     "title": "Senior Operations Associate (CS)",
-     "meta": "New York Office · Jul 7, 2026"
-    },
-    {
-     "title": "Lead Retirement Plan Specialist",
-     "meta": "New York Office · Apr 27, 2026"
     },
     {
      "title": "Account Executive",
@@ -2438,6 +2426,18 @@
     {
      "title": "Head of Product Development",
      "meta": "New York Office · Jan 29, 2026"
+    },
+    {
+     "title": "GM, Consumer",
+     "meta": "New York Office · Jan 29, 2026"
+    },
+    {
+     "title": "Software Engineer - Data Platform",
+     "meta": "New York Office · Dec 17, 2025"
+    },
+    {
+     "title": "Software Engineer - Core Financial Platform",
+     "meta": "New York Office · Dec 17, 2025"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -2463,7 +2463,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -2497,6 +2497,10 @@
    "careers_url": "https://jobs.ashbyhq.com/basis-ai",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Deal Desk & Incentive Compensation Lead",
+     "meta": "New York Office · Oct 27, 2026"
+    },
     {
      "title": "Strategic Account Executive",
      "meta": "New York Office · Oct 16, 2026"
@@ -2540,10 +2544,6 @@
     {
      "title": "Strategic Account Partner",
      "meta": "Remote · Sep 14, 2026"
-    },
-    {
-     "title": "Finance Generalist",
-     "meta": "New York Office · Sep 11, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -2563,7 +2563,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -2659,7 +2659,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -2723,7 +2723,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -2778,7 +2778,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -2832,7 +2832,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series E+",
    "round_name": "Series F"
   },
@@ -2906,9 +2906,62 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
+  },
+  {
+   "id": "beyond-reach-labs",
+   "name": "Beyond Reach Labs",
+   "website": "https://www.beyondreachlabs.com",
+   "description": "Builds Flarewing, a deployable solar array for satellites and orbital data centers, manufactured at Industry City in Brooklyn.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Aerospace",
+    "Energy",
+    "Hardware"
+   ],
+   "stage": "seed",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$10M Seed",
+    "stage": "seed",
+    "date": "2026-10-06",
+    "source": "https://www.alleywatch.com/2026/10/beyond-reach-labs-space-solar-power-deployable-solar-arrays-orbital-data-centers-flarewing-mitchell-fogelson/"
+   },
+   "acquired_by": null,
+   "headcount": "11-50 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "Brooklyn, NY",
+    "source": "https://www.linkedin.com/company/beyond-reach-labs-inc",
+    "source_type": "LinkedIn"
+   },
+   "careers_url": "https://jobs.ashbyhq.com/beyondreachlabs",
+   "hiring": true,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://www.beyondreachlabs.com"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/beyond-reach-labs-inc"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://www.alleywatch.com/2026/10/beyond-reach-labs-space-solar-power-deployable-solar-arrays-orbital-data-centers-flarewing-mitchell-fogelson/"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-10-29",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "birches-health",
@@ -2961,7 +3014,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -3019,7 +3072,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -3053,6 +3106,10 @@
    "careers_url": "https://job-boards.greenhouse.io/bluefishai",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Sales Development Representative",
+     "meta": "New York, Hybrid · Oct 28, 2026"
+    },
     {
      "title": "Growth Marketing Lead",
      "meta": "New York, Hybrid · Oct 23, 2026"
@@ -3096,10 +3153,6 @@
     {
      "title": "Chief Revenue Officer",
      "meta": "New York, Hybrid · Jan 16, 2026"
-    },
-    {
-     "title": "VP of Sales",
-     "meta": "New York, Hybrid · Jan 16, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -3123,7 +3176,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -3174,7 +3227,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -3225,7 +3278,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -3279,7 +3332,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "acquired",
    "round_name": null
   },
@@ -3339,7 +3392,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -3402,10 +3455,6 @@
      "meta": "New York, NY · Aug 12, 2026"
     },
     {
-     "title": "Technical Recruiter",
-     "meta": "New York, NY · Aug 5, 2026"
-    },
-    {
      "title": "Software Engineer",
      "meta": "New York, NY · Jun 3, 2026"
     },
@@ -3420,6 +3469,10 @@
     {
      "title": "Staff Software Engineer",
      "meta": "New York, NY · Aug 15, 2025"
+    },
+    {
+     "title": "Senior Software Engineer",
+     "meta": "New York, NY · Jul 8, 2025"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -3443,7 +3496,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -3529,7 +3582,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -3564,6 +3617,26 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "Director of Business Development & Partnerships",
+     "meta": "Campus NYC · Oct 27, 2026"
+    },
+    {
+     "title": "Senior Accountant",
+     "meta": "Campus NYC · Oct 27, 2026"
+    },
+    {
+     "title": "Controller",
+     "meta": "Campus NYC · Oct 26, 2026"
+    },
+    {
+     "title": "Performance Marketing Associate",
+     "meta": "Campus NYC · Oct 26, 2026"
+    },
+    {
+     "title": "Student Accounts Specialist",
+     "meta": "Campus Atlanta · Oct 26, 2026"
+    },
+    {
      "title": "Finance Teaching Assistant",
      "meta": "Campus Remote · Oct 22, 2026"
     },
@@ -3590,26 +3663,6 @@
     {
      "title": "Student Success Coach",
      "meta": "Campus Austin · Oct 6, 2026"
-    },
-    {
-     "title": "IT Support Specialist",
-     "meta": "Campus Phoenix · Oct 6, 2026"
-    },
-    {
-     "title": "Performance Marketing Associate",
-     "meta": "Campus NYC · Oct 1, 2026"
-    },
-    {
-     "title": "Student Accounts Specialist",
-     "meta": "Campus Atlanta · Sep 29, 2026"
-    },
-    {
-     "title": "Admissions Team Lead",
-     "meta": "Campus Atlanta · Sep 22, 2026"
-    },
-    {
-     "title": "Social Media Content Producer",
-     "meta": "Campus NYC · Sep 22, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -3629,9 +3682,62 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
+  },
+  {
+   "id": "carbonai",
+   "name": "CarbonAI",
+   "website": "https://carboncre.ai",
+   "description": "AI agents for commercial real estate lenders: underwriting, due diligence, investment memos and post-close loan surveillance with an audit trail to source documents.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Fintech",
+    "Real Estate",
+    "AI"
+   ],
+   "stage": "unknown",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$12M (total funding; round type not disclosed)",
+    "stage": "unknown",
+    "date": "2026-10-15",
+    "source": "https://finance.yahoo.com/real-estate/articles/carbonai-raises-12m-bring-ai-130000246.html"
+   },
+   "acquired_by": null,
+   "headcount": "11-50 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "New York, New York",
+    "source": "https://www.linkedin.com/company/carboncre",
+    "source_type": "LinkedIn"
+   },
+   "careers_url": null,
+   "hiring": false,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://carboncre.ai"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/carboncre"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://finance.yahoo.com/real-estate/articles/carbonai-raises-12m-bring-ai-130000246.html"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-10-29",
+   "round": "unknown",
+   "round_name": null
   },
   {
    "id": "carry",
@@ -3686,7 +3792,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -3741,7 +3847,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -3833,7 +3939,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -3880,7 +3986,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -3914,6 +4020,14 @@
    "careers_url": "https://www.chronograph.pe/jobs/",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Associate Director or Director, Client Development - Private Credit (GP)",
+     "meta": "London, England, United Kingdom · Oct 26, 2026"
+    },
+    {
+     "title": "Associate Director or Director, Client Development - Private Credit (GP)",
+     "meta": "Brooklyn, New York, United States · Oct 26, 2026"
+    },
     {
      "title": "Implementation Manager",
      "meta": "London, England, United Kingdom · Oct 17, 2026"
@@ -3953,13 +4067,9 @@
     {
      "title": "Tech Lead, Product Engineering",
      "meta": "Remote · Jan 5, 2026"
-    },
-    {
-     "title": "Product Marketing Manager",
-     "meta": "Brooklyn, New York, United States · Jul 7, 2025"
     }
    ],
-   "open_roles_count_text": "11 roles listed on startups.gallery",
+   "open_roles_count_text": "12+ roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -3976,7 +4086,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -4068,7 +4178,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -4119,7 +4229,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -4209,7 +4319,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -4244,6 +4354,22 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "Workplace Experience Lead",
+     "meta": "New York · Oct 28, 2026"
+    },
+    {
+     "title": "Growth Strategist, Key (Deployment Strategist) - NY",
+     "meta": "New York · Oct 27, 2026"
+    },
+    {
+     "title": "Growth Strategist, Key (Deployment Strategist) - SF",
+     "meta": "San Francisco · Oct 27, 2026"
+    },
+    {
+     "title": "Privacy Program Manager",
+     "meta": "San Francisco, New York · Oct 26, 2026"
+    },
+    {
      "title": "GRC Program Manager",
      "meta": "New York, San Francisco · Oct 21, 2026"
     },
@@ -4274,22 +4400,6 @@
     {
      "title": "Head of Field Marketing",
      "meta": "New York · Oct 12, 2026"
-    },
-    {
-     "title": "EMEA Counsel",
-     "meta": "London · Oct 6, 2026"
-    },
-    {
-     "title": "Software Engineering Intern",
-     "meta": "New York · Sep 29, 2026"
-    },
-    {
-     "title": "Software Engineer, GTM Ops",
-     "meta": "New York · Sep 24, 2026"
-    },
-    {
-     "title": "ClayDR (Sales Development Representative) - SF",
-     "meta": "San Francisco · Sep 23, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -4313,7 +4423,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -4364,7 +4474,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -4419,7 +4529,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "unknown",
    "round_name": null
   },
@@ -4453,6 +4563,14 @@
    "careers_url": "https://www.clearstreet.io/careers#open-roles",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Security Operations Engineer",
+     "meta": "New York, NY · Oct 28, 2026"
+    },
+    {
+     "title": "Associate - Middle Office & Digital Operations",
+     "meta": "Del Mar · Oct 28, 2026"
+    },
     {
      "title": "Senior / Staff Software Engineer — Algorithmic Execution Platform",
      "meta": "Chicago, New York City · Oct 22, 2026"
@@ -4492,14 +4610,6 @@
     {
      "title": "Co-Op Program (Computer Science)",
      "meta": "Umeå, Sweden · Oct 5, 2026"
-    },
-    {
-     "title": "Risk Manager - Active Trading",
-     "meta": "Chicago, IL · Oct 2, 2026"
-    },
-    {
-     "title": "Associate - Tax Operations",
-     "meta": "New York, NY · Oct 2, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -4519,7 +4629,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -4623,7 +4733,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -4702,8 +4812,8 @@
      "meta": "New York, NY · Aug 28, 2026"
     },
     {
-     "title": "Engineering Manager",
-     "meta": "New York, NY · Jul 27, 2026"
+     "title": "Chief of Staff, Office of the CEO",
+     "meta": "New York, NY · Jul 24, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -4727,7 +4837,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -4782,7 +4892,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -4845,10 +4955,6 @@
      "meta": "New York City, San Francisco · Aug 20, 2026"
     },
     {
-     "title": "AI Deployment Strategist [NYC]",
-     "meta": "New York City, San Francisco · Jul 30, 2026"
-    },
-    {
      "title": "Senior Forward Deployed Engineer [NYC or SF]",
      "meta": "New York City, San Francisco · Jul 29, 2026"
     },
@@ -4863,6 +4969,10 @@
     {
      "title": "Staff Forward Deployed Engineer [NYC or SF]",
      "meta": "New York City, San Francisco · Jul 1, 2026"
+    },
+    {
+     "title": "Senior Software Engineer - Full Stack [NYC or SF]",
+     "meta": "New York City, San Francisco · Dec 3, 2025"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -4886,7 +4996,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -4933,10 +5043,6 @@
      "meta": "New York City · Sep 24, 2026"
     },
     {
-     "title": "Brand Designer",
-     "meta": "New York City · Sep 18, 2026"
-    },
-    {
      "title": "Sales Development",
      "meta": "New York City · Sep 16, 2026"
     },
@@ -4969,7 +5075,7 @@
      "meta": "New York City · Nov 12, 2025"
     }
    ],
-   "open_roles_count_text": "12+ roles listed on startups.gallery",
+   "open_roles_count_text": "11 roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -4990,7 +5096,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -5024,6 +5130,18 @@
    "careers_url": "https://jobs.ashbyhq.com/confido",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Manager, Deductions & Disputes",
+     "meta": "NYC Office · Oct 26, 2026"
+    },
+    {
+     "title": "Solution Consultant",
+     "meta": "NYC Office · Oct 26, 2026"
+    },
+    {
+     "title": "Head of Customer Success",
+     "meta": "NYC Office · Oct 26, 2026"
+    },
     {
      "title": "DevOps Engineer",
      "meta": "NYC Office · Oct 23, 2026"
@@ -5059,18 +5177,6 @@
     {
      "title": "Data Analyst",
      "meta": "NYC Office · Sep 28, 2026"
-    },
-    {
-     "title": "Data Engineering Manager/Head of Data",
-     "meta": "NYC Office · Sep 28, 2026"
-    },
-    {
-     "title": "Head of Predictions & Optimization",
-     "meta": "NYC Office · Sep 27, 2026"
-    },
-    {
-     "title": "Manager, Trade Promotion Management",
-     "meta": "NYC Office · Sep 25, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -5094,7 +5200,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -5147,7 +5253,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -5218,7 +5324,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -5273,7 +5379,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -5328,7 +5434,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -5364,11 +5470,7 @@
    "open_roles_sample": [
     {
      "title": "Member of Growth Staff",
-     "meta": "New York City · Oct 19, 2026"
-    },
-    {
-     "title": "Founding Principal",
-     "meta": "New York City, San Francisco · Oct 15, 2026"
+     "meta": "New York City, San Francisco · Oct 19, 2026"
     },
     {
      "title": "Senior Full Stack Engineer",
@@ -5381,13 +5483,9 @@
     {
      "title": "Founding Advisory Lead",
      "meta": "New York City · Sep 22, 2026"
-    },
-    {
-     "title": "Strategy & Operations Lead",
-     "meta": "San Francisco · Sep 21, 2026"
     }
    ],
-   "open_roles_count_text": "6 roles listed on startups.gallery",
+   "open_roles_count_text": "4 roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -5404,7 +5502,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -5455,7 +5553,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -5527,9 +5625,64 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
+  },
+  {
+   "id": "crew-carbon",
+   "name": "CREW Carbon",
+   "website": "https://crewcarbon.com",
+   "description": "Helps wastewater utilities improve treatment performance and cut costs while permanently removing CO2 in the same process.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Climate",
+    "Water",
+    "Carbon removal"
+   ],
+   "stage": "Series A",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$25M Series A ($19M equity + $6M non-dilutive)",
+    "stage": "Series A",
+    "date": "2026-05-15",
+    "source": "https://apventures.com/news/ap-ventures-invests-in-wastewater-driven-carbon-removal-company-crew-carbon"
+   },
+   "acquired_by": null,
+   "headcount": "11-50 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "Brooklyn, NY (AP Ventures release: 'BROOKLYN, NY — CREW Carbon', 'New York-based CREW Carbon')",
+    "source": "https://apventures.com/news/ap-ventures-invests-in-wastewater-driven-carbon-removal-company-crew-carbon",
+    "source_type": "other"
+   },
+   "careers_url": "https://jobs.ashbyhq.com/crewcarbon",
+   "hiring": true,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [
+    "climate"
+   ],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://crewcarbon.com"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/crew-carbon"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://apventures.com/news/ap-ventures-invests-in-wastewater-driven-carbon-removal-company-crew-carbon"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-10-29",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "crosby",
@@ -5561,6 +5714,10 @@
    "careers_url": "https://jobs.ashbyhq.com/crosby",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Revenue Operations Lead",
+     "meta": "New York City · Oct 26, 2026"
+    },
     {
      "title": "Commercial Counsel",
      "meta": "Remote (US) · Oct 23, 2026"
@@ -5604,10 +5761,6 @@
     {
      "title": "Member of Technical Staff, Data Science",
      "meta": "New York City · Sep 15, 2026"
-    },
-    {
-     "title": "Product Manager",
-     "meta": "New York City · Sep 10, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -5631,7 +5784,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -5665,6 +5818,14 @@
    "careers_url": "https://jobs.ashbyhq.com/cruxclimate",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Director of Business Development , Research & Intelligence",
+     "meta": "Remote (US) · Oct 27, 2026"
+    },
+    {
+     "title": "Assistant General Counsel, Transactions",
+     "meta": "Remote (US) · Oct 27, 2026"
+    },
     {
      "title": "Recruiter, Commercial",
      "meta": "Remote (US) · Oct 22, 2026"
@@ -5704,14 +5865,6 @@
     {
      "title": "Sr. Director of Partnerships",
      "meta": "Remote (US) · Sep 17, 2026"
-    },
-    {
-     "title": "Tax Partnerships Lead",
-     "meta": "Remote (US) · Sep 8, 2026"
-    },
-    {
-     "title": "Senior Principal, Investments (Tax & Preferred Equity)",
-     "meta": "Remote (US) · Aug 19, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -5737,9 +5890,60 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
+  },
+  {
+   "id": "dalet-labs",
+   "name": "Dalet Labs",
+   "website": "https://daletlabs.com",
+   "description": "Makes Scene, an iPhone shopping app with a personalized feed of AI-generated images that link to real products from fashion, home and sports brands.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Consumer",
+    "AI",
+    "E-commerce"
+   ],
+   "stage": "pre-seed",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$7M Pre-seed",
+    "stage": "pre-seed",
+    "date": "unknown",
+    "source": "https://www.businessinsider.com/dalet-labs-raises-preseed-millions-shopping-app-scene-pitch-deck-2026-10"
+   },
+   "acquired_by": null,
+   "headcount": "unknown",
+   "headcount_source": null,
+   "work_type": null,
+   "hq": {
+    "location": "New York, NY (Business Insider: 'The New York-based startup')",
+    "source": "https://www.businessinsider.com/dalet-labs-raises-preseed-millions-shopping-app-scene-pitch-deck-2026-10",
+    "source_type": "other"
+   },
+   "careers_url": null,
+   "hiring": false,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [
+    "ai_everyday"
+   ],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://daletlabs.com"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://www.businessinsider.com/dalet-labs-raises-preseed-millions-shopping-app-scene-pitch-deck-2026-10"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-10-29",
+   "round": "pre-seed",
+   "round_name": "Pre-Seed"
   },
   {
    "id": "dash0",
@@ -5772,8 +5976,12 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Commercial SDR - US",
-     "meta": "New York · Oct 19, 2026"
+     "title": "Enterprise SDR - Boston",
+     "meta": "Boston · Oct 28, 2026"
+    },
+    {
+     "title": "Enterprise SDR - NYC",
+     "meta": "New York · Oct 28, 2026"
     },
     {
      "title": "Founder Associate / Growth Associate",
@@ -5808,16 +6016,12 @@
      "meta": "United States - remote, Boston, New York, San Francisco · Sep 1, 2026"
     },
     {
-     "title": "Enterprise SDR - NYC",
-     "meta": "New York · Aug 23, 2026"
-    },
-    {
-     "title": "Enterprise SDR - Boston",
-     "meta": "Boston · Aug 23, 2026"
-    },
-    {
      "title": "Enterprise Account Executive - US, Remote",
      "meta": "United States - remote · Aug 6, 2026"
+    },
+    {
+     "title": "Enterprise Account Executive - West Coast",
+     "meta": "San Francisco · Aug 6, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -5841,7 +6045,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -5896,7 +6100,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -5953,7 +6157,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -6031,7 +6235,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "unknown",
    "round_name": null
   },
@@ -6086,7 +6290,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6121,31 +6325,55 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Content Lead (Contract)",
-     "meta": "Remote · Oct 9, 2026"
+     "title": "GTM Engineer",
+     "meta": "Toronto · Oct 27, 2026"
     },
     {
-     "title": "Forward Deployed Product Manager",
-     "meta": "NYC · Sep 28, 2026"
+     "title": "GTM Engineer",
+     "meta": "London · Oct 27, 2026"
     },
     {
-     "title": "AI Deployment Strategist",
-     "meta": "Remote · Aug 21, 2026"
+     "title": "GTM Engineer",
+     "meta": "San Francisco · Oct 27, 2026"
     },
     {
-     "title": "AI Deployment Strategist (NYC)",
-     "meta": "NYC · Aug 21, 2026"
+     "title": "Account Executive",
+     "meta": "London · Oct 27, 2026"
+    },
+    {
+     "title": "Account Executive",
+     "meta": "Toronto · Oct 27, 2026"
+    },
+    {
+     "title": "Account Executive",
+     "meta": "San Francisco · Oct 27, 2026"
     },
     {
      "title": "Forward Deployed Engineer",
-     "meta": "NYC · Jun 30, 2026"
+     "meta": "Toronto · Oct 27, 2026"
     },
     {
-     "title": "Pitch Your Role!",
-     "meta": "Remote · May 4, 2026"
+     "title": "Senior Forward Deployed Engineer",
+     "meta": "Toronto · Oct 27, 2026"
+    },
+    {
+     "title": "Senior Forward Deployed Engineer",
+     "meta": "San Francisco · Oct 27, 2026"
+    },
+    {
+     "title": "Senior Forward Deployed Engineer",
+     "meta": "London · Oct 27, 2026"
+    },
+    {
+     "title": "Forward Deployed Engineer",
+     "meta": "London · Oct 27, 2026"
+    },
+    {
+     "title": "Forward Deployed Engineer",
+     "meta": "San Francisco · Oct 27, 2026"
     }
    ],
-   "open_roles_count_text": "6 roles listed on startups.gallery",
+   "open_roles_count_text": "12+ roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -6166,7 +6394,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6246,7 +6474,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -6316,7 +6544,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -6371,7 +6599,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -6422,7 +6650,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6457,6 +6685,22 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "Senior Product Marketing Manager",
+     "meta": "New York City · Oct 29, 2026"
+    },
+    {
+     "title": "Founding Product Marketing Manager",
+     "meta": "New York City · Oct 29, 2026"
+    },
+    {
+     "title": "Product Marketing Manager",
+     "meta": "New York City · Oct 29, 2026"
+    },
+    {
+     "title": "Senior/Staff Backend Engineer (London, Hybrid)",
+     "meta": "London, UK (Hybrid) · Oct 27, 2026"
+    },
+    {
      "title": "Senior AI Product Manager",
      "meta": "New York City · Oct 23, 2026"
     },
@@ -6467,14 +6711,6 @@
     {
      "title": "Senior/Staff Product Designer",
      "meta": "New York City · Oct 19, 2026"
-    },
-    {
-     "title": "Founding Product Marketing Manager",
-     "meta": "New York City · Oct 14, 2026"
-    },
-    {
-     "title": "Senior Product Marketing Manager",
-     "meta": "New York City · Oct 13, 2026"
     },
     {
      "title": "Brand Designer",
@@ -6495,14 +6731,6 @@
     {
      "title": "Creator in Residence",
      "meta": "New York City · Sep 29, 2026"
-    },
-    {
-     "title": "Influencer Marketing Lead",
-     "meta": "New York City · Sep 28, 2026"
-    },
-    {
-     "title": "Growth Marketing Lead",
-     "meta": "New York City · Sep 28, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -6526,7 +6754,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6575,7 +6803,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -6630,7 +6858,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6685,7 +6913,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6719,6 +6947,10 @@
    "careers_url": "https://jobs.ashbyhq.com/edra",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Commercial Counsel",
+     "meta": "New York · Oct 26, 2026"
+    },
     {
      "title": "GTM Engineer",
      "meta": "New York · Oct 1, 2026"
@@ -6762,10 +6994,6 @@
     {
      "title": "Forward Deployed AI Engineer (New York)",
      "meta": "New York · Jul 19, 2026"
-    },
-    {
-     "title": "Founding Recruiter",
-     "meta": "New York · Jun 18, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -6789,7 +7017,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6857,7 +7085,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6911,7 +7139,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -7011,7 +7239,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -7090,7 +7318,7 @@
      "meta": "New York City · Nov 11, 2025"
     },
     {
-     "title": "Finance Product Specialist (Full/Part-Time)",
+     "title": "Finance Product Specialist",
      "meta": "New York City · Oct 15, 2025"
     }
    ],
@@ -7115,7 +7343,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -7159,7 +7387,7 @@
     },
     {
      "title": "Account Executive — UK",
-     "meta": "UK · Oct 12, 2026"
+     "meta": "London · Oct 12, 2026"
     },
     {
      "title": "Account Executive — New Jersey & Pennsylvania",
@@ -7186,16 +7414,16 @@
      "meta": "US - New York · Sep 27, 2026"
     },
     {
-     "title": "Account Executive — Minneapolis, MN",
-     "meta": "Minneapolis · Sep 16, 2026"
-    },
-    {
      "title": "Director of Channels - Southeast",
      "meta": "Florida · Sep 14, 2026"
     },
     {
      "title": "Account Executive — New York",
      "meta": "New York · Sep 14, 2026"
+    },
+    {
+     "title": "Solutions Architect - East Coast",
+     "meta": "US · Sep 9, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -7219,7 +7447,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -7270,7 +7498,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -7326,7 +7554,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -7380,7 +7608,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -7415,15 +7643,11 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Senior Project Manager, Tax Credit Compliance",
-     "meta": "Remote US · Aug 10, 2026"
-    },
-    {
      "title": "General Application",
      "meta": "Remote US · May 26, 2026"
     }
    ],
-   "open_roles_count_text": "2 roles listed on startups.gallery",
+   "open_roles_count_text": "1 roles listed on startups.gallery",
    "focus": [
     "climate"
    ],
@@ -7442,7 +7666,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -7530,7 +7754,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -7581,7 +7805,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -7638,7 +7862,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "acquired",
    "round_name": null
   },
@@ -7693,7 +7917,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "acquired",
    "round_name": null
   },
@@ -7785,7 +8009,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -7820,6 +8044,14 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "Member of Technical Staff, Applied AI",
+     "meta": "New York City · Oct 28, 2026"
+    },
+    {
+     "title": "Member of Technical Staff",
+     "meta": "New York City · Oct 28, 2026"
+    },
+    {
      "title": "Legal Intake Specialist (Bilingual English/Spanish) - 12PM-10PM EST",
      "meta": "Remote · Oct 22, 2026"
     },
@@ -7828,27 +8060,15 @@
      "meta": "Remote · Oct 15, 2026"
     },
     {
-     "title": "Member of Technical Staff, Applied AI",
-     "meta": "New York City · Sep 28, 2026"
-    },
-    {
-     "title": "Member of Technical Staff",
-     "meta": "New York City · Sep 28, 2026"
-    },
-    {
      "title": "Case Manager",
      "meta": "Remote · Sep 18, 2026"
     },
     {
      "title": "Lead Paralegal",
      "meta": "Remote · Sep 18, 2026"
-    },
-    {
-     "title": "Member of Technical Staff, Software Engineer",
-     "meta": "New York City · Sep 7, 2026"
     }
    ],
-   "open_roles_count_text": "7 roles listed on startups.gallery",
+   "open_roles_count_text": "6 roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -7865,7 +8085,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -7925,7 +8145,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -7976,7 +8196,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -8033,7 +8253,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -8107,7 +8327,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -8154,7 +8374,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -8254,7 +8474,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -8289,6 +8509,10 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "Implementation Specialist, Expansions",
+     "meta": "New York City · Oct 26, 2026"
+    },
+    {
      "title": "Head of Web Strategy and Experience",
      "meta": "New York City · Oct 23, 2026"
     },
@@ -8313,7 +8537,7 @@
      "meta": "New York City · Oct 1, 2026"
     },
     {
-     "title": "Revenue Operations Lead",
+     "title": "Revenue Operations and Enablement Lead",
      "meta": "New York City · Sep 28, 2026"
     },
     {
@@ -8331,10 +8555,6 @@
     {
      "title": "Senior Data Scientist, Product Analytics",
      "meta": "New York City · Sep 3, 2026"
-    },
-    {
-     "title": "Founding Account Manager, Advisor Services & Loyalty",
-     "meta": "New York City · Aug 28, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -8354,7 +8574,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -8429,7 +8649,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -8533,7 +8753,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -8584,7 +8804,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -8631,7 +8851,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -8674,10 +8894,6 @@
      "meta": "New York, NY · Sep 10, 2026"
     },
     {
-     "title": "Senior Support Lead",
-     "meta": "New York, NY · Sep 9, 2026"
-    },
-    {
      "title": "Senior Product Manager",
      "meta": "New York, NY · Sep 9, 2026"
     },
@@ -8712,6 +8928,10 @@
     {
      "title": "Product Engineer (Singapore)",
      "meta": "Singapore · May 12, 2025"
+    },
+    {
+     "title": "Backend Engineer (Singapore)",
+     "meta": "Singapore · May 12, 2025"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -8735,7 +8955,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -8747,7 +8967,7 @@
    "tagline": "Marketplace for America's most essential assets.",
    "about": "Trusted by cities and public safety agencies across America, Garage is the AI-powered marketplace transforming how America's most essential assets are bought and sold. By automating everything from appraisals to freight, Garage saves time and money for communities of all sizes.",
    "sectors": [
-    "Construction"
+    "Retail"
    ],
    "stage": "Series A",
    "stage_detail": "Series A",
@@ -8760,7 +8980,7 @@
    "acquired_by": null,
    "headcount": "11–50",
    "headcount_source": "startups.gallery",
-   "work_type": "Onsite",
+   "work_type": "Remote",
    "hq": {
     "location": "New York, NY",
     "source": "https://startups.gallery/companies/garage",
@@ -8831,7 +9051,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -8935,7 +9155,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -8982,7 +9202,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -9037,7 +9257,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -9094,7 +9314,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -9148,7 +9368,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series E+",
    "round_name": "Series E"
   },
@@ -9201,7 +9421,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -9250,7 +9470,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -9284,6 +9504,14 @@
    "careers_url": "https://job-boards.greenhouse.io/grafanalabs",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Senior Solutions Engineer, Acquisition | West Coast | Remote",
+     "meta": "United States (Remote) · Oct 28, 2026"
+    },
+    {
+     "title": "Solutions Engineer | PST or EST US | Remote",
+     "meta": "United States (Remote) · Oct 27, 2026"
+    },
     {
      "title": "Senior Director, Corporate FP&A | United States | Remote",
      "meta": "United States (Remote) · Oct 25, 2026"
@@ -9323,14 +9551,6 @@
     {
      "title": "Senior Product Marketing Manager  | Sweden | Remote",
      "meta": "Sweden (Remote) · Oct 23, 2026"
-    },
-    {
-     "title": "Senior Product Marketing Manager  | Spain | Remote",
-     "meta": "Spain (Remote) · Oct 23, 2026"
-    },
-    {
-     "title": "Senior Product Marketing Manager  | Ireland | Remote",
-     "meta": "Republic of Ireland (Remote) · Oct 23, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -9350,7 +9570,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -9405,7 +9625,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "acquired",
    "round_name": null
   },
@@ -9452,7 +9672,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -9488,7 +9708,11 @@
    "open_roles_sample": [
     {
      "title": "Director, FP&A",
-     "meta": "New York City · Oct 15, 2026"
+     "meta": "New York City · Oct 28, 2026"
+    },
+    {
+     "title": "Building Compliance Architect/Engineer",
+     "meta": "New York City · Oct 27, 2026"
     },
     {
      "title": "Project Manager, Permit Operations",
@@ -9515,7 +9739,7 @@
      "meta": "New York City · May 26, 2026"
     },
     {
-     "title": "Staff AI Engineer",
+     "title": "AI Engineer",
      "meta": "New York City · Jan 12, 2026"
     },
     {
@@ -9527,7 +9751,7 @@
      "meta": "New York City · Mar 10, 2025"
     }
    ],
-   "open_roles_count_text": "10 roles listed on startups.gallery",
+   "open_roles_count_text": "11 roles listed on startups.gallery",
    "focus": [
     "civic"
    ],
@@ -9550,7 +9774,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -9618,7 +9842,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -9673,7 +9897,7 @@
      "meta": "New York City · Jul 9, 2026"
     },
     {
-     "title": "Software Engineer",
+     "title": "Product Engineer",
      "meta": "New York City · May 5, 2026"
     },
     {
@@ -9718,7 +9942,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -9822,7 +10046,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -9877,7 +10101,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -9981,7 +10205,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -10032,7 +10256,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -10087,7 +10311,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -10138,7 +10362,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -10216,9 +10440,61 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
+  },
+  {
+   "id": "hyphenate",
+   "name": "Hyphenate",
+   "website": "https://hyphenate.ai",
+   "description": "Autonomous finance platform whose AI agents run order-to-cash, treasury, reconciliation and accounting workflows for the office of the CFO.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Fintech",
+    "AI"
+   ],
+   "stage": "Series A",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$45M Series A",
+    "stage": "Series A",
+    "date": "2026-10-27",
+    "source": "https://hyphenate.ai/press/hyphenate-series-a-fundraise"
+   },
+   "acquired_by": null,
+   "headcount": "unknown",
+   "headcount_source": null,
+   "work_type": null,
+   "hq": {
+    "location": "New York, NY (press release dateline 'New York City, NY'; AlleyWatch NYC funding report)",
+    "source": "https://www.alleywatch.com/2026/10/the-new-york-startup-daily-funding-report-10-28-2026/",
+    "source_type": "other"
+   },
+   "careers_url": "https://jobs.ashbyhq.com/hyphenate",
+   "hiring": true,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://hyphenate.ai"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://hyphenate.ai/press/hyphenate-series-a-fundraise"
+    },
+    {
+     "label": "HQ source",
+     "url": "https://www.alleywatch.com/2026/10/the-new-york-startup-daily-funding-report-10-28-2026/"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-10-29",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "imprint",
@@ -10251,20 +10527,24 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Partner Lead",
-     "meta": "New York City · Oct 23, 2026"
+     "title": "Associate General Manager",
+     "meta": "New York City · Oct 28, 2026"
     },
     {
-     "title": "Product Counsel, Data & Privacy",
+     "title": "Program Operations Associate",
+     "meta": "New York City · Oct 28, 2026"
+    },
+    {
+     "title": "General Manager",
+     "meta": "New York City · Oct 28, 2026"
+    },
+    {
+     "title": "Manager, Corporate Finance",
+     "meta": "New York City · Oct 27, 2026"
+    },
+    {
+     "title": "Product Counsel - Data & Privacy",
      "meta": "New York City, San Francisco · Oct 21, 2026"
-    },
-    {
-     "title": "Director, Strategic Customer Relations",
-     "meta": "Remote · Oct 21, 2026"
-    },
-    {
-     "title": "Growth Marketing Lead",
-     "meta": "New York City · Oct 20, 2026"
     },
     {
      "title": "Director, People Business Partnership",
@@ -10293,10 +10573,6 @@
     {
      "title": "Senior Marketing Design Manager",
      "meta": "Remote · Sep 29, 2026"
-    },
-    {
-     "title": "Senior Engineering Manager",
-     "meta": "New York City, San Francisco · Sep 21, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -10320,7 +10596,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -10390,7 +10666,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -10437,7 +10713,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -10541,9 +10817,62 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
+  },
+  {
+   "id": "iridium-credit",
+   "name": "Iridium Credit",
+   "website": "https://www.iridiumcredit.com",
+   "description": "Verification infrastructure for invoice finance: agents check every funded invoice against source documents, confirm with the debtor and follow it through collections to catch fraud.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Fintech",
+    "Fraud",
+    "AI"
+   ],
+   "stage": "unknown",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$3M (round type not disclosed)",
+    "stage": "unknown",
+    "date": "2026-10-07",
+    "source": "https://www.iridiumcredit.com/newsroom/iridium-credit-raises-3m/"
+   },
+   "acquired_by": null,
+   "headcount": "2-10 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "Manhattan, New York",
+    "source": "https://www.linkedin.com/company/iridiumcredit",
+    "source_type": "LinkedIn"
+   },
+   "careers_url": "https://www.iridiumcredit.com/careers/",
+   "hiring": true,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://www.iridiumcredit.com"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/iridiumcredit"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://www.iridiumcredit.com/newsroom/iridium-credit-raises-3m/"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-10-29",
+   "round": "unknown",
+   "round_name": null
   },
   {
    "id": "itselectric",
@@ -10595,7 +10924,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -10629,6 +10958,10 @@
    "careers_url": "https://jobs.ashbyhq.com/junction",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Strategic Finance Lead (Founding)",
+     "meta": "EDT / EST (US East Coast only) · Oct 28, 2026"
+    },
     {
      "title": "Technical Implementation Analyst",
      "meta": "EDT / EST (US East Coast only) · Oct 22, 2026"
@@ -10674,7 +11007,7 @@
      "meta": "GMT / BST (UK, Portugal, Ireland) · Jul 4, 2025"
     }
    ],
-   "open_roles_count_text": "11 roles listed on startups.gallery",
+   "open_roles_count_text": "12+ roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -10691,7 +11024,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -10738,10 +11071,6 @@
      "meta": "New York, NY, Washington, D.C. · Oct 2, 2026"
     },
     {
-     "title": "Communications Lead",
-     "meta": "Washington, D.C. · Sep 28, 2026"
-    },
-    {
      "title": "Federal Growth Lead, Air Force/Space Force",
      "meta": "Washington, D.C. · Sep 21, 2026"
     },
@@ -10772,6 +11101,10 @@
     {
      "title": "Applied AI Engineer",
      "meta": "New York, NY · Sep 8, 2026"
+    },
+    {
+     "title": "Senior Product Designer",
+     "meta": "New York, NY · Sep 2, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -10797,7 +11130,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -10848,7 +11181,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -10883,6 +11216,10 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "Research Associate II, Microbiology",
+     "meta": "Brooklyn, NY · Oct 26, 2026"
+    },
+    {
      "title": "Senior Manager, Customer Engagement",
      "meta": "Brooklyn, NY · Oct 5, 2026"
     },
@@ -10895,7 +11232,7 @@
      "meta": "Brooklyn, NY · Aug 23, 2021"
     }
    ],
-   "open_roles_count_text": "3 roles listed on startups.gallery",
+   "open_roles_count_text": "4 roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -10912,7 +11249,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -10966,7 +11303,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -11017,7 +11354,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -11064,7 +11401,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -11098,6 +11435,14 @@
    "careers_url": "https://jobs.ashbyhq.com/Linkup",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Machine Learning Engineer",
+     "meta": "Paris · Oct 26, 2026"
+    },
+    {
+     "title": "Country Lead Canada",
+     "meta": "Canada / US · Oct 26, 2026"
+    },
     {
      "title": "MTS Intern",
      "meta": "New York · Oct 23, 2026"
@@ -11137,14 +11482,6 @@
     {
      "title": "Senior Full Stack Engineer",
      "meta": "NYC (NY), San Francisco (CA) or Paris (FR) · Nov 3, 2025"
-    },
-    {
-     "title": "Senior Backend Engineer",
-     "meta": "NYC (NY), San Francisco (CA) or Paris (FR) · Nov 3, 2025"
-    },
-    {
-     "title": "Staff Backend Engineer",
-     "meta": "NYC (NY), San Francisco (CA) or Paris (FR) · Nov 3, 2025"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -11168,7 +11505,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -11219,7 +11556,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -11266,10 +11603,6 @@
      "meta": "New York, New York, United States · Sep 11, 2026"
     },
     {
-     "title": "Senior Software Engineer, Card Authorization",
-     "meta": "Remote · Sep 11, 2026"
-    },
-    {
      "title": "Senior Software Engineer, Product Platform",
      "meta": "Remote · Sep 3, 2026"
     },
@@ -11298,7 +11631,7 @@
      "meta": "New York, New York, United States; San Francisco · Oct 8, 2024"
     }
    ],
-   "open_roles_count_text": "11 roles listed on startups.gallery",
+   "open_roles_count_text": "10 roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -11315,7 +11648,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -11362,7 +11695,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "unknown",
    "round_name": null
   },
@@ -11417,7 +11750,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -11477,7 +11810,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -11511,6 +11844,10 @@
    "careers_url": "https://manifestos.com/careers#open-positions",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Technical Sourcer (Contract)",
+     "meta": "United States, New York City · Oct 26, 2026"
+    },
     {
      "title": "Global Consular Lead",
      "meta": "United States · Oct 14, 2026"
@@ -11556,7 +11893,7 @@
      "meta": "New York City · Jun 22, 2026"
     }
    ],
-   "open_roles_count_text": "11 roles listed on startups.gallery",
+   "open_roles_count_text": "12+ roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -11577,7 +11914,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -11628,7 +11965,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -11695,10 +12032,6 @@
      "meta": "New York City · Sep 4, 2026"
     },
     {
-     "title": "Strategy & Ops Lead, New Markets",
-     "meta": "New York City · Jul 27, 2026"
-    },
-    {
      "title": "Customer Success Manager",
      "meta": "New York City · May 30, 2026"
     },
@@ -11709,6 +12042,10 @@
     {
      "title": "Account Executive, Schools",
      "meta": "New York City, Remote, Arizona · May 30, 2026"
+    },
+    {
+     "title": "Product Engineer",
+     "meta": "New York City · May 30, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -11728,7 +12065,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -11781,7 +12118,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series E+",
    "round_name": "Series E"
   },
@@ -11816,7 +12153,11 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Senior Recruiter / Talent Engineer",
+     "title": "Implementation Manager",
+     "meta": "New York Office · Oct 27, 2026"
+    },
+    {
+     "title": "Senior Recruiter",
      "meta": "New York Office · Oct 23, 2026"
     },
     {
@@ -11836,10 +12177,6 @@
      "meta": "New York Office · Sep 22, 2026"
     },
     {
-     "title": "Strategic Finance Lead",
-     "meta": "New York Office · Sep 17, 2026"
-    },
-    {
      "title": "Senior Software Engineer, AI",
      "meta": "New York Office · Aug 31, 2026"
     },
@@ -11848,20 +12185,20 @@
      "meta": "New York Office · Aug 31, 2026"
     },
     {
-     "title": "Implementation Manager",
-     "meta": "New York Office · Aug 7, 2026"
-    },
-    {
-     "title": "IT & Security Operations Engineer",
-     "meta": "New York Office · Jul 27, 2026"
-    },
-    {
      "title": "Product Designer",
      "meta": "New York Office · Jul 27, 2026"
     },
     {
      "title": "Principal Forward Deployed Engineer",
      "meta": "New York Office · Jul 2, 2026"
+    },
+    {
+     "title": "Senior Software Engineer",
+     "meta": "New York Office · Jun 11, 2026"
+    },
+    {
+     "title": "Solutions Architect",
+     "meta": "New York Office · Jun 4, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -11881,7 +12218,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -11985,7 +12322,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -12020,10 +12357,6 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Software Engineering Intern [Spring/Summer 2027]",
-     "meta": "New York City · Jul 31, 2026"
-    },
-    {
      "title": "Sales Development Rep",
      "meta": "New York City · Jul 1, 2026"
     },
@@ -12044,7 +12377,7 @@
      "meta": "New York City · May 23, 2026"
     }
    ],
-   "open_roles_count_text": "6 roles listed on startups.gallery",
+   "open_roles_count_text": "5 roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -12065,7 +12398,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -12100,8 +12433,12 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "Founding Designer",
+     "meta": "New York City · Oct 28, 2026"
+    },
+    {
      "title": "Controller",
-     "meta": "New York City · Oct 16, 2026"
+     "meta": "New York City · Oct 26, 2026"
     },
     {
      "title": "Software Engineer - December 2026 Graduates",
@@ -12124,7 +12461,7 @@
      "meta": "New York City · Jul 27, 2026"
     }
    ],
-   "open_roles_count_text": "6 roles listed on startups.gallery",
+   "open_roles_count_text": "7 roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -12141,7 +12478,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -12176,6 +12513,10 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "Organic Growth Hacker",
+     "meta": "Remote in United States, Union Square, New York City · Oct 27, 2026"
+    },
+    {
      "title": "Software Engineer, 3D Rendering",
      "meta": "Union Square, New York City · Oct 23, 2026"
     },
@@ -12206,10 +12547,6 @@
     {
      "title": "Product Designer",
      "meta": "Union Square, New York City · Oct 8, 2026"
-    },
-    {
-     "title": "Lifecycle Marketing Lead",
-     "meta": "Union Square, New York City, United States (Remote) · Oct 2, 2026"
     },
     {
      "title": "Data Scientist, Product",
@@ -12247,7 +12584,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -12300,7 +12637,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -12404,7 +12741,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -12455,7 +12792,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -12559,7 +12896,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -12663,7 +13000,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -12710,7 +13047,60 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
+   "round": "seed",
+   "round_name": "Seed"
+  },
+  {
+   "id": "mostest",
+   "name": "Mostest",
+   "website": "https://www.joinmostest.com",
+   "description": "AI-powered event booking platform connecting planners with hotels, restaurants and venues, plus concierge event planning.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Consumer",
+    "Hospitality",
+    "AI"
+   ],
+   "stage": "seed",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$4M Seed",
+    "stage": "seed",
+    "date": "2026-10-27",
+    "source": "https://www.einpresswire.com/article/952431264/capital-q-ventures-portfolio-company-mostest-raises-oversubscribed-4m-seed-round-to-accelerate-ai-driven-event-booking"
+   },
+   "acquired_by": null,
+   "headcount": "11-50 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "New York City, New York",
+    "source": "https://www.linkedin.com/company/joinmostest",
+    "source_type": "LinkedIn"
+   },
+   "careers_url": null,
+   "hiring": false,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://www.joinmostest.com"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/joinmostest"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://www.einpresswire.com/article/952431264/capital-q-ventures-portfolio-company-mostest-raises-oversubscribed-4m-seed-round-to-accelerate-ai-driven-event-booking"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -12765,7 +13155,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -12820,7 +13210,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -12873,7 +13263,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -12922,7 +13312,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -12975,7 +13365,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -13026,7 +13416,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -13040,18 +13430,18 @@
    "sectors": [
     "Fintech"
    ],
-   "stage": "Series A",
-   "stage_detail": "Series A",
+   "stage": "Series B",
+   "stage_detail": "Series B",
    "last_round": {
-    "amount": "$35M",
-    "stage": "Series A",
-    "date": "2025-12-01",
-    "source": "https://www.neviswealth.com/news/nevis-raised-40m/"
+    "amount": "$70M",
+    "stage": "Series B",
+    "date": "2026-10-26",
+    "source": "https://www.finsmes.com/2026/10/nevis-raises-70m-in-series-b-funding.html"
    },
    "acquired_by": null,
    "headcount": "51-200 employees",
    "headcount_source": "LinkedIn",
-   "work_type": "Onsite",
+   "work_type": "Remote",
    "hq": {
     "location": "New York, NY",
     "source": "https://www.linkedin.com/company/neviswealth",
@@ -13126,13 +13516,13 @@
     },
     {
      "label": "Funding announcement",
-     "url": "https://www.neviswealth.com/news/nevis-raised-40m/"
+     "url": "https://www.finsmes.com/2026/10/nevis-raises-70m-in-series-b-funding.html"
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
-   "round": "Series A",
-   "round_name": "Series A"
+   "last_verified": "2026-10-29",
+   "round": "Series B",
+   "round_name": "Series B"
   },
   {
    "id": "ninedot-energy",
@@ -13184,7 +13574,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "unknown",
    "round_name": null
   },
@@ -13239,7 +13629,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -13290,7 +13680,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -13345,7 +13735,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -13429,7 +13819,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -13463,6 +13853,18 @@
    "careers_url": "https://jobs.ashbyhq.com/norm-ai",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Director of PR & Communications",
+     "meta": "New York City · Oct 27, 2026"
+    },
+    {
+     "title": "Technology Support Specialist",
+     "meta": "New York City · Oct 26, 2026"
+    },
+    {
+     "title": "Talent Acquisition Partner",
+     "meta": "New York City · Oct 26, 2026"
+    },
     {
      "title": "Junior Counsel",
      "meta": "New York City · Oct 21, 2026"
@@ -13498,18 +13900,6 @@
     {
      "title": "Senior Field ABM & Events Manager",
      "meta": "New York City · Sep 14, 2026"
-    },
-    {
-     "title": "Director of Brand Events",
-     "meta": "New York City · Sep 9, 2026"
-    },
-    {
-     "title": "Commercial Contracts Associate (NDA)",
-     "meta": "London · Sep 4, 2026"
-    },
-    {
-     "title": "Technical Accounting Senior Manager",
-     "meta": "New York City · Sep 2, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -13529,7 +13919,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -13564,6 +13954,10 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "AI Research Resident (Algorithms Codesign)",
+     "meta": "New York · Oct 27, 2026"
+    },
+    {
      "title": "Engineering Manager, Compiler & Runtime",
      "meta": "Mountain View, New York · Oct 23, 2026"
     },
@@ -13585,10 +13979,6 @@
     },
     {
      "title": "Firmware Engineer",
-     "meta": "Mountain View · Oct 22, 2026"
-    },
-    {
-     "title": "Research Engineer, Algorithms",
      "meta": "Mountain View · Oct 22, 2026"
     },
     {
@@ -13633,7 +14023,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -13684,7 +14074,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -13739,7 +14129,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -13774,6 +14164,26 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "Engineering Manager, Platform",
+     "meta": "San Francisco, CA · Oct 29, 2026"
+    },
+    {
+     "title": "Provider Partnerships Regional Manager (Austin / San Antonio, TX)",
+     "meta": "Remote · Oct 28, 2026"
+    },
+    {
+     "title": "Provider Partnerships Associate (Territory Sales)",
+     "meta": "Los Angeles, CA · Oct 27, 2026"
+    },
+    {
+     "title": "Provider Partnerships Associate (Territory Sales)",
+     "meta": "Jersey City, NJ · Oct 27, 2026"
+    },
+    {
+     "title": "(Sr) Lead, Strategy & Operations",
+     "meta": "New York, NY · Oct 26, 2026"
+    },
+    {
      "title": "Executive Assistant",
      "meta": "New York, NY · Oct 23, 2026"
     },
@@ -13800,26 +14210,6 @@
     {
      "title": "Provider Partnerships Associate (Territory Sales)",
      "meta": "New York · Oct 20, 2026"
-    },
-    {
-     "title": "Creative Strategist",
-     "meta": "New York, NY · Oct 20, 2026"
-    },
-    {
-     "title": "Director of Provider Onboarding",
-     "meta": "New York, NY · Oct 19, 2026"
-    },
-    {
-     "title": "Provider Partnerships Associate (Territory Sales)",
-     "meta": "New Orleans, LA · Oct 16, 2026"
-    },
-    {
-     "title": "(Sr.) People Operations Associate",
-     "meta": "New York, NY or Remote · Oct 15, 2026"
-    },
-    {
-     "title": "Provider Partnerships Manager (Territory Sales)",
-     "meta": "El Paso, Texas · Oct 15, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -13843,62 +14233,9 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
-  },
-  {
-   "id": "novele",
-   "name": "Novele",
-   "website": "https://www.novele.com/",
-   "description": "AI energy management plus distributed battery storage that turns commercial buildings into grid assets.",
-   "tagline": null,
-   "about": null,
-   "sectors": [
-    "Climate"
-   ],
-   "stage": "Series A",
-   "stage_detail": null,
-   "last_round": {
-    "amount": "$17M Series A",
-    "stage": "Series A",
-    "date": "2026-10-05",
-    "source": "https://www.esgtoday.com/novele-raises-17-million-to-turn-buildings-into-distributed-energy-assets/"
-   },
-   "acquired_by": null,
-   "headcount": "11-50 employees",
-   "headcount_source": "LinkedIn",
-   "work_type": null,
-   "hq": {
-    "location": "New York, NY",
-    "source": "https://www.linkedin.com/company/novele",
-    "source_type": "LinkedIn"
-   },
-   "careers_url": "https://www.novele.com/careers",
-   "hiring": true,
-   "open_roles_sample": [],
-   "open_roles_count_text": null,
-   "focus": [
-    "climate"
-   ],
-   "sources": [
-    {
-     "label": "Company website",
-     "url": "https://www.novele.com/"
-    },
-    {
-     "label": "LinkedIn",
-     "url": "https://www.linkedin.com/company/novele"
-    },
-    {
-     "label": "Funding / news source",
-     "url": "https://www.esgtoday.com/novele-raises-17-million-to-turn-buildings-into-distributed-energy-assets/"
-    }
-   ],
-   "origin": "manual research",
-   "last_verified": "2026-10-26",
-   "round": "Series A",
-   "round_name": "Series A"
   },
   {
    "id": "oboe",
@@ -13953,7 +14290,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -14008,7 +14345,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -14084,9 +14421,65 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
+  },
+  {
+   "id": "ontra-mobility",
+   "name": "Ontra Mobility",
+   "website": "https://www.ontramobility.com",
+   "description": "AI transit planning: helps cities and transit agencies raise ridership with data-driven route/schedule planning and real-time optimization (piloted with MTA LIRR and NYC Transit).",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Govtech",
+    "Transportation",
+    "AI"
+   ],
+   "stage": "unknown",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "unknown",
+    "stage": "unknown",
+    "date": "unknown",
+    "source": null
+   },
+   "acquired_by": null,
+   "headcount": "2-10 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "New York, New York",
+    "source": "https://www.linkedin.com/company/ontra-mobility",
+    "source_type": "LinkedIn"
+   },
+   "careers_url": null,
+   "hiring": false,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [
+    "civic",
+    "climate"
+   ],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://www.ontramobility.com"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/ontra-mobility"
+    },
+    {
+     "label": "HQ source",
+     "url": "https://www.ycombinator.com/companies/ontra-mobility"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-10-29",
+   "round": "unknown",
+   "round_name": null
   },
   {
    "id": "onyx-security",
@@ -14139,7 +14532,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -14210,16 +14603,16 @@
      "meta": "San Francisco · Jul 9, 2026"
     },
     {
-     "title": "Application Security Engineer",
-     "meta": "San Francisco · May 20, 2026"
-    },
-    {
      "title": "Senior Manager Demand Generation",
      "meta": "San Francisco · May 20, 2026"
     },
     {
      "title": "Software Engineer, Infrastructure",
      "meta": "San Francisco · May 18, 2026"
+    },
+    {
+     "title": "Enterprise Account Executive - East Coast",
+     "meta": "New York · May 6, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -14239,7 +14632,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -14290,7 +14683,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -14345,7 +14738,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -14396,7 +14789,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -14431,8 +14824,24 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "General Application",
-     "meta": "Elizabeth, NJ · Oct 23, 2026"
+     "title": "Senior Technical Program Manager, Fragrance",
+     "meta": "Elizabeth, NJ · Oct 28, 2026"
+    },
+    {
+     "title": "Lab Fragrance Compounders (Temp)",
+     "meta": "Elizabeth, NJ · Oct 28, 2026"
+    },
+    {
+     "title": "Applications Lab Associate",
+     "meta": "Elizabeth, NJ · Oct 28, 2026"
+    },
+    {
+     "title": "Lab Fragrance Compounders",
+     "meta": "Elizabeth, NJ · Oct 27, 2026"
+    },
+    {
+     "title": "Lab Sensory Compounders",
+     "meta": "Elizabeth, NJ · Oct 27, 2026"
     },
     {
      "title": "QA + QC Manager (Fragrance)",
@@ -14461,22 +14870,6 @@
     {
      "title": "Contract Scent Tester (Fragrance)",
      "meta": "Elizabeth, NJ · Oct 3, 2026"
-    },
-    {
-     "title": "Client Program Manager, Product Development",
-     "meta": "Elizabeth, NJ · Sep 30, 2026"
-    },
-    {
-     "title": "Production Program Manager (Fragrance)",
-     "meta": "Elizabeth, NJ · Sep 30, 2026"
-    },
-    {
-     "title": "Product Development Manager",
-     "meta": "Elizabeth, NJ · Sep 30, 2026"
-    },
-    {
-     "title": "Head of AI",
-     "meta": "Elizabeth, NJ, Somerville, MA · Sep 30, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -14500,7 +14893,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -14551,7 +14944,7 @@
      "meta": "New York City · Sep 21, 2026"
     },
     {
-     "title": "Social Media Manager",
+     "title": "Content Marketing Manager",
      "meta": "New York City · Sep 16, 2026"
     },
     {
@@ -14571,16 +14964,16 @@
      "meta": "New York City · Sep 10, 2026"
     },
     {
-     "title": "Channel Partnership Lead",
-     "meta": "New York City, Chicago, San Francisco · Aug 27, 2026"
-    },
-    {
      "title": "Head of Post-Sales",
      "meta": "New York City · Aug 11, 2026"
     },
     {
      "title": "Technical Account Manager",
      "meta": "New York City · Aug 10, 2026"
+    },
+    {
+     "title": "Founding Applied Data Scientist",
+     "meta": "New York City · Jul 28, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -14604,7 +14997,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -14651,9 +15044,62 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
+  },
+  {
+   "id": "overwatch-data",
+   "name": "Overwatch Data",
+   "website": "https://www.overwatchdata.ai",
+   "description": "AI-native threat intelligence and risk operations: AI agents surface cybercrime and fraud signals for security, fraud and risk teams.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Cybersecurity",
+    "Fraud",
+    "AI"
+   ],
+   "stage": "Series A",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$15M Series A",
+    "stage": "Series A",
+    "date": "2026-10-26",
+    "source": "https://fortune.com/2026/10/26/ai-giving-cybercrime-makeover-startup-raised-15-million-to-fight-back-overwatch/"
+   },
+   "acquired_by": null,
+   "headcount": "11-50 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "Brooklyn, NY (Fortune: 'the New York-based company'; SEC Form D address 123 7th Ave, Brooklyn)",
+    "source": "https://fortune.com/2026/10/26/ai-giving-cybercrime-makeover-startup-raised-15-million-to-fight-back-overwatch/",
+    "source_type": "other"
+   },
+   "careers_url": "https://job-boards.greenhouse.io/overwatch",
+   "hiring": true,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://www.overwatchdata.ai"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/overwatchdata"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://fortune.com/2026/10/26/ai-giving-cybercrime-makeover-startup-raised-15-million-to-fight-back-overwatch/"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-10-29",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "pacagen",
@@ -14702,7 +15148,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -14806,7 +15252,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -14861,7 +15307,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -14916,7 +15362,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -15004,7 +15450,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -15061,7 +15507,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -15112,7 +15558,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -15146,6 +15592,10 @@
    "careers_url": "https://jobs.ashbyhq.com/permitflow",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Staff Analytics Engineer",
+     "meta": "New York City, NY · Oct 28, 2026"
+    },
     {
      "title": "Senior Analytics Engineer",
      "meta": "New York City, NY · Oct 22, 2026"
@@ -15189,10 +15639,6 @@
     {
      "title": "Business Development Representative",
      "meta": "New York City, NY · Sep 15, 2026"
-    },
-    {
-     "title": "Operations Assistant (International)",
-     "meta": "Remote · Sep 14, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -15218,7 +15664,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -15280,7 +15726,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -15327,7 +15773,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -15411,7 +15857,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -15477,7 +15923,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -15532,7 +15978,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -15568,27 +16014,27 @@
    "open_roles_sample": [
     {
      "title": "Full Stack Engineer",
-     "meta": "United States/Canada · Oct 23, 2026"
+     "meta": "United States/Canada · Oct 28, 2026"
     },
     {
      "title": "Enterprise Account Executive",
-     "meta": "United States/Canada · Oct 23, 2026"
+     "meta": "United States/Canada · Oct 28, 2026"
     },
     {
      "title": "Talent Partner",
-     "meta": "United States/Canada · Oct 23, 2026"
+     "meta": "United States/Canada · Oct 28, 2026"
     },
     {
      "title": "Commercial Counsel",
-     "meta": "United States/Canada · Oct 23, 2026"
+     "meta": "United States/Canada · Oct 28, 2026"
     },
     {
      "title": "Motion Designer & Video Editor",
-     "meta": "United States/Canada · Oct 23, 2026"
+     "meta": "United States/Canada · Oct 28, 2026"
     },
     {
-     "title": "Client Operations Associate",
-     "meta": "United States/Canada · Oct 23, 2026"
+     "title": "Insights Associate",
+     "meta": "United States/Canada · Oct 28, 2026"
     },
     {
      "title": "Know Someone Great For Pogo? Refer Them!",
@@ -15628,7 +16074,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -15687,7 +16133,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -15738,7 +16184,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -15830,9 +16276,62 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
+  },
+  {
+   "id": "predicate",
+   "name": "Predicate",
+   "website": "https://predicate.io",
+   "description": "Onchain compliance platform that embeds policy controls into digital assets to block sanctioned and high-risk activity.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Fintech",
+    "Crypto",
+    "Compliance"
+   ],
+   "stage": "Series A",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$8M Series A",
+    "stage": "Series A",
+    "date": "2026-10-28",
+    "source": "https://www.alleywatch.com/2026/10/the-new-york-startup-daily-funding-report-10-28-2026/"
+   },
+   "acquired_by": null,
+   "headcount": "11-50 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "New York, New York",
+    "source": "https://www.linkedin.com/company/predicatenetwork",
+    "source_type": "LinkedIn"
+   },
+   "careers_url": "https://jobs.predicate.io/",
+   "hiring": true,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://predicate.io"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/predicatenetwork"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://www.alleywatch.com/2026/10/the-new-york-startup-daily-funding-report-10-28-2026/"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-10-29",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "prism-data",
@@ -15887,7 +16386,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -15938,7 +16437,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -15972,6 +16471,10 @@
    "careers_url": "https://www.tryprofound.com/careers#open-roles",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Marketing Engineer, Discoverability",
+     "meta": "New York, New York · Oct 26, 2026"
+    },
     {
      "title": "Data Acquisition Lead",
      "meta": "New York, New York · Oct 22, 2026"
@@ -16015,10 +16518,6 @@
     {
      "title": "Forward Deployed Marketing Engineer",
      "meta": "New York, New York, San Francisco, California, London, England · Oct 6, 2026"
-    },
-    {
-     "title": "Global Payroll Manager",
-     "meta": "New York, New York, San Francisco, California · Oct 6, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -16042,7 +16541,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -16101,7 +16600,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -16136,7 +16635,11 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Recruiter",
+     "title": "Founding Recruiter",
+     "meta": "New York City · Oct 28, 2026"
+    },
+    {
+     "title": "Founding Recruiter",
      "meta": "Barcelona · Oct 23, 2026"
     },
     {
@@ -16180,7 +16683,7 @@
      "meta": "New York City · Jan 14, 2026"
     }
    ],
-   "open_roles_count_text": "11 roles listed on startups.gallery",
+   "open_roles_count_text": "12+ roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -16201,7 +16704,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -16256,7 +16759,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -16312,7 +16815,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -16367,7 +16870,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -16471,7 +16974,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -16526,7 +17029,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -16630,7 +17133,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -16684,7 +17187,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "unknown",
    "round_name": null
   },
@@ -16752,7 +17255,7 @@
     },
     {
      "title": "Financial Crime Analyst",
-     "meta": "NYC · Sep 9, 2026"
+     "meta": "Nashville · Sep 9, 2026"
     },
     {
      "title": "Financial Crime Analyst",
@@ -16784,7 +17287,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -16835,7 +17338,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -16888,7 +17391,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -16922,6 +17425,10 @@
    "careers_url": "https://jobs.ashbyhq.com/Rogo",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Talent Acquisition | Coordinator",
+     "meta": "London · Oct 26, 2026"
+    },
     {
      "title": "Sales Development Representative, London",
      "meta": "London · Oct 23, 2026"
@@ -16965,10 +17472,6 @@
     {
      "title": "IT Support Specialist",
      "meta": "New York City · Oct 16, 2026"
-    },
-    {
-     "title": "Forward Deployed Banker, Paris",
-     "meta": "Paris · Oct 15, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -16992,7 +17495,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -17043,7 +17546,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -17078,16 +17581,20 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "Product Manager - Learning & Enablement",
+     "meta": "Remote (US Timezones), NYC, SF · Oct 26, 2026"
+    },
+    {
+     "title": "Channel Sales Leader",
+     "meta": "NYC, Remote (US Timezones), SF · Oct 26, 2026"
+    },
+    {
      "title": "Founding Product Manager, Growth",
      "meta": "NYC · Oct 23, 2026"
     },
     {
      "title": "Engineering Manager",
      "meta": "Remote (US Timezones), NYC, SF · Oct 23, 2026"
-    },
-    {
-     "title": "Support Engineer",
-     "meta": "Hybrid NYC / Remote (US Timezones) · Oct 22, 2026"
     },
     {
      "title": "Deployment Strategist",
@@ -17102,7 +17609,7 @@
      "meta": "NYC, Remote (US Timezones), SF · Sep 25, 2026"
     },
     {
-     "title": "Go-To-Market (GTM) Systems Leader",
+     "title": "GTM Systems Leader",
      "meta": "NYC, Remote (US Timezones), SF · Sep 15, 2026"
     },
     {
@@ -17120,10 +17627,6 @@
     {
      "title": "Integrations Engineer",
      "meta": "NYC, Remote (US Timezones), SF · Jul 30, 2026"
-    },
-    {
-     "title": "Regional Sales Director, East",
-     "meta": "NYC · Jul 9, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -17147,7 +17650,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -17217,7 +17720,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -17268,7 +17771,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -17370,7 +17873,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -17404,6 +17907,10 @@
    "careers_url": "https://sandstone.com/careers",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Founding Sales Development Representative",
+     "meta": "New York, New York · Oct 27, 2026"
+    },
     {
      "title": "Associate Account Executive",
      "meta": "New York, New York · Oct 19, 2026"
@@ -17445,7 +17952,7 @@
      "meta": "New York, New York · Jan 17, 2026"
     }
    ],
-   "open_roles_count_text": "10 roles listed on startups.gallery",
+   "open_roles_count_text": "11 roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -17466,7 +17973,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -17566,7 +18073,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -17601,52 +18108,52 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Strategy & Operations Manager - AI",
-     "meta": "NYC Office · Oct 23, 2026"
+     "title": "Strategy & Operations Manager - Brokerage",
+     "meta": "NYC Office · Oct 28, 2026"
     },
     {
-     "title": "Strategy & Operations Manager - Brokerage",
-     "meta": "NYC Office · Oct 23, 2026"
+     "title": "Strategy & Operations Manager - AI",
+     "meta": "NYC Office · Oct 28, 2026"
     },
     {
      "title": "Strategic Growth Partner (NYC)",
-     "meta": "NYC Office · Oct 23, 2026"
+     "meta": "NYC Office · Oct 28, 2026"
     },
     {
      "title": "Strategic Growth Manager (Account Executive)",
-     "meta": "Remote - US · Oct 23, 2026"
+     "meta": "Remote - US · Oct 28, 2026"
     },
     {
      "title": "Sr. Deployment Strategist",
-     "meta": "NYC Office · Oct 23, 2026"
+     "meta": "NYC Office · Oct 28, 2026"
     },
     {
      "title": "Senior Talent Partner",
-     "meta": "NYC Office · Oct 23, 2026"
+     "meta": "NYC Office · Oct 28, 2026"
     },
     {
      "title": "Senior Strategy & Operations Manager - Brokerage",
-     "meta": "NYC Office · Oct 23, 2026"
+     "meta": "NYC Office · Oct 28, 2026"
     },
     {
      "title": "Senior Strategic Growth Partner",
-     "meta": "Remote - US · Oct 23, 2026"
+     "meta": "Remote - US · Oct 28, 2026"
     },
     {
      "title": "Senior Revenue Operations Manager",
-     "meta": "NYC Office · Oct 23, 2026"
+     "meta": "NYC Office · Oct 28, 2026"
+    },
+    {
+     "title": "Senior Product Manager",
+     "meta": "NYC Office · Oct 28, 2026"
     },
     {
      "title": "Senior Manager, Finance Systems & Data",
-     "meta": "NYC Office · Oct 23, 2026"
+     "meta": "NYC Office · Oct 28, 2026"
     },
     {
-     "title": "Senior Strategy & Operations Manager - Finance",
-     "meta": "NYC Office · Oct 23, 2026"
-    },
-    {
-     "title": "Senior Compensation Operations Manager",
-     "meta": "NYC Office · Oct 23, 2026"
+     "title": "Senior Engineer - Technical Staff",
+     "meta": "NYC Office · Oct 28, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -17670,7 +18177,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -17724,7 +18231,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -17828,7 +18335,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -17883,7 +18390,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "acquired",
    "round_name": null
   },
@@ -17932,7 +18439,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -17983,9 +18490,59 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
+  },
+  {
+   "id": "shadow-power",
+   "name": "Shadow Power",
+   "website": "https://www.shadowpower.com",
+   "description": "Deploys, owns and manages customer-sited batteries at no up-front cost and aggregates them into utility-grade virtual power plants.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Climate",
+    "Energy"
+   ],
+   "stage": "unknown",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "unknown",
+    "stage": "unknown",
+    "date": "unknown",
+    "source": null
+   },
+   "acquired_by": null,
+   "headcount": "2-10 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "New York, NY",
+    "source": "https://www.linkedin.com/company/shadow-power-inc",
+    "source_type": "LinkedIn"
+   },
+   "careers_url": null,
+   "hiring": false,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [
+    "climate"
+   ],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://www.shadowpower.com"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/shadow-power-inc"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-10-29",
+   "round": "unknown",
+   "round_name": null
   },
   {
    "id": "shaped",
@@ -18034,7 +18591,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -18138,7 +18695,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -18189,7 +18746,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -18226,10 +18783,6 @@
     {
      "title": "Enterprise Account Executive",
      "meta": "North America - East Coast, Toronto, New York, North America - West Coast · Oct 15, 2026"
-    },
-    {
-     "title": "Strategic Account Manager (UK)",
-     "meta": "London, United Kingdom · Oct 15, 2026"
     },
     {
      "title": "Founding Content Strategist",
@@ -18270,6 +18823,10 @@
     {
      "title": "Senior Fullstack Engineer",
      "meta": "Argentina, Brazil, Poland, Finland, United Kingdom, Romania, Remote - Europe, Spain · Jun 9, 2026"
+    },
+    {
+     "title": "Head of Product Education & Community",
+     "meta": "Toronto, New York · May 21, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -18293,7 +18850,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -18393,7 +18950,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -18440,7 +18997,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -18475,6 +19032,14 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "Comms Lead",
+     "meta": "New York · Oct 29, 2026"
+    },
+    {
+     "title": "Experienced Clinician Reviewer (Remote UK/US)",
+     "meta": "London, New York · Oct 27, 2026"
+    },
+    {
      "title": "AI Safety Manager",
      "meta": "London · Oct 6, 2026"
     },
@@ -18491,7 +19056,7 @@
      "meta": "London · Aug 21, 2026"
     }
    ],
-   "open_roles_count_text": "4 roles listed on startups.gallery",
+   "open_roles_count_text": "6 roles listed on startups.gallery",
    "focus": [
     "ai_everyday"
    ],
@@ -18510,7 +19075,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -18563,7 +19128,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -18647,7 +19212,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -18694,7 +19259,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -18798,7 +19363,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -18841,10 +19406,6 @@
      "meta": "United States · Oct 7, 2026"
     },
     {
-     "title": "Technical Program Manager (TPM)",
-     "meta": "United States · Apr 16, 2026"
-    },
-    {
      "title": "Full-Stack Software Engineer – Remote",
      "meta": "United States · Jan 5, 2026"
     },
@@ -18857,7 +19418,7 @@
      "meta": "United States · Nov 18, 2025"
     }
    ],
-   "open_roles_count_text": "6 roles listed on startups.gallery",
+   "open_roles_count_text": "5 roles listed on startups.gallery",
    "focus": [
     "civic"
    ],
@@ -18876,7 +19437,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -18931,7 +19492,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -18962,7 +19523,7 @@
     "source": "https://www.linkedin.com/company/stainless-api",
     "source_type": "LinkedIn"
    },
-   "careers_url": "https://jobs.ashbyhq.com/stainlessapi",
+   "careers_url": null,
    "hiring": false,
    "open_roles_sample": [],
    "open_roles_count_text": null,
@@ -18986,7 +19547,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "acquired",
    "round_name": null
   },
@@ -19041,10 +19602,6 @@
      "meta": "New York City · Sep 11, 2026"
     },
     {
-     "title": "GTM Engineer",
-     "meta": "New York City · Aug 24, 2026"
-    },
-    {
      "title": "Senior Product Manager",
      "meta": "New York City · Aug 18, 2026"
     },
@@ -19065,7 +19622,7 @@
      "meta": "United States · Mar 30, 2026"
     }
    ],
-   "open_roles_count_text": "11 roles listed on startups.gallery",
+   "open_roles_count_text": "10 roles listed on startups.gallery",
    "focus": [
     "civic"
    ],
@@ -19088,7 +19645,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -19143,7 +19700,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series E+",
    "round_name": "Series H"
   },
@@ -19177,6 +19734,14 @@
    "careers_url": "https://jobs.ashbyhq.com/Stedi",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Payer Network Development",
+     "meta": "Remote in the USA · Oct 27, 2026"
+    },
+    {
+     "title": "Accounting Manager",
+     "meta": "Remote in the USA · Oct 26, 2026"
+    },
     {
      "title": "Activation Engineer",
      "meta": "Remote in the USA · Oct 19, 2026"
@@ -19216,14 +19781,6 @@
     {
      "title": "Product Manager",
      "meta": "Remote in the USA · Aug 3, 2026"
-    },
-    {
-     "title": "Customer Success Engineer",
-     "meta": "Remote in the USA, Hybrid in NYC · Jul 27, 2026"
-    },
-    {
-     "title": "Account Manager",
-     "meta": "Remote in the USA, Hybrid in NYC · Jul 22, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -19247,7 +19804,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -19282,6 +19839,22 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "GTM Engineer",
+     "meta": "Strella HQ (New York City) · Oct 26, 2026"
+    },
+    {
+     "title": "Mid-Market Account Executive",
+     "meta": "Strella HQ (New York City) · Oct 26, 2026"
+    },
+    {
+     "title": "Enterprise Account Executive",
+     "meta": "Strella HQ (New York City) · Oct 26, 2026"
+    },
+    {
+     "title": "Business Development Representative Manager",
+     "meta": "Strella HQ (New York City) · Oct 26, 2026"
+    },
+    {
      "title": "Founding Recruiter",
      "meta": "Strella HQ (New York City), San Francisco · Oct 13, 2026"
     },
@@ -19310,7 +19883,7 @@
      "meta": "San Francisco · Oct 9, 2025"
     }
    ],
-   "open_roles_count_text": "7 roles listed on startups.gallery",
+   "open_roles_count_text": "11 roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -19331,7 +19904,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -19386,7 +19959,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -19421,16 +19994,20 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "SDR Manager (Manger, Sales Develpment)",
+     "meta": "San Francisco · Oct 26, 2026"
+    },
+    {
+     "title": "Data Engineer",
+     "meta": "San Francisco, New York City · Oct 26, 2026"
+    },
+    {
      "title": "Enterprise Account Executive - London (German or French Speaking)",
      "meta": "London · Oct 23, 2026"
     },
     {
      "title": "IT Systems Engineer — Identity & Automation",
      "meta": "New York City · Oct 22, 2026"
-    },
-    {
-     "title": "Buisness Development Manager (BDR Manager)",
-     "meta": "San Francisco · Oct 21, 2026"
     },
     {
      "title": "Area Vice President of Sales, Central  Territory",
@@ -19463,10 +20040,6 @@
     {
      "title": "Design Engineer",
      "meta": "San Francisco · Oct 9, 2026"
-    },
-    {
-     "title": "Enterprise Account Executive - EMEA (German or French Speaking)",
-     "meta": "Dublin · Oct 8, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -19490,7 +20063,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -19586,7 +20159,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -19641,7 +20214,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -19688,7 +20261,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -19743,7 +20316,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -19777,6 +20350,14 @@
    "careers_url": "https://jobs.ashbyhq.com/Tabs",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Senior Manager, GTM Strategy & Operations",
+     "meta": "New York City, NY · Oct 27, 2026"
+    },
+    {
+     "title": "Head of Private Equity Partnerships",
+     "meta": "New York City, NY · Oct 27, 2026"
+    },
     {
      "title": "Staff Infrastructure Engineer",
      "meta": "New York City, NY · Oct 9, 2026"
@@ -19816,14 +20397,6 @@
     {
      "title": "Senior Software Engineer, Frontend",
      "meta": "New York City, NY · Aug 18, 2026"
-    },
-    {
-     "title": "Sr. Growth Marketing Manager",
-     "meta": "New York City, NY · Aug 12, 2026"
-    },
-    {
-     "title": "Technical Support Analyst",
-     "meta": "New York City, NY · Jul 30, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -19847,7 +20420,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -19881,6 +20454,10 @@
    "careers_url": "https://jobs.ashbyhq.com/taktile",
    "hiring": true,
    "open_roles_sample": [
+    {
+     "title": "Senior Backend Engineer - Developer Experience & Productivity",
+     "meta": "Berlin Office, Iasi Office, London Office, Dublin · Oct 28, 2026"
+    },
     {
      "title": "Senior Business Development Representative",
      "meta": "New York Office · Oct 22, 2026"
@@ -19924,10 +20501,6 @@
     {
      "title": "Deployment Lead",
      "meta": "New York Office · Aug 25, 2026"
-    },
-    {
-     "title": "Senior Recruiter",
-     "meta": "London Office, Berlin Office · Aug 17, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -19951,7 +20524,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -20006,7 +20579,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "acquired",
    "round_name": null
   },
@@ -20061,7 +20634,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -20096,6 +20669,14 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "Forward Deployed Engineering Team Manager",
+     "meta": "New York City Office · Oct 27, 2026"
+    },
+    {
+     "title": "Accounting Manager",
+     "meta": "New York City Office · Oct 27, 2026"
+    },
+    {
      "title": "Product Operations Lead",
      "meta": "New York City Office · Oct 19, 2026"
     },
@@ -20106,10 +20687,6 @@
     {
      "title": "Director of Growth Marketing",
      "meta": "New York City Office · Oct 15, 2026"
-    },
-    {
-     "title": "Growth Marketing Manager",
-     "meta": "New York City Office · Oct 13, 2026"
     },
     {
      "title": "Product Manager",
@@ -20138,10 +20715,6 @@
     {
      "title": "Sr. Forward Deployed Engineer (Post-Sales)",
      "meta": "New York City Office · Sep 22, 2026"
-    },
-    {
-     "title": "Product Marketing Manager",
-     "meta": "New York City Office · Sep 22, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -20161,7 +20734,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -20212,7 +20785,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -20267,7 +20840,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -20322,7 +20895,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -20373,7 +20946,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -20428,7 +21001,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -20463,6 +21036,30 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "Growth Lead, Space Force",
+     "meta": "New York Office · Oct 27, 2026"
+    },
+    {
+     "title": "Growth Lead, Navy",
+     "meta": "New York Office · Oct 27, 2026"
+    },
+    {
+     "title": "Growth Lead, Army",
+     "meta": "New York Office · Oct 27, 2026"
+    },
+    {
+     "title": "Growth Lead, Air Force",
+     "meta": "New York Office · Oct 27, 2026"
+    },
+    {
+     "title": "Senior Applied AI Engineer, Federal",
+     "meta": "New York Office · Oct 27, 2026"
+    },
+    {
+     "title": "Applied AI Strategist, Federal",
+     "meta": "New York Office · Oct 27, 2026"
+    },
+    {
      "title": "AI Builder Advocate",
      "meta": "New York Office · Jun 22, 2026"
     },
@@ -20485,30 +21082,6 @@
     {
      "title": "Applied AI Designer",
      "meta": "New York Office · Sep 11, 2025"
-    },
-    {
-     "title": "Applied AI Engineer",
-     "meta": "New York Office · Jul 31, 2025"
-    },
-    {
-     "title": "Enterprise Account Executive",
-     "meta": "New York Office · May 8, 2025"
-    },
-    {
-     "title": "Software Engineer - Security",
-     "meta": "New York Office · Sep 12, 2024"
-    },
-    {
-     "title": "Software Engineer - Infrastructure",
-     "meta": "New York Office · Sep 12, 2024"
-    },
-    {
-     "title": "Software Engineer - Frontend",
-     "meta": "New York Office · Sep 12, 2024"
-    },
-    {
-     "title": "Software Engineer - Backend",
-     "meta": "New York Office · Sep 12, 2024"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -20532,7 +21105,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -20575,32 +21148,16 @@
      "meta": "US Full-time · Sep 22, 2026"
     },
     {
-     "title": "Business Development Representative (Barcelona)",
-     "meta": "Spain Full-time · Sep 15, 2026"
-    },
-    {
      "title": "Database Support Engineer, EMEA",
      "meta": "Remote, Spain Full-time, Brazil, Remote - EU · Aug 25, 2026"
-    },
-    {
-     "title": "Senior FP&A Analyst",
-     "meta": "US Full-time · Jul 28, 2026"
     },
     {
      "title": "Senior Test Tooling Engineer",
      "meta": "Remote · Jul 24, 2026"
     },
     {
-     "title": "Senior Software Engineer, Enterprise",
-     "meta": "Remote · Jul 16, 2026"
-    },
-    {
      "title": "EMEA Sales Manager (Barcelona)",
      "meta": "Spain Full-time · Jul 8, 2026"
-    },
-    {
-     "title": "Enterprise Account Executive (Mountain/Western Timezones)",
-     "meta": "US Full-time · Jul 8, 2026"
     },
     {
      "title": "Senior Engineering Manager, Database",
@@ -20615,7 +21172,7 @@
      "meta": "Remote, US Full-time · Jan 26, 2026"
     }
    ],
-   "open_roles_count_text": "12+ roles listed on startups.gallery",
+   "open_roles_count_text": "8 roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -20632,7 +21189,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -20688,7 +21245,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -20792,7 +21349,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -20843,7 +21400,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -20890,10 +21447,6 @@
      "meta": "United States (Remote) · Sep 24, 2026"
     },
     {
-     "title": "Business Development Representative",
-     "meta": "New York, NY · Sep 14, 2026"
-    },
-    {
      "title": "Head of Sales",
      "meta": "New York, NY · Feb 23, 2026"
     },
@@ -20902,7 +21455,7 @@
      "meta": "United States (Remote) · Feb 23, 2026"
     }
    ],
-   "open_roles_count_text": "6 roles listed on startups.gallery",
+   "open_roles_count_text": "5 roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -20923,9 +21476,62 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
+  },
+  {
+   "id": "ultra-robotics",
+   "name": "Ultra",
+   "website": "https://ultra.tech",
+   "description": "Industrial AI robots for e-commerce warehouses, starting with order packing; leased robots-as-a-service.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Robotics",
+    "AI",
+    "Logistics"
+   ],
+   "stage": "Series A",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$50M Series A",
+    "stage": "Series A",
+    "date": "2026-10-27",
+    "source": "https://www.alleywatch.com/2026/10/ultra-robotics-warehouse-robots-as-a-service-order-packing-logistics-ecommerce-fufillment-automation-jon-miller-schwartz/"
+   },
+   "acquired_by": null,
+   "headcount": "11-50 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "Brooklyn, NY (AlleyWatch: 'currently based at Industry City in Brooklyn's Sunset Park')",
+    "source": "https://www.alleywatch.com/2026/10/ultra-robotics-warehouse-robots-as-a-service-order-packing-logistics-ecommerce-fufillment-automation-jon-miller-schwartz/",
+    "source_type": "other"
+   },
+   "careers_url": "https://jobs.gem.com/ultra",
+   "hiring": true,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://ultra.tech"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/ultraroboticsco"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://www.alleywatch.com/2026/10/ultra-robotics-warehouse-robots-as-a-service-order-packing-logistics-ecommerce-fufillment-automation-jon-miller-schwartz/"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-10-29",
+   "round": "Series A",
+   "round_name": "Series A"
   },
   {
    "id": "unit",
@@ -20979,7 +21585,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -21026,7 +21632,7 @@
      "meta": "New York, Remote · Oct 20, 2026"
     },
     {
-     "title": "Senior People Partner, Deployment",
+     "title": "Senior People Business Partner, Deployment",
      "meta": "New York · Oct 16, 2026"
     },
     {
@@ -21083,7 +21689,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -21171,7 +21777,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -21206,24 +21812,24 @@
    "hiring": true,
    "open_roles_sample": [
     {
+     "title": "Senior Customer Success Manager",
+     "meta": "USA (Remote) · Oct 27, 2026"
+    },
+    {
      "title": "Customer Success Manager",
-     "meta": "USA (Remote) · Aug 25, 2026"
+     "meta": "USA (Remote) · Oct 27, 2026"
+    },
+    {
+     "title": "Mid-Market Account Executive",
+     "meta": "USA (Remote) · Oct 26, 2026"
+    },
+    {
+     "title": "Product Marketing Manager",
+     "meta": "USA (Remote) · Oct 26, 2026"
     },
     {
      "title": "Enterprise Account Executive",
      "meta": "USA (Remote) · Aug 5, 2026"
-    },
-    {
-     "title": "Commercial Account Executive",
-     "meta": "USA (Remote) · Aug 5, 2026"
-    },
-    {
-     "title": "Product Marketing Manager",
-     "meta": "USA (Remote) · Jul 29, 2026"
-    },
-    {
-     "title": "Senior Customer Success Manager",
-     "meta": "USA (Remote) · Jul 29, 2026"
     }
    ],
    "open_roles_count_text": "5 roles listed on startups.gallery",
@@ -21243,7 +21849,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -21298,7 +21904,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -21351,7 +21957,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -21406,7 +22012,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -21441,11 +22047,11 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Senior DME Compliance & Accreditation Specialist",
+     "title": "Senior Compliance & Accreditation Specialist",
      "meta": "New York City · Oct 21, 2026"
     },
     {
-     "title": "Director of Enterprise Payor Growth",
+     "title": "Director of Payor Growth",
      "meta": "Remote · Oct 16, 2026"
     },
     {
@@ -21502,7 +22108,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -21557,7 +22163,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "public",
    "round_name": null
   },
@@ -21645,7 +22251,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -21700,7 +22306,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "acquired",
    "round_name": null
   },
@@ -21751,7 +22357,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -21805,7 +22411,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -21840,7 +22446,11 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Sales Engineer",
+     "title": "Product Designer",
+     "meta": "Remote within US and Canada · Oct 28, 2026"
+    },
+    {
+     "title": "Solutions Engineer",
      "meta": "Remote within US and Canada · Oct 12, 2026"
     },
     {
@@ -21856,7 +22466,7 @@
      "meta": "Remote within US and Canada · Feb 1, 2022"
     }
    ],
-   "open_roles_count_text": "4 roles listed on startups.gallery",
+   "open_roles_count_text": "5 roles listed on startups.gallery",
    "focus": [],
    "sources": [
     {
@@ -21873,7 +22483,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -21907,10 +22517,6 @@
    "careers_url": "https://jobs.ashbyhq.com/warp",
    "hiring": true,
    "open_roles_sample": [
-    {
-     "title": "Customer Experience Specialist",
-     "meta": "New York · Oct 2, 2026"
-    },
     {
      "title": "Socials Lead",
      "meta": "New York · Sep 30, 2026"
@@ -21954,6 +22560,10 @@
     {
      "title": "Controller",
      "meta": "New York · Jun 9, 2026"
+    },
+    {
+     "title": "Product Marketing Manager",
+     "meta": "New York · Jun 9, 2026"
     }
    ],
    "open_roles_count_text": "12+ roles listed on startups.gallery",
@@ -21977,7 +22587,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -22032,7 +22642,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -22088,7 +22698,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -22192,7 +22802,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -22292,7 +22902,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -22347,7 +22957,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -22398,7 +23008,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -22451,7 +23061,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-10-26",
+   "last_verified": "2026-10-29",
    "round": "seed",
    "round_name": "Seed"
   }

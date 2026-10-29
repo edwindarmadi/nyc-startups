@@ -19,7 +19,7 @@
   "status": "api",
   "ats": "greenhouse",
   "slug": "activelyai",
-  "jobs": 21
+  "jobs": 19
  },
  "adaptive": {
   "status": "api",
@@ -37,7 +37,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "agentio",
-  "jobs": 26
+  "jobs": 28
  },
  "agentsmyth": {
   "status": "no_feed",
@@ -81,7 +81,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "ambrook",
-  "jobs": 14
+  "jobs": 12
  },
  "anterior": {
   "status": "api",
@@ -99,7 +99,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "antioch",
-  "jobs": 8
+  "jobs": 10
  },
  "applied-labs": {
   "status": "api",
@@ -127,7 +127,7 @@
   "status": "api",
   "ats": "greenhouse",
   "slug": "array",
-  "jobs": 18
+  "jobs": 20
  },
  "arya-health": {
   "status": "api",
@@ -184,13 +184,13 @@
   "status": "api",
   "ats": "ashby",
   "slug": "basiccapital",
-  "jobs": 17
+  "jobs": 14
  },
  "basis": {
   "status": "api",
   "ats": "ashby",
   "slug": "basis-ai",
-  "jobs": 42
+  "jobs": 43
  },
  "basis-research": {
   "status": "api",
@@ -220,6 +220,12 @@
   "slug": "bevel",
   "jobs": 5
  },
+ "beyond-reach-labs": {
+  "status": "api",
+  "ats": "ashby",
+  "slug": "beyondreachlabs",
+  "jobs": 5
+ },
  "birches-health": {
   "status": "no_feed",
   "candidates": [],
@@ -241,7 +247,7 @@
   "status": "api",
   "ats": "greenhouse",
   "slug": "bluefishai",
-  "jobs": 21
+  "jobs": 22
  },
  "board": {
   "status": "no_feed",
@@ -257,7 +263,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "brigit",
-  "jobs": 17
+  "jobs": 14
  },
  "cake-ai": {
   "status": "api",
@@ -269,7 +275,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "camber",
-  "jobs": 16
+  "jobs": 15
  },
  "cambio": {
   "status": "api",
@@ -281,7 +287,12 @@
   "status": "api",
   "ats": "ashby",
   "slug": "campus",
-  "jobs": 18
+  "jobs": 21
+ },
+ "carbonai": {
+  "status": "no_feed",
+  "candidates": [],
+  "errors": []
  },
  "carry": {
   "status": "feed_error",
@@ -315,7 +326,7 @@
   "status": "api",
   "ats": "greenhouse",
   "slug": "chronograph",
-  "jobs": 11
+  "jobs": 13
  },
  "cinder": {
   "status": "api",
@@ -338,7 +349,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "claylabs",
-  "jobs": 58
+  "jobs": 60
  },
  "clay": {
   "status": "no_feed",
@@ -354,7 +365,7 @@
   "status": "api",
   "ats": "greenhouse",
   "slug": "clearstreet",
-  "jobs": 45
+  "jobs": 46
  },
  "cloaked": {
   "status": "api",
@@ -366,7 +377,7 @@
   "status": "api",
   "ats": "greenhouse",
   "slug": "coast",
-  "jobs": 18
+  "jobs": 17
  },
  "codex": {
   "status": "no_feed",
@@ -377,19 +388,19 @@
   "status": "api",
   "ats": "ashby",
   "slug": "concurrence",
-  "jobs": 13
+  "jobs": 12
  },
  "conduit-health": {
   "status": "api",
   "ats": "ashby",
   "slug": "conduit-health",
-  "jobs": 12
+  "jobs": 11
  },
  "confido": {
   "status": "api",
   "ats": "ashby",
   "slug": "confido",
-  "jobs": 36
+  "jobs": 38
  },
  "continua-ai": {
   "status": "feed_error",
@@ -423,7 +434,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "corridor-advisors",
-  "jobs": 6
+  "jobs": 4
  },
  "cosmos": {
   "status": "no_feed",
@@ -436,23 +447,34 @@
   "slug": "credal",
   "jobs": 5
  },
+ "crew-carbon": {
+  "status": "api",
+  "ats": "ashby",
+  "slug": "crewcarbon",
+  "jobs": 6
+ },
  "crosby": {
   "status": "api",
   "ats": "ashby",
   "slug": "crosby",
-  "jobs": 23
+  "jobs": 24
  },
  "crux": {
   "status": "api",
   "ats": "ashby",
   "slug": "cruxclimate",
-  "jobs": 18
+  "jobs": 20
+ },
+ "dalet-labs": {
+  "status": "no_feed",
+  "candidates": [],
+  "errors": []
  },
  "dash0": {
   "status": "api",
   "ats": "ashby",
   "slug": "dash0",
-  "jobs": 47
+  "jobs": 46
  },
  "datalane": {
   "status": "api",
@@ -482,7 +504,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "didero",
-  "jobs": 6
+  "jobs": 23
  },
  "dirac": {
   "status": "api",
@@ -510,7 +532,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "dualentry",
-  "jobs": 77
+  "jobs": 78
  },
  "dupe": {
   "status": "no_feed",
@@ -526,13 +548,13 @@
   "status": "api",
   "ats": "ashby",
   "slug": "echo.ai",
-  "jobs": 16
+  "jobs": 18
  },
  "edra-ai": {
   "status": "api",
   "ats": "ashby",
   "slug": "edra",
-  "jobs": 21
+  "jobs": 22
  },
  "ekho": {
   "status": "api",
@@ -561,7 +583,7 @@
   "status": "api",
   "ats": "greenhouse",
   "slug": "eonio",
-  "jobs": 36
+  "jobs": 33
  },
  "equals": {
   "status": "no_feed",
@@ -583,7 +605,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "euclid-power",
-  "jobs": 2
+  "jobs": 1
  },
  "extend-ai": {
   "status": "api",
@@ -617,7 +639,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "finch-legal",
-  "jobs": 7
+  "jobs": 6
  },
  "firsthand": {
   "status": "api",
@@ -667,7 +689,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "forus",
-  "jobs": 54
+  "jobs": 53
  },
  "fragment": {
   "status": "no_feed",
@@ -683,7 +705,7 @@
   "status": "api",
   "ats": "lever",
   "slug": "funxyz",
-  "jobs": 15
+  "jobs": 14
  },
  "garage": {
   "status": "api",
@@ -721,7 +743,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "govdash",
-  "jobs": 3
+  "jobs": 2
  },
  "govwell": {
   "status": "api",
@@ -733,7 +755,7 @@
   "status": "api",
   "ats": "greenhouse",
   "slug": "grafanalabs",
-  "jobs": 146
+  "jobs": 129
  },
  "graphite": {
   "status": "api",
@@ -751,7 +773,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "greenlitecareers",
-  "jobs": 10
+  "jobs": 11
  },
  "grottoai": {
   "status": "api",
@@ -804,11 +826,17 @@
   "slug": "humeai",
   "jobs": 5
  },
+ "hyphenate": {
+  "status": "api",
+  "ats": "ashby",
+  "slug": "hyphenate",
+  "jobs": 15
+ },
  "imprint": {
   "status": "api",
   "ats": "ashby",
   "slug": "imprint",
-  "jobs": 20
+  "jobs": 21
  },
  "infinite-machine": {
   "status": "api",
@@ -825,7 +853,12 @@
   "status": "api",
   "ats": "greenhouse",
   "slug": "instalilyai",
-  "jobs": 23
+  "jobs": 22
+ },
+ "iridium-credit": {
+  "status": "no_feed",
+  "candidates": [],
+  "errors": []
  },
  "itselectric": {
   "status": "no_feed",
@@ -836,13 +869,13 @@
   "status": "api",
   "ats": "ashby",
   "slug": "junction",
-  "jobs": 11
+  "jobs": 12
  },
  "kaizen": {
   "status": "api",
   "ats": "ashby",
   "slug": "kaizenlabs",
-  "jobs": 21
+  "jobs": 20
  },
  "keychain": {
   "status": "no_feed",
@@ -853,7 +886,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "kingdom",
-  "jobs": 3
+  "jobs": 4
  },
  "landis": {
   "status": "no_feed",
@@ -874,7 +907,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "Linkup",
-  "jobs": 12
+  "jobs": 14
  },
  "linx-security": {
   "status": "no_feed",
@@ -885,7 +918,7 @@
   "status": "api",
   "ats": "greenhouse",
   "slug": "lithic",
-  "jobs": 11
+  "jobs": 10
  },
  "lore-bathing-club": {
   "status": "no_feed",
@@ -908,7 +941,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "manifest-os",
-  "jobs": 11
+  "jobs": 12
  },
  "mantis-biotech": {
   "status": "no_feed",
@@ -930,25 +963,25 @@
   "status": "api",
   "ats": "ashby",
   "slug": "maybern",
-  "jobs": 15
+  "jobs": 13
  },
  "mecka": {
   "status": "api",
   "ats": "ashby",
   "slug": "mecka.ai",
-  "jobs": 53
+  "jobs": 45
  },
  "melius": {
   "status": "api",
   "ats": "ashby",
   "slug": "melius",
-  "jobs": 6
+  "jobs": 5
  },
  "meow": {
   "status": "api",
   "ats": "ashby",
   "slug": "meow",
-  "jobs": 6
+  "jobs": 7
  },
  "mirage": {
   "status": "api",
@@ -989,6 +1022,11 @@
   "candidates": [],
   "errors": []
  },
+ "mostest": {
+  "status": "no_feed",
+  "candidates": [],
+  "errors": []
+ },
  "multiplier-ai": {
   "status": "no_feed",
   "candidates": [],
@@ -1014,7 +1052,7 @@
   "status": "api",
   "ats": "gem",
   "slug": "narmi",
-  "jobs": 13
+  "jobs": 14
  },
  "navattic": {
   "status": "api",
@@ -1059,13 +1097,13 @@
   "status": "api",
   "ats": "ashby",
   "slug": "norm-ai",
-  "jobs": 21
+  "jobs": 23
  },
  "normal": {
   "status": "api",
   "ats": "ashby",
   "slug": "NormalComputing",
-  "jobs": 39
+  "jobs": 37
  },
  "north-cloud": {
   "status": "api",
@@ -1084,11 +1122,6 @@
   "slug": "usenourish",
   "jobs": 85
  },
- "novele": {
-  "status": "no_feed",
-  "candidates": [],
-  "errors": []
- },
  "oboe": {
   "status": "no_feed",
   "candidates": [],
@@ -1105,6 +1138,11 @@
   "slug": "offdeal",
   "jobs": 5
  },
+ "ontra-mobility": {
+  "status": "no_feed",
+  "candidates": [],
+  "errors": []
+ },
  "onyx-security": {
   "status": "no_feed",
   "candidates": [],
@@ -1114,7 +1152,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "opal",
-  "jobs": 20
+  "jobs": 18
  },
  "optura": {
   "status": "no_feed",
@@ -1136,18 +1174,24 @@
   "status": "api",
   "ats": "ashby",
   "slug": "osmo",
-  "jobs": 50
+  "jobs": 54
  },
  "outtake": {
   "status": "api",
   "ats": "ashby",
   "slug": "outtake",
-  "jobs": 19
+  "jobs": 18
  },
  "overtone": {
   "status": "no_feed",
   "candidates": [],
   "errors": []
+ },
+ "overwatch-data": {
+  "status": "api",
+  "ats": "greenhouse",
+  "slug": "overwatch",
+  "jobs": 2
  },
  "pacagen": {
   "status": "no_feed",
@@ -1197,7 +1241,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "permitflow",
-  "jobs": 45
+  "jobs": 40
  },
  "phia": {
   "status": "api",
@@ -1250,6 +1294,11 @@
   "slug": "posh",
   "jobs": 9
  },
+ "predicate": {
+  "status": "no_feed",
+  "candidates": [],
+  "errors": []
+ },
  "prism-data": {
   "status": "no_feed",
   "candidates": [],
@@ -1264,7 +1313,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "Profound",
-  "jobs": 79
+  "jobs": 80
  },
  "propel": {
   "status": "api",
@@ -1276,7 +1325,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "prosper-ai",
-  "jobs": 11
+  "jobs": 12
  },
  "pythag-tech": {
   "status": "no_feed",
@@ -1287,7 +1336,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "qualitate",
-  "jobs": 27
+  "jobs": 28
  },
  "radical-ai": {
   "status": "no_feed",
@@ -1337,7 +1386,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "rogo",
-  "jobs": 98
+  "jobs": 99
  },
  "rove": {
   "status": "no_feed",
@@ -1348,7 +1397,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "runlayer",
-  "jobs": 22
+  "jobs": 21
  },
  "runwayml": {
   "status": "api",
@@ -1372,7 +1421,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "Sandstone",
-  "jobs": 10
+  "jobs": 11
  },
  "sapien": {
   "status": "api",
@@ -1384,7 +1433,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "savvy",
-  "jobs": 30
+  "jobs": 27
  },
  "sealed": {
   "status": "api",
@@ -1415,6 +1464,11 @@
   "slug": "sesame",
   "jobs": 0
  },
+ "shadow-power": {
+  "status": "no_feed",
+  "candidates": [],
+  "errors": []
+ },
  "shaped": {
   "status": "no_feed",
   "candidates": [],
@@ -1424,7 +1478,7 @@
   "status": "api",
   "ats": "greenhouse",
   "slug": "shopmy",
-  "jobs": 37
+  "jobs": 36
  },
  "shortcut": {
   "status": "no_feed",
@@ -1435,7 +1489,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "siena",
-  "jobs": 13
+  "jobs": 12
  },
  "silna": {
   "status": "api",
@@ -1452,7 +1506,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "SlingshotAI",
-  "jobs": 4
+  "jobs": 6
  },
  "snag": {
   "status": "no_feed",
@@ -1480,7 +1534,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "spruceid",
-  "jobs": 6
+  "jobs": 5
  },
  "spur": {
   "status": "api",
@@ -1489,16 +1543,15 @@
   "jobs": 3
  },
  "stainless": {
-  "status": "api",
-  "ats": "ashby",
-  "slug": "stainlessapi",
-  "jobs": 0
+  "status": "no_feed",
+  "candidates": [],
+  "errors": []
  },
  "starbridge": {
   "status": "api",
   "ats": "ashby",
   "slug": "starbridge",
-  "jobs": 11
+  "jobs": 10
  },
  "stash": {
   "status": "no_feed",
@@ -1509,13 +1562,13 @@
   "status": "api",
   "ats": "ashby",
   "slug": "Stedi",
-  "jobs": 18
+  "jobs": 20
  },
  "strella": {
   "status": "api",
   "ats": "ashby",
   "slug": "strella",
-  "jobs": 7
+  "jobs": 11
  },
  "structify-ai": {
   "status": "no_feed",
@@ -1554,13 +1607,13 @@
   "status": "api",
   "ats": "ashby",
   "slug": "tabs",
-  "jobs": 25
+  "jobs": 27
  },
  "taktile": {
   "status": "api",
   "ats": "ashby",
   "slug": "taktile",
-  "jobs": 34
+  "jobs": 33
  },
  "tavily": {
   "status": "api",
@@ -1578,7 +1631,7 @@
   "status": "api",
   "ats": "ashby",
   "slug": "tennr",
-  "jobs": 28
+  "jobs": 29
  },
  "tensorzero": {
   "status": "feed_error",
@@ -1617,13 +1670,13 @@
   "status": "api",
   "ats": "ashby",
   "slug": "thread-ai",
-  "jobs": 12
+  "jobs": 18
  },
  "timescale": {
   "status": "api",
   "ats": "ashby",
   "slug": "TigerData",
-  "jobs": 12
+  "jobs": 8
  },
  "tollbit": {
   "status": "api",
@@ -1646,7 +1699,13 @@
   "status": "api",
   "ats": "greenhouse",
   "slug": "turnkeycareers",
-  "jobs": 6
+  "jobs": 5
+ },
+ "ultra-robotics": {
+  "status": "api",
+  "ats": "gem",
+  "slug": "ultra",
+  "jobs": 18
  },
  "unit": {
   "status": "api",
@@ -1698,13 +1757,13 @@
   "status": "api",
   "ats": "ashby",
   "slug": "versemedical",
-  "jobs": 36
+  "jobs": 33
  },
  "via": {
   "status": "api",
   "ats": "greenhouse",
   "slug": "via",
-  "jobs": 183
+  "jobs": 181
  },
  "viam": {
   "status": "api",
@@ -1732,19 +1791,19 @@
   "status": "api",
   "ats": "greenhouse",
   "slug": "warp",
-  "jobs": 4
+  "jobs": 5
  },
  "warp-hr": {
   "status": "api",
   "ats": "ashby",
   "slug": "warp",
-  "jobs": 21
+  "jobs": 20
  },
  "whop": {
   "status": "api",
   "ats": "ashby",
   "slug": "whop",
-  "jobs": 42
+  "jobs": 44
  },
  "wingspan": {
   "status": "api",

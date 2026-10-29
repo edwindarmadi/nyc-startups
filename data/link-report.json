@@ -1,49 +1,30 @@
 {
- "checked_at": "2026-10-26T09:15:32",
- "total": 1321,
+ "checked_at": "2026-10-29T09:31:58",
+ "total": 1357,
  "summary": {
-  "ok": 1262,
+  "ok": 1306,
   "blocked": 45,
-  "error": 14
+  "error": 5,
+  "dead": 1
  },
- "dead": {},
+ "dead": {
+  "https://jobs.ashbyhq.com/stainlessapi": {
+   "status": 404,
+   "final_url": "https://jobs.ashbyhq.com/stainlessapi",
+   "state": "dead",
+   "used_by": [
+    "stainless:careers_url"
+   ]
+  }
+ },
  "errors": {
-  "https://www.prnewswire.com/news-releases/betterment-raises-160-million-in-growth-capital-301387762.html": {
-   "status": 502,
-   "final_url": "https://www.prnewswire.com/news-releases/betterment-raises-160-million-in-growth-capital-301387762.html",
+  "https://www.optura.ai/": {
+   "status": 500,
+   "final_url": "https://www.optura.ai/",
    "state": "error",
    "used_by": [
-    "betterment:source:Funding / news source",
-    "betterment:last_round.source"
-   ]
-  },
-  "https://www.prnewswire.com/news-releases/blocpower-announces-150-million-financing-is-honored-by-vice-president-harris-unveils-corporate-rebrand-301758688.html": {
-   "status": 502,
-   "final_url": "https://www.prnewswire.com/news-releases/blocpower-announces-150-million-financing-is-honored-by-vice-president-harris-unveils-corporate-rebrand-301758688.html",
-   "state": "error",
-   "used_by": [
-    "blocpower:source:Funding / news source",
-    "blocpower:last_round.source",
-    "news:blocpower-funding-2023-03-01"
-   ]
-  },
-  "https://www.prnewswire.com/news-releases/ellevest-raises-53m-in-series-b-funding-round-backed-by-a-powerful-roster-of-women-investors-301518563.html": {
-   "status": 502,
-   "final_url": "https://www.prnewswire.com/news-releases/ellevest-raises-53m-in-series-b-funding-round-backed-by-a-powerful-roster-of-women-investors-301518563.html",
-   "state": "error",
-   "used_by": [
-    "ellevest:source:Funding / news source",
-    "ellevest:last_round.source"
-   ]
-  },
-  "https://www.prnewswire.com/news-releases/greenlite-raises-49-5m-series-b-to-advance-the-privatization-of-construction-permitting-with-ai-powered-solutions-302555315.html": {
-   "status": 502,
-   "final_url": "https://www.prnewswire.com/news-releases/greenlite-raises-49-5m-series-b-to-advance-the-privatization-of-construction-permitting-with-ai-powered-solutions-302555315.html",
-   "state": "error",
-   "used_by": [
-    "greenlite-permitting:source:Funding announcement",
-    "greenlite-permitting:last_round.source",
-    "news:greenlite-permitting-funding-2025-09-15"
+    "optura:website",
+    "optura:source:Company website"
    ]
   },
   "https://careers.popcorn.space/apply": {
@@ -53,76 +34,6 @@
    "state": "error",
    "used_by": [
     "popcorn:careers_url"
-   ]
-  },
-  "https://www.prnewswire.com/news-releases/itselectric-announces-6-5m-seed-to-accelerate-deployment-of-curbside-ev-charging-in-cities-across-the-us-302197767.html": {
-   "status": 502,
-   "final_url": "https://www.prnewswire.com/news-releases/itselectric-announces-6-5m-seed-to-accelerate-deployment-of-curbside-ev-charging-in-cities-across-the-us-302197767.html",
-   "state": "error",
-   "used_by": [
-    "itselectric:source:Funding / news source",
-    "itselectric:last_round.source",
-    "news:itselectric-funding-2024-07-16"
-   ]
-  },
-  "https://www.prnewswire.com/news-releases/marble-raises-15-5m-series-a-to-scale-access-to-youth-mental-health-care-302583202.html": {
-   "status": 502,
-   "final_url": "https://www.prnewswire.com/news-releases/marble-raises-15-5m-series-a-to-scale-access-to-youth-mental-health-care-302583202.html",
-   "state": "error",
-   "used_by": [
-    "marble-health:source:Funding announcement",
-    "marble-health:last_round.source",
-    "news:marble-health-funding-2025-10-14"
-   ]
-  },
-  "https://www.prnewswire.com/news-releases/monk-raises-25m-series-a-to-automate-accounts-receivable-with-ai-302748872.html": {
-   "status": 502,
-   "final_url": "https://www.prnewswire.com/news-releases/monk-raises-25m-series-a-to-automate-accounts-receivable-with-ai-302748872.html",
-   "state": "error",
-   "used_by": [
-    "monk-finance:source:Funding announcement",
-    "monk-finance:last_round.source",
-    "news:monk-finance-funding-2026-04-21"
-   ]
-  },
-  "https://www.prnewswire.com/news-releases/noma-security-raises-100m-to-drive-adoption-of-ai-agent-security-302518641.html": {
-   "status": 502,
-   "final_url": "https://www.prnewswire.com/news-releases/noma-security-raises-100m-to-drive-adoption-of-ai-agent-security-302518641.html",
-   "state": "error",
-   "used_by": [
-    "noma-security:source:Funding announcement",
-    "noma-security:last_round.source",
-    "news:noma-security-funding-2025-07-31"
-   ]
-  },
-  "https://www.prnewswire.com/news-releases/northcloud-raises-60m-series-b-to-unify-spend-intelligence-and-enable-full-automation-across-cloud-ai-and-data-302909322.html": {
-   "status": 502,
-   "final_url": "https://www.prnewswire.com/news-releases/northcloud-raises-60m-series-b-to-unify-spend-intelligence-and-enable-full-automation-across-cloud-ai-and-data-302909322.html",
-   "state": "error",
-   "used_by": [
-    "north-cloud:source:Funding announcement",
-    "north-cloud:last_round.source",
-    "news:north-cloud-funding-2026-10-15"
-   ]
-  },
-  "https://www.prnewswire.com/news-releases/shopmy-raises-70m-at-1-5-billion-valuation-to-scale-the-curated-commerce-infrastructure-for-premium-brands-tastemakers-and-shoppers-302590802.html": {
-   "status": 502,
-   "final_url": "https://www.prnewswire.com/news-releases/shopmy-raises-70m-at-1-5-billion-valuation-to-scale-the-curated-commerce-infrastructure-for-premium-brands-tastemakers-and-shoppers-302590802.html",
-   "state": "error",
-   "used_by": [
-    "shopmy:source:Funding announcement",
-    "shopmy:last_round.source",
-    "news:shopmy-funding-2025-10-22"
-   ]
-  },
-  "https://www.prnewswire.com/news-releases/with-4-3b-under-management-stash-secures-146m-series-h-to-lead-the-next-era-of-ai-driven-financial-guidance-302451796.html": {
-   "status": 502,
-   "final_url": "https://www.prnewswire.com/news-releases/with-4-3b-under-management-stash-secures-146m-series-h-to-lead-the-next-era-of-ai-driven-financial-guidance-302451796.html",
-   "state": "error",
-   "used_by": [
-    "stash:source:Funding / news source",
-    "stash:last_round.source",
-    "news:stash-funding-2025-05-12"
    ]
   },
   "https://www.theolympian.com/press-releases/article312807882.html": {
@@ -136,14 +47,22 @@
     "news:flint-k12-funding-2025-11-06"
    ]
   },
-  "https://www.optura.ai/": {
+  "https://sunsethq.com/careers#open-roles": {
    "status": null,
    "error": "timed out",
-   "final_url": "https://www.optura.ai/",
+   "final_url": "https://sunsethq.com/careers#open-roles",
    "state": "error",
    "used_by": [
-    "optura:website",
-    "optura:source:Company website"
+    "sunset:careers_url"
+   ]
+  },
+  "https://www.threadai.com/company#careers": {
+   "status": null,
+   "error": "timed out",
+   "final_url": "https://www.threadai.com/company#careers",
+   "state": "error",
+   "used_by": [
+    "thread-ai:careers_url"
    ]
   }
  },
@@ -225,16 +144,6 @@
     "news:brightwave-funding-2024-10-29"
    ]
   },
-  "https://www.axios.com/pro/health-tech-deals/2025/02/26/camber-raises-30m-medical-claims-automation-billing-rcm": {
-   "status": 403,
-   "final_url": "https://www.axios.com/pro/health-tech-deals/2025/02/26/camber-raises-30m-medical-claims-automation-billing-rcm",
-   "state": "blocked",
-   "used_by": [
-    "camber:source:Funding announcement",
-    "camber:last_round.source",
-    "news:camber-funding-2025-02-26"
-   ]
-  },
   "https://investor.upbound.com/news-releases/news-release-details/upbound-group-closes-acquisition-brigit-leading-financial-health": {
    "status": 403,
    "final_url": "https://investor.upbound.com/news-releases/news-release-details/upbound-group-closes-acquisition-brigit-leading-financial-health",
@@ -243,6 +152,16 @@
     "brigit:source:Funding / news source",
     "brigit:last_round.source",
     "news:brigit-acquisition-2025-01-31"
+   ]
+  },
+  "https://www.axios.com/pro/health-tech-deals/2025/02/26/camber-raises-30m-medical-claims-automation-billing-rcm": {
+   "status": 403,
+   "final_url": "https://www.axios.com/pro/health-tech-deals/2025/02/26/camber-raises-30m-medical-claims-automation-billing-rcm",
+   "state": "blocked",
+   "used_by": [
+    "camber:source:Funding announcement",
+    "camber:last_round.source",
+    "news:camber-funding-2025-02-26"
    ]
   },
   "https://www.forbes.com/sites/charliefink/2025/05/15/ai-startup-cartwheel-led-by-openai-and-google-veterans-raises-10-million-to-simplify-3d-animation/": {
@@ -494,6 +413,16 @@
     "news:silna-funding-2025-03-25"
    ]
   },
+  "https://www.sourmilk.com/": {
+   "status": 429,
+   "final_url": "https://www.sourmilk.com/",
+   "state": "blocked",
+   "used_by": [
+    "sourmilk:website",
+    "sourmilk:careers_url",
+    "sourmilk:source:Company website"
+   ]
+  },
   "https://www.businesswire.com/news/home/20260324472369/en/Spade-Announces-%2440m-Series-B-Raise-to-Build-The-Data-and-AI-Platform-for-Modern-Finance": {
    "status": 403,
    "final_url": "https://www.businesswire.com/news/home/20260324472369/en/Spade-Announces-%2440m-Series-B-Raise-to-Build-The-Data-and-AI-Platform-for-Modern-Finance",
@@ -511,14 +440,6 @@
    "used_by": [
     "sunset:website",
     "sunset:source:Company website"
-   ]
-  },
-  "https://sunsethq.com/careers#open-roles": {
-   "status": 403,
-   "final_url": "https://sunsethq.com/careers#open-roles",
-   "state": "blocked",
-   "used_by": [
-    "sunset:careers_url"
    ]
   },
   "https://www.businesswire.com/news/home/20250915745370/en/Tabs-Raises-%2455M-Series-B-Led-by-Lightspeed-to-Bring-AI-Agents-to-the-CFOs-Office": {

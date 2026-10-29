@@ -677,5 +677,262 @@
   "linkedin": "https://www.linkedin.com/company/qualitate-io",
   "careers_url": "https://jobs.ashbyhq.com/qualitate",
   "focus": []
+ },
+ {
+  "id": "predicate",
+  "name": "Predicate",
+  "website": "https://predicate.io",
+  "description": "Onchain compliance platform that embeds policy controls into digital assets to block sanctioned and high-risk activity.",
+  "sectors": [
+   "Fintech",
+   "Crypto",
+   "Compliance"
+  ],
+  "stage": "Series A",
+  "last_round": {
+   "amount": "$8M Series A",
+   "date": "2026-10-28",
+   "url": "https://www.alleywatch.com/2026/10/the-new-york-startup-daily-funding-report-10-28-2026/"
+  },
+  "linkedin": "https://www.linkedin.com/company/aethosnetwork",
+  "careers_url": "https://jobs.predicate.io/",
+  "focus": []
+ },
+ {
+  "id": "overwatch-data",
+  "name": "Overwatch Data",
+  "website": "https://www.overwatchdata.ai",
+  "description": "AI-native threat intelligence and risk operations: AI agents surface cybercrime and fraud signals for security, fraud and risk teams.",
+  "sectors": [
+   "Cybersecurity",
+   "Fraud",
+   "AI"
+  ],
+  "stage": "Series A",
+  "last_round": {
+   "amount": "$15M Series A",
+   "date": "2026-10-26",
+   "url": "https://fortune.com/2026/10/26/ai-giving-cybercrime-makeover-startup-raised-15-million-to-fight-back-overwatch/"
+  },
+  "hq_hint": "Brooklyn, NY (Fortune: 'the New York-based company'; SEC Form D address 123 7th Ave, Brooklyn)",
+  "hq_hint_url": "https://fortune.com/2026/10/26/ai-giving-cybercrime-makeover-startup-raised-15-million-to-fight-back-overwatch/",
+  "linkedin": "https://www.linkedin.com/company/overwatchdata",
+  "careers_url": "https://job-boards.greenhouse.io/overwatch",
+  "focus": []
+ },
+ {
+  "id": "hyphenate",
+  "name": "Hyphenate",
+  "website": "https://hyphenate.ai",
+  "description": "Autonomous finance platform whose AI agents run order-to-cash, treasury, reconciliation and accounting workflows for the office of the CFO.",
+  "sectors": [
+   "Fintech",
+   "AI"
+  ],
+  "stage": "Series A",
+  "last_round": {
+   "amount": "$45M Series A",
+   "date": "2026-10-27",
+   "url": "https://hyphenate.ai/press/hyphenate-series-a-fundraise"
+  },
+  "hq_hint": "New York, NY (press release dateline 'New York City, NY'; AlleyWatch NYC funding report)",
+  "hq_hint_url": "https://www.alleywatch.com/2026/10/the-new-york-startup-daily-funding-report-10-28-2026/",
+  "careers_url": "https://jobs.ashbyhq.com/hyphenate",
+  "focus": []
+ },
+ {
+  "id": "ultra-robotics",
+  "name": "Ultra",
+  "website": "https://ultra.tech",
+  "description": "Industrial AI robots for e-commerce warehouses, starting with order packing; leased robots-as-a-service.",
+  "sectors": [
+   "Robotics",
+   "AI",
+   "Logistics"
+  ],
+  "stage": "Series A",
+  "last_round": {
+   "amount": "$50M Series A",
+   "date": "2026-10-27",
+   "url": "https://www.alleywatch.com/2026/10/ultra-robotics-warehouse-robots-as-a-service-order-packing-logistics-ecommerce-fufillment-automation-jon-miller-schwartz/"
+  },
+  "hq_hint": "Brooklyn, NY (AlleyWatch: 'currently based at Industry City in Brooklyn's Sunset Park')",
+  "hq_hint_url": "https://www.alleywatch.com/2026/10/ultra-robotics-warehouse-robots-as-a-service-order-packing-logistics-ecommerce-fufillment-automation-jon-miller-schwartz/",
+  "linkedin": "https://www.linkedin.com/company/ultraroboticsco",
+  "careers_url": "https://jobs.gem.com/ultra",
+  "focus": []
+ },
+ {
+  "id": "carbonai",
+  "name": "CarbonAI",
+  "website": "https://carboncre.ai",
+  "description": "AI agents for commercial real estate lenders: underwriting, due diligence, investment memos and post-close loan surveillance with an audit trail to source documents.",
+  "sectors": [
+   "Fintech",
+   "Real Estate",
+   "AI"
+  ],
+  "stage": "unknown",
+  "last_round": {
+   "amount": "$12M (total funding; round type not disclosed)",
+   "date": "2026-10-15",
+   "url": "https://finance.yahoo.com/real-estate/articles/carbonai-raises-12m-bring-ai-130000246.html"
+  },
+  "linkedin": "https://www.linkedin.com/company/carboncre",
+  "careers_url": null,
+  "focus": []
+ },
+ {
+  "id": "mostest",
+  "name": "Mostest",
+  "website": "https://www.joinmostest.com",
+  "description": "AI-powered event booking platform connecting planners with hotels, restaurants and venues, plus concierge event planning.",
+  "sectors": [
+   "Consumer",
+   "Hospitality",
+   "AI"
+  ],
+  "stage": "seed",
+  "last_round": {
+   "amount": "$4M Seed",
+   "date": "2026-10-27",
+   "url": "https://www.einpresswire.com/article/952431264/capital-q-ventures-portfolio-company-mostest-raises-oversubscribed-4m-seed-round-to-accelerate-ai-driven-event-booking"
+  },
+  "linkedin": "https://www.linkedin.com/company/joinmostest",
+  "careers_url": null,
+  "focus": []
+ },
+ {
+  "id": "crew-carbon",
+  "name": "CREW Carbon",
+  "website": "https://crewcarbon.com",
+  "description": "Helps wastewater utilities improve treatment performance and cut costs while permanently removing CO2 in the same process.",
+  "sectors": [
+   "Climate",
+   "Water",
+   "Carbon removal"
+  ],
+  "stage": "Series A",
+  "last_round": {
+   "amount": "$25M Series A ($19M equity + $6M non-dilutive)",
+   "date": "2026-05-15",
+   "url": "https://apventures.com/news/ap-ventures-invests-in-wastewater-driven-carbon-removal-company-crew-carbon"
+  },
+  "hq_hint": "Brooklyn, NY (AP Ventures release: 'BROOKLYN, NY — CREW Carbon', 'New York-based CREW Carbon')",
+  "hq_hint_url": "https://apventures.com/news/ap-ventures-invests-in-wastewater-driven-carbon-removal-company-crew-carbon",
+  "linkedin": "https://www.linkedin.com/company/crew-carbon",
+  "careers_url": "https://jobs.ashbyhq.com/crewcarbon",
+  "focus": [
+   "climate"
+  ]
+ },
+ {
+  "id": "shadow-power",
+  "name": "Shadow Power",
+  "website": "https://www.shadowpower.com",
+  "description": "Deploys, owns and manages customer-sited batteries at no up-front cost and aggregates them into utility-grade virtual power plants.",
+  "sectors": [
+   "Climate",
+   "Energy"
+  ],
+  "stage": "unknown",
+  "last_round": {
+   "amount": "unknown",
+   "date": null,
+   "url": null
+  },
+  "linkedin": "https://www.linkedin.com/company/shadow-power-inc",
+  "careers_url": null,
+  "focus": [
+   "climate"
+  ]
+ },
+ {
+  "id": "beyond-reach-labs",
+  "name": "Beyond Reach Labs",
+  "website": "https://www.beyondreachlabs.com",
+  "description": "Builds Flarewing, a deployable solar array for satellites and orbital data centers, manufactured at Industry City in Brooklyn.",
+  "sectors": [
+   "Aerospace",
+   "Energy",
+   "Hardware"
+  ],
+  "stage": "seed",
+  "last_round": {
+   "amount": "$10M Seed",
+   "date": "2026-10-06",
+   "url": "https://www.alleywatch.com/2026/10/beyond-reach-labs-space-solar-power-deployable-solar-arrays-orbital-data-centers-flarewing-mitchell-fogelson/"
+  },
+  "linkedin": "https://www.linkedin.com/company/beyond-reach-labs-inc",
+  "careers_url": "https://jobs.ashbyhq.com/beyondreachlabs",
+  "focus": []
+ },
+ {
+  "id": "iridium-credit",
+  "name": "Iridium Credit",
+  "website": "https://www.iridiumcredit.com",
+  "description": "Verification infrastructure for invoice finance: agents check every funded invoice against source documents, confirm with the debtor and follow it through collections to catch fraud.",
+  "sectors": [
+   "Fintech",
+   "Fraud",
+   "AI"
+  ],
+  "stage": "unknown",
+  "last_round": {
+   "amount": "$3M (round type not disclosed)",
+   "date": "2026-10-07",
+   "url": "https://www.iridiumcredit.com/newsroom/iridium-credit-raises-3m/"
+  },
+  "linkedin": "https://www.linkedin.com/company/iridiumcredit",
+  "careers_url": "https://www.iridiumcredit.com/careers/",
+  "focus": []
+ },
+ {
+  "id": "dalet-labs",
+  "name": "Dalet Labs",
+  "website": "https://daletlabs.com",
+  "description": "Makes Scene, an iPhone shopping app with a personalized feed of AI-generated images that link to real products from fashion, home and sports brands.",
+  "sectors": [
+   "Consumer",
+   "AI",
+   "E-commerce"
+  ],
+  "stage": "pre-seed",
+  "last_round": {
+   "amount": "$7M Pre-seed",
+   "date": null,
+   "url": "https://www.businessinsider.com/dalet-labs-raises-preseed-millions-shopping-app-scene-pitch-deck-2026-10"
+  },
+  "hq_hint": "New York, NY (Business Insider: 'The New York-based startup')",
+  "hq_hint_url": "https://www.businessinsider.com/dalet-labs-raises-preseed-millions-shopping-app-scene-pitch-deck-2026-10",
+  "careers_url": null,
+  "focus": [
+   "ai_everyday"
+  ]
+ },
+ {
+  "id": "ontra-mobility",
+  "name": "Ontra Mobility",
+  "website": "https://www.ontramobility.com",
+  "description": "AI transit planning: helps cities and transit agencies raise ridership with data-driven route/schedule planning and real-time optimization (piloted with MTA LIRR and NYC Transit).",
+  "sectors": [
+   "Govtech",
+   "Transportation",
+   "AI"
+  ],
+  "stage": "unknown",
+  "last_round": {
+   "amount": "unknown",
+   "date": null,
+   "url": null
+  },
+  "hq_hint": "New York, NY (LinkedIn HQ: New York; Y Combinator profile: New York City)",
+  "hq_hint_url": "https://www.ycombinator.com/companies/ontra-mobility",
+  "linkedin": "https://www.linkedin.com/company/ontra-mobility",
+  "careers_url": null,
+  "focus": [
+   "civic",
+   "climate"
+  ]
  }
 ]
