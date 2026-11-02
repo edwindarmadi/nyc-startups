@@ -1,22 +1,12 @@
 {
- "checked_at": "2026-10-29T09:31:58",
- "total": 1357,
+ "checked_at": "2026-11-02T09:20:02",
+ "total": 1369,
  "summary": {
-  "ok": 1306,
-  "blocked": 45,
-  "error": 5,
-  "dead": 1
+  "ok": 1319,
+  "blocked": 47,
+  "error": 3
  },
- "dead": {
-  "https://jobs.ashbyhq.com/stainlessapi": {
-   "status": 404,
-   "final_url": "https://jobs.ashbyhq.com/stainlessapi",
-   "state": "dead",
-   "used_by": [
-    "stainless:careers_url"
-   ]
-  }
- },
+ "dead": {},
  "errors": {
   "https://www.optura.ai/": {
    "status": 500,
@@ -45,24 +35,6 @@
     "flint-k12:source:Funding announcement",
     "flint-k12:last_round.source",
     "news:flint-k12-funding-2025-11-06"
-   ]
-  },
-  "https://sunsethq.com/careers#open-roles": {
-   "status": null,
-   "error": "timed out",
-   "final_url": "https://sunsethq.com/careers#open-roles",
-   "state": "error",
-   "used_by": [
-    "sunset:careers_url"
-   ]
-  },
-  "https://www.threadai.com/company#careers": {
-   "status": null,
-   "error": "timed out",
-   "final_url": "https://www.threadai.com/company#careers",
-   "state": "error",
-   "used_by": [
-    "thread-ai:careers_url"
    ]
   }
  },
@@ -184,6 +156,14 @@
     "news:confido-funding-2026-09-22"
    ]
   },
+  "https://www.foratravel.com/careers/jobs": {
+   "status": 429,
+   "final_url": "https://www.foratravel.com/careers/jobs",
+   "state": "blocked",
+   "used_by": [
+    "fora:careers_url"
+   ]
+  },
   "https://www.foratravel.com": {
    "status": 429,
    "final_url": "https://www.foratravel.com",
@@ -191,14 +171,6 @@
    "used_by": [
     "fora:website",
     "fora:source:Company website"
-   ]
-  },
-  "https://www.foratravel.com/careers/jobs": {
-   "status": 429,
-   "final_url": "https://www.foratravel.com/careers/jobs",
-   "state": "blocked",
-   "used_by": [
-    "fora:careers_url"
    ]
   },
   "https://www.businesswire.com/news/home/20260908463918/en/Forus-Raises-%24150M-at-a-%243B-Valuation-as-Its-AI-Network-Becomes-How-Medicine-Reaches-Patients": {
@@ -250,6 +222,15 @@
     "news:kaizen-funding-2025-10-30"
    ]
   },
+  "https://kalshi.com": {
+   "status": 429,
+   "final_url": "https://kalshi.com",
+   "state": "blocked",
+   "used_by": [
+    "kalshi:website",
+    "kalshi:source:Company website"
+   ]
+  },
   "https://www.keychain.com/": {
    "status": 403,
    "final_url": "https://www.keychain.com/",
@@ -287,6 +268,16 @@
     "ninedot-energy:source:Funding / news source",
     "ninedot-energy:last_round.source",
     "news:ninedot-energy-funding-2026-02-09"
+   ]
+  },
+  "https://www.businesswire.com/news/home/20261029104545/en/Opentrons-Announces-%2440M-Series-E-Round-to-Standardize-AI-Driven-Science-on-Its-Robots": {
+   "status": 403,
+   "final_url": "https://www.businesswire.com/news/home/20261029104545/en/Opentrons-Announces-%2440M-Series-E-Round-to-Standardize-AI-Driven-Science-on-Its-Robots",
+   "state": "blocked",
+   "used_by": [
+    "opentrons:source:Funding / news source",
+    "opentrons:last_round.source",
+    "news:opentrons-funding-2026-10-29"
    ]
   },
   "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link": {
@@ -413,6 +404,16 @@
     "news:silna-funding-2025-03-25"
    ]
   },
+  "https://www.businesswire.com/news/home/20260324472369/en/Spade-Announces-%2440m-Series-B-Raise-to-Build-The-Data-and-AI-Platform-for-Modern-Finance": {
+   "status": 403,
+   "final_url": "https://www.businesswire.com/news/home/20260324472369/en/Spade-Announces-%2440m-Series-B-Raise-to-Build-The-Data-and-AI-Platform-for-Modern-Finance",
+   "state": "blocked",
+   "used_by": [
+    "spade:source:Funding announcement",
+    "spade:last_round.source",
+    "news:spade-funding-2026-03-24"
+   ]
+  },
   "https://www.sourmilk.com/": {
    "status": 429,
    "final_url": "https://www.sourmilk.com/",
@@ -423,14 +424,12 @@
     "sourmilk:source:Company website"
    ]
   },
-  "https://www.businesswire.com/news/home/20260324472369/en/Spade-Announces-%2440m-Series-B-Raise-to-Build-The-Data-and-AI-Platform-for-Modern-Finance": {
+  "https://sunsethq.com/careers#open-roles": {
    "status": 403,
-   "final_url": "https://www.businesswire.com/news/home/20260324472369/en/Spade-Announces-%2440m-Series-B-Raise-to-Build-The-Data-and-AI-Platform-for-Modern-Finance",
+   "final_url": "https://sunsethq.com/careers#open-roles",
    "state": "blocked",
    "used_by": [
-    "spade:source:Funding announcement",
-    "spade:last_round.source",
-    "news:spade-funding-2026-03-24"
+    "sunset:careers_url"
    ]
   },
   "https://www.sunsethq.com/": {
@@ -450,16 +449,6 @@
     "tabs:source:Funding announcement",
     "tabs:last_round.source",
     "news:tabs-funding-2025-09-16"
-   ]
-  },
-  "https://www.businesswire.com/news/home/20250710009580/en/Vellum-Raises-%2420M-Series-A-to-Bring-Rigor-Speed-and-Reliability-to-Enterprise-AI-Development": {
-   "status": 403,
-   "final_url": "https://www.businesswire.com/news/home/20250710009580/en/Vellum-Raises-%2420M-Series-A-to-Bring-Rigor-Speed-and-Reliability-to-Enterprise-AI-Development",
-   "state": "blocked",
-   "used_by": [
-    "vellum-ai:source:Funding announcement",
-    "vellum-ai:last_round.source",
-    "news:vellum-ai-funding-2026-05-07"
    ]
   },
   "https://jobs.gusto.com/boards/veris-technologies-inc-dadc87fc-640c-4bff-837d-fa65c392e997": {

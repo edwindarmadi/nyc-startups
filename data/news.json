@@ -1,9 +1,39 @@
 {
  "meta": {
-  "last_updated": "2026-10-29",
-  "count": 236
+  "last_updated": "2026-11-02",
+  "count": 239
  },
  "items": [
+  {
+   "id": "kalshi-funding-2026-10-29",
+   "date": "2026-10-29",
+   "startup_id": "kalshi",
+   "type": "funding",
+   "headline": "Kalshi raised $1B Series G",
+   "summary": "CFTC-regulated exchange where people trade on the outcomes of real-world events (prediction markets).",
+   "source_url": "https://www.alleywatch.com/2026/10/the-new-york-startup-daily-funding-report-10-29-2026/",
+   "round": "Series E+"
+  },
+  {
+   "id": "opentrons-funding-2026-10-29",
+   "date": "2026-10-29",
+   "startup_id": "opentrons",
+   "type": "funding",
+   "headline": "Opentrons raised $40M Series E",
+   "summary": "Open, affordable lab-automation robots and software for life-science labs, now aimed at standardizing AI-driven experiments.",
+   "source_url": "https://www.businesswire.com/news/home/20261029104545/en/Opentrons-Announces-%2440M-Series-E-Round-to-Standardize-AI-Driven-Science-on-Its-Robots",
+   "round": "Series E+"
+  },
+  {
+   "id": "sharewillow-funding-2026-10-29",
+   "date": "2026-10-29",
+   "startup_id": "sharewillow",
+   "type": "funding",
+   "headline": "ShareWillow raised $8.5M Seed",
+   "summary": "Performance-pay platform for HVAC, plumbing and other home-service businesses: AI agents calculate technician payouts and techs see what each job paid them in real time.",
+   "source_url": "https://www.alleywatch.com/2026/10/sharewillow-home-field-service-technicians-performance-pay-platform-ai-agents-skilled-trades-ryan-shank/",
+   "round": "seed"
+  },
   {
    "id": "predicate-funding-2026-10-28",
    "date": "2026-10-28",
@@ -12,6 +42,16 @@
    "headline": "Predicate raised $8M Series A",
    "summary": "Onchain compliance platform that embeds policy controls into digital assets to block sanctioned and high-risk activity.",
    "source_url": "https://www.alleywatch.com/2026/10/the-new-york-startup-daily-funding-report-10-28-2026/",
+   "round": "Series A"
+  },
+  {
+   "id": "confido-health-funding-2026-10-28",
+   "date": "2026-10-28",
+   "startup_id": "confido-health",
+   "type": "funding",
+   "headline": "Confido Health raised $12.5M Series A extension (Series A total $22.5M)",
+   "summary": "CareOS: AI agents that handle outpatient practices' scheduling, insurance verification, prior auth, refills and patient balances across phone, text, email and fax.",
+   "source_url": "https://www.alleywatch.com/2026/10/confido-health-agentic-ai-healthcare-operations-patient-access-automation-revenue-cycle-careos-chetan-reddy/",
    "round": "Series A"
   },
   {
@@ -725,16 +765,6 @@
    "round": "Series A"
   },
   {
-   "id": "vellum-ai-funding-2026-05-07",
-   "date": "2026-05-07",
-   "startup_id": "vellum-ai",
-   "type": "funding",
-   "headline": "Vellum raised $25M Series A",
-   "summary": "Vellum is building the platform where anyone can describe a goal in plain language and generate reliable, working agents in seconds (think \"Lovable for agents\" and \"Devin for everyone else\").",
-   "source_url": "https://www.businesswire.com/news/home/20250710009580/en/Vellum-Raises-%2420M-Series-A-to-Bring-Rigor-Speed-and-Reliability-to-Enterprise-AI-Development",
-   "round": "Series A"
-  },
-  {
    "id": "fun-funding-2026-05-01",
    "date": "2026-05-01",
    "startup_id": "fun",
@@ -773,6 +803,16 @@
    "summary": "Manifest OS powers AI-native law firms built to redefine how legal services are delivered.",
    "source_url": "https://manifestos.com/series-a",
    "round": "Series A"
+  },
+  {
+   "id": "kashable-funding-2026-04-27",
+   "date": "2026-04-27",
+   "startup_id": "kashable",
+   "type": "funding",
+   "headline": "Kashable raised $60M Series C",
+   "summary": "Employer-sponsored low-cost loans repaid through payroll, plus credit monitoring and coaching, as an alternative to payday loans and high-interest cards.",
+   "source_url": "https://news.crunchbase.com/fintech/kashable-secures-60m-seriesc-goldman-sachs/",
+   "round": "Series C"
   },
   {
    "id": "monk-finance-funding-2026-04-21",
@@ -850,7 +890,7 @@
    "startup_id": "normal",
    "type": "funding",
    "headline": "Normal raised $50M Series B",
-   "summary": "At Normal, we're rewriting AI foundations to advance the frontier of reasoning and reliability in the physical world.",
+   "summary": "Normal Computing is an applied AI company solving the hardest problems in AI and silicon.",
    "source_url": "https://siliconangle.com/2026/03/25/normal-computing-raises-50m-tackle-soaring-energy-demands-ai-chips/",
    "round": "Series B"
   },
@@ -870,7 +910,7 @@
    "startup_id": "spade",
    "type": "funding",
    "headline": "Spade raised $40M Series B",
-   "summary": "Spade is the only transaction data enrichment solution backed by real data.",
+   "summary": "Spade is a data and AI platform that turns messy transaction strings into structured, verified records — and gives teams the tools to act on it across authorization, attribution, analytics, and AI initiatives.",
    "source_url": "https://www.businesswire.com/news/home/20260324472369/en/Spade-Announces-%2440m-Series-B-Raise-to-Build-The-Data-and-AI-Platform-for-Modern-Finance",
    "round": "Series B"
   },
@@ -1341,7 +1381,7 @@
    "type": "funding",
    "headline": "Flint (K12) raised $15M Series A",
    "summary": "Flint is the leading personalized learning platform built for schools, and proven to improve student outcomes and engagement.",
-   "source_url": "https://www.theolympian.com/press-releases/article312807882.html",
+   "source_url": "https://flintk12.com/blog/series-a",
    "round": "Series A"
   },
   {
@@ -1503,6 +1543,16 @@
    "summary": "Frontier open intelligence accessible to all.",
    "source_url": "https://www.reuters.com/business/nvidia-backed-reflection-ai-raises-2-billion-funding-boosts-valuation-8-billion-2025-10-09/",
    "round": "Series B"
+  },
+  {
+   "id": "vycarb-funding-2025-10-06",
+   "date": "2025-10-06",
+   "startup_id": "vycarb",
+   "type": "funding",
+   "headline": "Vycarb raised $5M Seed",
+   "summary": "Measurable carbon capture and storage using water: converts industrial CO2 into stable bicarbonate, with real-time carbon sensing (pilot on the East River at Brooklyn Navy Yard).",
+   "source_url": "https://techfundingnews.com/vycarb-raises-5m-scale-sensor-driven-carbon-storage/",
+   "round": "seed"
   },
   {
    "id": "dualentry-funding-2025-10-02",
@@ -1683,16 +1733,6 @@
    "summary": "Sola is the AI-native platform redefining automation, enabling the enterprises of tomorrow to automate workflows with intelligent agents beyond the limits of traditional RPA.",
    "source_url": "https://x.com/NeilDeshmukh/status/1956013918532325742",
    "round": "Series A"
-  },
-  {
-   "id": "continua-ai-funding-2025-08-12",
-   "date": "2025-08-12",
-   "startup_id": "continua-ai",
-   "type": "funding",
-   "headline": "Continua raised $8M Seed",
-   "summary": "Continua is pioneering Social AI, creating the first artificial intelligence designed to enhance group conversations and collaboration.",
-   "source_url": "https://techcrunch.com/2025/08/12/google-vet-raises-8m-for-continua-to-bring-ai-agents-to-group-chats/",
-   "round": "seed"
   },
   {
    "id": "endex-funding-2025-08-06",
@@ -2223,16 +2263,6 @@
    "summary": "Coast is a Visa fleet fuel and gas card plus expense management solution that helps fleets control and track employee spending on fuel and other expenses.",
    "source_url": "https://coastpay.com/blog/announcing-coast-series-b-funding/",
    "round": "Series B"
-  },
-  {
-   "id": "carry-funding-2024-07-17",
-   "date": "2024-07-17",
-   "startup_id": "carry",
-   "type": "funding",
-   "headline": "Carry raised $10M Series A",
-   "summary": "Carry is everything you need to build wealth as an entrepreneur, freelancer, consultant or independent business owner.",
-   "source_url": "https://carry.com/learn/series-a-funding-announcement",
-   "round": "Series A"
   },
   {
    "id": "itselectric-funding-2024-07-16",

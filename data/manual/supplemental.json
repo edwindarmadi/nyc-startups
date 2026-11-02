@@ -934,5 +934,138 @@
    "civic",
    "climate"
   ]
+ },
+ {
+  "id": "kalshi",
+  "name": "Kalshi",
+  "website": "https://kalshi.com",
+  "description": "CFTC-regulated exchange where people trade on the outcomes of real-world events (prediction markets).",
+  "sectors": [
+   "Fintech",
+   "Prediction markets"
+  ],
+  "stage": "Series C+",
+  "last_round": {
+   "amount": "$1B Series G",
+   "date": "2026-10-29",
+   "url": "https://www.alleywatch.com/2026/10/the-new-york-startup-daily-funding-report-10-29-2026/"
+  },
+  "hq_hint": "New York, NY (LinkedIn HQ: New York; Tech Startups: 'New York-based Kalshi')",
+  "hq_hint_url": "https://techstartups.com/2026/10/30/startup-funding-news-today-october-30-2026-kalshi-cohere-bites-dulo-opentrons-firehawk-defense-more/",
+  "linkedin": "https://www.linkedin.com/company/kalshi",
+  "careers_url": "https://jobs.ashbyhq.com/kalshi",
+  "focus": []
+ },
+ {
+  "id": "opentrons",
+  "name": "Opentrons",
+  "website": "https://opentrons.com",
+  "description": "Open, affordable lab-automation robots and software for life-science labs, now aimed at standardizing AI-driven experiments.",
+  "sectors": [
+   "Biotech",
+   "Robotics",
+   "AI"
+  ],
+  "stage": "Series C+",
+  "last_round": {
+   "amount": "$40M Series E",
+   "date": "2026-10-29",
+   "url": "https://www.businesswire.com/news/home/20261029104545/en/Opentrons-Announces-%2440M-Series-E-Round-to-Standardize-AI-Driven-Science-on-Its-Robots"
+  },
+  "hq_hint": "Long Island City, Queens, NY (press release dateline 'LONG ISLAND CITY, N.Y.'; AlleyWatch: 'Long Island City-based Opentrons')",
+  "hq_hint_url": "https://opentrons.com/archives/news/opentrons-announces-40m-series-e-round-to-standardize-ai-driven-science-on-its-robots",
+  "linkedin": "https://www.linkedin.com/company/opentrons-labworks-inc",
+  "careers_url": "https://opentrons.com/about/jobs/",
+  "focus": []
+ },
+ {
+  "id": "sharewillow",
+  "name": "ShareWillow",
+  "website": "https://www.sharewillow.com",
+  "description": "Performance-pay platform for HVAC, plumbing and other home-service businesses: AI agents calculate technician payouts and techs see what each job paid them in real time.",
+  "sectors": [
+   "Fintech",
+   "HR / Payroll",
+   "AI"
+  ],
+  "stage": "seed",
+  "last_round": {
+   "amount": "$8.5M Seed",
+   "date": "2026-10-29",
+   "url": "https://www.alleywatch.com/2026/10/sharewillow-home-field-service-technicians-performance-pay-platform-ai-agents-skilled-trades-ryan-shank/"
+  },
+  "hq_hint": "New York, NY (LinkedIn HQ: New York; SEC Form D: ShareWillow Compensation Inc., New York, NY)",
+  "hq_hint_url": "https://www.alleywatch.com/2026/10/the-new-york-startup-daily-funding-report-10-29-2026/",
+  "linkedin": "https://www.linkedin.com/company/sharewillow",
+  "careers_url": null,
+  "focus": []
+ },
+ {
+  "id": "vycarb",
+  "name": "Vycarb",
+  "website": "https://vycarb.com",
+  "description": "Measurable carbon capture and storage using water: converts industrial CO2 into stable bicarbonate, with real-time carbon sensing (pilot on the East River at Brooklyn Navy Yard).",
+  "sectors": [
+   "Climate",
+   "Carbon removal"
+  ],
+  "stage": "seed",
+  "last_round": {
+   "amount": "$5M Seed",
+   "date": "2025-10-06",
+   "url": "https://techfundingnews.com/vycarb-raises-5m-scale-sensor-driven-carbon-storage/"
+  },
+  "hq_hint": "Brooklyn, NY (LinkedIn HQ: Brooklyn; TFN: 'Vycarb, a Brooklyn-based climate tech startup')",
+  "hq_hint_url": "https://techfundingnews.com/vycarb-raises-5m-scale-sensor-driven-carbon-storage/",
+  "linkedin": "https://www.linkedin.com/company/vycarb",
+  "careers_url": null,
+  "focus": [
+   "climate"
+  ]
+ },
+ {
+  "id": "kashable",
+  "name": "Kashable",
+  "website": "https://kashable.com",
+  "description": "Employer-sponsored low-cost loans repaid through payroll, plus credit monitoring and coaching, as an alternative to payday loans and high-interest cards.",
+  "sectors": [
+   "Fintech",
+   "Lending",
+   "Financial wellness"
+  ],
+  "stage": "Series C+",
+  "last_round": {
+   "amount": "$60M Series C",
+   "date": "2026-04-27",
+   "url": "https://news.crunchbase.com/fintech/kashable-secures-60m-seriesc-goldman-sachs/"
+  },
+  "hq_hint": "New York, NY (LinkedIn HQ: New York; Crunchbase News: 'New York-based Kashable')",
+  "hq_hint_url": "https://news.crunchbase.com/fintech/kashable-secures-60m-seriesc-goldman-sachs/",
+  "linkedin": "https://www.linkedin.com/company/kashable",
+  "careers_url": "https://kashable.com/careers",
+  "focus": [
+   "fair_finance"
+  ]
+ },
+ {
+  "id": "confido-health",
+  "name": "Confido Health",
+  "website": "https://www.confido.health",
+  "description": "CareOS: AI agents that handle outpatient practices' scheduling, insurance verification, prior auth, refills and patient balances across phone, text, email and fax.",
+  "sectors": [
+   "Healthcare",
+   "AI"
+  ],
+  "stage": "Series A",
+  "last_round": {
+   "amount": "$12.5M Series A extension (Series A total $22.5M)",
+   "date": "2026-10-28",
+   "url": "https://www.alleywatch.com/2026/10/confido-health-agentic-ai-healthcare-operations-patient-access-automation-revenue-cycle-careos-chetan-reddy/"
+  },
+  "hq_hint": "New York, NY (LinkedIn HQ: New York; covered by AlleyWatch as a NYC startup)",
+  "hq_hint_url": "https://www.alleywatch.com/2026/10/confido-health-agentic-ai-healthcare-operations-patient-access-automation-revenue-cycle-careos-chetan-reddy/",
+  "linkedin": "https://www.linkedin.com/company/confido-health",
+  "careers_url": "https://www.confido.health/careers",
+  "focus": []
  }
 ]

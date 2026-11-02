@@ -196,6 +196,7 @@ def main():
         for c in companies:
             c['sources'] = [dict(x, url=fx(x['url'])) for x in c['sources'] if fx(x['url'])]
             c['careers_url'] = fx(c.get('careers_url'))
+            if c.get('website') in fixes and fixes[c['website']]: c['website'] = fixes[c['website']]
             if c['last_round'].get('source') in fixes:
                 c['last_round']['source'] = fixes[c['last_round']['source']] or (f"https://startups.gallery/companies/{c['id']}" if c['origin'] == 'startups.gallery' else None)
             if c.get('hq') and c['hq'].get('source') in fixes and fixes[c['hq']['source']]: c['hq']['source'] = fixes[c['hq']['source']]

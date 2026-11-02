@@ -17,7 +17,9 @@ for slug in open('slugs.txt').read().split():
     desc=html.unescape(m.group(1)) if m else ''
     desc=desc.split(' Find top early-stage')[0]
     title=re.search(r'<title>([^<|]*)',s).group(1).strip()
+    title=re.sub(r':\s*Funding, Investors\s*(&amp;|&)\s*Jobs\s*$','',html.unescape(title)).strip()  # gallery title format changed 2026-11
     d['name']=title
+    desc=re.sub(r'\s*(Founded in \d{4}\.\s*)?See .{1,80}? funding rounds, investors and open jobs\.?\s*$','',desc)
     if ': ' in desc: d['tagline']=desc.split(': ',1)[1].strip()
     d['website']=anchor_with(s,'Visit Website')
     d['jobs']=anchor_with(s,'View Jobs')
