@@ -1,9 +1,69 @@
 {
  "meta": {
-  "last_updated": "2026-11-02",
-  "count": 239
+  "last_updated": "2026-11-05",
+  "count": 248
  },
  "items": [
+  {
+   "id": "traversal-funding-2026-11-03",
+   "date": "2026-11-03",
+   "startup_id": "traversal",
+   "type": "funding",
+   "headline": "Traversal raised $120M Series B",
+   "summary": "AI SRE platform that diagnoses and remediates production incidents for enterprise engineering teams.",
+   "source_url": "https://www.traversal.com/blog/traversal-series-b-120-million-ai-sre",
+   "round": "Series B"
+  },
+  {
+   "id": "clark-funding-2026-11-02",
+   "date": "2026-11-02",
+   "startup_id": "clark",
+   "type": "funding",
+   "headline": "Clark raised $11M Seed",
+   "summary": "AI platform for CPA firms: autonomous AI employees (Clerks) that perform audit fieldwork, testing and workpapers.",
+   "source_url": "https://www.prnewswire.com/news-releases/clark-launches-autonomous-ai-employees-for-audit-and-raises-11m-seed-round-bringing-total-funding-to-16m-302925250.html",
+   "round": "seed"
+  },
+  {
+   "id": "logos-funding-2026-11-02",
+   "date": "2026-11-02",
+   "startup_id": "logos",
+   "type": "funding",
+   "headline": "Logos raised $3.4M Seed",
+   "summary": "Evidence layer for financial institutions to verify and accept tokenized assets and stablecoins against their own policies.",
+   "source_url": "https://www.alleywatch.com/2026/11/the-alleywatch-startup-daily-funding-report-11-2-2026/",
+   "round": "seed"
+  },
+  {
+   "id": "summer-funding-2026-11-02",
+   "date": "2026-11-02",
+   "startup_id": "summer",
+   "type": "funding",
+   "headline": "Summer raised $1.6M",
+   "summary": "Workplace benefits platform that helps employers offer student loan repayment assistance and education benefits.",
+   "source_url": "https://www.alleywatch.com/2026/11/the-alleywatch-startup-daily-funding-report-11-2-2026/",
+   "round": "unknown"
+  },
+  {
+   "id": "clark-launch-2026-11-02",
+   "date": "2026-11-02",
+   "startup_id": "clark",
+   "type": "launch",
+   "headline": "Clark launches Clerks, autonomous AI employees for CPA audit work, and raises $11M Seed",
+   "summary": "Touring Capital-led Seed brings total funding to $16M; Clerks review documents, run tests, prepare workpapers and follow up with clients.",
+   "source_url": "https://www.prnewswire.com/news-releases/clark-launches-autonomous-ai-employees-for-audit-and-raises-11m-seed-round-bringing-total-funding-to-16m-302925250.html",
+   "round": "unknown"
+  },
+  {
+   "id": "logos-launch-2026-11-02",
+   "date": "2026-11-02",
+   "startup_id": "logos",
+   "type": "launch",
+   "headline": "Ex-Swift CIO launches Logos, an evidence layer for tokenized assets and stablecoins",
+   "summary": "Seed-backed by ParaFi and VanEck; shared evidence network helps institutions accept digital assets while keeping policy control.",
+   "source_url": "https://www.fintechfutures.com/fintech-start-ups/ex-swift-cio-launches-digital-asset-evidence-layer-logos",
+   "round": "unknown"
+  },
   {
    "id": "kalshi-funding-2026-10-29",
    "date": "2026-10-29",
@@ -245,6 +305,16 @@
    "round": "unknown"
   },
   {
+   "id": "ramp-funding-2026-10-15",
+   "date": "2026-10-15",
+   "startup_id": "ramp",
+   "type": "funding",
+   "headline": "Ramp raised $1.85B Series G",
+   "summary": "Finance operations platform: corporate cards, expense management, bill pay and AI spend tools that help businesses save time and money.",
+   "source_url": "https://ramp.com/blog/ramp-at-60-billion",
+   "round": "Series E+"
+  },
+  {
    "id": "fragment-funding-2026-10-14",
    "date": "2026-10-14",
    "startup_id": "fragment",
@@ -323,6 +393,16 @@
    "summary": "Builds Flarewing, a deployable solar array for satellites and orbital data centers, manufactured at Industry City in Brooklyn.",
    "source_url": "https://www.alleywatch.com/2026/10/beyond-reach-labs-space-solar-power-deployable-solar-arrays-orbital-data-centers-flarewing-mitchell-fogelson/",
    "round": "seed"
+  },
+  {
+   "id": "capitolis-funding-2026-10-06",
+   "date": "2026-10-06",
+   "startup_id": "capitolis",
+   "type": "funding",
+   "headline": "Capitolis raised $120M Series E",
+   "summary": "Capital markets fintech for banks and institutions: capital marketplace and portfolio optimization; acquiring eSecLending.",
+   "source_url": "https://capitolis.com/capitolis-announces-220-million-in-financing-including-120-million-series-e-at-1-9-billion-valuation-from-bank-of-america-barclays-bnp-paribas-citi-j-p-morgan-nomura-state-street-ubs-tra/",
+   "round": "Series E+"
   },
   {
    "id": "valon-ai-funding-2026-10-05",
@@ -663,6 +743,16 @@
    "summary": "Sandstone is the Legal Relationship Management system that coordinates a delightful day-to-day for legal departments.",
    "source_url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
    "round": "Series A"
+  },
+  {
+   "id": "minerva-funding-2026-06-09",
+   "date": "2026-06-09",
+   "startup_id": "minerva",
+   "type": "funding",
+   "headline": "Minerva raised $20M",
+   "summary": "AI platform for consumer marketing: agentic data engineering and campaign tools that unlock first-party customer data.",
+   "source_url": "https://www.minerva.io/blog/introducing-minerva",
+   "round": "unknown"
   },
   {
    "id": "opal-security-funding-2026-06-05",
