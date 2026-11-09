@@ -1226,5 +1226,87 @@
     "focus": [
       "ai_everyday"
     ]
+  },
+  {
+    "id": "kalepa",
+    "name": "Kalepa",
+    "website": "https://www.kalepa.com",
+    "description": "AI platform that automates underwriting, pricing and portfolio management for commercial insurers.",
+    "sectors": [
+      "AI",
+      "Insurtech"
+    ],
+    "stage": "Series B",
+    "last_round": {
+      "amount": "$75M Series B",
+      "date": "2026-11-05",
+      "url": "https://alleywatch.com/2026/11/the-new-york-startup-daily-funding-report-11-5-2026/"
+    },
+    "hq_hint": "New York (AlleyWatch: 'New York-based Kalepa')",
+    "hq_hint_url": "https://alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/",
+    "linkedin": "https://www.linkedin.com/company/kalepa",
+    "careers_url": null,
+    "focus": []
+  },
+  {
+    "id": "cowboy",
+    "name": "Cowboy",
+    "website": "https://cowboy.inc",
+    "description": "App store for developers to build, deploy and monetize AI agents.",
+    "sectors": [
+      "AI"
+    ],
+    "stage": "seed",
+    "last_round": {
+      "amount": "$5M Seed",
+      "date": "2026-11-04",
+      "url": "https://www.businesswire.com/news/home/20261104730692/en/Cowboy-Raises-%245-Million-in-Seed-Funding-to-Help-Developers-Own-Control-and-Monetize-AI"
+    },
+    "hq_hint": "New York (Business Wire dateline NEW YORK; Dealroom: 'a New York startup')",
+    "hq_hint_url": "https://www.businesswire.com/news/home/20261104730692/en/Cowboy-Raises-%245-Million-in-Seed-Funding-to-Help-Developers-Own-Control-and-Monetize-AI",
+    "linkedin": null,
+    "careers_url": null,
+    "focus": []
+  },
+  {
+    "id": "numica",
+    "name": "Numica",
+    "website": "https://www.numica.com",
+    "description": "Accounting and tax services for companies and individuals.",
+    "sectors": [
+      "Fintech"
+    ],
+    "stage": "unknown",
+    "last_round": {
+      "amount": "$21M",
+      "date": "2026-11-07",
+      "url": "https://alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+    },
+    "hq_hint": "New York (AlleyWatch: 'New York-based Numica')",
+    "hq_hint_url": "https://alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/",
+    "linkedin": "https://www.linkedin.com/company/numica",
+    "careers_url": null,
+    "focus": []
+  },
+  {
+    "id": "sentra",
+    "name": "Sentra",
+    "website": "https://www.sentra.io",
+    "description": "Data security platform that discovers, classifies and protects sensitive enterprise data.",
+    "sectors": [
+      "Security",
+      "AI"
+    ],
+    "stage": "unknown",
+    "last_round": {
+      "amount": "$150M",
+      "date": "2026-11-07",
+      "url": "https://alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/"
+    },
+    "hq_hint": "New York (AlleyWatch: 'New York-based Sentra')",
+    "hq_hint_url": "https://alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/",
+    "linkedin": null,
+    "careers_url": null,
+    "focus": []
   }
 ]

@@ -1,17 +1,67 @@
 {
  "meta": {
-  "last_updated": "2026-11-05",
-  "count": 248
+  "last_updated": "2026-11-09",
+  "count": 253
  },
  "items": [
+  {
+   "id": "numica-funding-2026-11-07",
+   "date": "2026-11-07",
+   "startup_id": "numica",
+   "type": "funding",
+   "headline": "Numica raised $21M",
+   "summary": "Accounting and tax services for companies and individuals.",
+   "source_url": "https://alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/",
+   "round": "unknown"
+  },
+  {
+   "id": "sentra-funding-2026-11-07",
+   "date": "2026-11-07",
+   "startup_id": "sentra",
+   "type": "funding",
+   "headline": "Sentra raised $150M",
+   "summary": "Data security platform that discovers, classifies and protects sensitive enterprise data.",
+   "source_url": "https://alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/",
+   "round": "unknown"
+  },
+  {
+   "id": "kalepa-funding-2026-11-05",
+   "date": "2026-11-05",
+   "startup_id": "kalepa",
+   "type": "funding",
+   "headline": "Kalepa raised $75M Series B",
+   "summary": "AI platform that automates underwriting, pricing and portfolio management for commercial insurers.",
+   "source_url": "https://alleywatch.com/2026/11/the-new-york-startup-daily-funding-report-11-5-2026/",
+   "round": "Series B"
+  },
+  {
+   "id": "cowboy-funding-2026-11-04",
+   "date": "2026-11-04",
+   "startup_id": "cowboy",
+   "type": "funding",
+   "headline": "Cowboy raised $5M Seed",
+   "summary": "App store for developers to build, deploy and monetize AI agents.",
+   "source_url": "https://www.businesswire.com/news/home/20261104730692/en/Cowboy-Raises-%245-Million-in-Seed-Funding-to-Help-Developers-Own-Control-and-Monetize-AI",
+   "round": "seed"
+  },
+  {
+   "id": "cowboy-launch-2026-11-04",
+   "date": "2026-11-04",
+   "startup_id": "cowboy",
+   "type": "launch",
+   "headline": "Cowboy emerges from stealth with an app store for AI agents",
+   "summary": "General Store opens with 100+ agents and 10,000+ data feeds; $5M seed from Nebular, Compound, Semantic Ventures, Anagram and others.",
+   "source_url": "https://cowboy.inc/blog/meet-cowboy",
+   "round": "unknown"
+  },
   {
    "id": "traversal-funding-2026-11-03",
    "date": "2026-11-03",
    "startup_id": "traversal",
    "type": "funding",
    "headline": "Traversal raised $120M Series B",
-   "summary": "AI SRE platform that diagnoses and remediates production incidents for enterprise engineering teams.",
-   "source_url": "https://www.traversal.com/blog/traversal-series-b-120-million-ai-sre",
+   "summary": "Traversal is the AI site reliability engineer (AI SRE) for the enterprise, helping engineering teams autonomously diagnose, remediate, and prevent production incidents, even in the largest, most complex systems.",
+   "source_url": "https://x.com/traversal_ai/status/2117665706355433963?a=IwblBjjTOiQuJaHgtQU&s=20",
    "round": "Series B"
   },
   {
@@ -1371,7 +1421,7 @@
    "type": "funding",
    "headline": "Sequence raised $20M Series A",
    "summary": "Acquired by Intuit on October 15, 2026.",
-   "source_url": "https://sequence-marketing-git-series-a-announcement-sequence-marketing.vercel.app/blog/sequence-announces-series-a",
+   "source_url": "https://www.sequencehq.com/blog/sequence-announces-series-a",
    "round": "Series A"
   },
   {

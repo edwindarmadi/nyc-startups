@@ -1,33 +1,12 @@
 {
- "checked_at": "2026-11-05T09:18:34",
- "total": 1397,
+ "checked_at": "2026-11-09T09:03:38",
+ "total": 1413,
  "summary": {
-  "ok": 1350,
-  "blocked": 45,
-  "error": 2
+  "ok": 1367,
+  "blocked": 46
  },
  "dead": {},
- "errors": {
-  "https://www.attention.com/": {
-   "status": null,
-   "error": "timed out",
-   "final_url": "https://www.attention.com/",
-   "state": "error",
-   "used_by": [
-    "attention:website",
-    "attention:source:Company website"
-   ]
-  },
-  "https://jobs.lever.co/sesame/?ref=startups.gallery": {
-   "status": null,
-   "error": "The read operation timed out",
-   "final_url": "https://jobs.lever.co/sesame/?ref=startups.gallery",
-   "state": "error",
-   "used_by": [
-    "sesame:careers_url"
-   ]
-  }
- },
+ "errors": {},
  "blocked": {
   "https://www.businesswire.com/news/home/20250602787210/en/AgentSmyth-Raises-%248.7M-Seed-Round-From-FinTech-Collective-Thomson-Reuters-and-Others-to-Scale-Autonomous-Agent-Platform-for-Trading-and-Investment": {
    "status": 403,
@@ -49,14 +28,6 @@
     "news:applied-labs-funding-2025-01-27"
    ]
   },
-  "https://wellfound.com/company/arya-health-ai": {
-   "status": 403,
-   "final_url": "https://wellfound.com/company/arya-health-ai",
-   "state": "blocked",
-   "used_by": [
-    "arya-health:careers_url"
-   ]
-  },
   "https://www.axios.com/pro/health-tech-deals/2025/10/29/arya-health-raises-18m-for-ai-agents": {
    "status": 403,
    "final_url": "https://www.axios.com/pro/health-tech-deals/2025/10/29/arya-health-raises-18m-for-ai-agents",
@@ -65,6 +36,14 @@
     "arya-health:source:Funding announcement",
     "arya-health:last_round.source",
     "news:arya-health-funding-2025-10-29"
+   ]
+  },
+  "https://wellfound.com/company/arya-health-ai": {
+   "status": 403,
+   "final_url": "https://wellfound.com/company/arya-health-ai",
+   "state": "blocked",
+   "used_by": [
+    "arya-health:careers_url"
    ]
   },
   "https://www.businesswire.com/news/home/20250805452796/en/August-Raises-%247M-to-Deliver-Configurable-Legal-AI-to-Midsize-Firms": {
@@ -135,6 +114,17 @@
     "confido:source:Funding announcement",
     "confido:last_round.source",
     "news:confido-funding-2026-09-22"
+   ]
+  },
+  "https://www.businesswire.com/news/home/20261104730692/en/Cowboy-Raises-%245-Million-in-Seed-Funding-to-Help-Developers-Own-Control-and-Monetize-AI": {
+   "status": 403,
+   "final_url": "https://www.businesswire.com/news/home/20261104730692/en/Cowboy-Raises-%245-Million-in-Seed-Funding-to-Help-Developers-Own-Control-and-Monetize-AI",
+   "state": "blocked",
+   "used_by": [
+    "cowboy:source:Funding / news source",
+    "cowboy:last_round.source",
+    "cowboy:hq.source",
+    "news:cowboy-funding-2026-11-04"
    ]
   },
   "https://www.foratravel.com": {
@@ -261,14 +251,6 @@
     "news:opentrons-funding-2026-10-29"
    ]
   },
-  "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link": {
-   "status": 401,
-   "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link",
-   "state": "blocked",
-   "used_by": [
-    "pacagen:careers_url"
-   ]
-  },
   "https://www.businesswire.com/news/home/20260527047143/en/Pace-Raises-%2446-Million-Series-B-to-Build-the-Next-Century-of-Insurance": {
    "status": 403,
    "final_url": "https://www.businesswire.com/news/home/20260527047143/en/Pace-Raises-%2446-Million-Series-B-to-Build-the-Next-Century-of-Insurance",
@@ -277,6 +259,14 @@
     "pace:source:Funding announcement",
     "pace:last_round.source",
     "news:pace-funding-2026-05-27"
+   ]
+  },
+  "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link": {
+   "status": 401,
+   "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link",
+   "state": "blocked",
+   "used_by": [
+    "pacagen:careers_url"
    ]
   },
   "https://www.forbes.com/sites/charliefink/2025/11/04/parable-raises-165-million-to-power-ai-transformation-with-real-data/": {
