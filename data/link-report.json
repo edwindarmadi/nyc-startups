@@ -1,11 +1,21 @@
 {
- "checked_at": "2026-11-09T09:03:38",
- "total": 1413,
+ "checked_at": "2026-11-12T09:00:12",
+ "total": 1436,
  "summary": {
-  "ok": 1367,
-  "blocked": 46
+  "ok": 1389,
+  "blocked": 46,
+  "dead": 1
  },
- "dead": {},
+ "dead": {
+  "https://jobs.lever.co/sesame/": {
+   "status": 404,
+   "final_url": "https://jobs.lever.co/sesame/",
+   "state": "dead",
+   "used_by": [
+    "sesame:careers_url"
+   ]
+  }
+ },
  "errors": {},
  "blocked": {
   "https://www.businesswire.com/news/home/20250602787210/en/AgentSmyth-Raises-%248.7M-Seed-Round-From-FinTech-Collective-Thomson-Reuters-and-Others-to-Scale-Autonomous-Agent-Platform-for-Trading-and-Investment": {
@@ -36,14 +46,6 @@
     "arya-health:source:Funding announcement",
     "arya-health:last_round.source",
     "news:arya-health-funding-2025-10-29"
-   ]
-  },
-  "https://wellfound.com/company/arya-health-ai": {
-   "status": 403,
-   "final_url": "https://wellfound.com/company/arya-health-ai",
-   "state": "blocked",
-   "used_by": [
-    "arya-health:careers_url"
    ]
   },
   "https://www.businesswire.com/news/home/20250805452796/en/August-Raises-%247M-to-Deliver-Configurable-Legal-AI-to-Midsize-Firms": {
@@ -251,6 +253,14 @@
     "news:opentrons-funding-2026-10-29"
    ]
   },
+  "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link": {
+   "status": 401,
+   "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link",
+   "state": "blocked",
+   "used_by": [
+    "pacagen:careers_url"
+   ]
+  },
   "https://www.businesswire.com/news/home/20260527047143/en/Pace-Raises-%2446-Million-Series-B-to-Build-the-Next-Century-of-Insurance": {
    "status": 403,
    "final_url": "https://www.businesswire.com/news/home/20260527047143/en/Pace-Raises-%2446-Million-Series-B-to-Build-the-Next-Century-of-Insurance",
@@ -259,14 +269,6 @@
     "pace:source:Funding announcement",
     "pace:last_round.source",
     "news:pace-funding-2026-05-27"
-   ]
-  },
-  "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link": {
-   "status": 401,
-   "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link",
-   "state": "blocked",
-   "used_by": [
-    "pacagen:careers_url"
    ]
   },
   "https://www.forbes.com/sites/charliefink/2025/11/04/parable-raises-165-million-to-power-ai-transformation-with-real-data/": {
@@ -355,6 +357,23 @@
     "news:reflection-funding-2025-10-10"
    ]
   },
+  "https://www.rho.co/": {
+   "status": 429,
+   "final_url": "https://www.rho.co/",
+   "state": "blocked",
+   "used_by": [
+    "rho:website",
+    "rho:source:Company website"
+   ]
+  },
+  "https://www.rho.co/careers#Career-Roles": {
+   "status": 429,
+   "final_url": "https://www.rho.co/careers#Career-Roles",
+   "state": "blocked",
+   "used_by": [
+    "rho:careers_url"
+   ]
+  },
   "https://www.forbes.com/sites/zoyahasan/2026/03/03/hinge-alums-raise-85-million-to-turn-social-media-scrolling-into-real-world-meetups/": {
    "status": 403,
    "final_url": "https://www.forbes.com/sites/zoyahasan/2026/03/03/hinge-alums-raise-85-million-to-turn-social-media-scrolling-into-real-world-meetups/",
@@ -385,6 +404,14 @@
     "news:spade-funding-2026-03-24"
    ]
   },
+  "https://sunsethq.com/careers#open-roles": {
+   "status": 403,
+   "final_url": "https://sunsethq.com/careers#open-roles",
+   "state": "blocked",
+   "used_by": [
+    "sunset:careers_url"
+   ]
+  },
   "https://www.sunsethq.com/": {
    "status": 403,
    "final_url": "https://www.sunsethq.com/",
@@ -392,14 +419,6 @@
    "used_by": [
     "sunset:website",
     "sunset:source:Company website"
-   ]
-  },
-  "https://sunsethq.com/careers#open-roles": {
-   "status": 403,
-   "final_url": "https://sunsethq.com/careers#open-roles",
-   "state": "blocked",
-   "used_by": [
-    "sunset:careers_url"
    ]
   },
   "https://www.businesswire.com/news/home/20250915745370/en/Tabs-Raises-%2455M-Series-B-Led-by-Lightspeed-to-Bring-AI-Agents-to-the-CFOs-Office": {
@@ -428,14 +447,6 @@
     "via:source:Funding / news source",
     "via:last_round.source",
     "news:via-other-2025-09-12"
-   ]
-  },
-  "https://wellfound.com/company/zenlytic": {
-   "status": 403,
-   "final_url": "https://wellfound.com/company/zenlytic",
-   "state": "blocked",
-   "used_by": [
-    "zenlytic:careers_url"
    ]
   },
   "https://www.fintechfutures.com/venture-capital-funding/prism-data-lands-20m-series-a-funding": {

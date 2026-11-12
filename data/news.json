@@ -1,9 +1,89 @@
 {
  "meta": {
-  "last_updated": "2026-11-09",
-  "count": 253
+  "last_updated": "2026-11-12",
+  "count": 260
  },
  "items": [
+  {
+   "id": "imprint-funding-2026-11-12",
+   "date": "2026-11-12",
+   "startup_id": "imprint",
+   "type": "funding",
+   "headline": "Imprint raised $130M Venture",
+   "summary": "Imprint is reimagining co-branded credit cards & financial products to be smarter, more rewarding, and truly brand-first.",
+   "source_url": "https://www.upstartsmedia.com/p/fintech-imprint-raises-130m",
+   "round": "unknown"
+  },
+  {
+   "id": "earthmera-funding-2026-11-12",
+   "date": "2026-11-12",
+   "startup_id": "earthmera",
+   "type": "funding",
+   "headline": "EarthMera raised $1M Pre-seed",
+   "summary": "Sustainability app where AI verifies everyday eco-actions, quantifies the CO2 saved and turns it into rewards and reportable impact data for brands and events.",
+   "source_url": "https://www.trysignalbase.com/news/funding/earthmera-raises-1m-pre-seed-funding",
+   "round": "pre-seed"
+  },
+  {
+   "id": "daylight-security-funding-2026-11-10",
+   "date": "2026-11-10",
+   "startup_id": "daylight-security",
+   "type": "funding",
+   "headline": "Daylight Security raised $80M Series B",
+   "summary": "Daylight combines an AI-native security platform with human expertise to fundamentally change how security work gets done.",
+   "source_url": "https://daylight.ai/blog/as-ai-threats-surge-daylight-raises-80m-led-by-goldman-sachs-alternatives",
+   "round": "Series B"
+  },
+  {
+   "id": "garage-funding-2026-11-10",
+   "date": "2026-11-10",
+   "startup_id": "garage",
+   "type": "funding",
+   "headline": "Garage raised $41M Series B",
+   "summary": "Trusted by local governments and essential services businesses across America, Garage is the AI-powered marketplace transforming how America's mission-critical assets are bought and sold.",
+   "source_url": "https://fortune.com/2026/11/10/garage-used-fire-trucks-martin-hunt-funding/",
+   "round": "Series B"
+  },
+  {
+   "id": "nidus-funding-2026-11-10",
+   "date": "2026-11-10",
+   "startup_id": "nidus",
+   "type": "funding",
+   "headline": "Nidus raised $30M",
+   "summary": "Robotics company deploying embodied-AI models on industrial robots inside US defense factories, starting with wire-harness automation.",
+   "source_url": "https://www.prnewswire.com/news-releases/nidus-raises-30m-to-deploy-embodied-intelligence-in-americas-defense-factories-302934756.html",
+   "round": "unknown"
+  },
+  {
+   "id": "toutix-funding-2026-11-10",
+   "date": "2026-11-10",
+   "startup_id": "toutix",
+   "type": "funding",
+   "headline": "Toutix raised $3M Seed",
+   "summary": "Fan intelligence platform that sits on top of existing ticketing systems so sports teams, leagues and festivals own a unified profile of each fan.",
+   "source_url": "https://alleywatch.com/2026/11/toutix-fan-intelligence-platform-sports-fan-data-analytics-live-event-ticketing-dillane-wehbe/",
+   "round": "seed"
+  },
+  {
+   "id": "marble-group-funding-2026-11-10",
+   "date": "2026-11-10",
+   "startup_id": "marble-group",
+   "type": "funding",
+   "headline": "Marble raised $11M Seed",
+   "summary": "Capital markets firm building an institutional trading platform for frontier markets (digital assets, prediction markets, compute) and private credit for GPU operators.",
+   "source_url": "https://www.prnewswire.com/news-releases/marble-launches-with-11m-seed-led-by-polychain-capital-to-build-institutional-frontier-markets-trading-and-ai-infrastructure-finance-302934821.html",
+   "round": "seed"
+  },
+  {
+   "id": "ridero-funding-2026-11-09",
+   "date": "2026-11-09",
+   "startup_id": "ridero",
+   "type": "funding",
+   "headline": "Ridero raised $2.7M Pre-seed",
+   "summary": "AI-powered auto-finance infrastructure that lets lenders and dealers offer leasing and balloon financing as more affordable alternatives to conventional car loans.",
+   "source_url": "https://www.prnewswire.com/news-releases/ridero-raises-2-7-million-to-tackle-vehicle-affordability-through-ai-powered-financial-infrastructure-302933733.html",
+   "round": "pre-seed"
+  },
   {
    "id": "numica-funding-2026-11-07",
    "date": "2026-11-07",
@@ -63,6 +143,16 @@
    "summary": "Traversal is the AI site reliability engineer (AI SRE) for the enterprise, helping engineering teams autonomously diagnose, remediate, and prevent production incidents, even in the largest, most complex systems.",
    "source_url": "https://x.com/traversal_ai/status/2117665706355433963?a=IwblBjjTOiQuJaHgtQU&s=20",
    "round": "Series B"
+  },
+  {
+   "id": "zenlytic-acq-2026-11-03",
+   "date": "2026-11-03",
+   "startup_id": "zenlytic",
+   "type": "acquisition",
+   "headline": "Chord acquires Zenlytic, maker of the Zoë AI analyst",
+   "summary": "NYC commerce-data company Chord buys Zenlytic to expand into enterprise AI; Axios Pro reported up to $5M in stock.",
+   "source_url": "https://www.prnewswire.com/news-releases/chord-expands-into-enterprise-ai-with-zenlytic-acquisition-adding-verizon-jcrew-dominos-and-stanley-black--decker-as-customers-302926600.html",
+   "round": "acquired"
   },
   {
    "id": "clark-funding-2026-11-02",
@@ -1100,7 +1190,7 @@
    "startup_id": "posh",
    "type": "funding",
    "headline": "Posh raised $37M Series B",
-   "summary": "Posh is the events platform for the next generation of tastemakers.",
+   "summary": "Posh enables anyone to build an IRL community based on shared interests, while connecting consumers with the communities of people just like them.",
    "source_url": "https://www.linkedin.com/posts/avanteprice_im-excited-to-announce-poshs-37m-series-activity-7440389153164427265-6MHh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc",
    "round": "Series B"
   },
@@ -1210,7 +1300,7 @@
    "startup_id": "anterior",
    "type": "funding",
    "headline": "Anterior raised $40M Series B",
-   "summary": "Anterior is the clinical AI platform built specifically for payers.",
+   "summary": "Anterior is on a mission to transform healthcare administration, making it seamless and invisible so clinicians can focus on delivering care.",
    "source_url": "https://anterior.com/insights/announcements/anterior-raises-40m-series/",
    "round": "Series B"
   },
@@ -1385,16 +1475,6 @@
    "round": "acquired"
   },
   {
-   "id": "imprint-funding-2025-12-18",
-   "date": "2025-12-18",
-   "startup_id": "imprint",
-   "type": "funding",
-   "headline": "Imprint raised $150M Series D",
-   "summary": "Imprint is reimagining co-branded credit cards & financial products to be smarter, more rewarding, and truly brand-first.",
-   "source_url": "https://www.finsmes.com/2025/12/imprint-raises-150m-in-series-d-funding.html",
-   "round": "Series D"
-  },
-  {
    "id": "datalane-funding-2025-12-17",
    "date": "2025-12-17",
    "startup_id": "datalane",
@@ -1522,16 +1602,6 @@
    "headline": "Flint (K12) raised $15M Series A",
    "summary": "Flint is the leading personalized learning platform built for schools, and proven to improve student outcomes and engagement.",
    "source_url": "https://flintk12.com/blog/series-a",
-   "round": "Series A"
-  },
-  {
-   "id": "daylight-security-funding-2025-11-04",
-   "date": "2025-11-04",
-   "startup_id": "daylight-security",
-   "type": "funding",
-   "headline": "Daylight Security raised $33M Series A",
-   "summary": "Daylight Security is the leading provider of Managed Agentic Security Services, offering tailored MDR solutions that are delivered by Agentic AI and backed by elite human experts.",
-   "source_url": "https://techfundingnews.com/daylight-closes-33m-to-transform-cyber-security-with-autonomous-ai/",
    "round": "Series A"
   },
   {
@@ -1879,10 +1949,10 @@
    "date": "2025-08-06",
    "startup_id": "endex",
    "type": "funding",
-   "headline": "Endex raised $14M Seed",
-   "summary": "Endex is the first AI agent to operate natively inside Excel.",
+   "headline": "Endex raised $14M Series A",
+   "summary": "Endex builds AI agents that handle complex, end-to-end work for the world's most demanding teams.",
    "source_url": "https://x.com/TarunAmasa/status/1953130965355905140",
-   "round": "seed"
+   "round": "Series A"
   },
   {
    "id": "tavily-funding-2025-08-06",
@@ -2230,7 +2300,7 @@
    "startup_id": "silna",
    "type": "funding",
    "headline": "Silna raised $27M Series A",
-   "summary": "Introducing the industry's first Care Readiness Platform.",
+   "summary": "Make care your primary focus.",
    "source_url": "https://www.axios.com/pro/health-tech-deals/2025/03/25/silna-health-raises-27m-revenue-automation-rcm",
    "round": "Series A"
   },

@@ -20,5 +20,16 @@
    "date": "2026-01-08",
    "source": "https://blog.postman.com/postman-acquires-fern/"
   }
+ },
+ "zenlytic": {
+  "stage": "acquired",
+  "stage_detail": "Acquired by Chord",
+  "acquired_by": "Chord",
+  "last_round": {
+   "amount": "undisclosed (reported ~$5M all-stock)",
+   "stage": "Acquired by Chord",
+   "date": "2026-11-03",
+   "source": "https://www.prnewswire.com/news-releases/chord-expands-into-enterprise-ai-with-zenlytic-acquisition-adding-verizon-jcrew-dominos-and-stanley-black--decker-as-customers-302926600.html"
+  }
  }
 }

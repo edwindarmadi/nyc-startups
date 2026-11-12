@@ -71,5 +71,14 @@
     "headline": "Cowboy emerges from stealth with an app store for AI agents",
     "summary": "General Store opens with 100+ agents and 10,000+ data feeds; $5M seed from Nebular, Compound, Semantic Ventures, Anagram and others.",
     "source_url": "https://cowboy.inc/blog/meet-cowboy"
+  },
+  {
+    "id": "zenlytic-acq-2026-11-03",
+    "date": "2026-11-03",
+    "startup_id": "zenlytic",
+    "type": "acquisition",
+    "headline": "Chord acquires Zenlytic, maker of the Zoë AI analyst",
+    "summary": "NYC commerce-data company Chord buys Zenlytic to expand into enterprise AI; Axios Pro reported up to $5M in stock.",
+    "source_url": "https://www.prnewswire.com/news-releases/chord-expands-into-enterprise-ai-with-zenlytic-acquisition-adding-verizon-jcrew-dominos-and-stanley-black--decker-as-customers-302926600.html"
   }
 ]

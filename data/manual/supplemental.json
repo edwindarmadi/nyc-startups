@@ -56,7 +56,7 @@
       "date": "2023-07-24",
       "url": "https://techcrunch.com/2023/07/24/ev-charging-voltpost-3-6m-seed-round/"
     },
-    "hq_hint": "New York City (TechCrunch: 'a New York City\u2013based startup')",
+    "hq_hint": "New York City (TechCrunch: 'a New York City–based startup')",
     "hq_hint_url": "https://techcrunch.com/2023/07/24/ev-charging-voltpost-3-6m-seed-round/",
     "focus": [
       "climate"
@@ -818,7 +818,7 @@
       "date": "2026-05-15",
       "url": "https://apventures.com/news/ap-ventures-invests-in-wastewater-driven-carbon-removal-company-crew-carbon"
     },
-    "hq_hint": "Brooklyn, NY (AP Ventures release: 'BROOKLYN, NY \u2014 CREW Carbon', 'New York-based CREW Carbon')",
+    "hq_hint": "Brooklyn, NY (AP Ventures release: 'BROOKLYN, NY — CREW Carbon', 'New York-based CREW Carbon')",
     "hq_hint_url": "https://apventures.com/news/ap-ventures-invests-in-wastewater-driven-carbon-removal-company-crew-carbon",
     "linkedin": "https://www.linkedin.com/company/crew-carbon",
     "careers_url": "https://jobs.ashbyhq.com/crewcarbon",
@@ -1306,6 +1306,120 @@
     "hq_hint": "New York (AlleyWatch: 'New York-based Sentra')",
     "hq_hint_url": "https://alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/",
     "linkedin": null,
+    "careers_url": null,
+    "focus": []
+  },
+  {
+    "id": "earthmera",
+    "name": "EarthMera",
+    "website": "https://www.earthmera.com/en/",
+    "description": "Sustainability app where AI verifies everyday eco-actions, quantifies the CO2 saved and turns it into rewards and reportable impact data for brands and events.",
+    "sectors": [
+      "Climate",
+      "AI",
+      "Consumer"
+    ],
+    "stage": "pre-seed",
+    "last_round": {
+      "amount": "$1M Pre-seed",
+      "date": "2026-11-12",
+      "url": "https://www.trysignalbase.com/news/funding/earthmera-raises-1m-pre-seed-funding"
+    },
+    "hq_hint": "Brooklyn, NY (LinkedIn HQ: Brooklyn, New York)",
+    "hq_hint_url": "https://www.linkedin.com/company/earthmera",
+    "linkedin": "https://www.linkedin.com/company/earthmera",
+    "careers_url": null,
+    "focus": [
+      "climate",
+      "ai_everyday"
+    ]
+  },
+  {
+    "id": "ridero",
+    "name": "Ridero",
+    "website": "https://ridero.ai",
+    "description": "AI-powered auto-finance infrastructure that lets lenders and dealers offer leasing and balloon financing as more affordable alternatives to conventional car loans.",
+    "sectors": [
+      "Fintech",
+      "AI"
+    ],
+    "stage": "pre-seed",
+    "last_round": {
+      "amount": "$2.7M Pre-seed",
+      "date": "2026-11-09",
+      "url": "https://www.prnewswire.com/news-releases/ridero-raises-2-7-million-to-tackle-vehicle-affordability-through-ai-powered-financial-infrastructure-302933733.html"
+    },
+    "hq_hint": "New York, NY (LinkedIn HQ: New York; PR Newswire dateline NEW YORK)",
+    "hq_hint_url": "https://www.linkedin.com/company/rideroai",
+    "linkedin": "https://www.linkedin.com/company/rideroai",
+    "careers_url": null,
+    "focus": [
+      "fair_finance"
+    ]
+  },
+  {
+    "id": "nidus",
+    "name": "Nidus",
+    "website": "https://nidus.tech",
+    "description": "Robotics company deploying embodied-AI models on industrial robots inside US defense factories, starting with wire-harness automation.",
+    "sectors": [
+      "Robotics",
+      "AI",
+      "Defense"
+    ],
+    "stage": "unknown",
+    "last_round": {
+      "amount": "$30M",
+      "date": "2026-11-10",
+      "url": "https://www.prnewswire.com/news-releases/nidus-raises-30m-to-deploy-embodied-intelligence-in-americas-defense-factories-302934756.html"
+    },
+    "hq_hint": "New York, NY (Upstarts: 'hire aggressively at its New York HQ', Flatiron office)",
+    "hq_hint_url": "https://www.upstartsmedia.com/p/nidus-ai-robotics-raises-30m",
+    "linkedin": null,
+    "careers_url": "https://nidus.tech/careers",
+    "focus": []
+  },
+  {
+    "id": "toutix",
+    "name": "Toutix",
+    "website": "https://www.toutix.com",
+    "description": "Fan intelligence platform that sits on top of existing ticketing systems so sports teams, leagues and festivals own a unified profile of each fan.",
+    "sectors": [
+      "Sports",
+      "Data",
+      "AI"
+    ],
+    "stage": "seed",
+    "last_round": {
+      "amount": "$3M Seed",
+      "date": "2026-11-10",
+      "url": "https://alleywatch.com/2026/11/toutix-fan-intelligence-platform-sports-fan-data-analytics-live-event-ticketing-dillane-wehbe/"
+    },
+    "hq_hint": "New York, NY (LinkedIn HQ: New York)",
+    "hq_hint_url": "https://www.linkedin.com/company/toutix",
+    "linkedin": "https://www.linkedin.com/company/toutix",
+    "careers_url": "https://www.toutix.com/careers",
+    "focus": []
+  },
+  {
+    "id": "marble-group",
+    "name": "Marble",
+    "website": "https://marblegroup.xyz",
+    "description": "Capital markets firm building an institutional trading platform for frontier markets (digital assets, prediction markets, compute) and private credit for GPU operators.",
+    "sectors": [
+      "Fintech",
+      "Crypto",
+      "AI"
+    ],
+    "stage": "seed",
+    "last_round": {
+      "amount": "$11M Seed",
+      "date": "2026-11-10",
+      "url": "https://www.prnewswire.com/news-releases/marble-launches-with-11m-seed-led-by-polychain-capital-to-build-institutional-frontier-markets-trading-and-ai-infrastructure-finance-302934821.html"
+    },
+    "hq_hint": "New York, NY (LinkedIn HQ: New York; SEC Form D business address New York, NY)",
+    "hq_hint_url": "https://www.linkedin.com/company/marblegroupxyz",
+    "linkedin": "https://www.linkedin.com/company/marblegroupxyz",
     "careers_url": null,
     "focus": []
   }
