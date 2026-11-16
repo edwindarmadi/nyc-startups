@@ -80,5 +80,23 @@
     "headline": "Chord acquires Zenlytic, maker of the Zoë AI analyst",
     "summary": "NYC commerce-data company Chord buys Zenlytic to expand into enterprise AI; Axios Pro reported up to $5M in stock.",
     "source_url": "https://www.prnewswire.com/news-releases/chord-expands-into-enterprise-ai-with-zenlytic-acquisition-adding-verizon-jcrew-dominos-and-stanley-black--decker-as-customers-302926600.html"
+  },
+  {
+    "id": "imprint-access-launch-2026-11-11",
+    "date": "2026-11-11",
+    "startup_id": "imprint",
+    "type": "launch",
+    "headline": "Imprint launches Imprint Access, a deposit-backed card for people new to or rebuilding credit",
+    "summary": "Announced with its $130M round: refundable-deposit card with the same rewards as partner brands' regular cards and a path to an unsecured card.",
+    "source_url": "https://www.businesswire.com/news/home/20261111924315/en/Imprint-Raises-%24130-Million-to-Help-Brands-Build-Customer-Loyalty-as-AI-Reshapes-Commerce"
+  },
+  {
+    "id": "siggy-launch-2026-11-05",
+    "date": "2026-11-05",
+    "startup_id": "siggy",
+    "type": "launch",
+    "headline": "Siggy launches out of stealth with AI-supported, clinician-led psychiatry care",
+    "summary": "Daily AI check-ins between visits, licensed clinicians make all treatment decisions; accepts commercial insurance in all 50 states.",
+    "source_url": "https://www.fiercehealthcare.com/digital-health/ai-enabled-virtual-mental-health-startup-siggy-launches-stealth"
   }
 ]

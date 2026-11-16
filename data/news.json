@@ -1,9 +1,19 @@
 {
  "meta": {
-  "last_updated": "2026-11-12",
-  "count": 260
+  "last_updated": "2026-11-16",
+  "count": 268
  },
  "items": [
+  {
+   "id": "plurai-funding-2026-11-13",
+   "date": "2026-11-13",
+   "startup_id": "plurai",
+   "type": "funding",
+   "headline": "Plurai raised $13M Seed",
+   "summary": "Simulation-based testing and self-improvement platform for AI agents: digital twins, adversarial test runs, fixes and task-specific small models.",
+   "source_url": "https://securitybrief.news/story/plurai-raises-usd-13-million-for-ai-agent-testing-platform",
+   "round": "seed"
+  },
   {
    "id": "imprint-funding-2026-11-12",
    "date": "2026-11-12",
@@ -23,6 +33,46 @@
    "summary": "Sustainability app where AI verifies everyday eco-actions, quantifies the CO2 saved and turns it into rewards and reportable impact data for brands and events.",
    "source_url": "https://www.trysignalbase.com/news/funding/earthmera-raises-1m-pre-seed-funding",
    "round": "pre-seed"
+  },
+  {
+   "id": "hatz-ai-funding-2026-11-12",
+   "date": "2026-11-12",
+   "startup_id": "hatz-ai",
+   "type": "funding",
+   "headline": "Hatz AI raised $24M Series A",
+   "summary": "AI operating system for small and medium-sized businesses, delivered through managed service providers (multi-tenant AI governance, custom workflows, model routing).",
+   "source_url": "https://www.prnewswire.com/news-releases/hatz-ai-raises-24m-series-a-to-solidify-position-as-the-ai-platform-for-managed-service-providers-and-small-and-medium-sized-businesses-302936133.html",
+   "round": "Series A"
+  },
+  {
+   "id": "duet-funding-2026-11-12",
+   "date": "2026-11-12",
+   "startup_id": "duet",
+   "type": "funding",
+   "headline": "Duet raised $15M Series A",
+   "summary": "Network and practice-support platform helping nurse practitioners open and run their own primary care clinics, largely in rural and underserved communities.",
+   "source_url": "https://www.businesswire.com/news/home/20261112435343/en/Duet-Raises-%2415M-to-Scale-Nurse-Practitioner-Owned-Clinics-Filling-Critical-Primary-Care-Gap",
+   "round": "Series A"
+  },
+  {
+   "id": "axle-access-funding-2026-11-12",
+   "date": "2026-11-12",
+   "startup_id": "axle-access",
+   "type": "funding",
+   "headline": "Axle raised $9M",
+   "summary": "Operating system for sell-side corporate access: conferences, roadshows, analyst marketing and expert meetings for investment banks, with AI scheduling and investor targeting.",
+   "source_url": "https://www.webwire.com/ViewPressRel.asp?aId=364073",
+   "round": "unknown"
+  },
+  {
+   "id": "imprint-access-launch-2026-11-11",
+   "date": "2026-11-11",
+   "startup_id": "imprint",
+   "type": "launch",
+   "headline": "Imprint launches Imprint Access, a deposit-backed card for people new to or rebuilding credit",
+   "summary": "Announced with its $130M round: refundable-deposit card with the same rewards as partner brands' regular cards and a path to an unsecured card.",
+   "source_url": "https://www.businesswire.com/news/home/20261111924315/en/Imprint-Raises-%24130-Million-to-Help-Brands-Build-Customer-Loyalty-as-AI-Reshapes-Commerce",
+   "round": "unknown"
   },
   {
    "id": "daylight-security-funding-2026-11-10",
@@ -75,6 +125,16 @@
    "round": "seed"
   },
   {
+   "id": "the-shadery-funding-2026-11-10",
+   "date": "2026-11-10",
+   "startup_id": "the-shadery",
+   "type": "funding",
+   "headline": "The Shadery raised $3M Seed",
+   "summary": "Home goods company making motorized Roman shades with swappable, made-to-order fabric panels.",
+   "source_url": "https://alleywatch.com/2026/11/the-shadery-motorized-roman-shades-interchangeable-fabric-smart-home-window-treatments-matt-weiler/",
+   "round": "seed"
+  },
+  {
    "id": "ridero-funding-2026-11-09",
    "date": "2026-11-09",
    "startup_id": "ridero",
@@ -113,6 +173,26 @@
    "summary": "AI platform that automates underwriting, pricing and portfolio management for commercial insurers.",
    "source_url": "https://alleywatch.com/2026/11/the-new-york-startup-daily-funding-report-11-5-2026/",
    "round": "Series B"
+  },
+  {
+   "id": "siggy-funding-2026-11-05",
+   "date": "2026-11-05",
+   "startup_id": "siggy",
+   "type": "funding",
+   "headline": "Siggy raised $6M Pre-seed",
+   "summary": "AI-enabled mental health care: daily AI check-ins and a 'Siggy Score' between visits, with licensed clinicians making every diagnosis and prescription; takes commercial insurance, free for veterans.",
+   "source_url": "https://news.crunchbase.com/venture/nurx-journey-clinical-founders-raise-mental-health-startup-siggy/",
+   "round": "pre-seed"
+  },
+  {
+   "id": "siggy-launch-2026-11-05",
+   "date": "2026-11-05",
+   "startup_id": "siggy",
+   "type": "launch",
+   "headline": "Siggy launches out of stealth with AI-supported, clinician-led psychiatry care",
+   "summary": "Daily AI check-ins between visits, licensed clinicians make all treatment decisions; accepts commercial insurance in all 50 states.",
+   "source_url": "https://www.fiercehealthcare.com/digital-health/ai-enabled-virtual-mental-health-startup-siggy-launches-stealth",
+   "round": "unknown"
   },
   {
    "id": "cowboy-funding-2026-11-04",
@@ -871,7 +951,7 @@
    "type": "funding",
    "headline": "Niteshift raised $7M Seed",
    "summary": "Niteshift is the full-stack cloud platform for AI coding agents, enabling teams to run, test and verify software autonomously in real-world development environments.",
-   "source_url": "https://www.newswire.com/news/niteshift-raises-7-million-seed-round-to-power-the-cloud-platform-for-ai-coding",
+   "source_url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
    "round": "seed"
   },
   {

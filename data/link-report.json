@@ -1,21 +1,11 @@
 {
- "checked_at": "2026-11-12T09:00:12",
- "total": 1436,
+ "checked_at": "2026-11-16T08:59:24",
+ "total": 1461,
  "summary": {
-  "ok": 1389,
-  "blocked": 46,
-  "dead": 1
+  "ok": 1411,
+  "blocked": 50
  },
- "dead": {
-  "https://jobs.lever.co/sesame/": {
-   "status": 404,
-   "final_url": "https://jobs.lever.co/sesame/",
-   "state": "dead",
-   "used_by": [
-    "sesame:careers_url"
-   ]
-  }
- },
+ "dead": {},
  "errors": {},
  "blocked": {
   "https://www.businesswire.com/news/home/20250602787210/en/AgentSmyth-Raises-%248.7M-Seed-Round-From-FinTech-Collective-Thomson-Reuters-and-Others-to-Scale-Autonomous-Agent-Platform-for-Trading-and-Investment": {
@@ -66,6 +56,15 @@
     "birches-health:source:Funding announcement",
     "birches-health:last_round.source",
     "news:birches-health-funding-2025-09-16"
+   ]
+  },
+  "https://www.linkedin.com/company/bluefish-ai": {
+   "status": 429,
+   "final_url": "https://www.linkedin.com/company/bluefish-ai",
+   "state": "blocked",
+   "used_by": [
+    "bluefish:source:LinkedIn",
+    "bluefish:hq.source"
    ]
   },
   "https://www.businesswire.com/news/home/20241029778071/en/Brightwave-Secures-15M-Series-A-to-Scale-AI-Powered-Financial-Research-Platform": {
@@ -127,6 +126,17 @@
     "cowboy:last_round.source",
     "cowboy:hq.source",
     "news:cowboy-funding-2026-11-04"
+   ]
+  },
+  "https://www.businesswire.com/news/home/20261112435343/en/Duet-Raises-%2415M-to-Scale-Nurse-Practitioner-Owned-Clinics-Filling-Critical-Primary-Care-Gap": {
+   "status": 403,
+   "final_url": "https://www.businesswire.com/news/home/20261112435343/en/Duet-Raises-%2415M-to-Scale-Nurse-Practitioner-Owned-Clinics-Filling-Critical-Primary-Care-Gap",
+   "state": "blocked",
+   "used_by": [
+    "duet:source:Funding / news source",
+    "duet:last_round.source",
+    "duet:hq.source",
+    "news:duet-funding-2026-11-12"
    ]
   },
   "https://www.foratravel.com": {
@@ -253,14 +263,6 @@
     "news:opentrons-funding-2026-10-29"
    ]
   },
-  "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link": {
-   "status": 401,
-   "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link",
-   "state": "blocked",
-   "used_by": [
-    "pacagen:careers_url"
-   ]
-  },
   "https://www.businesswire.com/news/home/20260527047143/en/Pace-Raises-%2446-Million-Series-B-to-Build-the-Next-Century-of-Insurance": {
    "status": 403,
    "final_url": "https://www.businesswire.com/news/home/20260527047143/en/Pace-Raises-%2446-Million-Series-B-to-Build-the-Next-Century-of-Insurance",
@@ -269,6 +271,14 @@
     "pace:source:Funding announcement",
     "pace:last_round.source",
     "news:pace-funding-2026-05-27"
+   ]
+  },
+  "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link": {
+   "status": 401,
+   "final_url": "https://docs.google.com/forms/d/e/1FAIpQLSew2Gn79YaC2J1GUXYo9tfkmfmmtfa-igryl6Rut-9e85D_KA/viewform?usp=sharing&ouid=106708986754664555461&urp=gmail_link",
+   "state": "blocked",
+   "used_by": [
+    "pacagen:careers_url"
    ]
   },
   "https://www.forbes.com/sites/charliefink/2025/11/04/parable-raises-165-million-to-power-ai-transformation-with-real-data/": {
@@ -289,6 +299,15 @@
     "permitflow:source:Funding announcement",
     "permitflow:last_round.source",
     "news:permitflow-funding-2025-12-02"
+   ]
+  },
+  "https://phia.com/": {
+   "status": 429,
+   "final_url": "https://phia.com/",
+   "state": "blocked",
+   "used_by": [
+    "phia:website",
+    "phia:source:Company website"
    ]
   },
   "https://www.streetinsider.com/Globe+Newswire/Phia+Raises+%2435M+Series+A+to+Build+the+AI+Alignment+Layer+for+Commerce/25898163.html": {
@@ -447,6 +466,14 @@
     "via:source:Funding / news source",
     "via:last_round.source",
     "news:via-other-2025-09-12"
+   ]
+  },
+  "https://www.businesswire.com/news/home/20261111924315/en/Imprint-Raises-%24130-Million-to-Help-Brands-Build-Customer-Loyalty-as-AI-Reshapes-Commerce": {
+   "status": 403,
+   "final_url": "https://www.businesswire.com/news/home/20261111924315/en/Imprint-Raises-%24130-Million-to-Help-Brands-Build-Customer-Loyalty-as-AI-Reshapes-Commerce",
+   "state": "blocked",
+   "used_by": [
+    "news:imprint-access-launch-2026-11-11"
    ]
   },
   "https://www.fintechfutures.com/venture-capital-funding/prism-data-lands-20m-series-a-funding": {

@@ -1,7 +1,7 @@
 {
  "meta": {
-  "last_updated": "2026-11-12",
-  "count": 341,
+  "last_updated": "2026-11-16",
+  "count": 347,
   "round_order": [
    "pre-seed",
    "seed",
@@ -70,7 +70,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -121,7 +121,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -168,7 +168,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -228,7 +228,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -288,7 +288,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -344,7 +344,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -404,7 +404,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -459,7 +459,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -510,7 +510,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -565,7 +565,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "acquired",
    "round_name": null
   },
@@ -616,7 +616,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -676,7 +676,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -732,7 +732,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -785,7 +785,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -820,8 +820,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Inside Sales Representative (Contract)",
-     "meta": "New York, Denver, Remote, San Francisco · Nov 3, 2026"
+     "title": "Operations Associate, San Francisco",
+     "meta": "San Francisco · Nov 14, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -847,7 +847,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -907,7 +907,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -958,7 +958,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -1009,7 +1009,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -1064,7 +1064,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -1099,8 +1099,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Product Manager, Growth (DIY Tax Filing)",
-     "meta": "Tel Aviv · Nov 8, 2026"
+     "title": "Tax Expert (Reviewer) - Seasonal",
+     "meta": "United States · Oct 29, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -1127,7 +1127,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -1174,7 +1174,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -1221,7 +1221,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -1273,7 +1273,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -1328,7 +1328,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -1379,7 +1379,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -1426,7 +1426,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -1477,7 +1477,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -1537,7 +1537,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -1597,7 +1597,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -1652,7 +1652,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -1710,9 +1710,61 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
+  },
+  {
+   "id": "axle-access",
+   "name": "Axle",
+   "website": "https://www.axleaccess.com",
+   "description": "Operating system for sell-side corporate access: conferences, roadshows, analyst marketing and expert meetings for investment banks, with AI scheduling and investor targeting.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Fintech",
+    "AI"
+   ],
+   "stage": "unknown",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$9M",
+    "stage": "unknown",
+    "date": "2026-11-12",
+    "source": "https://www.webwire.com/ViewPressRel.asp?aId=364073"
+   },
+   "acquired_by": null,
+   "headcount": "11-50 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "New York, NY",
+    "source": "https://www.linkedin.com/company/axleaccess",
+    "source_type": "LinkedIn"
+   },
+   "careers_url": "https://www.axleaccess.com/careers/",
+   "hiring": true,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://www.axleaccess.com"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/axleaccess"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://www.webwire.com/ViewPressRel.asp?aId=364073"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-11-16",
+   "round": "unknown",
+   "round_name": null
   },
   {
    "id": "baba",
@@ -1770,7 +1822,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -1805,8 +1857,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Senior Controller",
-     "meta": "Remote, New York Office · Oct 28, 2026"
+     "title": "RIA, Participant Education",
+     "meta": "Remote, New York Office · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -1832,7 +1884,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -1888,7 +1940,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -1896,9 +1948,9 @@
    "id": "basis-research",
    "name": "Basis Research",
    "website": "https://www.basis.ai/",
-   "description": "Basis is a 501(c)(3) nonprofit applied research organization with two mutually reinforcing goals.",
+   "description": "Basis is a nonprofit applied AI research organization with two mutually reinforcing goals.",
    "tagline": "Creating a new kind of AI research organization.",
-   "about": "Basis is a 501(c)(3) nonprofit applied research organization with two mutually reinforcing goals. The first is to understand and build intelligence. This means to establish the mathematical principles of what it means to reason, to learn, to make decisions, to understand, and to explain; and to construct software that implements these principles. The second is to advance society’s ability to solve intractable problems.",
+   "about": "Basis is a nonprofit applied AI research organization with two mutually reinforcing goals. The first is to understand and build intelligence. This means to establish the mathematical principles of what it means to reason, to learn, to make decisions, to understand, and to explain; and to construct software that implements these principles.",
    "sectors": [
     "AI"
    ],
@@ -1940,7 +1992,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -1995,7 +2047,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -2050,7 +2102,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -2104,7 +2156,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series E+",
    "round_name": "Series F"
   },
@@ -2157,7 +2209,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -2210,7 +2262,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -2265,7 +2317,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -2323,7 +2375,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -2383,7 +2435,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -2434,7 +2486,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -2485,7 +2537,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -2539,7 +2591,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "acquired",
    "round_name": null
   },
@@ -2590,7 +2642,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -2650,7 +2702,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -2712,7 +2764,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -2747,8 +2799,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Director of Operations",
-     "meta": "Campus NYC · Nov 9, 2026"
+     "title": "Manager, Workplace Operations",
+     "meta": "Campus NYC · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -2768,7 +2820,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -2822,7 +2874,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series E+",
    "round_name": "Series E"
   },
@@ -2875,7 +2927,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "unknown",
    "round_name": null
   },
@@ -2930,7 +2982,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -2990,7 +3042,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -3037,7 +3089,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -3072,8 +3124,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Head of Talent",
-     "meta": "Brooklyn, New York, United States · Oct 30, 2026"
+     "title": "Client Development Associate, GP",
+     "meta": "Brooklyn, New York, United States · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -3093,7 +3145,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -3149,7 +3201,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -3200,7 +3252,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -3236,7 +3288,7 @@
    "open_roles_sample": [
     {
      "title": "Senior Data Analyst",
-     "meta": "New York · Sep 24, 2026"
+     "meta": "New York · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -3258,7 +3310,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -3311,7 +3363,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -3346,8 +3398,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "ClayDR (Sales Development Representative) - NYC",
-     "meta": "New York · Nov 10, 2026"
+     "title": "Machine Learning Engineer",
+     "meta": "San Francisco · Nov 14, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -3371,7 +3423,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -3422,7 +3474,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -3477,7 +3529,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "unknown",
    "round_name": null
   },
@@ -3512,8 +3564,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Associate Director - Operations Manager",
-     "meta": "New York, NY · Nov 4, 2026"
+     "title": "Associate Associate - Equity Research",
+     "meta": "New York, NY · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -3533,7 +3585,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -3593,7 +3645,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -3653,7 +3705,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -3708,7 +3760,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -3768,7 +3820,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -3828,7 +3880,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -3888,7 +3940,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -3940,7 +3992,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -3994,7 +4046,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -4049,7 +4101,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -4104,7 +4156,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -4160,7 +4212,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -4211,7 +4263,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -4258,7 +4310,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -4314,7 +4366,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -4369,7 +4421,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -4429,7 +4481,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -4491,7 +4543,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -4542,7 +4594,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -4602,7 +4654,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -4657,7 +4709,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -4714,7 +4766,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -4771,7 +4823,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "unknown",
    "round_name": null
   },
@@ -4831,7 +4883,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -4891,7 +4943,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -4926,8 +4978,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Executive Assistant",
-     "meta": "New York City · Oct 23, 2026"
+     "title": "Software Engineer",
+     "meta": "New York City · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -4951,7 +5003,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -5009,7 +5061,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -5064,7 +5116,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -5115,7 +5167,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -5150,8 +5202,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Senior Product Marketing Manager",
-     "meta": "New York City · Oct 29, 2026"
+     "title": "Technical Product Manager",
+     "meta": "New York City · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -5175,7 +5227,59 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
+   "round": "Series A",
+   "round_name": "Series A"
+  },
+  {
+   "id": "duet",
+   "name": "Duet",
+   "website": "https://joinduet.com",
+   "description": "Network and practice-support platform helping nurse practitioners open and run their own primary care clinics, largely in rural and underserved communities.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Healthcare",
+    "AI"
+   ],
+   "stage": "Series A",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$15M Series A",
+    "stage": "Series A",
+    "date": "2026-11-12",
+    "source": "https://www.businesswire.com/news/home/20261112435343/en/Duet-Raises-%2415M-to-Scale-Nurse-Practitioner-Owned-Clinics-Filling-Critical-Primary-Care-Gap"
+   },
+   "acquired_by": null,
+   "headcount": "11-50 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "New York, NY (Business Wire dateline NEW YORK; LinkedIn location New York, NY; careers page roles in New York City)",
+    "source": "https://www.businesswire.com/news/home/20261112435343/en/Duet-Raises-%2415M-to-Scale-Nurse-Practitioner-Owned-Clinics-Filling-Critical-Primary-Care-Gap",
+    "source_type": "other"
+   },
+   "careers_url": "https://jobs.ashbyhq.com/duet",
+   "hiring": true,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://joinduet.com"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/joinduet"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://www.businesswire.com/news/home/20261112435343/en/Duet-Raises-%2415M-to-Scale-Nurse-Practitioner-Owned-Clinics-Filling-Critical-Primary-Care-Gap"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -5224,7 +5328,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -5280,7 +5384,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -5335,7 +5439,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -5390,7 +5494,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -5450,7 +5554,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -5505,7 +5609,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -5559,7 +5663,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -5615,7 +5719,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -5675,7 +5779,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -5710,8 +5814,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Director of Channels - West",
-     "meta": "San Francisco · Nov 10, 2026"
+     "title": "Account Executive — Georgia",
+     "meta": "Atlanta · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -5735,7 +5839,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -5786,7 +5890,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -5833,7 +5937,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -5887,7 +5991,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -5945,7 +6049,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6001,7 +6105,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6052,7 +6156,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6109,7 +6213,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "acquired",
    "round_name": null
   },
@@ -6164,7 +6268,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "acquired",
    "round_name": null
   },
@@ -6220,7 +6324,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6276,7 +6380,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6332,7 +6436,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6383,7 +6487,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6440,7 +6544,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6502,7 +6606,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6549,7 +6653,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -6605,7 +6709,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -6640,8 +6744,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Data Scientist",
-     "meta": "New York City · Nov 11, 2026"
+     "title": "Product Operations Lead, Booking Platform",
+     "meta": "New York City · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -6661,7 +6765,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -6724,7 +6828,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6784,7 +6888,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -6835,7 +6939,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -6882,7 +6986,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -6917,8 +7021,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Client Success Manager",
-     "meta": "Singapore · Sep 16, 2026"
+     "title": "Head of GTM Engineering",
+     "meta": "San Francisco · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -6942,7 +7046,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -7000,7 +7104,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -7060,7 +7164,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -7107,7 +7211,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -7162,7 +7266,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -7219,7 +7323,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -7273,7 +7377,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series E+",
    "round_name": "Series E"
   },
@@ -7326,7 +7430,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -7375,7 +7479,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -7410,8 +7514,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Product Marketing Operations Manager | UK | Remote",
-     "meta": "United Kingdom (Remote) · Nov 10, 2026"
+     "title": "Engineering Manager - Grafana Productivity  (Remote, Canada)",
+     "meta": "Canada (Remote) · Nov 16, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -7431,7 +7535,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -7486,7 +7590,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "acquired",
    "round_name": null
   },
@@ -7533,7 +7637,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -7568,8 +7672,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Director, FP&A",
-     "meta": "New York City · Oct 29, 2026"
+     "title": "Senior Accountant",
+     "meta": "New York City · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -7595,7 +7699,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -7655,7 +7759,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -7706,7 +7810,59 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
+   "round": "Series A",
+   "round_name": "Series A"
+  },
+  {
+   "id": "hatz-ai",
+   "name": "Hatz AI",
+   "website": "https://www.hatz.ai",
+   "description": "AI operating system for small and medium-sized businesses, delivered through managed service providers (multi-tenant AI governance, custom workflows, model routing).",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "AI",
+    "B2B Software"
+   ],
+   "stage": "Series A",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$24M Series A",
+    "stage": "Series A",
+    "date": "2026-11-12",
+    "source": "https://www.prnewswire.com/news-releases/hatz-ai-raises-24m-series-a-to-solidify-position-as-the-ai-platform-for-managed-service-providers-and-small-and-medium-sized-businesses-302936133.html"
+   },
+   "acquired_by": null,
+   "headcount": "11-50 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "New York, NY",
+    "source": "https://www.linkedin.com/company/hatz-ai",
+    "source_type": "LinkedIn"
+   },
+   "careers_url": "https://www.hatz.ai/about-us",
+   "hiring": true,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://www.hatz.ai"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/hatz-ai"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://www.prnewswire.com/news-releases/hatz-ai-raises-24m-series-a-to-solidify-position-as-the-ai-platform-for-managed-service-providers-and-small-and-medium-sized-businesses-302936133.html"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -7766,7 +7922,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -7821,7 +7977,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -7856,8 +8012,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Strategic Finance",
-     "meta": "New York, New York · Nov 11, 2026"
+     "title": "Insurance Architect",
+     "meta": "New York, New York · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -7881,7 +8037,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -7932,7 +8088,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -7987,7 +8143,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -8038,7 +8194,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -8095,7 +8251,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -8147,7 +8303,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -8187,7 +8343,9 @@
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
-   "focus": [],
+   "focus": [
+    "fair_finance"
+   ],
    "sources": [
     {
      "label": "startups.gallery profile",
@@ -8207,7 +8365,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -8261,7 +8419,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -8308,7 +8466,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -8368,7 +8526,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -8421,7 +8579,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "unknown",
    "round_name": null
   },
@@ -8475,7 +8633,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -8531,7 +8689,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -8566,8 +8724,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Founders Associate",
-     "meta": "New York, NY · Nov 9, 2026"
+     "title": "AI/ML Engineer",
+     "meta": "New York, NY · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -8593,7 +8751,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -8649,7 +8807,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -8705,7 +8863,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series E+",
    "round_name": "Series G"
   },
@@ -8760,7 +8918,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -8811,7 +8969,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -8867,7 +9025,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -8921,7 +9079,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -8972,7 +9130,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -9019,7 +9177,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -9079,7 +9237,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -9130,7 +9288,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -9165,8 +9323,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Senior Accountant",
-     "meta": "New York, New York, United States · Oct 30, 2026"
+     "title": "Senior Software Engineer, Issuing",
+     "meta": "Remote · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -9186,7 +9344,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -9244,7 +9402,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -9291,7 +9449,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "unknown",
    "round_name": null
   },
@@ -9346,7 +9504,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -9401,7 +9559,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -9436,8 +9594,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Product Manager",
-     "meta": "New York City · Oct 10, 2026"
+     "title": "Account Executive (Global Mobility & HR)",
+     "meta": "San Francisco, New York City · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -9461,7 +9619,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -9512,7 +9670,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -9565,7 +9723,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -9621,7 +9779,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -9674,7 +9832,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series E+",
    "round_name": "Series E"
   },
@@ -9730,7 +9888,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -9765,8 +9923,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Senior HRBP",
-     "meta": "Toronto GTA · Nov 11, 2026"
+     "title": "Engineering Recruiter (Contract)",
+     "meta": "Toronto GTA · Nov 14, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -9790,7 +9948,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -9845,7 +10003,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -9880,8 +10038,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Technical Recruiter",
-     "meta": "New York City · Nov 11, 2026"
+     "title": "Chief of Staff",
+     "meta": "New York City · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -9901,7 +10059,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -9955,7 +10113,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "unknown",
    "round_name": null
   },
@@ -9990,8 +10148,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Software Engineer, Agents",
-     "meta": "Union Square, New York City · Nov 9, 2026"
+     "title": "Software Engineer, 3D Rendering",
+     "meta": "Union Square, New York City · Nov 14, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -10017,7 +10175,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -10070,7 +10228,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -10130,7 +10288,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -10181,7 +10339,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -10213,14 +10371,9 @@
     "source_type": "LinkedIn"
    },
    "careers_url": "https://jobs.ashbyhq.com/moment",
-   "hiring": true,
-   "open_roles_sample": [
-    {
-     "title": "Deployment Strategist",
-     "meta": "New York, NY · Aug 17, 2026"
-    }
-   ],
-   "open_roles_count_text": "1 roles listed on startups.gallery",
+   "hiring": false,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
    "focus": [],
    "sources": [
     {
@@ -10241,7 +10394,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -10301,7 +10454,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -10348,7 +10501,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -10401,7 +10554,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -10456,7 +10609,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -10511,7 +10664,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -10564,7 +10717,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -10613,7 +10766,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -10666,7 +10819,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -10717,7 +10870,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -10777,7 +10930,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -10830,7 +10983,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "unknown",
    "round_name": null
   },
@@ -10884,7 +11037,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "unknown",
    "round_name": null
   },
@@ -10904,7 +11057,7 @@
     "amount": "$7M",
     "stage": "Seed",
     "date": "2026-06-10",
-    "source": "https://www.newswire.com/news/niteshift-raises-7-million-seed-round-to-power-the-cloud-platform-for-ai-coding"
+    "source": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/"
    },
    "acquired_by": null,
    "headcount": "2-10 employees",
@@ -10935,11 +11088,11 @@
     },
     {
      "label": "Funding announcement",
-     "url": "https://www.newswire.com/news/niteshift-raises-7-million-seed-round-to-power-the-cloud-platform-for-ai-coding"
+     "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/"
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -10990,7 +11143,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -11045,7 +11198,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -11101,7 +11254,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -11157,7 +11310,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -11217,7 +11370,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -11268,7 +11421,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -11323,7 +11476,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -11358,8 +11511,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Analytics Engineering Manager",
-     "meta": "New York, NY · Nov 10, 2026"
+     "title": "Licensing Senior Associate",
+     "meta": "Remote · Nov 15, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -11383,7 +11536,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -11434,7 +11587,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "unknown",
    "round_name": null
   },
@@ -11491,7 +11644,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -11546,7 +11699,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -11601,7 +11754,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -11657,7 +11810,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "unknown",
    "round_name": null
   },
@@ -11712,7 +11865,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -11768,7 +11921,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -11821,7 +11974,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series E+",
    "round_name": "Series E"
   },
@@ -11876,7 +12029,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -11931,7 +12084,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -11982,7 +12135,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -12042,7 +12195,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -12077,8 +12230,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Deployment Associate",
-     "meta": "New York City · Nov 10, 2026"
+     "title": "Software Engineer, Platform",
+     "meta": "New York City · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -12102,7 +12255,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -12149,7 +12302,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -12202,7 +12355,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -12253,7 +12406,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -12313,7 +12466,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -12368,7 +12521,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -12423,7 +12576,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -12479,7 +12632,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -12536,7 +12689,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -12587,7 +12740,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -12649,7 +12802,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -12706,7 +12859,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -12757,7 +12910,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -12813,7 +12966,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -12867,9 +13020,61 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
+  },
+  {
+   "id": "plurai",
+   "name": "Plurai",
+   "website": "https://www.plurai.ai",
+   "description": "Simulation-based testing and self-improvement platform for AI agents: digital twins, adversarial test runs, fixes and task-specific small models.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "AI",
+    "Developer Tools"
+   ],
+   "stage": "seed",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$13M Seed",
+    "stage": "seed",
+    "date": "2026-11-13",
+    "source": "https://securitybrief.news/story/plurai-raises-usd-13-million-for-ai-agent-testing-platform"
+   },
+   "acquired_by": null,
+   "headcount": "11-50 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "New York City, NY",
+    "source": "https://www.linkedin.com/company/plurai",
+    "source_type": "LinkedIn"
+   },
+   "careers_url": "https://www.plurai.ai/careers",
+   "hiring": true,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://www.plurai.ai"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/plurai"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://securitybrief.news/story/plurai-raises-usd-13-million-for-ai-agent-testing-platform"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-11-16",
+   "round": "seed",
+   "round_name": "Seed"
   },
   {
    "id": "plural",
@@ -12922,7 +13127,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -12978,7 +13183,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -13037,7 +13242,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -13088,7 +13293,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -13148,7 +13353,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -13201,7 +13406,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -13258,7 +13463,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -13309,7 +13514,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -13344,8 +13549,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Manager, Mid-Market Account Management",
-     "meta": "New York, New York, San Francisco, California · Nov 11, 2026"
+     "title": "Revenue Architect",
+     "meta": "New York, New York, San Francisco, California, London, England · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -13369,7 +13574,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -13428,7 +13633,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -13488,7 +13693,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -13543,7 +13748,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -13599,7 +13804,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -13654,7 +13859,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -13689,8 +13894,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Program Coordinator",
-     "meta": "District of Columbia · Nov 9, 2026"
+     "title": "Product Compliance Manager",
+     "meta": "New York, NY · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -13714,7 +13919,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -13769,7 +13974,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -13823,7 +14028,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series E+",
    "round_name": "Series G"
   },
@@ -13858,8 +14063,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Research Program Manager, Research Infra and Training Frameworks",
-     "meta": "San Francisco, CA · Nov 5, 2026"
+     "title": "Member of Technical Staff - Safety",
+     "meta": "San Francisco, CA, London, New York, NY · Nov 16, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -13883,7 +14088,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -13937,7 +14142,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "unknown",
    "round_name": null
   },
@@ -13972,8 +14177,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Capital Markets Partnerships Lead",
-     "meta": "NYC, San Francisco · Nov 11, 2026"
+     "title": "Staff Security Engineer",
+     "meta": "NYC · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -13993,7 +14198,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -14047,7 +14252,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -14098,7 +14303,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -14151,7 +14356,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -14186,8 +14391,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Forward Deployed Banker, Middle East",
-     "meta": "Dubai / Abu Dhabi · Nov 10, 2026"
+     "title": "Client Strategy, Rogo Notes",
+     "meta": "New York City · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -14211,7 +14416,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -14262,7 +14467,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -14297,8 +14502,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Field Marketing Manager",
-     "meta": "NYC · Nov 2, 2026"
+     "title": "Sales Director",
+     "meta": "SF, Remote (US Timezones), NYC · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -14322,7 +14527,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -14379,7 +14584,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -14430,7 +14635,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -14440,7 +14645,7 @@
    "website": "https://sandbar.com/",
    "description": "Sandbar is an interface company in New York City.",
    "tagline": "Private voice wearable.",
-   "about": "Sandbar is an interface company in New York City. We aim to augment individuals so we can each think, act, and move more freely. Our team has built SW, ML, and HW products across Meta, CTRL-labs, Google, Apple, Fitbit, Peloton, and Equinox.",
+   "about": "Sandbar is an interface company in New York City. We aim to expand human thinking. Our team has built software, ML, hardware, and consumer products across Meta, CTRL-labs, Apple, Peloton, and Equinox. Our first product is Stream, a private voice ring that extends your thinking. Stream has been featured in WSJ, Bloomberg, Wired, and Time's Best Inventions of the Year.",
    "sectors": [
     "Consumer"
    ],
@@ -14453,7 +14658,7 @@
     "source": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/"
    },
    "acquired_by": null,
-   "headcount": "11–50",
+   "headcount": "51–200",
    "headcount_source": "startups.gallery",
    "work_type": "Onsite",
    "hq": {
@@ -14488,7 +14693,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -14548,7 +14753,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -14603,7 +14808,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -14638,8 +14843,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Portfolio Strategist",
-     "meta": "NYC Office · Nov 11, 2026"
+     "title": "Strategy & Operations Manager - Brokerage",
+     "meta": "Remote - US · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -14663,7 +14868,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -14717,7 +14922,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -14777,7 +14982,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -14825,7 +15030,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "unknown",
    "round_name": null
   },
@@ -14880,7 +15085,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "acquired",
    "round_name": null
   },
@@ -14929,7 +15134,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "pre-seed",
    "round_name": "Pre-Seed"
   },
@@ -14980,7 +15185,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -15030,7 +15235,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "unknown",
    "round_name": null
   },
@@ -15081,7 +15286,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -15138,7 +15343,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -15173,8 +15378,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Manager, Product Support - Brand Onboarding",
-     "meta": "US - Remote · Nov 6, 2026"
+     "title": "Manager, Talent Acquisition",
+     "meta": "New York, NY · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -15198,7 +15403,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -15249,7 +15454,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -15309,9 +15514,68 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
+  },
+  {
+   "id": "siggy",
+   "name": "Siggy",
+   "website": "https://siggymd.ai",
+   "description": "AI-enabled mental health care: daily AI check-ins and a 'Siggy Score' between visits, with licensed clinicians making every diagnosis and prescription; takes commercial insurance, free for veterans.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Healthcare",
+    "AI",
+    "Consumer"
+   ],
+   "stage": "pre-seed",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$6M Pre-seed",
+    "stage": "pre-seed",
+    "date": "2026-11-05",
+    "source": "https://news.crunchbase.com/venture/nurx-journey-clinical-founders-raise-mental-health-startup-siggy/"
+   },
+   "acquired_by": null,
+   "headcount": "2-10 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "New York, NY (company site footer: 'Sigmind Inc. (SiggyMD) Headquartered in New York, NY'; Crunchbase News: 'New York-based Siggy')",
+    "source": "https://siggymd.ai/about/",
+    "source_type": "other"
+   },
+   "careers_url": null,
+   "hiring": false,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [
+    "ai_everyday"
+   ],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://siggymd.ai"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/siggymd"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://news.crunchbase.com/venture/nurx-journey-clinical-founders-raise-mental-health-startup-siggy/"
+    },
+    {
+     "label": "HQ source",
+     "url": "https://siggymd.ai/about/"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-11-16",
+   "round": "pre-seed",
+   "round_name": "Pre-Seed"
   },
   {
    "id": "silna",
@@ -15344,8 +15608,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "AI Insurance Process Specialist",
-     "meta": "Remote · Nov 3, 2026"
+     "title": "Healthcare Insurance Phone Admin",
+     "meta": "Remote · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -15369,7 +15633,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -15416,7 +15680,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -15474,7 +15738,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -15527,7 +15791,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -15587,7 +15851,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -15634,7 +15898,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -15694,7 +15958,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -15730,7 +15994,7 @@
    "open_roles_sample": [
     {
      "title": "Staff Forward Deployed Software Engineer",
-     "meta": "REMOTE · Nov 2, 2026"
+     "meta": "United States · Nov 2, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -15752,7 +16016,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -15807,7 +16071,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -15862,7 +16126,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "acquired",
    "round_name": null
   },
@@ -15924,7 +16188,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -15979,7 +16243,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series E+",
    "round_name": "Series H"
   },
@@ -16014,8 +16278,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Video Content Engineer",
-     "meta": "Remote in the USA · Nov 10, 2026"
+     "title": "Payer Integrations Engineer",
+     "meta": "Remote in the USA, Hybrid in NYC · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -16039,7 +16303,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -16099,7 +16363,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -16154,7 +16418,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -16189,8 +16453,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "EMEA Partnerships Lead",
-     "meta": "London · Nov 10, 2026"
+     "title": "BDR Manager (Manger, Buisness Development)",
+     "meta": "San Francisco · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -16214,7 +16478,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -16272,7 +16536,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "unknown",
    "round_name": null
   },
@@ -16307,8 +16571,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "General Manager, Sunset",
-     "meta": "New York · Nov 4, 2026"
+     "title": "Head of Product",
+     "meta": "New York · Nov 15, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -16324,7 +16588,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -16379,7 +16643,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -16426,7 +16690,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -16481,7 +16745,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -16516,8 +16780,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Senior Technical Talent Acquisition Partner",
-     "meta": "New York City, NY · Nov 6, 2026"
+     "title": "Senior Software Engineer, Merchant Onboarding",
+     "meta": "New York City, NY · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -16541,7 +16805,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -16576,8 +16840,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Partnership Director",
-     "meta": "New York Office · Nov 6, 2026"
+     "title": "Commercial Lead",
+     "meta": "New York Office · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -16601,7 +16865,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -16632,7 +16896,7 @@
     "source": "https://www.linkedin.com/company/tavily",
     "source_type": "LinkedIn"
    },
-   "careers_url": "https://jobs.ashbyhq.com/tavily",
+   "careers_url": "https://www.tavily.com/careers/jobs",
    "hiring": false,
    "open_roles_sample": [],
    "open_roles_count_text": null,
@@ -16656,7 +16920,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "acquired",
    "round_name": null
   },
@@ -16711,7 +16975,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -16746,8 +17010,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Implementation Engineer",
-     "meta": "New York City Office · Nov 10, 2026"
+     "title": "Enterprise Account Partner",
+     "meta": "New York City Office · Nov 15, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -16767,7 +17031,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -16818,7 +17082,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -16873,7 +17137,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -16928,7 +17192,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -16979,7 +17243,59 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
+   "round": "seed",
+   "round_name": "Seed"
+  },
+  {
+   "id": "the-shadery",
+   "name": "The Shadery",
+   "website": "https://theshadery.com",
+   "description": "Home goods company making motorized Roman shades with swappable, made-to-order fabric panels.",
+   "tagline": null,
+   "about": null,
+   "sectors": [
+    "Consumer",
+    "Home"
+   ],
+   "stage": "seed",
+   "stage_detail": null,
+   "last_round": {
+    "amount": "$3M Seed",
+    "stage": "seed",
+    "date": "2026-11-10",
+    "source": "https://alleywatch.com/2026/11/the-shadery-motorized-roman-shades-interchangeable-fabric-smart-home-window-treatments-matt-weiler/"
+   },
+   "acquired_by": null,
+   "headcount": "2-10 employees",
+   "headcount_source": "LinkedIn",
+   "work_type": null,
+   "hq": {
+    "location": "New York, NY",
+    "source": "https://www.linkedin.com/company/theshadery",
+    "source_type": "LinkedIn"
+   },
+   "careers_url": "https://careers.theshadery.com",
+   "hiring": true,
+   "open_roles_sample": [],
+   "open_roles_count_text": null,
+   "focus": [],
+   "sources": [
+    {
+     "label": "Company website",
+     "url": "https://theshadery.com"
+    },
+    {
+     "label": "LinkedIn",
+     "url": "https://www.linkedin.com/company/theshadery"
+    },
+    {
+     "label": "Funding / news source",
+     "url": "https://alleywatch.com/2026/11/the-shadery-motorized-roman-shades-interchangeable-fabric-smart-home-window-treatments-matt-weiler/"
+    }
+   ],
+   "origin": "manual research",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -17034,7 +17350,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -17094,7 +17410,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -17150,7 +17466,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -17201,7 +17517,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -17236,8 +17552,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Regional Sales Director (DACH)",
-     "meta": "Germany · Nov 10, 2026"
+     "title": "Named Accounts Regional Sales Manager - SoCal",
+     "meta": "United States · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -17261,7 +17577,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -17314,7 +17630,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -17374,7 +17690,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -17431,7 +17747,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -17487,7 +17803,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "unknown",
    "round_name": null
   },
@@ -17538,7 +17854,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -17598,7 +17914,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -17651,7 +17967,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -17698,7 +18014,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -17758,7 +18074,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -17813,7 +18129,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -17869,7 +18185,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -17924,7 +18240,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -17979,7 +18295,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -18014,8 +18330,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "General Counsel",
-     "meta": "New York City · Nov 10, 2026"
+     "title": "Registered/Certified Respiratory Therapist",
+     "meta": "Remote · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -18031,7 +18347,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -18086,7 +18402,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "public",
    "round_name": null
   },
@@ -18146,7 +18462,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series C",
    "round_name": "Series C"
   },
@@ -18201,7 +18517,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "acquired",
    "round_name": null
   },
@@ -18252,7 +18568,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -18306,7 +18622,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -18360,7 +18676,7 @@
     }
    ],
    "origin": "manual research",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   },
@@ -18416,7 +18732,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -18476,7 +18792,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -18531,7 +18847,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series D",
    "round_name": "Series D"
   },
@@ -18582,7 +18898,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -18617,8 +18933,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Workplace Experience Coordinator",
-     "meta": "New York, NY · Nov 5, 2026"
+     "title": "Creative Brand Producer",
+     "meta": "New York City · Nov 12, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -18642,7 +18958,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -18677,8 +18993,8 @@
    "hiring": true,
    "open_roles_sample": [
     {
-     "title": "Senior Software Engineer II - Platform & Enablement",
-     "meta": "Remote - Canada Only · Nov 6, 2026"
+     "title": "Senior Director, Revenue Operations",
+     "meta": "Remote - US & Canada · Nov 13, 2026"
     }
    ],
    "open_roles_count_text": "1 roles listed on startups.gallery",
@@ -18698,7 +19014,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series B",
    "round_name": "Series B"
   },
@@ -18707,7 +19023,7 @@
    "name": "Yuzu",
    "website": "https://yuzu.health/",
    "description": "We're on a mission to simplify health plan administration from the ground up, starting with claims processing as a third-party administrator (TPA) for Plan Designers who create employer health insurance plans.",
-   "tagline": "Create your own health plan.",
+   "tagline": "Effortless administration for health plans",
    "about": "We're on a mission to simplify health plan administration from the ground up, starting with claims processing as a third-party administrator (TPA) for Plan Designers who create employer health insurance plans.",
    "sectors": [
     "Healthcare"
@@ -18753,7 +19069,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "Series A",
    "round_name": "Series A"
   },
@@ -18804,7 +19120,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "acquired",
    "round_name": null
   },
@@ -18857,7 +19173,7 @@
     }
    ],
    "origin": "startups.gallery",
-   "last_verified": "2026-11-12",
+   "last_verified": "2026-11-16",
    "round": "seed",
    "round_name": "Seed"
   }

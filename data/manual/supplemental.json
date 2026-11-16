@@ -1422,5 +1422,134 @@
     "linkedin": "https://www.linkedin.com/company/marblegroupxyz",
     "careers_url": null,
     "focus": []
+  },
+  {
+    "id": "hatz-ai",
+    "name": "Hatz AI",
+    "website": "https://www.hatz.ai",
+    "description": "AI operating system for small and medium-sized businesses, delivered through managed service providers (multi-tenant AI governance, custom workflows, model routing).",
+    "sectors": [
+      "AI",
+      "B2B Software"
+    ],
+    "stage": "Series A",
+    "last_round": {
+      "amount": "$24M Series A",
+      "date": "2026-11-12",
+      "url": "https://www.prnewswire.com/news-releases/hatz-ai-raises-24m-series-a-to-solidify-position-as-the-ai-platform-for-managed-service-providers-and-small-and-medium-sized-businesses-302936133.html"
+    },
+    "hq_hint": "New York, NY (LinkedIn HQ: New York; PR Newswire dateline NEW YORK, Flatiron office)",
+    "hq_hint_url": "https://www.linkedin.com/company/hatz-ai",
+    "linkedin": "https://www.linkedin.com/company/hatz-ai",
+    "careers_url": "https://www.hatz.ai/about-us",
+    "focus": []
+  },
+  {
+    "id": "duet",
+    "name": "Duet",
+    "website": "https://joinduet.com",
+    "description": "Network and practice-support platform helping nurse practitioners open and run their own primary care clinics, largely in rural and underserved communities.",
+    "sectors": [
+      "Healthcare",
+      "AI"
+    ],
+    "stage": "Series A",
+    "last_round": {
+      "amount": "$15M Series A",
+      "date": "2026-11-12",
+      "url": "https://www.businesswire.com/news/home/20261112435343/en/Duet-Raises-%2415M-to-Scale-Nurse-Practitioner-Owned-Clinics-Filling-Critical-Primary-Care-Gap"
+    },
+    "hq_hint": "New York, NY (Business Wire dateline NEW YORK; LinkedIn location New York, NY; careers page roles in New York City)",
+    "hq_hint_url": "https://www.businesswire.com/news/home/20261112435343/en/Duet-Raises-%2415M-to-Scale-Nurse-Practitioner-Owned-Clinics-Filling-Critical-Primary-Care-Gap",
+    "linkedin": "https://www.linkedin.com/company/joinduet",
+    "careers_url": "https://jobs.ashbyhq.com/duet",
+    "focus": []
+  },
+  {
+    "id": "axle-access",
+    "name": "Axle",
+    "website": "https://www.axleaccess.com",
+    "description": "Operating system for sell-side corporate access: conferences, roadshows, analyst marketing and expert meetings for investment banks, with AI scheduling and investor targeting.",
+    "sectors": [
+      "Fintech",
+      "AI"
+    ],
+    "stage": "unknown",
+    "last_round": {
+      "amount": "$9M",
+      "date": "2026-11-12",
+      "url": "https://www.webwire.com/ViewPressRel.asp?aId=364073"
+    },
+    "hq_hint": "New York, NY (LinkedIn HQ: New York; WebWire dateline NEW YORK, NY)",
+    "hq_hint_url": "https://www.linkedin.com/company/axleaccess",
+    "linkedin": "https://www.linkedin.com/company/axleaccess",
+    "careers_url": "https://www.axleaccess.com/careers/",
+    "focus": []
+  },
+  {
+    "id": "plurai",
+    "name": "Plurai",
+    "website": "https://www.plurai.ai",
+    "description": "Simulation-based testing and self-improvement platform for AI agents: digital twins, adversarial test runs, fixes and task-specific small models.",
+    "sectors": [
+      "AI",
+      "Developer Tools"
+    ],
+    "stage": "seed",
+    "last_round": {
+      "amount": "$13M Seed",
+      "date": "2026-11-13",
+      "url": "https://securitybrief.news/story/plurai-raises-usd-13-million-for-ai-agent-testing-platform"
+    },
+    "hq_hint": "New York, NY (LinkedIn HQ: New York City; SecurityBrief: 'The New York-based company')",
+    "hq_hint_url": "https://www.linkedin.com/company/plurai",
+    "linkedin": "https://www.linkedin.com/company/plurai",
+    "careers_url": "https://www.plurai.ai/careers",
+    "focus": []
+  },
+  {
+    "id": "the-shadery",
+    "name": "The Shadery",
+    "website": "https://theshadery.com",
+    "description": "Home goods company making motorized Roman shades with swappable, made-to-order fabric panels.",
+    "sectors": [
+      "Consumer",
+      "Home"
+    ],
+    "stage": "seed",
+    "last_round": {
+      "amount": "$3M Seed",
+      "date": "2026-11-10",
+      "url": "https://alleywatch.com/2026/11/the-shadery-motorized-roman-shades-interchangeable-fabric-smart-home-window-treatments-matt-weiler/"
+    },
+    "hq_hint": "New York, NY (LinkedIn HQ: New York, NY)",
+    "hq_hint_url": "https://www.linkedin.com/company/theshadery",
+    "linkedin": "https://www.linkedin.com/company/theshadery",
+    "careers_url": "https://careers.theshadery.com",
+    "focus": []
+  },
+  {
+    "id": "siggy",
+    "name": "Siggy",
+    "website": "https://siggymd.ai",
+    "description": "AI-enabled mental health care: daily AI check-ins and a 'Siggy Score' between visits, with licensed clinicians making every diagnosis and prescription; takes commercial insurance, free for veterans.",
+    "sectors": [
+      "Healthcare",
+      "AI",
+      "Consumer"
+    ],
+    "stage": "pre-seed",
+    "last_round": {
+      "amount": "$6M Pre-seed",
+      "date": "2026-11-05",
+      "url": "https://news.crunchbase.com/venture/nurx-journey-clinical-founders-raise-mental-health-startup-siggy/"
+    },
+    "hq_hint": "New York, NY (company site footer: 'Sigmind Inc. (SiggyMD) Headquartered in New York, NY'; Crunchbase News: 'New York-based Siggy')",
+    "hq_hint_url": "https://siggymd.ai/about/",
+    "linkedin": "https://www.linkedin.com/company/siggymd",
+    "careers_url": null,
+    "focus": [
+      "ai_everyday"
+    ]
   }
 ]
