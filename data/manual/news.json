@@ -98,5 +98,32 @@
     "headline": "Siggy launches out of stealth with AI-supported, clinician-led psychiatry care",
     "summary": "Daily AI check-ins between visits, licensed clinicians make all treatment decisions; accepts commercial insurance in all 50 states.",
     "source_url": "https://www.fiercehealthcare.com/digital-health/ai-enabled-virtual-mental-health-startup-siggy-launches-stealth"
+  },
+  {
+    "id": "edra-ai-funding-2026-11-16",
+    "date": "2026-11-16",
+    "startup_id": "edra-ai",
+    "type": "funding",
+    "headline": "Edra raises $10M from EQT Ventures, extending its Series A",
+    "summary": "Extends the $30M Series A announced in March; funds go to scaling its ContextOps platform for enterprises.",
+    "source_url": "https://www.finsmes.com/2026/11/edra-receives-investment-from-eqt-ventures.html"
+  },
+  {
+    "id": "finchlegal-funding-2026-11-18",
+    "date": "2026-11-18",
+    "startup_id": "finchlegal",
+    "type": "funding",
+    "headline": "Finch (Legal) has sold $75.5M of an $85M equity offering, SEC filing shows",
+    "summary": "Form D filed November 2026: $75,487,177 sold of an $85,029,663 offering, first sale 2026-11-04; round type not disclosed.",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/2073379/000123191926001591/0001231919-26-001591.txt"
+  },
+  {
+    "id": "accountable-launch-2026-11-16",
+    "date": "2026-11-16",
+    "startup_id": "accountable",
+    "type": "launch",
+    "headline": "Accountable comes out of stealth with a waitlist for flat-fee tax filing plus a 'taxpayer receipt'",
+    "summary": "Co-founded by Acorns CEO Noah Kerner; $76 flat filing price, free for people facing financial hardship; filing opens January 2027.",
+    "source_url": "https://www.inc.com/sam-blum/exclusive-the-founder-of-acorns-wants-to-unfck-americans-taxes/91436566"
   }
 ]

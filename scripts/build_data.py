@@ -159,6 +159,7 @@ def main():
 
     for s in load('data/manual/supplemental.json', []):
         cid = s['id']
+        if cid in excl: dropped[cid] = excl[cid]; continue
         li = li_info(cid)
         hq, why = hq_resolve(cid, li, s.get('hq_hint'), s.get('hq_hint_url'))
         if not hq: dropped[cid] = why; continue

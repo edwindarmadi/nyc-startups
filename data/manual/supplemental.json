@@ -1551,5 +1551,161 @@
     "focus": [
       "ai_everyday"
     ]
+  },
+  {
+    "id": "accountable",
+    "name": "Accountable",
+    "website": "https://accountableusa.com",
+    "description": "Consumer tax and civic company: AI-prefilled tax filing for a flat $76 (free for people in financial hardship) plus a personalized 'taxpayer receipt' showing where your taxes go; filing launches January 2027.",
+    "sectors": [
+      "Fintech",
+      "Consumer",
+      "Civic"
+    ],
+    "stage": "seed",
+    "last_round": {
+      "amount": "$20M total (seed co-led by Acrew Capital and M13)",
+      "date": "2026-11-16",
+      "url": "https://www.prnewswire.com/news-releases/accountable-launches-to-give-power-to-american-taxpayers-302939827.html"
+    },
+    "hq_hint": "New York, NY (LinkedIn HQ: New York; press release datelined NEW YORK)",
+    "hq_hint_url": "https://www.linkedin.com/company/accountableusa",
+    "linkedin": "https://www.linkedin.com/company/accountableusa",
+    "careers_url": null,
+    "focus": [
+      "fair_finance",
+      "civic",
+      "ai_everyday"
+    ]
+  },
+  {
+    "id": "bevado",
+    "name": "Bevado",
+    "website": "https://www.bevado.com",
+    "description": "AI agents for property managers that handle leasing outreach, resident communication, maintenance coordination and follow-ups across voice, text, email and chat (formerly Frontdesk).",
+    "sectors": [
+      "Real Estate",
+      "AI"
+    ],
+    "stage": "seed",
+    "last_round": {
+      "amount": "$10M Seed",
+      "date": "2026-11-16",
+      "url": "https://www.businesswire.com/news/home/20261116477086/en/Bevado-Raises-%2410-Million-Seed-to-Build-AI-Agents-That-Remember-Every-Resident-and-Learn-From-Every-Conversation"
+    },
+    "hq_hint": "New York, NY (LinkedIn HQ: New York, New York; Business Wire: 'New York City-based')",
+    "hq_hint_url": "https://www.linkedin.com/company/bevado",
+    "linkedin": "https://www.linkedin.com/company/bevado",
+    "careers_url": "https://www.bevado.com/careers",
+    "focus": []
+  },
+  {
+    "id": "hone-health",
+    "name": "Hone Health",
+    "website": "https://honehealth.com",
+    "description": "Physician-led longevity platform for men and women: at-home biomarker testing, hormone therapy and personalized care plans.",
+    "sectors": [
+      "Healthcare",
+      "Consumer"
+    ],
+    "stage": "Series A",
+    "last_round": {
+      "amount": "$28M Series A extension (plus $200M growth financing from General Catalyst)",
+      "date": "2026-11-18",
+      "url": "https://www.prnewswire.com/news-releases/hone-health-raises-228m-to-expand-physician-led-longevity-care-for-men-and-women-302943964.html"
+    },
+    "hq_hint": "New York, NY (LinkedIn HQ: New York City, NY)",
+    "hq_hint_url": "https://www.linkedin.com/company/honeyourhealth",
+    "linkedin": "https://www.linkedin.com/company/honeyourhealth",
+    "careers_url": "https://honehealth.com/careers/",
+    "focus": []
+  },
+  {
+    "id": "speakeasy-irl",
+    "name": "Speakeasy",
+    "website": "https://spkeasy.com",
+    "description": "Operating platform for live experiences and hospitality: ticketing, reservations, payments, guest CRM and direct marketing in one system, with an AI layer.",
+    "sectors": [
+      "Entertainment",
+      "Hospitality",
+      "Fintech"
+    ],
+    "stage": "Series A",
+    "last_round": {
+      "amount": "$18.8M Series A",
+      "date": "2026-11-18",
+      "url": "https://www.prnewswire.com/news-releases/speakeasy-announces-18-8-million-series-a-to-power-the-growing-irl-economy-302942917.html"
+    },
+    "hq_hint": "New York, NY (LinkedIn HQ: New York, NY; press release datelined NEW YORK)",
+    "hq_hint_url": "https://www.linkedin.com/company/speakeasy-go",
+    "linkedin": "https://www.linkedin.com/company/speakeasy-go",
+    "careers_url": null,
+    "focus": []
+  },
+  {
+    "id": "marble-restaurants",
+    "name": "Marble (restaurants)",
+    "website": "https://www.joinmarble.ai",
+    "description": "AI operating system for restaurant back-of-house: its agent drafts supplier orders, prep plans and staff schedules from inventory data and demand forecasts.",
+    "sectors": [
+      "AI",
+      "Restaurants"
+    ],
+    "stage": "seed",
+    "last_round": {
+      "amount": "$5.5M Seed",
+      "date": "2026-11-17",
+      "url": "https://joinmarble.ai/blogs/seed-announcement"
+    },
+    "hq_hint": "New York, NY (LinkedIn HQ: New York City, New York)",
+    "hq_hint_url": "https://www.linkedin.com/company/joinmarble",
+    "linkedin": "https://www.linkedin.com/company/joinmarble",
+    "careers_url": null,
+    "focus": []
+  },
+  {
+    "id": "aiera",
+    "name": "Aiera",
+    "website": "https://aiera.com",
+    "description": "AI-enabled financial research platform giving institutions permissioned, auditable access to broker research, transcripts, filings and news; acquired by BlueMatrix.",
+    "sectors": [
+      "Fintech",
+      "AI"
+    ],
+    "stage": "acquired",
+    "acquired_by": "BlueMatrix",
+    "last_round": {
+      "amount": "Acquired by BlueMatrix",
+      "date": "2026-11-12",
+      "url": "https://www.bluematrix.com/blog/bluematrix-completes-acquisition-of-aiera"
+    },
+    "hq_hint": "New York, NY (LinkedIn HQ: New York, NY)",
+    "hq_hint_url": "https://www.linkedin.com/company/aiera-inc",
+    "linkedin": "https://www.linkedin.com/company/aiera-inc",
+    "careers_url": null,
+    "focus": []
+  },
+  {
+    "id": "current",
+    "name": "Current",
+    "website": "https://current.com",
+    "description": "Consumer fintech for everyday Americans: mobile banking, paycheck advances, savings and credit-building tools.",
+    "sectors": [
+      "Fintech",
+      "Consumer"
+    ],
+    "stage": "Series C+",
+    "last_round": {
+      "amount": "$80M Series E",
+      "date": "2026-06-11",
+      "url": "https://current.com/blog/current-secures-80-million-series-e-at-1-5-billion-valuation-following-third-consecutive-year-of-70-growth/"
+    },
+    "hq_hint": "New York, NY (LinkedIn HQ: New York, NY)",
+    "hq_hint_url": "https://www.linkedin.com/company/current",
+    "linkedin": "https://www.linkedin.com/company/current",
+    "careers_url": "https://current.com/careers/",
+    "focus": [
+      "fair_finance"
+    ]
   }
 ]

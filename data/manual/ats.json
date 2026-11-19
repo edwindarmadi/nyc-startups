@@ -44,5 +44,9 @@
   "greenhouse",
   "tavily"
  ],
- "axle-access": null
+ "axle-access": null,
+ "codex": [
+  "ashby",
+  "codex"
+ ]
 }

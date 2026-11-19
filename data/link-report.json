@@ -1,12 +1,45 @@
 {
- "checked_at": "2026-11-16T08:59:24",
- "total": 1461,
+ "checked_at": "2026-11-19T09:00:07",
+ "total": 1488,
  "summary": {
-  "ok": 1411,
-  "blocked": 50
+  "ok": 1434,
+  "blocked": 51,
+  "error": 2,
+  "dead": 1
  },
- "dead": {},
- "errors": {},
+ "dead": {
+  "https://jobs.ashbyhq.com/norm-ai": {
+   "status": 404,
+   "final_url": "https://jobs.ashbyhq.com/norm-ai",
+   "state": "dead",
+   "used_by": [
+    "norm-ai:careers_url"
+   ]
+  }
+ },
+ "errors": {
+  "https://www.blocpower.io": {
+   "status": null,
+   "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)",
+   "final_url": "https://www.blocpower.io",
+   "state": "error",
+   "used_by": [
+    "blocpower:website",
+    "blocpower:source:Company website"
+   ]
+  },
+  "https://www.axios.com/pro/health-tech-deals/2025/03/25/silna-health-raises-27m-revenue-automation-rcm": {
+   "status": null,
+   "error": "timed out",
+   "final_url": "https://www.axios.com/pro/health-tech-deals/2025/03/25/silna-health-raises-27m-revenue-automation-rcm",
+   "state": "error",
+   "used_by": [
+    "silna:source:Funding announcement",
+    "silna:last_round.source",
+    "news:silna-funding-2025-03-25"
+   ]
+  }
+ },
  "blocked": {
   "https://www.businesswire.com/news/home/20250602787210/en/AgentSmyth-Raises-%248.7M-Seed-Round-From-FinTech-Collective-Thomson-Reuters-and-Others-to-Scale-Autonomous-Agent-Platform-for-Trading-and-Investment": {
    "status": 403,
@@ -48,6 +81,16 @@
     "news:august-funding-2025-08-05"
    ]
   },
+  "https://www.businesswire.com/news/home/20261116477086/en/Bevado-Raises-%2410-Million-Seed-to-Build-AI-Agents-That-Remember-Every-Resident-and-Learn-From-Every-Conversation": {
+   "status": 403,
+   "final_url": "https://www.businesswire.com/news/home/20261116477086/en/Bevado-Raises-%2410-Million-Seed-to-Build-AI-Agents-That-Remember-Every-Resident-and-Learn-From-Every-Conversation",
+   "state": "blocked",
+   "used_by": [
+    "bevado:source:Funding / news source",
+    "bevado:last_round.source",
+    "news:bevado-funding-2026-11-16"
+   ]
+  },
   "https://www.globenewswire.com/news-release/2025/09/16/3150865/0/en/Birches-Health-Announces-20M-Investment-From-AlleyCorp-General-Catalyst-and-Will-Ventures-to-Lead-Fight-Against-Gambling-Addiction.html": {
    "status": 403,
    "final_url": "https://www.globenewswire.com/news-release/2025/09/16/3150865/0/en/Birches-Health-Announces-20M-Investment-From-AlleyCorp-General-Catalyst-and-Will-Ventures-to-Lead-Fight-Against-Gambling-Addiction.html",
@@ -56,15 +99,6 @@
     "birches-health:source:Funding announcement",
     "birches-health:last_round.source",
     "news:birches-health-funding-2025-09-16"
-   ]
-  },
-  "https://www.linkedin.com/company/bluefish-ai": {
-   "status": 429,
-   "final_url": "https://www.linkedin.com/company/bluefish-ai",
-   "state": "blocked",
-   "used_by": [
-    "bluefish:source:LinkedIn",
-    "bluefish:hq.source"
    ]
   },
   "https://www.businesswire.com/news/home/20241029778071/en/Brightwave-Secures-15M-Series-A-to-Scale-AI-Powered-Financial-Research-Platform": {
@@ -139,6 +173,14 @@
     "news:duet-funding-2026-11-12"
    ]
   },
+  "https://www.foratravel.com/careers/jobs": {
+   "status": 429,
+   "final_url": "https://www.foratravel.com/careers/jobs",
+   "state": "blocked",
+   "used_by": [
+    "fora:careers_url"
+   ]
+  },
   "https://www.foratravel.com": {
    "status": 429,
    "final_url": "https://www.foratravel.com",
@@ -146,14 +188,6 @@
    "used_by": [
     "fora:website",
     "fora:source:Company website"
-   ]
-  },
-  "https://www.foratravel.com/careers/jobs": {
-   "status": 429,
-   "final_url": "https://www.foratravel.com/careers/jobs",
-   "state": "blocked",
-   "used_by": [
-    "fora:careers_url"
    ]
   },
   "https://www.businesswire.com/news/home/20260908463918/en/Forus-Raises-%24150M-at-a-%243B-Valuation-as-Its-AI-Network-Becomes-How-Medicine-Reaches-Patients": {
@@ -301,15 +335,6 @@
     "news:permitflow-funding-2025-12-02"
    ]
   },
-  "https://phia.com/": {
-   "status": 429,
-   "final_url": "https://phia.com/",
-   "state": "blocked",
-   "used_by": [
-    "phia:website",
-    "phia:source:Company website"
-   ]
-  },
   "https://www.streetinsider.com/Globe+Newswire/Phia+Raises+%2435M+Series+A+to+Build+the+AI+Alignment+Layer+for+Commerce/25898163.html": {
    "status": 403,
    "final_url": "https://www.streetinsider.com/Globe+Newswire/Phia+Raises+%2435M+Series+A+to+Build+the+AI+Alignment+Layer+for+Commerce/25898163.html",
@@ -337,6 +362,14 @@
    "used_by": [
     "posh:website",
     "posh:source:Company website"
+   ]
+  },
+  "https://pitchbook.com/profiles/company/489781-00": {
+   "status": 403,
+   "final_url": "https://pitchbook.com/profiles/company/489781-00",
+   "state": "blocked",
+   "used_by": [
+    "prism-data:source:HQ source"
    ]
   },
   "https://www.theblock.co/news/deals/2025-03-19-privy-raises-15-million-usd-round-led-by-ribbit-capital-investment-in-web3-wallet-infrastructure-heats-up-347110": {
@@ -376,6 +409,14 @@
     "news:reflection-funding-2025-10-10"
    ]
   },
+  "https://www.rho.co/careers#Career-Roles": {
+   "status": 429,
+   "final_url": "https://www.rho.co/careers#Career-Roles",
+   "state": "blocked",
+   "used_by": [
+    "rho:careers_url"
+   ]
+  },
   "https://www.rho.co/": {
    "status": 429,
    "final_url": "https://www.rho.co/",
@@ -383,14 +424,6 @@
    "used_by": [
     "rho:website",
     "rho:source:Company website"
-   ]
-  },
-  "https://www.rho.co/careers#Career-Roles": {
-   "status": 429,
-   "final_url": "https://www.rho.co/careers#Career-Roles",
-   "state": "blocked",
-   "used_by": [
-    "rho:careers_url"
    ]
   },
   "https://www.forbes.com/sites/zoyahasan/2026/03/03/hinge-alums-raise-85-million-to-turn-social-media-scrolling-into-real-world-meetups/": {
@@ -403,16 +436,6 @@
     "news:rodeo-friends-funding-2026-03-03"
    ]
   },
-  "https://www.axios.com/pro/health-tech-deals/2025/03/25/silna-health-raises-27m-revenue-automation-rcm": {
-   "status": 403,
-   "final_url": "https://www.axios.com/pro/health-tech-deals/2025/03/25/silna-health-raises-27m-revenue-automation-rcm",
-   "state": "blocked",
-   "used_by": [
-    "silna:source:Funding announcement",
-    "silna:last_round.source",
-    "news:silna-funding-2025-03-25"
-   ]
-  },
   "https://www.businesswire.com/news/home/20260324472369/en/Spade-Announces-%2440m-Series-B-Raise-to-Build-The-Data-and-AI-Platform-for-Modern-Finance": {
    "status": 403,
    "final_url": "https://www.businesswire.com/news/home/20260324472369/en/Spade-Announces-%2440m-Series-B-Raise-to-Build-The-Data-and-AI-Platform-for-Modern-Finance",
@@ -421,14 +444,6 @@
     "spade:source:Funding announcement",
     "spade:last_round.source",
     "news:spade-funding-2026-03-24"
-   ]
-  },
-  "https://sunsethq.com/careers#open-roles": {
-   "status": 403,
-   "final_url": "https://sunsethq.com/careers#open-roles",
-   "state": "blocked",
-   "used_by": [
-    "sunset:careers_url"
    ]
   },
   "https://www.sunsethq.com/": {
@@ -440,14 +455,12 @@
     "sunset:source:Company website"
    ]
   },
-  "https://www.businesswire.com/news/home/20250915745370/en/Tabs-Raises-%2455M-Series-B-Led-by-Lightspeed-to-Bring-AI-Agents-to-the-CFOs-Office": {
+  "https://sunsethq.com/careers#open-roles": {
    "status": 403,
-   "final_url": "https://www.businesswire.com/news/home/20250915745370/en/Tabs-Raises-%2455M-Series-B-Led-by-Lightspeed-to-Bring-AI-Agents-to-the-CFOs-Office",
+   "final_url": "https://sunsethq.com/careers#open-roles",
    "state": "blocked",
    "used_by": [
-    "tabs:source:Funding announcement",
-    "tabs:last_round.source",
-    "news:tabs-funding-2025-09-16"
+    "sunset:careers_url"
    ]
   },
   "https://jobs.gusto.com/boards/veris-technologies-inc-dadc87fc-640c-4bff-837d-fa65c392e997": {
@@ -468,6 +481,22 @@
     "news:via-other-2025-09-12"
    ]
   },
+  "https://www.sec.gov/Archives/edgar/data/2073379/000123191926001591/0001231919-26-001591.txt": {
+   "status": 403,
+   "final_url": "https://www.sec.gov/Archives/edgar/data/2073379/000123191926001591/0001231919-26-001591.txt",
+   "state": "blocked",
+   "used_by": [
+    "news:finchlegal-funding-2026-11-18"
+   ]
+  },
+  "https://www.inc.com/sam-blum/exclusive-the-founder-of-acorns-wants-to-unfck-americans-taxes/91436566": {
+   "status": 403,
+   "final_url": "https://www.inc.com/sam-blum/exclusive-the-founder-of-acorns-wants-to-unfck-americans-taxes/91436566",
+   "state": "blocked",
+   "used_by": [
+    "news:accountable-launch-2026-11-16"
+   ]
+  },
   "https://www.businesswire.com/news/home/20261111924315/en/Imprint-Raises-%24130-Million-to-Help-Brands-Build-Customer-Loyalty-as-AI-Reshapes-Commerce": {
    "status": 403,
    "final_url": "https://www.businesswire.com/news/home/20261111924315/en/Imprint-Raises-%24130-Million-to-Help-Brands-Build-Customer-Loyalty-as-AI-Reshapes-Commerce",
@@ -482,6 +511,16 @@
    "state": "blocked",
    "used_by": [
     "news:prism-data-launch-2026-10-19"
+   ]
+  },
+  "https://www.businesswire.com/news/home/20250915745370/en/Tabs-Raises-%2455M-Series-B-Led-by-Lightspeed-to-Bring-AI-Agents-to-the-CFOs-Office": {
+   "status": 403,
+   "final_url": "https://www.businesswire.com/news/home/20250915745370/en/Tabs-Raises-%2455M-Series-B-Led-by-Lightspeed-to-Bring-AI-Agents-to-the-CFOs-Office",
+   "state": "blocked",
+   "used_by": [
+    "tabs:source:Funding announcement",
+    "tabs:last_round.source",
+    "news:tabs-funding-2025-09-16"
    ]
   }
  }
